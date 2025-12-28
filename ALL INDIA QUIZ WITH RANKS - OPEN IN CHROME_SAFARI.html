@@ -1,0 +1,776 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><meta name='viewport' content='width=device-width, initial-scale=1'/><meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Exam Rescue: Professional Quiz Portal</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js"></script>
+    
+    <style>
+        :root {
+            --primary: #2563eb; --primary-dark: #1e40af; --accent: #ff5a5f; 
+            --success: #10b981; --warning: #f59e0b; --danger: #ef4444;
+            --bg: #f8fafc; --card: #ffffff; --text: #0f172a; --muted: #64748b; 
+            --tg: #0088cc; --wa: #25d366;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; -webkit-tap-highlight-color: transparent; }
+        body { background-color: var(--bg); color: var(--text); min-height: 100vh; overflow-x: hidden; line-height: 1.4; }
+        
+        /* NOTIFICATION TOAST */
+        #toast-container { position: fixed; top: 20px; left: 50%; transform: translateX(-50%); z-index: 10000; width: 90%; max-width: 400px; display: flex; flex-direction: column; gap: 10px; pointer-events: none; }
+        .toast { background: white; padding: 16px; border-radius: 12px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05); display: flex; align-items: center; gap: 12px; animation: slideIn 0.3s ease forwards; pointer-events: auto; border-left: 5px solid var(--primary); }
+        .toast.success { border-left-color: var(--success); }
+        .toast.error { border-left-color: var(--danger); }
+        .toast-icon { font-size: 20px; }
+        .toast-msg { font-size: 14px; font-weight: 600; color: var(--text); }
+        @keyframes slideIn { from { transform: translateY(-20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+        @keyframes fadeOut { to { opacity: 0; transform: translateY(-10px); } }
+
+        /* LAYOUT */
+        .container { max-width: 550px; margin: 0 auto; padding: 15px; position: relative; padding-bottom: 50px; }
+
+        .card { 
+            background: var(--card); border-radius: 24px; padding: 24px; 
+            box-shadow: 0 20px 25px -5px rgba(0,0,0,0.04), 0 10px 10px -5px rgba(0,0,0,0.02); 
+            margin-bottom: 20px; text-align: center; border: 1px solid rgba(226, 232, 240, 0.8);
+            position: relative; overflow: hidden;
+        }
+        @media (max-width: 480px) { .card { padding: 20px 16px; border-radius: 20px; } }
+
+        .logo { width: 64px; height: 64px; border-radius: 18px; margin-bottom: 12px; box-shadow: 0 10px 15px rgba(37, 99, 235, 0.2); }
+        h2 { font-size: 22px; font-weight: 800; letter-spacing: -0.025em; margin-bottom: 6px; color: var(--text); }
+
+        #timer-pill {
+            position: absolute; top: 15px; right: 15px; background: rgba(255, 90, 95, 0.1);
+            color: var(--accent); padding: 5px 12px; border-radius: 99px; 
+            font-weight: 800; font-size: 13px; border: 1px solid rgba(255, 90, 95, 0.2);
+            display: none; align-items: center; gap: 6px; z-index: 100;
+        }
+        
+        #deadline-ticker {
+            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+            color: white; padding: 10px; margin: -20px -16px 20px -16px;
+            font-size: 13px; font-weight: 700; display: none;
+            align-items: center; justify-content: center; gap: 8px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+        @media (min-width: 480px) { #deadline-ticker { margin: -24px -24px 20px -24px; } }
+
+        .progress-container { width: 100%; height: 6px; background: #e2e8f0; border-radius: 10px; margin: 16px 0; overflow: hidden; }
+        #progress-fill { width: 0%; height: 100%; background: var(--primary); transition: width 0.4s ease; }
+
+        .btn { 
+            width: 100%; padding: 14px; border-radius: 14px; border: none; 
+            font-size: 15px; font-weight: 700; cursor: pointer; transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1); 
+            margin-bottom: 10px; display: flex; align-items: center; justify-content: center; gap: 8px; text-decoration: none;
+        }
+        .btn:active { transform: scale(0.98); }
+        .btn-primary { background: var(--primary); color: white; box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2); }
+        .btn-outline { background: white; border: 2px solid #e2e8f0; color: var(--text); }
+        .btn-success { background: var(--success); color: white; }
+        .btn-tg { background: var(--tg); color: white; }
+        .btn-wa { background: #25d366 !important; color: white !important; }
+        .btn-small { padding: 8px 10px; font-size: 12px; border-radius: 10px; }
+
+        .option-btn { 
+            width: 100%; padding: 16px; margin-bottom: 10px; text-align: left; 
+            background: #fff; border: 2px solid #e2e8f0; border-radius: 16px; 
+            font-size: 14px; font-weight: 600; cursor: pointer; transition: 0.2s;
+        }
+        .option-btn.correct { background: #d1fae5; border-color: #10b981; color: #064e3b; }
+        .option-btn.wrong { background: #fee2e2; border-color: #ef4444; color: #7f1d1d; }
+        
+        .explanation { 
+            background: #eff6ff; padding: 16px; border-radius: 16px; margin-top: -4px; 
+            margin-bottom: 16px; font-size: 13px; border-left: 5px solid var(--primary); color: #1e40af;
+        }
+
+        .community-card { background: linear-gradient(135deg, #eff6ff 0%, #ffffff 100%); text-align: left; border: 2px solid var(--primary); }
+        .feature-item { display: flex; align-items: flex-start; gap: 8px; font-size: 13px; margin-bottom: 6px; font-weight: 600; line-height: 1.3; }
+        .leaderboard-note { font-size: 12px; font-weight: 700; color: #0f172a; margin-top: 10px; border-top: 1px solid rgba(0,0,0,0.05); padding-top: 10px; line-height: 1.3; }
+
+        /* VIEWS */
+        #setup-view, #details-view, #quiz-view, #result-view, #dead-view { display: none; animation: fadeIn 0.5s ease; }
+        #result-view { padding-top: 60px; }
+        @keyframes fadeIn { from { opacity: 0; transform: scale(0.98); } to { opacity: 1; transform: scale(1); } }
+
+        /* Stream Select */
+        .stream-select { width: 100%; padding: 14px; border-radius: 12px; border: 2px solid #e2e8f0; margin-top: 5px; background: white; font-weight: 600; color: var(--text); display: none; }
+
+        /* Welcome Back Banner */
+        #welcome-banner { background: #ecfdf5; color: #047857; font-size: 12px; font-weight: 700; padding: 8px 16px; border-radius: 8px; margin-bottom: 15px; display: none; border: 1px solid #a7f3d0; }
+
+        #global-loader { position: fixed; inset: 0; background: rgba(255,255,255,0.95); display: none; flex-direction: column; align-items: center; justify-content: center; z-index: 9999; }
+        .pulse-ring { font-size: 40px; animation: pulse 1.5s infinite; }
+        @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.1); } 100% { transform: scale(1); } }
+
+        #admin-msg-overlay { position: fixed; inset: 0; background: rgba(15, 23, 42, 0.85); display: none; align-items: center; justify-content: center; z-index: 10001; padding: 20px; }
+        .admin-card { background: white; border-radius: 24px; padding: 28px; width: 100%; max-width: 400px; position: relative; text-align: left; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5); animation: slideUp 0.4s ease; }
+        @keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+        .admin-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+        .admin-badge { background: var(--accent); color: white; padding: 6px 14px; border-radius: 10px; font-size: 13px; font-weight: 800; text-transform: uppercase; }
+        .close-admin { background: #f1f5f9; border: none; font-size: 22px; cursor: pointer; width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; transition: 0.2s; }
+
+        .fomo-box { background: #fff1f2; border: 1.5px dashed var(--danger); border-radius: 14px; padding: 10px; margin-top: 10px; font-size: 12px; color: #9f1239; font-weight: 700; line-height: 1.3; }
+        .final-actions-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 15px; }
+        .final-actions-grid .btn-outline { font-size: 13px; padding: 12px; }
+
+        /* RESULTS LOCK OVERLAY STYLES */
+        .blur-content { filter: blur(8px); pointer-events: none; user-select: none; transition: filter 0.5s ease; }
+        #lock-overlay { position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%); z-index: 50; width: 90%; text-align: center; background: rgba(255,255,255,0.95); padding: 24px; border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.25); border: 2px solid var(--wa); display: none; animation: slideUp 0.4s ease; }
+    </style>
+</head>
+<body>
+
+<div id="toast-container"></div>
+
+<div id="admin-msg-overlay">
+    <div class="admin-card">
+        <div class="admin-header">
+            <span class="admin-badge">Message from Admin</span>
+            <button class="close-admin" onclick="closeAdminMsg()">✕</button>
+        </div>
+        <div style="margin-bottom: 24px;">
+            <div id="dynamic-admin-content" style="color: var(--text); font-size: 15px; line-height: 1.6;">
+                Loading instructions...
+            </div>
+        </div>
+        <button class="btn btn-primary" onclick="closeAdminMsg()">Start Quiz Now</button>
+    </div>
+</div>
+
+<div id="global-loader">
+    <div class="loader-wrapper"><div class="pulse-ring">🏆</div></div>
+    <p id="loader-msg" style="margin-top:20px; font-weight:800; color:var(--primary);">Processing...</p>
+</div>
+
+<div class="container">
+    <div id="timer-pill">⏱️ <span id="timer-display">05:00</span></div>
+
+    <div id="setup-view" style="display:block;">
+        <div class="card">
+            <div id="welcome-banner"></div>
+            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Y4bEtuEWNMjhVSoit0c7rrCHonIm0EcDLYfTdkMlepQlBHwTEUNq_nZO0qvsyrPp2uKCr156e4hC3VzToGq46SfdmjpbdPVJ5jbDYUlnMaVceEQhaqvj9wqnn4Rkzp5o2HpvmL8TRRGnZYl74ijLjI2WF2TgkjbEsz7EFS-mqB_edTFEl7yCEZxDHNE/s2048/1000087045.jpg" class="logo">
+            <h2>Exam Rescue</h2>
+            <p style="color:var(--muted); font-size:14px; margin-bottom:20px;">The Ultimate Academic Challenge</p>
+            
+            <p style="font-size:11px; font-weight:800; color:var(--primary); text-transform:uppercase; margin-bottom:12px;">Select Class to Start</p>
+            <div style="display:grid; gap:12px; margin-bottom:32px;">
+                <button class="btn btn-primary" onclick="selectClass(10)">Class 10 Quiz</button>
+                <button class="btn btn-primary" onclick="selectClass(11)">Class 11 Quiz</button>
+                <button class="btn btn-primary" onclick="selectClass(12)">Class 12 Quiz</button>
+            </div>
+
+            <div style="border-top: 1px solid #e2e8f0; padding-top:24px;">
+                <p style="font-size:11px; font-weight:800; color:var(--muted); text-transform:uppercase; margin-bottom:12px;">Check your current Rank</p>
+                <div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap:8px;">
+                    <button class="btn btn-outline btn-small" onclick="selectClass(10, true)">Class 10</button>
+                    <button class="btn btn-outline btn-small" onclick="selectClass(11, true)">Class 11</button>
+                    <button class="btn btn-outline btn-small" onclick="selectClass(12, true)">Class 12</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="details-view">
+        <div class="card">
+            <h2 id="class-title">Portal</h2>
+            <div id="completed-alert" style="display:none; color:var(--accent); font-size:13px; font-weight:700; margin-bottom:15px;">⚠️ Verification required to view rank.</div>
+            <div id="already-taken-msg" style="display:none; color:#059669; font-size:13px; font-weight:700; margin-bottom:15px;">✅ You have already completed this quiz. Check your rank below.</div>
+            
+            <div class="input-group" style="text-align:left; margin-bottom:15px;">
+                <label style="font-size:11px; font-weight:800; color:var(--muted); text-transform:uppercase;">Student Name</label>
+                <input type="text" id="userName" placeholder="Enter full name" style="width:100%; padding:14px; border-radius:12px; border:2px solid #e2e8f0; margin-top:5px;">
+                
+                <select id="streamSelect" class="stream-select">
+                    <option value="" disabled selected>Select Stream</option>
+                    <option value="CBSE">CBSE</option>
+                    <option value="JEE">JEE (Mains/Adv)</option>
+                    <option value="NEET">NEET</option>
+                </select>
+            </div>
+
+            <div class="input-group" style="text-align:left; margin-bottom:15px;">
+                <label style="font-size:11px; font-weight:800; color:var(--muted); text-transform:uppercase;">Unique Username</label>
+                <input type="text" id="userUID" placeholder="Create a unique ID" style="width:100%; padding:14px; border-radius:12px; border:2px solid #e2e8f0; margin-top:5px;">
+            </div>
+
+            <button class="btn btn-primary" id="start-btn" onclick="startProcess('quiz')">Enter Competition</button>
+            <button class="btn btn-success" id="check-btn" style="display:none;" onclick="startProcess('result')">Check Live Rank</button>
+            <button class="btn btn-outline" onclick="goHome()">← Back</button>
+        </div>
+    </div>
+
+    <div id="quiz-view">
+        <div class="card" style="text-align:left;">
+            <div id="deadline-ticker"><span>⏳ Ends in:</span><span id="countdown-val">00h 00m 00s</span></div>
+            <div class="progress-container"><div id="progress-fill"></div></div>
+            <div id="progress-text" style="font-size:12px; font-weight:800; color:var(--primary); margin-bottom:8px;">Question 1/10</div>
+            <div id="q-text" style="font-weight:800; font-size:19px; margin-bottom:24px; color:var(--text);"></div>
+            <div id="options"></div>
+            <button class="btn btn-primary" id="next-btn" style="display:none; margin-top:20px;" onclick="nextQuestion()">Continue &rarr;</button>
+        </div>
+    </div>
+
+    <div id="result-view">
+        <div class="card" style="padding: 20px; position:relative;">
+            <div id="lock-overlay">
+                <div style="font-size: 40px; margin-bottom: 10px;">🔒</div>
+                <h3 style="color:var(--text); font-weight:800; margin-bottom:10px;">Results Locked!</h3>
+                <p style="font-size:13px; color:var(--muted); margin-bottom:20px;">
+                    To prevent spam and verify you are a real student, please join our WhatsApp channel to unlock your Rank & Certificate.
+                </p>
+                <button class="btn btn-wa" onclick="unlockResult()">Verify & Unlock 🔓</button>
+            </div>
+            <div id="result-content">
+                <h2 id="final-title" style="margin-bottom:0;">Quiz Summary</h2>
+                <div style="font-size:36px; font-weight:900; color:var(--primary); margin:0;" id="score-text">0/10</div>
+                <p id="time-text" style="color:var(--muted); font-size:12px; margin-bottom:10px; font-weight:600;"></p>
+                <div id="rank-display"></div>
+                <div class="fomo-box">🔥 Rank is NOT final! Share and check back later to protect your position!</div>
+                
+                <div class="card community-card" style="padding:16px; margin-top:15px; margin-bottom: 0;">
+                    <h3 style="font-size:14px; color:var(--primary); margin-bottom:10px;">🚀 Claim Your Success Pack</h3>
+                    <div class="feature-item"><span>✔</span> <span>Daily 90%+ Predicted Questions</span></div>
+                    <div class="feature-item"><span>✔</span> <span>Free Smart Notes & Verified Certs</span></div>
+                    <div class="feature-item"><span>✔</span> <span>Exclusive Weekly Live Rank Quizzes</span></div>
+                    <div class="leaderboard-note">🏆 Leaderboard will be available after quiz ends on WhatsApp/Telegram.<br><span style="color:var(--primary);">👇 Join now to stay updated!</span></div>
+                    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:10px; margin-top:12px;">
+                        <a href="https://t.me/exam_rescue" class="btn btn-tg btn-small" target="_blank">Join Telegram</a>
+                        <a href="https://whatsapp.com/channel/0029Vb7OZUv1HsptNGsPAS2r" class="btn btn-wa btn-small" target="_blank">Join WhatsApp</a>
+                    </div>
+                </div>
+
+                <div class="final-actions-grid">
+                    <button class="btn btn-success btn-small" style="font-size:13px;" onclick="shareChallenge()">Challenge Friend</button>
+                    <button class="btn btn-outline btn-small" onclick="generateProfessionalPDF()">Get Certificate</button>
+                </div>
+                <button class="btn btn-outline btn-small" style="margin-top:8px;" onclick="goHome()">Back to Home</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="dead-view">
+        <div class="card" style="border: 2px solid #ef4444;">
+            <div style="font-size: 50px; margin-bottom: 10px;">🚫</div>
+            <h2 style="color: #ef4444;">Quiz Ended</h2>
+            <p style="font-size: 14px; color: var(--muted); margin-bottom: 20px;">
+                This quiz is no longer accepting responses. However, new quizzes are live on our channels!
+            </p>
+            <div style="background: #f8fafc; padding: 15px; border-radius: 16px; border: 1px solid #e2e8f0; margin-bottom: 20px;">
+                <p style="font-size:13px; font-weight:700; color: var(--text); margin-bottom:10px;">Don't miss the next one! 👇</p>
+                <a href="https://t.me/exam_rescue" class="btn btn-tg" target="_blank" style="margin-bottom:8px;">Join Telegram Channel</a>
+                <a href="https://whatsapp.com/channel/0029Vb7OZUv1HsptNGsPAS2r" class="btn btn-wa" target="_blank">Join WhatsApp Channel</a>
+            </div>
+            <button class="btn btn-outline" onclick="goHome()">Go Back Home</button>
+        </div>
+    </div>
+</div>
+
+<script>
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzymJFLX2U_pZgcXkD-dbMD55Ee1pUzy7RxnN2azX2ZFbfd230GOStL-MqudCOSXjUxnA/exec";
+    const TELEGRAM_URL = "https://t.me/exam_rescue";
+    const WHATSAPP_URL = "https://whatsapp.com/channel/0029Vb7OZUv1HsptNGsPAS2r";
+
+    function notify(msg, type = 'info') {
+        const container = document.getElementById('toast-container');
+        const toast = document.createElement('div');
+        toast.className = `toast ${type}`;
+        let icon = type === 'success' ? '✅' : (type === 'error' ? '⚠️' : 'ℹ️');
+        toast.innerHTML = `<span class="toast-icon">${icon}</span><span class="toast-msg">${msg}</span>`;
+        container.appendChild(toast);
+        setTimeout(() => {
+            toast.style.animation = 'fadeOut 0.3s ease forwards';
+            setTimeout(() => toast.remove(), 300);
+        }, 3000);
+    }
+
+    function shuffle(a) { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+
+    const rawData = {
+        "10": [
+            { q: "Which gas is evolved when zinc reacts with dilute HCl?", o: ["Hydrogen", "Oxygen", "CO2", "Chlorine"], c: 0, e: "Metals + Acid → Salt + Hydrogen." },
+            { q: "pH of a neutral solution is:", o: ["0", "14", "7", "1"], c: 2, e: "Neutral pH is 7." },
+            { q: "Resistance is inversely proportional to:", o: ["Length", "Area", "Temperature", "Density"], c: 1, e: "R = ρL/A." },
+            { q: "Power of a lens is -2D. Focal length is:", o: ["50cm", "-50cm", "20cm", "-20cm"], c: 1, e: "f = 1/P." },
+            { q: "Common salt is:", o: ["NaOH", "NaCl", "Na2CO3", "NaHCO3"], c: 1, e: "NaCl is table salt." },
+            { q: "Magnesium ribbon burns with:", o: ["Blue flame", "White flame", "Yellow flame", "Red flame"], c: 1, e: "MgO forms with white light." },
+            { q: "Loss of electrons is:", o: ["Reduction", "Oxidation", "Hydrogenation", "None"], c: 1, e: "Oxidation is loss." },
+            { q: "Non-metals form:", o: ["Acidic oxides", "Basic oxides", "Neutral oxides", "None"], c: 0, e: "Non-metal oxides are acidic." },
+            { q: "Unit of potential is:", o: ["Ampere", "Ohm", "Volt", "Coulomb"], c: 2, e: "Potential is Volts." },
+            { q: "Image at C for concave mirror is:", o: ["Virtual", "Diminished", "Same size", "Infinity"], c: 2, e: "Real and same size." }
+        ],
+        "11": [
+            { q: "Significant figures in 0.0025:", o: ["4", "2", "3", "5"], c: 1, e: "Leading zeros don't count." },
+            { q: "Shape of CH4:", o: ["Linear", "Square", "Tetrahedral", "Pyramid"], c: 2, e: "sp3 is tetrahedral." },
+            { q: "Ideal gas equation:", o: ["PV=nRT", "P=VRT", "V=nRT", "PT=nRV"], c: 0, e: "Standard gas law." },
+            { q: "Oxidation of Mn in KMnO4:", o: ["+5", "+6", "+7", "+4"], c: 2, e: "K=+1, O=-2, Mn=+7." },
+            { q: "Most electronegative element:", o: ["O", "Cl", "F", "N"], c: 2, e: "Fluorine is highest." },
+            { q: "Entropy unit:", o: ["J/K", "J", "K/J", "None"], c: 0, e: "q/T." },
+            { q: "Bond order of O2:", o: ["1", "2", "1.5", "2.5"], c: 1, e: "Double bond." },
+            { q: "Atomic radius order:", o: ["Li>Na>K", "K>Na>Li", "Na>Li>K", "Li>K>Na"], c: 1, e: "Increases down group." },
+            { q: "Which has highest IE?", o: ["Na", "Mg", "Al", "Si"], c: 3, e: "Increases across period." },
+            { q: "Hybridization of ethyne:", o: ["sp", "sp2", "sp3", "dsp2"], c: 0, e: "Triple bond is sp." }
+        ],
+        "12": [
+            { q: "Unit of electric field:", o: ["N/C", "C/N", "J/C", "V/m"], c: 0, e: "E = F/q." },
+            { q: "Resistance of an ideal ammeter is:", o: ["Zero", "Infinite", "Low", "High"], c: 0, e: "Ideally zero." },
+            { q: "Magnetic flux unit:", o: ["Tesla", "Weber", "Gauss", "Henry"], c: 1, e: "Weber." },
+            { q: "Capacitor blocks:", o: ["AC", "DC", "Both", "None"], c: 1, e: "Blocks DC." },
+            { q: "Light speed max in:", o: ["Glass", "Water", "Vacuum", "Diamond"], c: 2, e: "Vacuum RI is 1." },
+            { q: "P-type dopant for Si:", o: ["P", "As", "B", "Sb"], c: 2, e: "Boron." },
+            { q: "Diamond RI:", o: ["1.5", "2.42", "1.33", "1.0"], c: 1, e: "2.42." },
+            { q: "AND gate output high when:", o: ["One high", "Both high", "Both low", "None"], c: 1, e: "A=1, B=1." },
+            { q: "Diamagnetic ion:", o: ["Cu2+", "Fe3+", "Sc3+", "Ni2+"], c: 2, e: "Sc3+ is [Ar]." },
+            { q: "Step-down transformer:", o: ["Np>Ns", "Ns>Np", "Np=Ns", "None"], c: 0, e: "Fewer sec turns." }
+        ]
+    };
+    let selectedClass = null; let currentQuestions = []; let currentIdx = 0; 
+    let score = 0; let startTime = null; let timerInterval = null; let timeLeft = 300; 
+    let deadlineInterval = null;
+    let currentTopPercentage = 0;
+    
+    // New variables to handle Admin Message logic for Results
+    let checkingRankMode = false;
+    let tempRankData = null;
+
+    function showLoader(m) { document.getElementById('loader-msg').innerText = m; document.getElementById('global-loader').style.display = 'flex'; }
+    function hideLoader() { document.getElementById('global-loader').style.display = 'none'; }
+
+    // Initialize Home View with Welcome Back logic
+    function goHome() { 
+        document.querySelectorAll('.container > div').forEach(d => d.style.display = 'none'); 
+        document.getElementById('setup-view').style.display = 'block'; 
+        document.getElementById('timer-pill').style.display = 'none';
+        document.getElementById('admin-msg-overlay').style.display = 'none';
+        clearInterval(timerInterval);
+        clearInterval(deadlineInterval);
+        
+        checkingRankMode = false;
+        tempRankData = null;
+
+        // Check Local Storage for Name
+        const storedName = localStorage.getItem('er_name');
+        const welcomeBanner = document.getElementById('welcome-banner');
+        if (storedName) {
+            welcomeBanner.innerText = `👋 Welcome back, ${storedName}!`;
+            welcomeBanner.style.display = 'block';
+        } else {
+            welcomeBanner.style.display = 'none';
+        }
+    }
+
+    // 1. SELECT CLASS Logic
+    function selectClass(c, isRankCheck = false) {
+        selectedClass = c; 
+        document.getElementById('setup-view').style.display = 'none'; 
+        document.getElementById('details-view').style.display = 'block';
+        document.getElementById('class-title').innerText = `Class ${c} Portal`;
+        document.getElementById('userName').value = localStorage.getItem('er_name') || ''; 
+        document.getElementById('userUID').value = localStorage.getItem('er_uid') || '';
+        
+        const streamSelect = document.getElementById('streamSelect');
+        if (c == 11 || c == 12) {
+            streamSelect.style.display = 'block';
+        } else {
+            streamSelect.style.display = 'none';
+        }
+
+        const isCompleted = localStorage.getItem('er_completed_' + c) === 'true';
+        const isCheck = !!isRankCheck;
+        
+        if (isCompleted && !isCheck) {
+            document.getElementById('start-btn').style.display = 'none';
+            document.getElementById('check-btn').style.display = 'flex'; // Force check rank
+            document.getElementById('completed-alert').style.display = 'none';
+            document.getElementById('already-taken-msg').style.display = 'block';
+        } else {
+            document.getElementById('start-btn').style.display = isCheck ? 'none' : 'flex';
+            document.getElementById('check-btn').style.display = isCheck ? 'flex' : 'none';
+            document.getElementById('completed-alert').style.display = isCheck ? 'block' : 'none';
+            document.getElementById('already-taken-msg').style.display = 'none';
+        }
+    }
+
+    function showDeadState() {
+        hideLoader();
+        document.querySelectorAll('.container > div').forEach(d => d.style.display = 'none');
+        document.getElementById('dead-view').style.display = 'block';
+    }
+    async function startProcess(m) {
+        const n = document.getElementById('userName').value.trim(); const u = document.getElementById('userUID').value.trim(); 
+        if(!n || !u) return notify("Please enter Name and Username", "error");
+        
+        const streamSelect = document.getElementById('streamSelect');
+        if (streamSelect.style.display === 'block' && !streamSelect.value) {
+            return notify("Please select your Stream (JEE/NEET/CBSE)", "error");
+        }
+
+        showLoader(m === 'quiz' ? "Validating Access..." : "Fetching Rank...");
+        localStorage.setItem('er_name', n); localStorage.setItem('er_uid', u);
+        
+        try { 
+            const tracking = { tg: 0, wa: 0, challenge: 0 };
+            if(m === 'result') {
+                await checkRankOnly(u);
+            } else { 
+                const r = await fetch(SCRIPT_URL, { 
+                    method: 'POST', 
+                    body: JSON.stringify({ action: 'check', username: u, sheetName: `Quiz ${selectedClass}`, pendingStats: tracking })
+                }); 
+                const d = await r.json(); 
+                
+                if (d.isClosed) { 
+                    showDeadState();
+                    return; 
+                }
+                
+                if (d.status === 'taken') { 
+                    notify("Username already registered. Please check rank.", "error");
+                    localStorage.setItem('er_completed_' + selectedClass, 'true');
+                    hideLoader();
+                    return; 
+                } 
+
+                const timerDate = d.closingTime || d.quizStatus; 
+                if (timerDate && timerDate !== 'Open' && timerDate !== 'Closed') {
+                    if(isDatePast(timerDate)) {
+                        showDeadState();
+                        return;
+                    }
+                    startReverseTimer(timerDate);
+                }
+                
+                startQuiz(d.globalAlert); 
+            } 
+        } catch(e) { 
+            console.error(e);
+            showDeadState();
+        }
+    }
+
+    function isDatePast(rawDate) {
+        let target = parseDateSafe(rawDate);
+        if(!target) return false;
+        return (new Date().getTime() > target);
+    }
+
+    function parseDateSafe(rawDate) {
+        let target = new Date(rawDate).getTime();
+        if (isNaN(target)) {
+            const parts = rawDate.match(/(\d{1,2})[\s\/\-](\d{1,2})[\s\/\-](\d{4})/);
+            if (parts) {
+                let d = parseInt(parts[1], 10);
+                let m = parseInt(parts[2], 10);
+                let y = parseInt(parts[3], 10);
+                target = new Date(y, m - 1, d, 23, 59, 59).getTime();
+            }
+        }
+        if (!target || isNaN(target)) return null;
+        return target;
+    }
+
+    function startReverseTimer(rawDate) {
+        let target = parseDateSafe(rawDate);
+        if (!target) return; 
+
+        const banner = document.getElementById('deadline-ticker');
+        const val = document.getElementById('countdown-val');
+        banner.style.display = 'flex';
+        
+        if (new Date().getTime() > target) {
+             showDeadState();
+             return;
+        }
+
+        deadlineInterval = setInterval(() => {
+            const now = new Date().getTime();
+            const dist = target - now;
+            if (dist < 0) {
+                clearInterval(deadlineInterval);
+                banner.innerHTML = "🚫 QUIZ ENDED";
+                showDeadState();
+            } else {
+                const days = Math.floor(dist / (1000 * 60 * 60 * 24));
+                const hours = Math.floor((dist % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                const minutes = Math.floor((dist % (1000 * 60 * 60)) / (1000 * 60));
+                const seconds = Math.floor((dist % (1000 * 60)) / 1000);
+                
+                let timeString = `${hours}h ${minutes}m ${seconds}s`;
+                if(days > 0) {
+                    timeString = `${days}d ` + timeString;
+                }
+                val.innerText = timeString;
+            }
+        }, 1000);
+    }
+
+    function startQuiz(adminMessageFromServer) { 
+        hideLoader();
+        document.getElementById('details-view').style.display = 'none'; 
+        document.getElementById('quiz-view').style.display = 'block'; 
+        
+        checkingRankMode = false; // Ensure we are in quiz mode
+        
+        const msgText = adminMessageFromServer || "Welcome to the National Quiz! Ensure your connection is stable. The 5-minute timer starts when you close this box.";
+        document.getElementById('dynamic-admin-content').innerHTML = msgText;
+        document.getElementById('admin-msg-overlay').style.display = 'flex';
+        currentQuestions = shuffle([...rawData[selectedClass]]); 
+        currentIdx = 0; score = 0; timeLeft = 300;
+    }
+
+    // UPDATED: Handle logic for both Start Quiz and Check Result
+    function closeAdminMsg() {
+        document.getElementById('admin-msg-overlay').style.display = 'none';
+        
+        if (checkingRankMode && tempRankData) {
+            // Mode: Checking Results - Show Result Screen
+            displayResultScreen(tempRankData);
+        } else {
+            // Mode: Starting Quiz
+            document.getElementById('timer-pill').style.display = 'flex';
+            startTime = Date.now(); 
+            startTimer(); 
+            loadQuestion(); 
+        }
+    }
+
+    function startTimer() {
+        timerInterval = setInterval(() => {
+            timeLeft--;
+            let m = Math.floor(timeLeft / 60); let s = timeLeft % 60;
+            document.getElementById('timer-display').innerText = `${m.toString().padStart(2,'0')}:${s.toString().padStart(2,'0')}`;
+            if(timeLeft <= 0) { clearInterval(timerInterval); finalize(); }
+        }, 1000);
+    }
+
+    function loadQuestion() {
+        const q = currentQuestions[currentIdx]; 
+        const progress = ((currentIdx + 1) / 10) * 100;
+        document.getElementById('progress-fill').style.width = `${progress}%`;
+        document.getElementById('progress-text').innerText = `Question ${currentIdx + 1}/10`; 
+        document.getElementById('q-text').innerText = q.q; 
+        const c = document.getElementById('options'); c.innerHTML = ''; 
+        document.getElementById('next-btn').style.display = 'none';
+        q.o.forEach((o, i) => { 
+            const b = document.createElement('button'); b.className = 'option-btn'; b.innerText = o; 
+            b.onclick = () => { 
+                const all = document.querySelectorAll('.option-btn'); all.forEach(x => x.disabled = true); 
+                if(i === q.c) { b.classList.add('correct'); score++; } else { b.classList.add('wrong'); all[q.c].classList.add('correct'); } 
+                const e = document.createElement('div'); e.className = 'explanation'; e.innerHTML = `<b>💡 EXPLANATION:</b> ${q.e}`; 
+                b.parentNode.insertBefore(e, b.nextSibling); document.getElementById('next-btn').style.display = 'block'; 
+            }; c.appendChild(b); 
+        });
+    }
+
+    function nextQuestion() { currentIdx++; if(currentIdx < 10) loadQuestion(); else finalize(); }
+
+    async function finalize() {
+        clearInterval(timerInterval);
+        document.getElementById('timer-pill').style.display = 'none';
+        document.getElementById('quiz-view').style.display = 'none'; 
+        document.getElementById('result-view').style.display = 'block'; 
+        showLoader("Calculating Rank...");
+        
+        document.getElementById('score-text').innerText = `${score}/10`; 
+        const timeTakenSeconds = Math.floor((Date.now() - startTime)/1000);
+        const mins = Math.floor(timeTakenSeconds/60);
+        const secs = timeTakenSeconds % 60;
+        document.getElementById('time-text').innerText = `Time: ${mins}m ${secs}s`; 
+        
+        localStorage.setItem('er_completed_' + selectedClass, 'true');
+
+        confetti({ particleCount: 150, spread: 70, origin: { y: 0.6 } });
+        
+        try { 
+            const r = await fetch(SCRIPT_URL, { 
+                method: 'POST', 
+                body: JSON.stringify({ 
+                    action: 'submit', 
+                    name: localStorage.getItem('er_name'), 
+                    username: localStorage.getItem('er_uid'), 
+                    score: score, 
+                    time: timeTakenSeconds,
+                    classNum: selectedClass,
+                    sheetName: `Quiz ${selectedClass}` 
+                })
+            }); 
+            const d = await r.json(); 
+            // First time attempt: Show results UNLOCKED (false)
+            renderRank(d, false); 
+        } catch(e) { notify("Sync failed. Check connection.", "error"); } finally { hideLoader(); }
+    }
+
+    // UPDATED: Show Admin Message before Results
+    async function checkRankOnly(u) { 
+        try { 
+            const r = await fetch(SCRIPT_URL, { 
+                method: 'POST', 
+                body: JSON.stringify({ action: 'lockCheck', username: u, sheetName: `Quiz ${selectedClass}` })
+            }); 
+            const d = await r.json(); 
+            if(d.status === 'not_found') { 
+                notify("No previous record found.", "error"); goHome(); 
+            } else { 
+                // Store data and enable Check Mode
+                tempRankData = d;
+                checkingRankMode = true;
+                
+                // Show Admin Overlay first
+                const msg = d.globalAlert || "Welcome back! Click below to view your current live standing on the leaderboard.";
+                document.getElementById('dynamic-admin-content').innerHTML = msg;
+                document.getElementById('admin-msg-overlay').style.display = 'flex';
+                
+                hideLoader(); // Hide loader so admin msg is visible
+            }
+        } catch(e) { goHome(); hideLoader(); }
+    }
+
+    // Helper to actually render result screen
+    function displayResultScreen(d) {
+        if(d.score !== undefined) {
+            score = parseInt(d.score);
+            document.getElementById('score-text').innerText = `${score}/10`;
+        } else {
+            document.getElementById('score-text').innerText = `Result Found`;
+        }
+        
+        document.getElementById('details-view').style.display = 'none';
+        document.getElementById('result-view').style.display = 'block';
+        // Returning user: Show results LOCKED (true)
+        renderRank(d, true);
+    }
+
+    // UPDATED: Render Rank with Locking & Top % Calculation
+    function renderRank(d, shouldLock) { 
+        // Calculate Top X%
+        let pct = Math.ceil((d.rank / d.total) * 100);
+        if (pct < 1) pct = 1; 
+        currentTopPercentage = pct;
+
+        const s = document.getElementById('rank-display'); 
+        s.innerHTML = `
+            <div class="card" style="background:#f0fdf4; border-color:#dcfce7; padding:15px; margin-bottom:10px;">
+                <p style="font-weight:800; color:#15803d; font-size:11px;">LIVE ALL INDIA POSITION</p>
+                <div style="font-size:32px; font-weight:900; color:#16a34a;">
+                    Rank #${d.rank} 
+                    <span style="font-size:13px; color:#15803d; font-weight:600;">of ${d.total}</span>
+                </div>
+                <div style="margin-top:5px; font-size:12px; font-weight:700; color:#15803d; background:rgba(21, 128, 61, 0.1); display:inline-block; padding:4px 8px; border-radius:6px;">
+                    🔥 You are in the Top ${pct}%
+                </div>
+            </div>`; 
+
+        // Lock Results Logic
+        if (shouldLock) {
+            document.getElementById('result-content').classList.add('blur-content');
+            document.getElementById('lock-overlay').style.display = 'block';
+        } else {
+            // Ensure clean state if checking fresh
+            document.getElementById('result-content').classList.remove('blur-content');
+            document.getElementById('lock-overlay').style.display = 'none';
+        }
+    }
+
+    // Function to Unlock Results
+    function unlockResult() {
+        window.open(WHATSAPP_URL, '_blank');
+        setTimeout(() => {
+            document.getElementById('result-content').classList.remove('blur-content');
+            document.getElementById('lock-overlay').style.display = 'none';
+            notify("Results Unlocked! 🔓", "success");
+        }, 1000); 
+    }
+
+    async function shareChallenge() {
+        const parser = new DOMParser();
+        const docCopy = parser.parseFromString(document.documentElement.outerHTML, 'text/html');
+        const views = ['details-view', 'quiz-view', 'result-view', 'dead-view'];
+        views.forEach(v => { if(docCopy.getElementById(v)) docCopy.getElementById(v).style.display = 'none'; });
+        if(docCopy.getElementById('setup-view')) docCopy.getElementById('setup-view').style.display = 'block';
+        if(docCopy.getElementById('welcome-banner')) docCopy.getElementById('welcome-banner').style.display = 'none';
+        
+        // Ensure lock overlay is hidden in shared file
+        if(docCopy.getElementById('lock-overlay')) docCopy.getElementById('lock-overlay').style.display = 'none';
+        if(docCopy.getElementById('result-content')) docCopy.getElementById('result-content').classList.remove('blur-content');
+
+        let finalHTML = docCopy.documentElement.outerHTML.replace(/let score = \d+/g, 'let score = 0');
+        const userName = localStorage.getItem('er_name') || 'Student';
+        const msg = `🔥 *CHALLENGE ALERT!* 🔥\n\n*${userName}* just completed the Exam Rescue *Class ${selectedClass}* Quiz with a score of *${score}/10*! \n\nMy rank is live! Can you beat me? 🏆\n\n👇 *Download and open the file to start!*`;
+        
+        try {
+            const blob = new Blob([finalHTML], {type: 'text/html'});
+            const file = new File([blob], 'All India Quiz With Ranks - Open in Chrome or Safari.html', {type: 'text/html'});
+            if (navigator.share && navigator.canShare && navigator.canShare({ files: [file] })) {
+                await navigator.share({ files: [file], title: 'Quiz Challenge', text: msg });
+            } else { window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(msg)}`, '_blank'); }
+        } catch (err) { window.open(`https://api.whatsapp.com/send?text=${encodeURIComponent(msg)}`, '_blank'); }
+    }
+
+    // UPDATED: PDF Generation with Top X% Endorsement (Fixed & and Center)
+    function generateProfessionalPDF() {
+        const { jsPDF } = window.jspdf; 
+        const doc = new jsPDF('l', 'mm', 'a4'); 
+        const w = doc.internal.pageSize.getWidth(); const h = doc.internal.pageSize.getHeight();
+        
+        doc.setFillColor(255, 252, 235); doc.rect(0, 0, w, h, 'F');
+        doc.setDrawColor(20, 50, 120); doc.setLineWidth(2); doc.rect(10, 10, w-20, h-20);
+        doc.setLineWidth(0.5); doc.rect(13, 13, w-26, h-26);
+        
+        doc.setFont("helvetica", "bold"); doc.setFontSize(40); doc.setTextColor(20, 50, 120);
+        doc.text("CERTIFICATE", w/2, 40, { align: "center" });
+        
+        doc.setFontSize(16); doc.setFont("helvetica", "normal"); doc.setTextColor(80, 80, 80);
+        doc.text("OF ACHIEVEMENT", w/2, 50, { align: "center" });
+        doc.text("This is to proudly certify that", w/2, 70, { align: "center" });
+        
+        doc.setFont("times", "bolditalic"); doc.setFontSize(32); doc.setTextColor(0, 0, 0);
+        const name = localStorage.getItem('er_name') || "Student Name";
+        doc.text(name, w/2, 90, { align: "center" });
+        
+        doc.setFont("helvetica", "normal"); doc.setFontSize(14); doc.setTextColor(60, 60, 60);
+        doc.text(`Has successfully completed the Class ${selectedClass} National Quiz`, w/2, 105, { align: "center" });
+        doc.text(`securing a score of ${score}/10`, w/2, 115, { align: "center" });
+
+        // Enhancement 2: Add Top % to Certificate (FIXED: No extra '&' and centered)
+        if(currentTopPercentage > 0) {
+            doc.setTextColor(220, 38, 38); // Red accent
+            doc.setFont("helvetica", "bold");
+            doc.text(`★ Ranked in the Top ${currentTopPercentage}% of Candidates ★`, w/2, 128, { align: "center" });
+            doc.setTextColor(60, 60, 60); // Reset color
+            doc.setFont("helvetica", "normal");
+        }
+        
+        const dateStr = new Date().toLocaleDateString();
+        doc.setFontSize(12); doc.text(`Date: ${dateStr}`, 40, 150);
+        doc.setDrawColor(218, 165, 32); doc.setLineWidth(1); doc.circle(w - 40, 150, 12);
+        doc.setFontSize(8); doc.setTextColor(218, 165, 32); doc.text("VERIFIED", w-40, 150, { align: "center", baseline: "middle" });
+        
+        try {
+            var qr = new QRious({ value: TELEGRAM_URL, size: 200 });
+            doc.addImage(qr.toDataURL(), 'JPEG', 15, h - 38, 25, 25);
+            doc.setFontSize(9); doc.setTextColor(80, 80, 80);
+            doc.text("Scan to Verify / Join", 27.5, h - 10, { align: "center" });
+        } catch(e) { console.log("QR Gen Error", e); }
+
+        doc.setFontSize(14); doc.setTextColor(0, 100, 200); doc.setFont("helvetica", "bold");
+        const linkText = "Certified by Exam Rescue (Click to Join)";
+        const textWidth = doc.getTextWidth(linkText);
+        const xPos = w - 20 - textWidth; const yPos = h - 15;
+        doc.text(linkText, xPos, yPos); 
+        doc.link(xPos, yPos - 5, textWidth, 10, { url: TELEGRAM_URL });
+        
+        doc.save(`Certificate_${localStorage.getItem('er_uid')}.pdf`);
+    }
+    
+    window.addEventListener('load', () => {
+        goHome(); 
+        const links = document.querySelectorAll('.community-card a');
+        if(links[0]) links[0].href = TELEGRAM_URL;
+        if(links[1]) links[1].href = WHATSAPP_URL;
+    });
+</script>
+</body>
+</html>
