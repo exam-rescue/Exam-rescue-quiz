@@ -1,0 +1,1002 @@
+     1→     1→[
+     2→     2→  {
+     3→     3→    "sheet": "Class11",
+     4→     4→    "row": 1257,
+     5→     5→    "data": [
+     6→     6→      "Biology",
+     7→     7→      2.0,
+     8→     8→      "Biological Classification",
+     9→     9→      "English",
+    10→    10→      "In Amoeba and Paramecium osmoregulation occurs through",
+    11→    11→      "(a) pseudopodia",
+    12→    12→      "(b) nucleus",
+    13→    13→      "(c) contractile vacuole",
+    14→    14→      "(d) general surface",
+    15→    15→      3.0,
+    16→    16→      "Amoeba and Paramecium contains two contractile vacuoles (anterior and posterior, the latter being faster) for osmoregulation, i.e. maintaining water balance in the body.",
+    17→    17→      "CBSE AIPMT",
+    18→    18→      "1991, 95, 2002",
+    19→    19→      null
+    20→    20→    ]
+    21→    21→  },
+    22→    22→  {
+    23→    23→    "sheet": "Class11",
+    24→    24→    "row": 1258,
+    25→    25→    "data": [
+    26→    26→      "Biology",
+    27→    27→      2.0,
+    28→    28→      "Biological Classification",
+    29→    29→      "English",
+    30→    30→      "Genetic information in Paramecium is contained in",
+    31→    31→      "(a) micronucleus",
+    32→    32→      "(b) macronucleus",
+    33→    33→      "(c) Both (a) and (b)",
+    34→    34→      "(d) mitochondria",
+    35→    35→      1.0,
+    36→    36→      "Ciliates ( Paramecium ) show nuclear dimorphism, large macronucleus controls metabolic activities and growth. It is called vegetative nucleus. Micronucleus contains genetic informatioin and thus, takes part in reproduction.",
+    37→    37→      "CBSE AIPMT",
+    38→    38→      1990.0,
+    39→    39→      null
+    40→    40→    ]
+    41→    41→  },
+    42→    42→  {
+    43→    43→    "sheet": "Class11",
+    44→    44→    "row": 1259,
+    45→    45→    "data": [
+    46→    46→      "Biology",
+    47→    47→      2.0,
+    48→    48→      "Biological Classification",
+    49→    49→      "English",
+    50→    50→      "Plasmodium , the malarial parasite, belongs to class",
+    51→    51→      "(a) Sarcodina",
+    52→    52→      "(b) Ciliata",
+    53→    53→      "(c) Sporozoa",
+    54→    54→      "(d) Dinophyceae",
+    55→    55→      3.0,
+    56→    56→      "Plasmodium, the malarial parasite belongs to class— Sporozoa . Sporozoans are intracellular parasites, reproduce by multiple fission and life cycle may include the two different hosts.",
+    57→    57→      "CBSE AIPMT",
+    58→    58→      1990.0,
+    59→    59→      null
+    60→    60→    ]
+    61→    61→  },
+    62→    62→  {
+    63→    63→    "sheet": "Class11",
+    64→    64→    "row": 1260,
+    65→    65→    "data": [
+    66→    66→      "Biology",
+    67→    67→      2.0,
+    68→    68→      "Biological Classification",
+    69→    69→      "English",
+    70→    70→      "What is true about Trypanosoma?",
+    71→    71→      "(a) Polymorphic",
+    72→    72→      "(b) Monogenetic",
+    73→    73→      "(c) Facultative parasite",
+    74→    74→      "(d) Non-pathogenic",
+    75→    75→      1.0,
+    76→    76→      "Trypanosoma is an obligate parasite, it is digenetic polymorphic ( Trypanosoma is adult form in human, whereas, crithidal and leptomonal are developmental forms in tse-tse fly).",
+    77→    77→      "CBSE AIPMT",
+    78→    78→      1990.0,
+    79→    79→      null
+    80→    80→    ]
+    81→    81→  },
+    82→    82→  {
+    83→    83→    "sheet": "Class11",
+    84→    84→    "row": 1261,
+    85→    85→    "data": [
+    86→    86→      "Biology",
+    87→    87→      2.0,
+    88→    88→      "Biological Classification",
+    89→    89→      "English",
+    90→    90→      "Trypanosoma belongs to class",
+    91→    91→      "(a) Sarcodina",
+    92→    92→      "(b) Zooflagellata",
+    93→    93→      "(c) Ciliata",
+    94→    94→      "(d) Sporozoa",
+    95→    95→      2.0,
+    96→    96→      "Zooflagellates are protozoan parasites which possess one to several flagella for locomotion. They are generally uninucleate (occasionally multinucleate), body is covered by a firm pellicle, e.g. Trypanosoma, Leishmania, Trichomonas, etc.",
+    97→    97→      "CBSE AIPMT",
+    98→    98→      1989.0,
+    99→    99→      null
+   100→   100→    ]
+   101→   101→  },
+   102→   102→  {
+   103→   103→    "sheet": "Class11",
+   104→   104→    "row": 1262,
+   105→   105→    "data": [
+   106→   106→      "Biology",
+   107→   107→      2.0,
+   108→   108→      "Biological Classification",
+   109→   109→      "English",
+   110→   110→      "Select the wrong statement.",
+   111→   111→      "(a) Pseudopodia are locomotory and feeding structures in sporozoans",
+   112→   112→      "(b) Mushrooms belong to Basidiomycetes",
+   113→   113→      "(c) Cell wall is present in members of Fungi and Plantae",
+   114→   114→      "(d) Mitochondria are the powerhouse of the cell in all kingdoms except Monera",
+   115→   115→      1.0,
+   116→   116→      "Sporozoans are endoparasites. They lack locomotory organelles like cilia, flagella, pseudopodia, etc., e.g. Plasmodium . Pseudopodia are found in amoeboid protozoans, e.g., Amoeba, Entamoeba, etc. Therefore, statement (a) is wrong while rest of the statements are correct.",
+   117→   117→      "NEET",
+   118→   118→      2018.0,
+   119→   119→      null
+   120→   120→    ]
+   121→   121→  },
+   122→   122→  {
+   123→   123→    "sheet": "Class11",
+   124→   124→    "row": 1263,
+   125→   125→    "data": [
+   126→   126→      "Biology",
+   127→   127→      2.0,
+   128→   128→      "Biological Classification",
+   129→   129→      "English",
+   130→   130→      "Which of the following would appear as the pioneer organisms on bare rocks?",
+   131→   131→      "(a) Liverworts",
+   132→   132→      "(b) Mosses",
+   133→   133→      "(c) Green algae",
+   134→   134→      "(d) Lichens",
+   135→   135→      4.0,
+   136→   136→      "In primary succession on rocks, lichens secrete acids to dissolve rock, helps in weathering and soil formation. So, lichens are pioneer species to colonise the bare rock.",
+   137→   137→      "NEET",
+   138→   138→      2016.0,
+   139→   139→      null
+   140→   140→    ]
+   141→   141→  },
+   142→   142→  {
+   143→   143→    "sheet": "Class11",
+   144→   144→    "row": 1264,
+   145→   145→    "data": [
+   146→   146→      "Biology",
+   147→   147→      2.0,
+   148→   148→      "Biological Classification",
+   149→   149→      "English",
+   150→   150→      "One of the major components of cell wall of most fungi is",
+   151→   151→      "(a) peptidoglycan",
+   152→   152→      "(b) cellulose",
+   153→   153→      "(c) hemicellulose",
+   154→   154→      "(d) chitin",
+   155→   155→      4.0,
+   156→   156→      "Cell wall of most fungi is made up of chitin. Chemically it is N-acetyl glucosamine. It is also found in the exoskeleton of insects.",
+   157→   157→      "NEET",
+   158→   158→      2016.0,
+   159→   159→      null
+   160→   160→    ]
+   161→   161→  },
+   162→   162→  {
+   163→   163→    "sheet": "Class11",
+   164→   164→    "row": 1265,
+   165→   165→    "data": [
+   166→   166→      "Biology",
+   167→   167→      2.0,
+   168→   168→      "Biological Classification",
+   169→   169→      "English",
+   170→   170→      "Which one of the following is wrong for fungi?",
+   171→   171→      "(a) They are eukaryotic",
+   172→   172→      "(b) All fungi possess a purely cellulosic cell wall",
+   173→   173→      "(c) They are heterotrophic",
+   174→   174→      "(d) They are both unicellular and multicellular",
+   175→   175→      2.0,
+   176→   176→      "In fungi, cell wall contains chitin or cellulose along with other polysaccharides, proteins and lipids. Only in some fungi, e.g. Phytophthora or other oomycetes a purely cellulosic cell wall is present. Hence, only option (b) is wrong, rest of the options are correct.",
+   177→   177→      "NEET",
+   178→   178→      2016.0,
+   179→   179→      null
+   180→   180→    ]
+   181→   181→  },
+   182→   182→  {
+   183→   183→    "sheet": "Class11",
+   184→   184→    "row": 1266,
+   185→   185→    "data": [
+   186→   186→      "Biology",
+   187→   187→      2.0,
+   188→   188→      "Biological Classification",
+   189→   189→      "English",
+   190→   190→      "Choose the wrong statement.",
+   191→   191→      "(a) Penicillium is multicellular and produces antibiotics",
+   192→   192→      "(b) Neurospora is used in the study of biochemical genetics",
+   193→   193→      "(c) Morels and truffles are poisonous mushrooms",
+   194→   194→      "(d) Yeast is unicellular and useful in fermentation",
+   195→   195→      3.0,
+   196→   196→      "All statements are correct, except statement (c), which can be corrected as Morels and truffles are edible and members of Ascomycetes in fungi.",
+   197→   197→      "CBSE AIPMT",
+   198→   198→      2015.0,
+   199→   199→      null
+   200→   200→    ]
+   201→   201→  },
+   202→   202→  {
+   203→   203→    "sheet": "Class11",
+   204→   204→    "row": 1267,
+   205→   205→    "data": [
+   206→   206→      "Biology",
+   207→   207→      2.0,
+   208→   208→      "Biological Classification",
+   209→   209→      "English",
+   210→   210→      "The imperfect fungi which are decomposers of litter and help in mineral cycling belong to",
+   211→   211→      "(a) Deuteromycetes",
+   212→   212→      "(b) Basidiomycetes",
+   213→   213→      "(c) Phycomycetes",
+   214→   214→      "(d) Ascomycetes",
+   215→   215→      1.0,
+   216→   216→      "The imperfecti fungi which are decomposers of litter and help in mineral cycling belong to Deuteromycetes. They are fungi which do not fit into the commonly established taxonomic classification of fungi. They include all those fungi in which the perfect stage (sexual stage) is not reported.",
+   217→   217→      "CBSE AIPMT",
+   218→   218→      2015.0,
+   219→   219→      null
+   220→   220→    ]
+   221→   221→  },
+   222→   222→  {
+   223→   223→    "sheet": "Class11",
+   224→   224→    "row": 1268,
+   225→   225→    "data": [
+   226→   226→      "Biology",
+   227→   227→      2.0,
+   228→   228→      "Biological Classification",
+   229→   229→      "English",
+   230→   230→      "The highest number of species in the world is represented by",
+   231→   231→      "(a) fungi",
+   232→   232→      "(b) mosses",
+   233→   233→      "(c) algae",
+   234→   234→      "(d) lichens",
+   235→   235→      1.0,
+   236→   236→      "Fungi represent the highest number of species in the world. Around 100000 species of fungi have been formally described by taxonomists but the global biodiversity of kingdom—Fungi is not fully understood.",
+   237→   237→      "CBSE AIPMT",
+   238→   238→      2012.0,
+   239→   239→      null
+   240→   240→    ]
+   241→   241→  },
+   242→   242→  {
+   243→   243→    "sheet": "Class11",
+   244→   244→    "row": 1269,
+   245→   245→    "data": [
+   246→   246→      "Biology",
+   247→   247→      2.0,
+   248→   248→      "Biological Classification",
+   249→   249→      "English",
+   250→   250→      "Which one of the following has haplontic life cycle?",
+   251→   251→      "(a) Funaria",
+   252→   252→      "(b) Polytrichum",
+   253→   253→      "(c) Ustilago",
+   254→   254→      "(d) Wheat",
+   255→   255→      3.0,
+   256→   256→      "Ustilago has haplontic life cycle. In their sexual phase, only zygospore is diploid structure. All others are haploid, such a sexual cycle is termed as haploid or haplontic.",
+   257→   257→      "CBSE AIPMT",
+   258→   258→      2009.0,
+   259→   259→      null
+   260→   260→    ]
+   261→   261→  },
+   262→   262→  {
+   263→   263→    "sheet": "Class11",
+   264→   264→    "row": 1271,
+   265→   265→    "data": [
+   266→   266→      "Biology",
+   267→   267→      2.0,
+   268→   268→      "जीव जगत का वर्गीकरण",
+   269→   269→      "Hindi",
+   270→   270→      "जब एक संकुचनशील रिक्तिका (contractile vacuole) रखने वाले मीठे पानी के प्रोटोजोआ को समुद्री पानी वाले गिलास में रखा जाता है, तो रिक्तिका",
+   271→   271→      "(a) संख्या में वृद्धि होगी",
+   272→   272→      "(b) गायब हो जाएगी",
+   273→   273→      "(c) आकार में वृद्धि होगी",
+   274→   274→      "(d) आकार में कमी आएगी",
+   275→   275→      2.0,
+   276→   276→      "मीठे पानी के प्रोटोजोआ हाइपोटोनिक समाधान में रहते हैं, इसलिए अतिरिक्त पानी के नियमन के लिए संकुचनशील रिक्तिकाएं विकसित होती हैं। जब इन्हें समुद्री जल (हाइपरटोनिक) में रखा जाता है, तो एंडोस्मोसिस नहीं होता है और रिक्तिकाएं गायब हो जाती हैं।",
+   277→   277→      "CBSE AIPMT",
+   278→   278→      2004.0,
+   279→   279→      null
+   280→   280→    ]
+   281→   281→  },
+   282→   282→  {
+   283→   283→    "sheet": "Class11",
+   284→   284→    "row": 1272,
+   285→   285→    "data": [
+   286→   286→      "Biology",
+   287→   287→      2.0,
+   288→   288→      "जीव जगत का वर्गीकरण",
+   289→   289→      "Hindi",
+   290→   290→      "Amoeba और Paramecium जैसे प्रोटोजोआ में, परासरण नियमन (osmoregulation) के लिए एक अंगक (organelle) पाया जाता है जो है",
+   291→   291→      "(a) संकुचनशील रिक्तिका (contractile vacuole)",
+   292→   292→      "(b) माइटोकॉन्ड्रिया (mitochondria)",
+   293→   293→      "(c) केंद्रक (nucleus)",
+   294→   294→      "(d) खाद्य रिक्तिका (food vacuole)",
+   295→   295→      1.0,
+   296→   296→      "Amoeba और Paramecium जैसे एककोशिकीय जीवों में उत्सर्जन और परासरण नियमन के लिए संकुचनशील रिक्तिका (contractile vacuole) होती है।",
+   297→   297→      "CBSE AIPMT",
+   298→   298→      2002.0,
+   299→   299→      null
+   300→   300→    ]
+   301→   301→  },
+   302→   302→  {
+   303→   303→    "sheet": "Class11",
+   304→   304→    "row": 1273,
+   305→   305→    "data": [
+   306→   306→      "Biology",
+   307→   307→      2.0,
+   308→   308→      "जीव जगत का वर्गीकरण",
+   309→   309→      "Hindi",
+   310→   310→      "Amoeba में उत्सर्जन (Excretion) किसके माध्यम से होता है?",
+   311→   311→      "(a) लोबोपोडिया (lobopodia)",
+   312→   312→      "(b) यूरोइड भाग (uroid portion)",
+   313→   313→      "(c) प्लाज्मा झिल्ली (plasma membrane)",
+   314→   314→      "(d) संकुचनशील रिक्तिका (contractile vacuole)",
+   315→   315→      4.0,
+   316→   316→      "Amoeba के एंडोप्लाज्म में एक स्पंदनशील संकुचनशील रिक्तिका होती है जो उत्सर्जन और परासरण नियमन (osmoregulation) में कार्य करती है।",
+   317→   317→      "CBSE AIPMT",
+   318→   318→      1995.0,
+   319→   319→      null
+   320→   320→    ]
+   321→   321→  },
+   322→   322→  {
+   323→   323→    "sheet": "Class11",
+   324→   324→    "row": 1274,
+   325→   325→    "data": [
+   326→   326→      "Biology",
+   327→   327→      2.0,
+   328→   328→      "जीव जगत का वर्गीकरण",
+   329→   329→      "Hindi",
+   330→   330→      "प्रोटिस्टन जीनोम (Protistan genome) में होता है",
+   331→   331→      "(a) साइटोप्लाज्म में एम्बेडेड झिल्ली-बद्ध न्यूक्लियोप्रोटीन (membrane bound nucleoproteins)",
+   332→   332→      "(b) मुक्त न्यूक्लिक एसिड समुच्चय",
+   333→   333→      "(c) ढीले द्रव्यमान में एक साथ संघनित जीन युक्त न्यूक्लियोप्रोटीन",
+   334→   334→      "(d) कोशिका पदार्थ के सीधे संपर्क में न्यूक्लियोप्रोटीन",
+   335→   335→      1.0,
+   336→   336→      "यूकेरियोटिक (जैसे प्रोटिस्टन) जीनोम नाभिक के रूप में व्यवस्थित होता है। परमाणु DNA रैखिक होता है और हिस्टोन प्रोटीन से जुड़ा होता है।",
+   337→   337→      "CBSE AIPMT",
+   338→   338→      1994.0,
+   339→   339→      null
+   340→   340→    ]
+   341→   341→  },
+   342→   342→  {
+   343→   343→    "sheet": "Class11",
+   344→   344→    "row": 1275,
+   345→   345→    "data": [
+   346→   346→      "Biology",
+   347→   347→      2.0,
+   348→   348→      "जीव जगत का वर्गीकरण",
+   349→   349→      "Hindi",
+   350→   350→      "Entamoeba coli का कारण बनता है",
+   351→   351→      "(a) पायरिया (pyorrhoea)",
+   352→   352→      "(b) दस्त (diarrhoea)",
+   353→   353→      "(c) पेचिश (dysentery)",
+   354→   354→      "(d) इनमें से कोई नहीं",
+   355→   355→      4.0,
+   356→   356→      "Entamoeba coli बड़ी आंत का एक सामान्य परजीवी है और यह अक्सर कब्ज (constipation) का कारण बनता है, न कि पेचिश या पायरिया का।",
+   357→   357→      "CBSE AIPMT",
+   358→   358→      1994.0,
+   359→   359→      null
+   360→   360→    ]
+   361→   361→  },
+   362→   362→  {
+   363→   363→    "sheet": "Class11",
+   364→   364→    "row": 1276,
+   365→   365→    "data": [
+   366→   366→      "Biology",
+   367→   367→      2.0,
+   368→   368→      "जीव जगत का वर्गीकरण",
+   369→   369→      "Hindi",
+   370→   370→      "प्रोटिस्ट (Protists) भोजन प्राप्त करते हैं",
+   371→   371→      "(a) प्रकाश संश्लेषक, सहजीवी और होलोट्रॉफ (photosynthesisers, symbionts and holotrophs)",
+   372→   372→      "(b) प्रकाश संश्लेषक",
+   373→   373→      "(c) कीमोसिंथेसाइजर्स",
+   374→   374→      "(d) होलोट्रॉफ",
+   375→   375→      1.0,
+   376→   376→      "प्रोटिस्टन में पोषण के विभिन्न तरीके होते हैं। वे प्रकाश संश्लेषक, हेटरोट्रॉफिक (मृतजीवी, परजीवी और अंतर्ग्रहण) हो सकते हैं।",
+   377→   377→      "CBSE AIPMT",
+   378→   378→      1994.0,
+   379→   379→      null
+   380→   380→    ]
+   381→   381→  },
+   382→   382→  {
+   383→   383→    "sheet": "Class11",
+   384→   384→    "row": 1277,
+   385→   385→    "data": [
+   386→   386→      "Biology",
+   387→   387→      2.0,
+   388→   388→      "जीव जगत का वर्गीकरण",
+   389→   389→      "Hindi",
+   390→   390→      "अफ्रीकी नींद की बीमारी (African sleeping sickness) किसके कारण होती है?",
+   391→   391→      "(a) सी-सी मक्खी (tse-tse fly) द्वारा प्रसारित Plasmodium vivax",
+   392→   392→      "(b) खटमल द्वारा प्रसारित Trypanosoma lewsii",
+   393→   393→      "(c) Glossina palpalis द्वारा प्रसारित Trypanosoma gambiense",
+   394→   394→      "(d) घरेलू मक्खी द्वारा फैलाया गया Entamoeba gingivalis",
+   395→   395→      3.0,
+   396→   396→      "अफ्रीकी नींद की बीमारी Trypanosoma gambiense के कारण होती है और यह सी-सी मक्खी (Glossina palpalis) द्वारा प्रसारित होती है।",
+   397→   397→      "CBSE AIPMT",
+   398→   398→      1991.0,
+   399→   399→      null
+   400→   400→    ]
+   401→   401→  },
+   402→   402→  {
+   403→   403→    "sheet": "Class11",
+   404→   404→    "row": 1278,
+   405→   405→    "data": [
+   406→   406→      "Biology",
+   407→   407→      2.0,
+   408→   408→      "जीव जगत का वर्गीकरण",
+   409→   409→      "Hindi",
+   410→   410→      "Amoeba और Paramecium में परासरण नियमन (osmoregulation) किसके माध्यम से होता है?",
+   411→   411→      "(a) स्यूडोपोडिया (pseudopodia)",
+   412→   412→      "(b) केंद्रक (nucleus)",
+   413→   413→      "(c) संकुचनशील रिक्तिका (contractile vacuole)",
+   414→   414→      "(d) सामान्य सतह",
+   415→   415→      3.0,
+   416→   416→      "Amoeba और Paramecium में परासरण नियमन यानी शरीर में जल संतुलन बनाए रखने के लिए दो संकुचनशील रिक्तिकाएं होती हैं।",
+   417→   417→      "CBSE AIPMT",
+   418→   418→      "1991, 95, 2002",
+   419→   419→      null
+   420→   420→    ]
+   421→   421→  },
+   422→   422→  {
+   423→   423→    "sheet": "Class11",
+   424→   424→    "row": 1279,
+   425→   425→    "data": [
+   426→   426→      "Biology",
+   427→   427→      2.0,
+   428→   428→      "जीव जगत का वर्गीकरण",
+   429→   429→      "Hindi",
+   430→   430→      "Paramecium में आनुवंशिक जानकारी (Genetic information) किसमें निहित है?",
+   431→   431→      "(a) माइक्रोन्यूक्लियस (micronucleus)",
+   432→   432→      "(b) मैक्रोन्यूक्लियस (macronucleus)",
+   433→   433→      "(c) दोनों (a) और (b)",
+   434→   434→      "(d) माइटोकॉन्ड्रिया (mitochondria)",
+   435→   435→      1.0,
+   436→   436→      "Paramecium में परमाणु द्विरूपता (nuclear dimorphism) होती है। माइक्रोन्यूक्लियस में आनुवंशिक जानकारी होती है और यह प्रजनन में भाग लेता है।",
+   437→   437→      "CBSE AIPMT",
+   438→   438→      1990.0,
+   439→   439→      null
+   440→   440→    ]
+   441→   441→  },
+   442→   442→  {
+   443→   443→    "sheet": "Class11",
+   444→   444→    "row": 1280,
+   445→   445→    "data": [
+   446→   446→      "Biology",
+   447→   447→      2.0,
+   448→   448→      "जीव जगत का वर्गीकरण",
+   449→   449→      "Hindi",
+   450→   450→      "Plasmodium, मलेरिया परजीवी, किस वर्ग (class) से संबंधित है?",
+   451→   451→      "(a) Sarcodina",
+   452→   452→      "(b) Ciliata",
+   453→   453→      "(c) Sporozoa",
+   454→   454→      "(d) Dinophyceae",
+   455→   455→      3.0,
+   456→   456→      "Plasmodium, मलेरिया परजीवी, वर्ग Sporozoa से संबंधित है। स्पोरोजोआन्स इंट्रासेल्युलर परजीवी हैं।",
+   457→   457→      "CBSE AIPMT",
+   458→   458→      1990.0,
+   459→   459→      null
+   460→   460→    ]
+   461→   461→  },
+   462→   462→  {
+   463→   463→    "sheet": "Class11",
+   464→   464→    "row": 1281,
+   465→   465→    "data": [
+   466→   466→      "Biology",
+   467→   467→      2.0,
+   468→   468→      "जीव जगत का वर्गीकरण",
+   469→   469→      "Hindi",
+   470→   470→      "Trypanosoma के बारे में क्या सच है?",
+   471→   471→      "(a) बहुरूपी (Polymorphic)",
+   472→   472→      "(b) मोनोजेनेटिक (Monogenetic)",
+   473→   473→      "(c) ऐच्छिक परजीवी (Facultative parasite)",
+   474→   474→      "(d) गैर-रोगजनक (Non-pathogenic)",
+   475→   475→      1.0,
+   476→   476→      "Trypanosoma एक अनिवार्य परजीवी है, यह द्विजनेमी बहुरूपी (digenetic polymorphic) है (मनुष्य में वयस्क रूप, जबकि सी-सी मक्खी में विकासात्मक रूप)।",
+   477→   477→      "CBSE AIPMT",
+   478→   478→      1990.0,
+   479→   479→      null
+   480→   480→    ]
+   481→   481→  },
+   482→   482→  {
+   483→   483→    "sheet": "Class11",
+   484→   484→    "row": 1282,
+   485→   485→    "data": [
+   486→   486→      "Biology",
+   487→   487→      2.0,
+   488→   488→      "जीव जगत का वर्गीकरण",
+   489→   489→      "Hindi",
+   490→   490→      "Trypanosoma किस वर्ग (class) से संबंधित है?",
+   491→   491→      "(a) Sarcodina",
+   492→   492→      "(b) Zooflagellata",
+   493→   493→      "(c) Ciliata",
+   494→   494→      "(d) Sporozoa",
+   495→   495→      2.0,
+   496→   496→      "Zooflagellates प्रोटोजोआ परजीवी हैं जिनके पास हरकत के लिए एक से कई फ्लैगेला होते हैं, उदाहरण के लिए Trypanosoma।",
+   497→   497→      "CBSE AIPMT",
+   498→   498→      1989.0,
+   499→   499→      null
+   500→   500→    ]
+   501→   501→  },
+   502→   502→  {
+   503→   503→    "sheet": "Class11",
+   504→   504→    "row": 1283,
+   505→   505→    "data": [
+   506→   506→      "Biology",
+   507→   507→      2.0,
+   508→   508→      "जीव जगत का वर्गीकरण",
+   509→   509→      "Hindi",
+   510→   510→      "गलत कथन का चयन करें।",
+   511→   511→      "(a) स्पोरोजोआन्स (sporozoans) में स्यूडोपोडिया लोकोमोटरी और फीडिंग संरचनाएं हैं",
+   512→   512→      "(b) मशरूम Basidiomycetes से संबंधित हैं",
+   513→   513→      "(c) कवक और प्लांटे के सदस्यों में कोशिका भित्ति मौजूद होती है",
+   514→   514→      "(d) मोनेरा को छोड़कर सभी साम्राज्यों में माइटोकॉन्ड्रिया कोशिका का पावरहाउस है",
+   515→   515→      1.0,
+   516→   516→      "स्पोरोजोआन्स एंडोपैरासाइट्स हैं और उनमें लोकोमोटरी ऑर्गेनेल जैसे सिलिया, फ्लैगेला, स्यूडोपोडिया आदि की कमी होती है। स्यूडोपोडिया अमीबॉइड प्रोटोजोआ में पाए जाते हैं।",
+   517→   517→      "NEET",
+   518→   518→      2018.0,
+   519→   519→      null
+   520→   520→    ]
+   521→   521→  },
+   522→   522→  {
+   523→   523→    "sheet": "Class11",
+   524→   524→    "row": 1284,
+   525→   525→    "data": [
+   526→   526→      "Biology",
+   527→   527→      2.0,
+   528→   528→      "जीव जगत का वर्गीकरण",
+   529→   529→      "Hindi",
+   530→   530→      "निम्नलिखित में से कौन नंगे चट्टानों पर अग्रणी जीवों (pioneer organisms) के रूप में दिखाई देगा?",
+   531→   531→      "(a) Liverworts",
+   532→   532→      "(b) Mosses",
+   533→   533→      "(c) Green algae",
+   534→   534→      "(d) Lichens",
+   535→   535→      4.0,
+   536→   536→      "चट्टानों पर प्राथमिक अनुक्रम में, लाइकेन चट्टान को घोलने के लिए एसिड का स्राव करते हैं, जिससे अपक्षय और मिट्टी के निर्माण में मदद मिलती है।",
+   537→   537→      "NEET",
+   538→   538→      2016.0,
+   539→   539→      null
+   540→   540→    ]
+   541→   541→  },
+   542→   542→  {
+   543→   543→    "sheet": "Class11",
+   544→   544→    "row": 1285,
+   545→   545→    "data": [
+   546→   546→      "Biology",
+   547→   547→      2.0,
+   548→   548→      "जीव जगत का वर्गीकरण",
+   549→   549→      "Hindi",
+   550→   550→      "अधिकांश कवक (fungi) की कोशिका भित्ति (cell wall) के प्रमुख घटकों में से एक है",
+   551→   551→      "(a) पेप्टिडोग्लाइकन (peptidoglycan)",
+   552→   552→      "(b) सेल्यूलोज (cellulose)",
+   553→   553→      "(c) हेमिकेलुलोज (hemicellulose)",
+   554→   554→      "(d) काइटिन (chitin)",
+   555→   555→      4.0,
+   556→   556→      "अधिकांश कवक की कोशिका भित्ति काइटिन (chitin) से बनी होती है, जो रासायनिक रूप से N-acetyl glucosamine है।",
+   557→   557→      "NEET",
+   558→   558→      2016.0,
+   559→   559→      null
+   560→   560→    ]
+   561→   561→  },
+   562→   562→  {
+   563→   563→    "sheet": "Class11",
+   564→   564→    "row": 1286,
+   565→   565→    "data": [
+   566→   566→      "Biology",
+   567→   567→      2.0,
+   568→   568→      "जीव जगत का वर्गीकरण",
+   569→   569→      "Hindi",
+   570→   570→      "कवक (fungi) के लिए निम्नलिखित में से कौन सा गलत है?",
+   571→   571→      "(a) वे यूकेरियोटिक (eukaryotic) हैं",
+   572→   572→      "(b) सभी कवक में शुद्ध रूप से सेल्यूलोजिक (cellulosic) कोशिका भित्ति होती है",
+   573→   573→      "(c) वे हेटरोट्रॉफिक (heterotrophic) हैं",
+   574→   574→      "(d) वे एककोशिकीय और बहुकोशिकीय दोनों हैं",
+   575→   575→      2.0,
+   576→   576→      "कवक में, कोशिका भित्ति में काइटिन या सेल्यूलोज होता है। केवल कुछ कवक (जैसे Oomycetes) में शुद्ध रूप से सेल्यूलोजिक कोशिका भित्ति मौजूद होती है, इसलिए 'सभी' कहना गलत है।",
+   577→   577→      "NEET",
+   578→   578→      2016.0,
+   579→   579→      null
+   580→   580→    ]
+   581→   581→  },
+   582→   582→  {
+   583→   583→    "sheet": "Class11",
+   584→   584→    "row": 1287,
+   585→   585→    "data": [
+   586→   586→      "Biology",
+   587→   587→      2.0,
+   588→   588→      "जीव जगत का वर्गीकरण",
+   589→   589→      "Hindi",
+   590→   590→      "गलत कथन चुनें।",
+   591→   591→      "(a) Penicillium बहुकोशिकीय है और एंटीबायोटिक्स पैदा करता है",
+   592→   592→      "(b) Neurospora का उपयोग जैव रासायनिक आनुवंशिकी के अध्ययन में किया जाता है",
+   593→   593→      "(c) Morels और truffles जहरीले मशरूम हैं",
+   594→   594→      "(d) खमीर (Yeast) एककोशिकीय है और किण्वन में उपयोगी है",
+   595→   595→      3.0,
+   596→   596→      "Morels और truffles जहरीले नहीं होते; वे खाने योग्य (edible) होते हैं और कवक में Ascomycetes के सदस्य हैं।",
+   597→   597→      "CBSE AIPMT",
+   598→   598→      2015.0,
+   599→   599→      null
+   600→   600→    ]
+   601→   601→  },
+   602→   602→  {
+   603→   603→    "sheet": "Class11",
+   604→   604→    "row": 1288,
+   605→   605→    "data": [
+   606→   606→      "Biology",
+   607→   607→      2.0,
+   608→   608→      "जीव जगत का वर्गीकरण",
+   609→   609→      "Hindi",
+   610→   610→      "अपूर्ण कवक (imperfect fungi) जो कूड़े के अपघटक (decomposers) हैं और खनिज चक्रण में मदद करते हैं, किससे संबंधित हैं?",
+   611→   611→      "(a) Deuteromycetes",
+   612→   612→      "(b) Basidiomycetes",
+   613→   613→      "(c) Phycomycetes",
+   614→   614→      "(d) Ascomycetes",
+   615→   615→      1.0,
+   616→   616→      "Deuteromycetes को अपूर्ण कवक (imperfect fungi) कहा जाता है। वे कूड़े के अपघटक हैं और खनिज चक्रण में मदद करते हैं।",
+   617→   617→      "CBSE AIPMT",
+   618→   618→      2015.0,
+   619→   619→      null
+   620→   620→    ]
+   621→   621→  },
+   622→   622→  {
+   623→   623→    "sheet": "Class11",
+   624→   624→    "row": 1289,
+   625→   625→    "data": [
+   626→   626→      "Biology",
+   627→   627→      2.0,
+   628→   628→      "जीव जगत का वर्गीकरण",
+   629→   629→      "Hindi",
+   630→   630→      "विश्व में प्रजातियों की सबसे अधिक संख्या का प्रतिनिधित्व किसके द्वारा किया जाता है?",
+   631→   631→      "(a) कवक (fungi)",
+   632→   632→      "(b) काई (mosses)",
+   633→   633→      "(c) शैवाल (algae)",
+   634→   634→      "(d) लाइकेन (lichens)",
+   635→   635→      1.0,
+   636→   636→      "कवक (Fungi) दुनिया में सबसे अधिक प्रजातियों का प्रतिनिधित्व करते हैं। लगभग 100,000 प्रजातियों का वर्णन किया गया है।",
+   637→   637→      "CBSE AIPMT",
+   638→   638→      2012.0,
+   639→   639→      null
+   640→   640→    ]
+   641→   641→  },
+   642→   642→  {
+   643→   643→    "sheet": "Class11",
+   644→   644→    "row": 1290,
+   645→   645→    "data": [
+   646→   646→      "Biology",
+   647→   647→      2.0,
+   648→   648→      "जीव जगत का वर्गीकरण",
+   649→   649→      "Hindi",
+   650→   650→      "निम्नलिखित में से किसमें haplontic जीवन चक्र (life cycle) होता है?",
+   651→   651→      "(a) Funaria",
+   652→   652→      "(b) Polytrichum",
+   653→   653→      "(c) Ustilago",
+   654→   654→      "(d) गेहूं (Wheat)",
+   655→   655→      3.0,
+   656→   656→      "Ustilago में haplontic जीवन चक्र होता है। उनके यौन चरण में, केवल जाइगोस्पोर (zygospore) द्विगुणित संरचना है। अन्य सभी अगुणित हैं।",
+   657→   657→      "CBSE AIPMT",
+   658→   658→      2009.0,
+   659→   659→      null
+   660→   660→    ]
+   661→   661→  },
+   662→   662→  {
+   663→   663→    "sheet": "Class11",
+   664→   664→    "row": 1292,
+   665→   665→    "data": [
+   666→   666→      "Biology",
+   667→   667→      2.0,
+   668→   668→      "Biological Classification",
+   669→   669→      "English",
+   670→   670→      "Which one is the wrong pairing for the disease and its causal organism?",
+   671→   671→      "(a) Late blight of potato — Alternaria solani",
+   672→   672→      "(b) Black rust of wheat —Puccinia graminis",
+   673→   673→      "(c) Loose smut of wheat —Ustilago nuda",
+   674→   674→      "(d) Root-knot of vegetables — Meloidogyne sp.",
+   675→   675→      1.0,
+   676→   676→      "Late blight of potato is caused by Phytophthora infestans. Alternaria solani causes early blight of potato.",
+   677→   677→      "CBSE AIPMT",
+   678→   678→      2009.0,
+   679→   679→      null
+   680→   680→    ]
+   681→   681→  },
+   682→   682→  {
+   683→   683→    "sheet": "Class11",
+   684→   684→    "row": 1293,
+   685→   685→    "data": [
+   686→   686→      "Biology",
+   687→   687→      2.0,
+   688→   688→      "Biological Classification",
+   689→   689→      "English",
+   690→   690→      "Trichoderma harzianum has proved a useful microorganism for",
+   691→   691→      "(a) bioremediation of contaminated soils",
+   692→   692→      "(b) reclamation of wastelands",
+   693→   693→      "(c) gene transfer in higher plants",
+   694→   694→      "(d) biological control of soil-borne plant pathogens",
+   695→   695→      4.0,
+   696→   696→      "Trichoderma harzianum is a fungus used as a biological control agent against several soil-borne plant pathogens.",
+   697→   697→      "CBSE AIPMT",
+   698→   698→      2008.0,
+   699→   699→      null
+   700→   700→    ]
+   701→   701→  },
+   702→   702→  {
+   703→   703→    "sheet": "Class11",
+   704→   704→    "row": 1294,
+   705→   705→    "data": [
+   706→   706→      "Biology",
+   707→   707→      2.0,
+   708→   708→      "Biological Classification",
+   709→   709→      "English",
+   710→   710→      "Cellulose is the major component of cell walls of",
+   711→   711→      "(a) Pythium",
+   712→   712→      "(b) Xanthomonas",
+   713→   713→      "(c) Pseudomonas",
+   714→   714→      "(d) Saccharomyces",
+   715→   715→      1.0,
+   716→   716→      "Pythium belongs to Oomycetes, where the cell wall is mainly composed of cellulose, unlike true fungi which have chitin.",
+   717→   717→      "CBSE AIPMT",
+   718→   718→      2008.0,
+   719→   719→      null
+   720→   720→    ]
+   721→   721→  },
+   722→   722→  {
+   723→   723→    "sheet": "Class11",
+   724→   724→    "row": 1295,
+   725→   725→    "data": [
+   726→   726→      "Biology",
+   727→   727→      2.0,
+   728→   728→      "Biological Classification",
+   729→   729→      "English",
+   730→   730→      "Which of the following is a slime mold?",
+   731→   731→      "(a) Rhizopus",
+   732→   732→      "(b) Physarum",
+   733→   733→      "(c) Thiobacillus",
+   734→   734→      "(d) Anabaena",
+   735→   735→      2.0,
+   736→   736→      "Physarum is a slime mould (Myxomycetes). Rhizopus is a fungus, Thiobacillus is a bacterium, and Anabaena is a cyanobacterium.",
+   737→   737→      "CBSE AIPMT",
+   738→   738→      2007.0,
+   739→   739→      null
+   740→   740→    ]
+   741→   741→  },
+   742→   742→  {
+   743→   743→    "sheet": "Class11",
+   744→   744→    "row": 1296,
+   745→   745→    "data": [
+   746→   746→      "Biology",
+   747→   747→      2.0,
+   748→   748→      "Biological Classification",
+   749→   749→      "English",
+   750→   750→      "Ergot of rye is caused by a species of",
+   751→   751→      "(a) Phytophthora",
+   752→   752→      "(b) Uncinula",
+   753→   753→      "(c) Ustilago",
+   754→   754→      "(d) Claviceps",
+   755→   755→      4.0,
+   756→   756→      "Ergot of rye is caused by the fungus Claviceps purpurea.",
+   757→   757→      "CBSE AIPMT",
+   758→   758→      2007.0,
+   759→   759→      null
+   760→   760→    ]
+   761→   761→  },
+   762→   762→  {
+   763→   763→    "sheet": "Class11",
+   764→   764→    "row": 1297,
+   765→   765→    "data": [
+   766→   766→      "Biology",
+   767→   767→      2.0,
+   768→   768→      "Biological Classification",
+   769→   769→      "English",
+   770→   770→      "Which pair of the following belongs to Basidiomycetes?",
+   771→   771→      "(a) Birds nest fungi and puff balls",
+   772→   772→      "(b) Puff balls and Claviceps",
+   773→   773→      "(c) Peziza and stink horns",
+   774→   774→      "(d) Morchella and mushrooms",
+   775→   775→      1.0,
+   776→   776→      "Bird's nest fungi and puffballs are members of Basidiomycetes. Claviceps, Peziza, and Morchella belong to Ascomycetes.",
+   777→   777→      "CBSE AIPMT",
+   778→   778→      2007.0,
+   779→   779→      null
+   780→   780→    ]
+   781→   781→  },
+   782→   782→  {
+   783→   783→    "sheet": "Class11",
+   784→   784→    "row": 1298,
+   785→   785→    "data": [
+   786→   786→      "Biology",
+   787→   787→      2.0,
+   788→   788→      "Biological Classification",
+   789→   789→      "English",
+   790→   790→      "The thalloid body of a slime mold (Myxomycetes) is known as",
+   791→   791→      "(a) Plasmodium",
+   792→   792→      "(b) fruiting body",
+   793→   793→      "(c) mycelium",
+   794→   794→      "(d) protonema",
+   795→   795→      1.0,
+   796→   796→      "The vegetative, thalloid body of acellular slime moulds is called plasmodium, which is a multinucleate mass of protoplasm.",
+   797→   797→      "CBSE AIPMT",
+   798→   798→      2006.0,
+   799→   799→      null
+   800→   800→    ]
+   801→   801→  },
+   802→   802→  {
+   803→   803→    "sheet": "Class11",
+   804→   804→    "row": 1299,
+   805→   805→    "data": [
+   806→   806→      "Biology",
+   807→   807→      2.0,
+   808→   808→      "Biological Classification",
+   809→   809→      "English",
+   810→   810→      "Which of the following environmental conditions are essential for optimum growth of Mucor on a piece of bread?\n (i) Temperature of about 25°C\n (ii) Temperature of about 5°C\n (iii) Relative humidity of about 5%\n (iv) Relative humidity of about 95%\n (v) A shady place\n (vi) A brightly illuminated place\n Choose the answer from the following options",
+   811→   811→      "(a) (i), (iv) and (v) only",
+   812→   812→      "(b) (ii), (iv) and (v) only",
+   813→   813→      "(c) (ii), (iii) and (vi) only",
+   814→   814→      "(d) (i), (iii) and (v) only",
+   815→   815→      1.0,
+   816→   816→      "Mucor grows best in warm (25°C), humid (95% RH), and shady conditions.",
+   817→   817→      "CBSE AIPMT",
+   818→   818→      2006.0,
+   819→   819→      null
+   820→   820→    ]
+   821→   821→  },
+   822→   822→  {
+   823→   823→    "sheet": "Class11",
+   824→   824→    "row": 1300,
+   825→   825→    "data": [
+   826→   826→      "Biology",
+   827→   827→      2.0,
+   828→   828→      "Biological Classification",
+   829→   829→      "English",
+   830→   830→      "There exists a close association between the alga and the fungus within a lichen. The fungus",
+   831→   831→      "(a) provides protection, anchorage and absorption for the alga",
+   832→   832→      "(b) provides food for the alga",
+   833→   833→      "(c) fixes the atmospheric nitrogen for the alga",
+   834→   834→      "(d) release oxygen for the alga",
+   835→   835→      1.0,
+   836→   836→      "In lichens, the fungal partner (mycobiont) provides shelter, anchorage, and absorbs water and minerals for the alga (phycobiont).",
+   837→   837→      "CBSE AIPMT",
+   838→   838→      2005.0,
+   839→   839→      null
+   840→   840→    ]
+   841→   841→  },
+   842→   842→  {
+   843→   843→    "sheet": "Class11",
+   844→   844→    "row": 1301,
+   845→   845→    "data": [
+   846→   846→      "Biology",
+   847→   847→      2.0,
+   848→   848→      "Biological Classification",
+   849→   849→      "English",
+   850→   850→      "Lichens are well known combination of an alga and a fungus where fungus has",
+   851→   851→      "(a) a saprophytic relationship with the alga",
+   852→   852→      "(b) an epiphytic relationship with the alga",
+   853→   853→      "(c) a parasitic relationship with the alga",
+   854→   854→      "(d) a symbiotic relationship with the alga",
+   855→   855→      4.0,
+   856→   856→      "Lichens represent a symbiotic relationship (mutualism) between an alga and a fungus.",
+   857→   857→      "CBSE AIPMT",
+   858→   858→      2004.0,
+   859→   859→      null
+   860→   860→    ]
+   861→   861→  },
+   862→   862→  {
+   863→   863→    "sheet": "Class11",
+   864→   864→    "row": 1302,
+   865→   865→    "data": [
+   866→   866→      "Biology",
+   867→   867→      2.0,
+   868→   868→      "Biological Classification",
+   869→   869→      "English",
+   870→   870→      "During the formation of bread it becomes porous due to the release of CO2 by the action of",
+   871→   871→      "(a) yeast",
+   872→   872→      "(b) bacteria",
+   873→   873→      "(c) virus",
+   874→   874→      "(d) protozoans",
+   875→   875→      1.0,
+   876→   876→      "Yeast (Saccharomyces cerevisiae) carries out fermentation, releasing CO2 which makes the bread porous.",
+   877→   877→      "CBSE AIPMT",
+   878→   878→      2002.0,
+   879→   879→      null
+   880→   880→    ]
+   881→   881→  },
+   882→   882→  {
+   883→   883→    "sheet": "Class11",
+   884→   884→    "row": 1303,
+   885→   885→    "data": [
+   886→   886→      "Biology",
+   887→   887→      2.0,
+   888→   888→      "Biological Classification",
+   889→   889→      "English",
+   890→   890→      "Which fungal disease spreads by seed and flowers?",
+   891→   891→      "(a) Loose smut of wheat",
+   892→   892→      "(b) Corn stunt",
+   893→   893→      "(c) Covered smut of barley",
+   894→   894→      "(d) Soft rot of potato",
+   895→   895→      1.0,
+   896→   896→      "Loose smut of wheat, caused by Ustilago nuda, is an internally seed-borne disease where infection spreads through flowers.",
+   897→   897→      "CBSE AIPMT",
+   898→   898→      2002.0,
+   899→   899→      null
+   900→   900→    ]
+   901→   901→  },
+   902→   902→  {
+   903→   903→    "sheet": "Class11",
+   904→   904→    "row": 1304,
+   905→   905→    "data": [
+   906→   906→      "Biology",
+   907→   907→      2.0,
+   908→   908→      "Biological Classification",
+   909→   909→      "English",
+   910→   910→      "Plant decomposers are",
+   911→   911→      "(a) Monera and Fungi",
+   912→   912→      "(b) Fungi and Plants",
+   913→   913→      "(c) Protista and Animalia",
+   914→   914→      "(d) Animalia and Monera",
+   915→   915→      1.0,
+   916→   916→      "Bacteria (Monera) and Fungi are the primary decomposers in ecosystems, breaking down organic matter.",
+   917→   917→      "CBSE AIPMT",
+   918→   918→      2001.0,
+   919→   919→      null
+   920→   920→    ]
+   921→   921→  },
+   922→   922→  {
+   923→   923→    "sheet": "Class11",
+   924→   924→    "row": 1305,
+   925→   925→    "data": [
+   926→   926→      "Biology",
+   927→   927→      2.0,
+   928→   928→      "Biological Classification",
+   929→   929→      "English",
+   930→   930→      "Adhesive pad of fungi penetrates the host with the help of",
+   931→   931→      "(a) mechanical pressure and enzymes",
+   932→   932→      "(b) hooks and suckers",
+   933→   933→      "(c) softening by enzymes",
+   934→   934→      "(d) only by mechanical pressure",
+   935→   935→      1.0,
+   936→   936→      "Fungi penetrate host tissues using mechanical pressure exerted by appressoria and by secreting cell wall-degrading enzymes.",
+   937→   937→      "CBSE AIPMT",
+   938→   938→      2001.0,
+   939→   939→      null
+   940→   940→    ]
+   941→   941→  },
+   942→   942→  {
+   943→   943→    "sheet": "Class11",
+   944→   944→    "row": 1306,
+   945→   945→    "data": [
+   946→   946→      "Biology",
+   947→   947→      2.0,
+   948→   948→      "Biological Classification",
+   949→   949→      "English",
+   950→   950→      "In fungi stored food material is",
+   951→   951→      "(a) glycogen",
+   952→   952→      "(b) starch",
+   953→   953→      "(c) sucrose",
+   954→   954→      "(d) glucose",
+   955→   955→      1.0,
+   956→   956→      "Fungi store food primarily as glycogen and oil globules, similar to animals.",
+   957→   957→      "CBSE AIPMT",
+   958→   958→      2000.0,
+   959→   959→      null
+   960→   960→    ]
+   961→   961→  },
+   962→   962→  {
+   963→   963→    "sheet": "Class11",
+   964→   964→    "row": 1307,
+   965→   965→    "data": [
+   966→   966→      "Biology",
+   967→   967→      2.0,
+   968→   968→      "Biological Classification",
+   969→   969→      "English",
+   970→   970→      "Black rust of wheat is caused by",
+   971→   971→      "(a) Puccinia",
+   972→   972→      "(b) Mucor",
+   973→   973→      "(c) Aspergillus",
+   974→   974→      "(d) Rhizopus",
+   975→   975→      1.0,
+   976→   976→      "Black rust (stem rust) of wheat is caused by the fungus Puccinia graminis.",
+   977→   977→      "CBSE AIPMT",
+   978→   978→      2000.0,
+   979→   979→      null
+   980→   980→    ]
+   981→   981→  },
+   982→   982→  {
+   983→   983→    "sheet": "Class11",
+   984→   984→    "row": 1308,
+   985→   985→    "data": [
+   986→   986→      "Biology",
+   987→   987→      2.0,
+   988→   988→      "Biological Classification",
+   989→   989→      "English",
+   990→   990→      "Which of the following is the use of lichens in case of pollution?",
+   991→   991→      "(a) Lichens are not related with pollution",
+   992→   992→      "(b) They act as bioindicators of pollution",
+   993→   993→      "(c) They treat the polluted water",
+   994→   994→      "(d) They promote pollution",
+   995→   995→      2.0,
+   996→   996→      "Lichens are sensitive to SO2 and do not grow in polluted areas, serving as bioindicators of air pollution.",
+   997→   997→      "CBSE AIPMT",
+   998→   998→      1999.0,
+   999→   999→      null
+  1000→  1000→    ]
+  1001→  1001→  }
+  1002→  1002→]

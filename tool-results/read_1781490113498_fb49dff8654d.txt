@@ -1,0 +1,1002 @@
+     1→[
+     2→  {
+     3→    "sheet": "Class11",
+     4→    "row": 298,
+     5→    "data": [
+     6→      "Chemistry",
+     7→      3.0,
+     8→      "Chemical Bonding and Molecular Structure",
+     9→      "English",
+    10→      "Strongest hydrogen bonding is shown by",
+    11→      "(a) H_{2}O",
+    12→      "(b) NH_{3}",
+    13→      "(c) HF",
+    14→      "(d) H_{2}S",
+    15→      3.0,
+    16→      "HF has the strongest hydrogen bond because fluorine is the most electronegative atom, producing strong electrostatic attraction.",
+    17→      "CBSE AIPMT",
+    18→      1992.0,
+    19→      null
+    20→    ]
+    21→  },
+    22→  {
+    23→    "sheet": "Class11",
+    24→    "row": 299,
+    25→    "data": [
+    26→      "Chemistry",
+    27→      3.0,
+    28→      "Chemical Bonding and Molecular Structure",
+    29→      "English",
+    30→      "Which one of the following formulae does not correctly represent the bonding capacities of the atoms involved?",
+    31→      "(a) [Structure of Phosphonium ion]",
+    32→      "(b) [Structure of Ammonium ion]",
+    33→      "(c) [Structure of Nitromethane like species]",
+    34→      "(d) H-C=C(OH)2 structure",
+    35→      4.0,
+    36→      "In option (d), one carbon atom is shown with five valency bonds, which is not possible.",
+    37→      "CBSE AIPMT",
+    38→      1991.0,
+    39→      null
+    40→    ]
+    41→  },
+    42→  {
+    43→    "sheet": "Class11",
+    44→    "row": 300,
+    45→    "data": [
+    46→      "Chemistry",
+    47→      3.0,
+    48→      "Chemical Bonding and Molecular Structure",
+    49→      "English",
+    50→      "Among LiCl, BeCl_{2}, BCl_{3} and CCl_{4} the covalent bond character follows the order",
+    51→      "(a) LiCl < BeCl_{2} > BCl_{3} > CCl_{4}",
+    52→      "(b) LiCl < BeCl_{2} < BCl_{3} > CCl_{4}",
+    53→      "(c) LiCl < BeCl_{2} < BCl_{3} < CCl_{4}",
+    54→      "(d) LiCl > BeCl_{2} > BCl_{3} > CCl_{4}",
+    55→      3.0,
+    56→      "Electronegativity increases and cation size decreases from Li to C, increasing polarization and thus covalent character (Fajans' rule).",
+    57→      "CBSE AIPMT",
+    58→      1990.0,
+    59→      null
+    60→    ]
+    61→  },
+    62→  {
+    63→    "sheet": "Class11",
+    64→    "row": 301,
+    65→    "data": [
+    66→      "Chemistry",
+    67→      3.0,
+    68→      "Chemical Bonding and Molecular Structure",
+    69→      "English",
+    70→      "H_{2}O has a net dipole moment while BeF_{2} has zero dipole moment because",
+    71→      "(a) H_{2}O molecule is linear while F_{2} is bent",
+    72→      "(b) BeF_{2} molecule is linear while H_{2}O is bent",
+    73→      "(c) fluorine has more electronegativity than oxygen",
+    74→      "(d) beryllium has more electronegativity than oxygen",
+    75→      2.0,
+    76→      "H_{2}O has a bent structure (104.5°) giving a net dipole. BeF_{2} is linear, so bond dipoles cancel out.",
+    77→      "CBSE AIPMT",
+    78→      1989.0,
+    79→      null
+    80→    ]
+    81→  },
+    82→  {
+    83→    "sheet": "Class11",
+    84→    "row": 302,
+    85→    "data": [
+    86→      "Chemistry",
+    87→      3.0,
+    88→      "Chemical Bonding and Molecular Structure",
+    89→      "English",
+    90→      "Match List-I with List-II. List-I: A. PCl_{5}, B. SF_{6}, C. BrF_{5}, D. BF_{3}. List-II: I. Square pyramidal, II. Trigonal planar, III. Octahedral, IV. Trigonal bipyramidal.",
+    91→      "(a) IV III I II",
+    92→      "(b) III IV I II",
+    93→      "(c) IV III II I",
+    94→      "(d) III IV II I",
+    95→      1.0,
+    96→      "PCl_{5}: Trigonal bipyramidal (sp^{3}d); SF_{6}: Octahedral (sp^{3}d^{2}); BrF_{5}: Square pyramidal (sp^{3}d^{2}); BF_{3}: Trigonal planar (sp^{2}).",
+    97→      "NEET",
+    98→      2021.0,
+    99→      null
+   100→    ]
+   101→  },
+   102→  {
+   103→    "sheet": "Class11",
+   104→    "row": 303,
+   105→    "data": [
+   106→      "Chemistry",
+   107→      3.0,
+   108→      "Chemical Bonding and Molecular Structure",
+   109→      "English",
+   110→      "BF_{3} is planar and electron deficient compound. Hybridisation and number of electrons around the central atom, respectively are",
+   111→      "(a) sp^{3} and 4",
+   112→      "(b) sp and 6",
+   113→      "(c) sp^{2} and 6",
+   114→      "(d) sp^{2} and 8",
+   115→      3.0,
+   116→      "Boron in BF_{3} is sp^{2} hybridised (3 sigma bonds). Total valence electrons around B = 3 bonds × 2 = 6 electrons.",
+   117→      "NEET",
+   118→      2021.0,
+   119→      null
+   120→    ]
+   121→  },
+   122→  {
+   123→    "sheet": "Class11",
+   124→    "row": 304,
+   125→    "data": [
+   126→      "Chemistry",
+   127→      3.0,
+   128→      "Chemical Bonding and Molecular Structure",
+   129→      "English",
+   130→      "Match the coordination number and type of hybridisation with distribution of hybrid orbitals in space based on valence bond theory.",
+   131→      "(a) II III IV I",
+   132→      "(b) III IV I II",
+   133→      "(c) IV I II III",
+   134→      "(d) IV III I II",
+   135→      2.0,
+   136→      "A (sp^{3}, 4) = Tetrahedral (III); B (dsp^{2}, 4) = Square planar (IV); C (sp^{3}d, 5) = Trigonal bipyramidal (I); D (d^{2}sp^{3}, 6) = Octahedral (II).",
+   137→      "NEET (Oct.)",
+   138→      2020.0,
+   139→      null
+   140→    ]
+   141→  },
+   142→  {
+   143→    "sheet": "Class11",
+   144→    "row": 305,
+   145→    "data": [
+   146→      "Chemistry",
+   147→      3.0,
+   148→      "Chemical Bonding and Molecular Structure",
+   149→      "English",
+   150→      "Identify the wrongly matched pair.",
+   151→      "(a) PCl_{5} Trigonal planar",
+   152→      "(b) SF_{6} Octahedral",
+   153→      "(c) BeCl_{2} Linear",
+   154→      "(d) NH_{3} Trigonal pyramidal",
+   155→      1.0,
+   156→      "PCl_{5} has trigonal bipyramidal geometry, not trigonal planar.",
+   157→      "NEET (Oct.)",
+   158→      2020.0,
+   159→      null
+   160→    ]
+   161→  },
+   162→  {
+   163→    "sheet": "Class11",
+   164→    "row": 306,
+   165→    "data": [
+   166→      "Chemistry",
+   167→      3.0,
+   168→      "Chemical Bonding and Molecular Structure",
+   169→      "English",
+   170→      "Match the xenon compounds in Column I with its structure in Column II and assign the correct code:",
+   171→      "(a) (ii) (iii) (iv) (i)",
+   172→      "(b) (ii) (iii) (i) (iv)",
+   173→      "(c) (iii) (iv) (i) (ii)",
+   174→      "(d) (i) (ii) (iii) (iv)",
+   175→      1.0,
+   176→      "A(XeF_{4})-Square planar(ii); B(XeF_{6})-Distorted octahedral(iii); C(XeOF_{4})-Square pyramidal(iv); D(XeO_{3})-Pyramidal(i).",
+   177→      "NEET (National)",
+   178→      2019.0,
+   179→      null
+   180→    ]
+   181→  },
+   182→  {
+   183→    "sheet": "Class11",
+   184→    "row": 307,
+   185→    "data": [
+   186→      "Chemistry",
+   187→      3.0,
+   188→      "Chemical Bonding and Molecular Structure",
+   189→      "English",
+   190→      "Predict the correct order among the following.",
+   191→      "(a) lone pair-lone pair > bond pair-bond pair > lone pair-bond pair",
+   192→      "(b) bond pair-bond pair > lone pair-bond pair > lone pair-lone pair",
+   193→      "(c) lone pair-bond pair > bond pair-bond pair > lone pair-lone pair",
+   194→      "(d) lone pair-lone pair > lone pair-bond pair > bond pair-bond pair",
+   195→      4.0,
+   196→      "VSEPR theory repulsion order: lp-lp > lp-bp > bp-bp.",
+   197→      "NEET",
+   198→      "2016, Phase I",
+   199→      null
+   200→    ]
+   201→  },
+   202→  {
+   203→    "sheet": "Class11",
+   204→    "row": 308,
+   205→    "data": [
+   206→      "Chemistry",
+   207→      3.0,
+   208→      "Chemical Bonding and Molecular Structure",
+   209→      "English",
+   210→      "Consider the molecules CH_{4}, NH_{3} and H_{2}O. Which of the given statements is false?",
+   211→      "(a) The H-O-H bond angle in H_{2}O is larger than the H-C-H bond angle in CH_{4}",
+   212→      "(b) The H-O-H bond angle in H_{2}O is smaller than the H-N-H bond angle in NH_{3}",
+   213→      "(c) The H-C-H bond angle in CH_{4} is larger than the H-N-H bond angle in NH_{3}",
+   214→      "(d) The H-C-H bond angle in CH_{4}, the H-N-H bond angle in NH_{3} and the H-O-H bond angle in H_{2}O are all greater than 90°",
+   215→      1.0,
+   216→      "Bond angles: CH_{4} (109.5°) > NH_{3} (107.5°) > H_{2}O (104.5°). Statement (a) claims water angle is larger than methane, which is false.",
+   217→      "NEET",
+   218→      "2016, Phase I",
+   219→      null
+   220→    ]
+   221→  },
+   222→  {
+   223→    "sheet": "Class11",
+   224→    "row": 309,
+   225→    "data": [
+   226→      "Chemistry",
+   227→      3.0,
+   228→      "Chemical Bonding and Molecular Structure",
+   229→      "English",
+   230→      "The hybridisations of atomic orbitals of nitrogen in NO_{2}^{+}, NO_{3}^{-} and NH_{4}^{+} respectively are",
+   231→      "(a) sp, sp^{3} and sp^{2}",
+   232→      "(b) sp^{2}, sp^{3} and sp",
+   233→      "(c) sp, sp^{2} and sp^{3}",
+   234→      "(d) sp^{2}, sp and sp^{3}",
+   235→      3.0,
+   236→      "NO_{2}^{+} is linear (sp); NO_{3}^{-} is trigonal planar (sp^{2}); NH_{4}^{+} is tetrahedral (sp^{3}).",
+   237→      "NEET",
+   238→      "2016, Phase II",
+   239→      null
+   240→    ]
+   241→  },
+   242→  {
+   243→    "sheet": "Class11",
+   244→    "row": 310,
+   245→    "data": [
+   246→      "Chemistry",
+   247→      3.0,
+   248→      "Chemical Bonding and Molecular Structure",
+   249→      "English",
+   250→      "Which of the following species contains equal number of \\sigma and \\pi-bonds?",
+   251→      "(a) HCO_{3}^{-}",
+   252→      "(b) XeO_{4}",
+   253→      "(c) (CN)_{2}",
+   254→      "(d) CH_{2}(CN)_{2}",
+   255→      2.0,
+   256→      "XeO_{4} has a tetrahedral structure with 4 double bonds (Xe=O). It contains 4 \\sigma and 4 \\pi bonds.",
+   257→      "CBSE AIPMT",
+   258→      2015.0,
+   259→      null
+   260→    ]
+   261→  },
+   262→  {
+   263→    "sheet": "Class11",
+   264→    "row": 311,
+   265→    "data": [
+   266→      "Chemistry",
+   267→      3.0,
+   268→      "Chemical Bonding and Molecular Structure",
+   269→      "English",
+   270→      "Which of the following pairs of ions are isoelectronic and isostructural?",
+   271→      "(a) CO_{3}^{2-}, SO_{3}^{2-}",
+   272→      "(b) ClO_{3}^{-}, CO_{3}^{2-}",
+   273→      "(c) SO_{3}^{2-}, NO_{3}^{-}",
+   274→      "(d) ClO_{3}^{-}, SO_{3}^{2-}",
+   275→      4.0,
+   276→      "ClO_{3}^{-} (42 electrons) and SO_{3}^{2-} (42 electrons) are isoelectronic and both have pyramidal shape (sp^{3} with 1 lone pair).",
+   277→      "CBSE AIPMT",
+   278→      2015.0,
+   279→      null
+   280→    ]
+   281→  },
+   282→  {
+   283→    "sheet": "Class11",
+   284→    "row": 313,
+   285→    "data": [
+   286→      "Chemistry",
+   287→      3.0,
+   288→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   289→      "Hindi",
+   290→      "BCl_{3} एक समतलीय अणु है जबकि NCl_{3} पिरामिडीय है क्योंकि:",
+   291→      "(a) B-Cl बंध N-Cl बंध से अधिक ध्रुवीय है",
+   292→      "(b) N-Cl बंध B-Cl बंध से अधिक सहसंयोजक है",
+   293→      "(c) नाइट्रोजन परमाणु बोरोन परमाणु से छोटा है",
+   294→      "(d) BCl_{3} में कोई एकाकी युग्म नहीं है लेकिन NCl_{3} में इलेक्ट्रॉनों का एक एकाकी युग्म है",
+   295→      4.0,
+   296→      "BCl_{3} में sp^{2} संकरण होता है और केंद्रीय परमाणु पर कोई एकाकी युग्म नहीं होता (समतलीय)। NCl_{3} में sp^{3} संकरण होता है और नाइट्रोजन पर एक एकाकी युग्म होता है (पिरामिडीय)।",
+   297→      "CBSE AIPMT",
+   298→      1995.0,
+   299→      null
+   300→    ]
+   301→  },
+   302→  {
+   303→    "sheet": "Class11",
+   304→    "row": 314,
+   305→    "data": [
+   306→      "Chemistry",
+   307→      3.0,
+   308→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   309→      "Hindi",
+   310→      "निम्नलिखित प्रकार के बंधों में सबसे दुर्बल कौन सा है?",
+   311→      "(a) आयनिक",
+   312→      "(b) सहसंयोजक",
+   313→      "(c) धात्विक",
+   314→      "(d) हाइड्रोजन बंध (H-bond)",
+   315→      4.0,
+   316→      "सूचीबद्ध बंधों में हाइड्रोजन बंध सबसे कमजोर है क्योंकि इसकी बंध वियोजन ऊर्जा आयनिक, सहसंयोजक या धात्विक बंधों की तुलना में बहुत कम है।",
+   317→      "CBSE AIPMT",
+   318→      1994.0,
+   319→      null
+   320→    ]
+   321→  },
+   322→  {
+   323→    "sheet": "Class11",
+   324→    "row": 315,
+   325→    "data": [
+   326→      "Chemistry",
+   327→      3.0,
+   328→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   329→      "Hindi",
+   330→      "निम्नलिखित में से कौन सा युग्म सबसे स्थिर आयनिक बंध बनाएगा?",
+   331→      "(a) Na और Cl",
+   332→      "(b) Mg और F",
+   333→      "(c) Li और F",
+   334→      "(d) Na और F",
+   335→      2.0,
+   336→      "Mg और F के बीच का आयनिक बंध अधिकतम स्थिरविद्युत आकर्षण (Mg अत्यधिक विद्युत धनात्मक है, F अत्यधिक विद्युत ऋणात्मक है) के कारण सबसे स्थिर है।",
+   337→      "CBSE AIPMT",
+   338→      1994.0,
+   339→      null
+   340→    ]
+   341→  },
+   342→  {
+   343→    "sheet": "Class11",
+   344→    "row": 316,
+   345→    "data": [
+   346→      "Chemistry",
+   347→      3.0,
+   348→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   349→      "Hindi",
+   350→      "निम्नलिखित में से कौन सा कथन सही नहीं है?",
+   351→      "(a) द्विआबंध (double bond) एकल बंध की तुलना में छोटा होता है",
+   352→      "(b) सिग्मा बंध \\pi-बंध से कमजोर होता है",
+   353→      "(c) द्विआबंध एकल बंध से अधिक मजबूत होता है",
+   354→      "(d) सहसंयोजक बंध हाइड्रोजन बंध से अधिक मजबूत होता है",
+   355→      2.0,
+   356→      "सिग्मा बंध हमेशा \\pi-बंध से अधिक मजबूत होता है क्योंकि सिग्मा बंध निर्माण में अतिव्यापन (overlapping) की सीमा अधिकतम होती है।",
+   357→      "CBSE AIPMT",
+   358→      "1993, 1990",
+   359→      null
+   360→    ]
+   361→  },
+   362→  {
+   363→    "sheet": "Class11",
+   364→    "row": 317,
+   365→    "data": [
+   366→      "Chemistry",
+   367→      3.0,
+   368→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   369→      "Hindi",
+   370→      "निम्नलिखित में से कौन सा अन्योन्यक्रियाओं (interactions) का सही क्रम है?",
+   371→      "(a) सहसंयोजक < हाइड्रोजन आबंधन < वांडर वाल्स < द्विध्रुव-द्विध्रुव",
+   372→      "(b) वांडर वाल्स < हाइड्रोजन आबंधन < द्विध्रुव-द्विध्रुव < सहसंयोजक",
+   373→      "(c) वांडर वाल्स < द्विध्रुव-द्विध्रुव < हाइड्रोजन आबंधन < सहसंयोजक",
+   374→      "(d) द्विध्रुव-द्विध्रुव < वांडर वाल्स < हाइड्रोजन आबंधन < सहसंयोजक",
+   375→      2.0,
+   376→      "वांडर वाल्स बल सबसे कमजोर होते हैं, और सहसंयोजक बंध सबसे मजबूत होते हैं। क्रम: वांडर वाल्स < हाइड्रोजन आबंधन < द्विध्रुव-द्विध्रुव < सहसंयोजक।",
+   377→      "CBSE AIPMT",
+   378→      1993.0,
+   379→      null
+   380→    ]
+   381→  },
+   382→  {
+   383→    "sheet": "Class11",
+   384→    "row": 318,
+   385→    "data": [
+   386→      "Chemistry",
+   387→      3.0,
+   388→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   389→      "Hindi",
+   390→      "निम्नलिखित में से कौन सा यौगिक उच्चतम जालक ऊर्जा (lattice energy) प्रदर्शित करेगा?",
+   391→      "(a) KF",
+   392→      "(b) NaF",
+   393→      "(c) CsF",
+   394→      "(d) RbF",
+   395→      2.0,
+   396→      "NaF में उच्च जालक ऊर्जा होती है क्योंकि धनायनों में Na^{+} का आकार सबसे छोटा होता है, और धनायन का आकार घटने पर जालक ऊर्जा बढ़ती है।",
+   397→      "CBSE AIPMT",
+   398→      1993.0,
+   399→      null
+   400→    ]
+   401→  },
+   402→  {
+   403→    "sheet": "Class11",
+   404→    "row": 319,
+   405→    "data": [
+   406→      "Chemistry",
+   407→      3.0,
+   408→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   409→      "Hindi",
+   410→      "सबसे प्रबल हाइड्रोजन आबंधन किसके द्वारा दिखाया जाता है?",
+   411→      "(a) H_{2}O",
+   412→      "(b) NH_{3}",
+   413→      "(c) HF",
+   414→      "(d) H_{2}S",
+   415→      3.0,
+   416→      "HF में सबसे प्रबल हाइड्रोजन बंध होता है क्योंकि फ्लोरीन सबसे अधिक विद्युत ऋणात्मक परमाणु है, जो प्रबल स्थिरविद्युत आकर्षण उत्पन्न करता है।",
+   417→      "CBSE AIPMT",
+   418→      1992.0,
+   419→      null
+   420→    ]
+   421→  },
+   422→  {
+   423→    "sheet": "Class11",
+   424→    "row": 320,
+   425→    "data": [
+   426→      "Chemistry",
+   427→      3.0,
+   428→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   429→      "Hindi",
+   430→      "निम्नलिखित में से कौन सा सूत्र शामिल परमाणुओं की बंधन क्षमताओं (bonding capacities) का सही प्रतिनिधित्व नहीं करता है?",
+   431→      "(a) [फॉस्फोनियम आयन की संरचना]",
+   432→      "(b) [अमोनियम आयन की संरचना]",
+   433→      "(c) [नाइट्रोमीथेन जैसी प्रजाति की संरचना]",
+   434→      "(d) H-C=C(OH)2 संरचना",
+   435→      4.0,
+   436→      "विकल्प (d) में, एक कार्बन परमाणु को पाँच संयोजकता बंधों के साथ दिखाया गया है, जो संभव नहीं है।",
+   437→      "CBSE AIPMT",
+   438→      1991.0,
+   439→      null
+   440→    ]
+   441→  },
+   442→  {
+   443→    "sheet": "Class11",
+   444→    "row": 321,
+   445→    "data": [
+   446→      "Chemistry",
+   447→      3.0,
+   448→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   449→      "Hindi",
+   450→      "LiCl, BeCl_{2}, BCl_{3} और CCl_{4} में सहसंयोजक बंध लक्षण किस क्रम का अनुसरण करता है?",
+   451→      "(a) LiCl < BeCl_{2} > BCl_{3} > CCl_{4}",
+   452→      "(b) LiCl < BeCl_{2} < BCl_{3} > CCl_{4}",
+   453→      "(c) LiCl < BeCl_{2} < BCl_{3} < CCl_{4}",
+   454→      "(d) LiCl > BeCl_{2} > BCl_{3} > CCl_{4}",
+   455→      3.0,
+   456→      "Li से C तक विद्युत ऋणात्मकता बढ़ती है और धनायन का आकार घटता है, जिससे ध्रुवीकरण और इस प्रकार सहसंयोजक लक्षण बढ़ता है (फजान का नियम)।",
+   457→      "CBSE AIPMT",
+   458→      1990.0,
+   459→      null
+   460→    ]
+   461→  },
+   462→  {
+   463→    "sheet": "Class11",
+   464→    "row": 322,
+   465→    "data": [
+   466→      "Chemistry",
+   467→      3.0,
+   468→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   469→      "Hindi",
+   470→      "H_{2}O का शुद्ध द्विध्रुव आघूर्ण (net dipole moment) है जबकि BeF_{2} का द्विध्रुव आघूर्ण शून्य है क्योंकि:",
+   471→      "(a) H_{2}O अणु रैखिक है जबकि F_{2} मुड़ा हुआ है",
+   472→      "(b) BeF_{2} अणु रैखिक है जबकि H_{2}O मुड़ा हुआ (bent) है",
+   473→      "(c) फ्लोरीन ऑक्सीजन की तुलना में अधिक विद्युत ऋणात्मक है",
+   474→      "(d) बेरेलियम ऑक्सीजन की तुलना में अधिक विद्युत ऋणात्मक है",
+   475→      2.0,
+   476→      "H_{2}O की मुड़ी हुई संरचना (104.5°) होती है जिससे शुद्ध द्विध्रुव मिलता है। BeF_{2} रैखिक है, इसलिए बंध द्विध्रुव एक-दूसरे को रद्द कर देते हैं।",
+   477→      "CBSE AIPMT",
+   478→      1989.0,
+   479→      null
+   480→    ]
+   481→  },
+   482→  {
+   483→    "sheet": "Class11",
+   484→    "row": 323,
+   485→    "data": [
+   486→      "Chemistry",
+   487→      3.0,
+   488→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   489→      "Hindi",
+   490→      "सूची-I का सूची-II से मिलान करें। सूची-I: A. PCl_{5}, B. SF_{6}, C. BrF_{5}, D. BF_{3}. सूची-II: I. वर्ग पिरामिडीय, II. त्रिकोणीय समतलीय, III. अष्टफलकीय, IV. त्रिकोणीय द्विपिरामिडीय।",
+   491→      "(a) IV III I II",
+   492→      "(b) III IV I II",
+   493→      "(c) IV III II I",
+   494→      "(d) III IV II I",
+   495→      1.0,
+   496→      "PCl_{5}: त्रिकोणीय द्विपिरामिडीय (sp^{3}d); SF_{6}: अष्टफलकीय (sp^{3}d^{2}); BrF_{5}: वर्ग पिरामिडीय (sp^{3}d^{2}); BF_{3}: त्रिकोणीय समतलीय (sp^{2})।",
+   497→      "NEET",
+   498→      2021.0,
+   499→      null
+   500→    ]
+   501→  },
+   502→  {
+   503→    "sheet": "Class11",
+   504→    "row": 324,
+   505→    "data": [
+   506→      "Chemistry",
+   507→      3.0,
+   508→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   509→      "Hindi",
+   510→      "BF_{3} समतलीय और इलेक्ट्रॉन न्यून यौगिक है। केंद्रीय परमाणु के चारों ओर संकरण और इलेक्ट्रॉनों की संख्या क्रमशः है:",
+   511→      "(a) sp^{3} और 4",
+   512→      "(b) sp और 6",
+   513→      "(c) sp^{2} और 6",
+   514→      "(d) sp^{2} और 8",
+   515→      3.0,
+   516→      "BF_{3} में बोरोन sp^{2} संकरित (3 सिग्मा बंध) है। B के चारों ओर कुल संयोजी इलेक्ट्रॉन = 3 बंध × 2 = 6 इलेक्ट्रॉन।",
+   517→      "NEET",
+   518→      2021.0,
+   519→      null
+   520→    ]
+   521→  },
+   522→  {
+   523→    "sheet": "Class11",
+   524→    "row": 325,
+   525→    "data": [
+   526→      "Chemistry",
+   527→      3.0,
+   528→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   529→      "Hindi",
+   530→      "वैलेंस बॉन्ड थ्योरी (VBT) के आधार पर संकरण के प्रकार और उपसहसंयोजन संख्या का अंतरिक्ष में संकर कक्षकों के वितरण के साथ मिलान करें।",
+   531→      "(a) II III IV I",
+   532→      "(b) III IV I II",
+   533→      "(c) IV I II III",
+   534→      "(d) IV III I II",
+   535→      2.0,
+   536→      "A (sp^{3}, 4) = चतुष्फलकीय (III); B (dsp^{2}, 4) = वर्ग समतलीय (IV); C (sp^{3}d, 5) = त्रिकोणीय द्विपिरामिडीय (I); D (d^{2}sp^{3}, 6) = अष्टफलकीय (II)।",
+   537→      "NEET (Oct.)",
+   538→      2020.0,
+   539→      null
+   540→    ]
+   541→  },
+   542→  {
+   543→    "sheet": "Class11",
+   544→    "row": 326,
+   545→    "data": [
+   546→      "Chemistry",
+   547→      3.0,
+   548→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   549→      "Hindi",
+   550→      "गलत सुमेलित युग्म की पहचान करें।",
+   551→      "(a) PCl_{5} त्रिकोणीय समतलीय",
+   552→      "(b) SF_{6} अष्टफलकीय",
+   553→      "(c) BeCl_{2} रैखिक",
+   554→      "(d) NH_{3} त्रिकोणीय पिरामिडीय",
+   555→      1.0,
+   556→      "PCl_{5} की ज्यामिति त्रिकोणीय द्विपिरामिडीय है, न कि त्रिकोणीय समतलीय।",
+   557→      "NEET (Oct.)",
+   558→      2020.0,
+   559→      null
+   560→    ]
+   561→  },
+   562→  {
+   563→    "sheet": "Class11",
+   564→    "row": 327,
+   565→    "data": [
+   566→      "Chemistry",
+   567→      3.0,
+   568→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   569→      "Hindi",
+   570→      "कॉलम I में दिए गए ज़ेनॉन यौगिकों का कॉलम II में दी गई उनकी संरचना से मिलान करें और सही कोड निर्दिष्ट करें:",
+   571→      "(a) (ii) (iii) (iv) (i)",
+   572→      "(b) (ii) (iii) (i) (iv)",
+   573→      "(c) (iii) (iv) (i) (ii)",
+   574→      "(d) (i) (ii) (iii) (iv)",
+   575→      1.0,
+   576→      "A(XeF_{4})-वर्ग समतलीय(ii); B(XeF_{6})-विकृत अष्टफलकीय(iii); C(XeOF_{4})-वर्ग पिरामिडीय(iv); D(XeO_{3})-पिरामिडीय(i)।",
+   577→      "NEET (National)",
+   578→      2019.0,
+   579→      null
+   580→    ]
+   581→  },
+   582→  {
+   583→    "sheet": "Class11",
+   584→    "row": 328,
+   585→    "data": [
+   586→      "Chemistry",
+   587→      3.0,
+   588→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   589→      "Hindi",
+   590→      "निम्नलिखित में से सही क्रम का अनुमान लगाइए।",
+   591→      "(a) एकाकी युग्म-एकाकी युग्म > बंध युग्म-बंध युग्म > एकाकी युग्म-बंध युग्म",
+   592→      "(b) बंध युग्म-बंध युग्म > एकाकी युग्म-बंध युग्म > एकाकी युग्म-एकाकी युग्म",
+   593→      "(c) एकाकी युग्म-बंध युग्म > बंध युग्म-बंध युग्म > एकाकी युग्म-एकाकी युग्म",
+   594→      "(d) एकाकी युग्म-एकाकी युग्म > एकाकी युग्म-बंध युग्म > बंध युग्म-बंध युग्म",
+   595→      4.0,
+   596→      "VSEPR सिद्धांत के अनुसार प्रतिकर्षण का क्रम: lp-lp > lp-bp > bp-bp है।",
+   597→      "NEET",
+   598→      "2016, Phase I",
+   599→      null
+   600→    ]
+   601→  },
+   602→  {
+   603→    "sheet": "Class11",
+   604→    "row": 329,
+   605→    "data": [
+   606→      "Chemistry",
+   607→      3.0,
+   608→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   609→      "Hindi",
+   610→      "अणुओं CH_{4}, NH_{3} और H_{2}O पर विचार करें। दिया गया कौन सा कथन गलत है?",
+   611→      "(a) H_{2}O में H-O-H बंध कोण CH_{4} में H-C-H बंध कोण से बड़ा है",
+   612→      "(b) H_{2}O में H-O-H बंध कोण NH_{3} में H-N-H बंध कोण से छोटा है",
+   613→      "(c) CH_{4} में H-C-H बंध कोण NH_{3} में H-N-H बंध कोण से बड़ा है",
+   614→      "(d) CH_{4} में H-C-H बंध कोण, NH_{3} में H-N-H बंध कोण और H_{2}O में H-O-H बंध कोण सभी 90° से अधिक हैं",
+   615→      1.0,
+   616→      "बंध कोण: CH_{4} (109.5°) > NH_{3} (107.5°) > H_{2}O (104.5°)। कथन (a) दावा करता है कि पानी का कोण मीथेन से बड़ा है, जो गलत है।",
+   617→      "NEET",
+   618→      "2016, Phase I",
+   619→      null
+   620→    ]
+   621→  },
+   622→  {
+   623→    "sheet": "Class11",
+   624→    "row": 330,
+   625→    "data": [
+   626→      "Chemistry",
+   627→      3.0,
+   628→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   629→      "Hindi",
+   630→      "NO_{2}^{+}, NO_{3}^{-} और NH_{4}^{+} में नाइट्रोजन के परमाणु कक्षकों का संकरण क्रमशः है:",
+   631→      "(a) sp, sp^{3} और sp^{2}",
+   632→      "(b) sp^{2}, sp^{3} और sp",
+   633→      "(c) sp, sp^{2} और sp^{3}",
+   634→      "(d) sp^{2}, sp और sp^{3}",
+   635→      3.0,
+   636→      "NO_{2}^{+} रैखिक (sp) है; NO_{3}^{-} त्रिकोणीय समतलीय (sp^{2}) है; NH_{4}^{+} चतुष्फलकीय (sp^{3}) है।",
+   637→      "NEET",
+   638→      "2016, Phase II",
+   639→      null
+   640→    ]
+   641→  },
+   642→  {
+   643→    "sheet": "Class11",
+   644→    "row": 331,
+   645→    "data": [
+   646→      "Chemistry",
+   647→      3.0,
+   648→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   649→      "Hindi",
+   650→      "निम्नलिखित में से किस प्रजाति में \\sigma और \\pi-बंधों की संख्या समान है?",
+   651→      "(a) HCO_{3}^{-}",
+   652→      "(b) XeO_{4}",
+   653→      "(c) (CN)_{2}",
+   654→      "(d) CH_{2}(CN)_{2}",
+   655→      2.0,
+   656→      "XeO_{4} की संरचना चतुष्फलकीय है जिसमें 4 द्विआबंध (Xe=O) होते हैं। इसमें 4 \\sigma और 4 \\pi बंध होते हैं।",
+   657→      "CBSE AIPMT",
+   658→      2015.0,
+   659→      null
+   660→    ]
+   661→  },
+   662→  {
+   663→    "sheet": "Class11",
+   664→    "row": 332,
+   665→    "data": [
+   666→      "Chemistry",
+   667→      3.0,
+   668→      "रासायनिक आबंधन तथा आण्विक संरचना",
+   669→      "Hindi",
+   670→      "आयनों का निम्नलिखित में से कौन सा युग्म समइलेक्ट्रॉनिक और समसंरचनात्मक है?",
+   671→      "(a) CO_{3}^{2-}, SO_{3}^{2-}",
+   672→      "(b) ClO_{3}^{-}, CO_{3}^{2-}",
+   673→      "(c) SO_{3}^{2-}, NO_{3}^{-}",
+   674→      "(d) ClO_{3}^{-}, SO_{3}^{2-}",
+   675→      4.0,
+   676→      "ClO_{3}^{-} (42 इलेक्ट्रॉन) और SO_{3}^{2-} (42 इलेक्ट्रॉन) समइलेक्ट्रॉनिक हैं और दोनों का आकार पिरामिडीय (sp^{3} एक एकाकी युग्म के साथ) है।",
+   677→      "CBSE AIPMT",
+   678→      2015.0,
+   679→      null
+   680→    ]
+   681→  },
+   682→  {
+   683→    "sheet": "Class11",
+   684→    "row": 334,
+   685→    "data": [
+   686→      "Chemistry",
+   687→      3.0,
+   688→      "Chemical Bonding and Molecular Structure",
+   689→      "English",
+   690→      "Which one of the following species has plane triangular shape?",
+   691→      "(a) N_{3}",
+   692→      "(b) NO_{3}^{-}",
+   693→      "(c) NO_{2}^{-}",
+   694→      "(d) CO_{2}",
+   695→      2.0,
+   696→      "NO_{3}^{-} is sp^{2} hybridised with no lone pair of electrons on central atom, N. It has a planar triangular shape. Others are linear.",
+   697→      "CBSE AIPMT",
+   698→      2014.0,
+   699→      null
+   700→    ]
+   701→  },
+   702→  {
+   703→    "sheet": "Class11",
+   704→    "row": 335,
+   705→    "data": [
+   706→      "Chemistry",
+   707→      3.0,
+   708→      "Chemical Bonding and Molecular Structure",
+   709→      "English",
+   710→      "Which of the following is a polar molecule?",
+   711→      "(a) BF_{3}",
+   712→      "(b) SF_{4}",
+   713→      "(c) SiF_{4}",
+   714→      "(d) XeF_{4}",
+   715→      2.0,
+   716→      "SF_{4} is unsymmetrical because of the presence of a lone pair of electrons (see-saw shape), making it polar. Others are symmetrical and non-polar.",
+   717→      "NEET",
+   718→      2013.0,
+   719→      null
+   720→    ]
+   721→  },
+   722→  {
+   723→    "sheet": "Class11",
+   724→    "row": 336,
+   725→    "data": [
+   726→      "Chemistry",
+   727→      3.0,
+   728→      "Chemical Bonding and Molecular Structure",
+   729→      "English",
+   730→      "Which of the following species contains three bond pairs and one lone pair around the central atom?",
+   731→      "(a) H_{2}O",
+   732→      "(b) BF_{3}",
+   733→      "(c) NH_{2}^{-}",
+   734→      "(d) PCl_{3}",
+   735→      4.0,
+   736→      "In PCl_{3}, the central P-atom has 5 valence electrons. It forms 3 bonds with Cl and has 1 lone pair remaining.",
+   737→      "NEET",
+   738→      2013.0,
+   739→      null
+   740→    ]
+   741→  },
+   742→  {
+   743→    "sheet": "Class11",
+   744→    "row": 337,
+   745→    "data": [
+   746→      "Chemistry",
+   747→      3.0,
+   748→      "Chemical Bonding and Molecular Structure",
+   749→      "English",
+   750→      "Considering the state of hybridisation of carbon atoms, find out the molecule among the following which is linear?",
+   751→      "(a) CH_{3}-C\\equiv C-CH_{3}",
+   752→      "(b) CH_{2}=CH-CH_{2}-C\\equiv CH",
+   753→      "(c) CH_{3}-CH_{2}-CH_{2}-CH_{3}",
+   754→      "(d) CH_{3}-CH=CH-CH_{3}",
+   755→      1.0,
+   756→      "In CH_{3}-C\\equiv C-CH_{3}, the triple bonded carbons are sp hybridised, which corresponds to a linear geometry (180^{\\circ} bond angle).",
+   757→      "CBSE AIPMT",
+   758→      2011.0,
+   759→      null
+   760→    ]
+   761→  },
+   762→  {
+   763→    "sheet": "Class11",
+   764→    "row": 338,
+   765→    "data": [
+   766→      "Chemistry",
+   767→      3.0,
+   768→      "Chemical Bonding and Molecular Structure",
+   769→      "English",
+   770→      "Which of the two ions from the list given below, have the geometry that is explained by the same hybridisation of orbitals, NO_{2}^{-}, NO_{3}^{-}, NH_{2}^{-}, NH_{4}^{+}, SCN^{-}?",
+   771→      "(a) NH_{4}^{+} and NO_{3}^{-}",
+   772→      "(b) SCN^{-} and NH_{2}^{-}",
+   773→      "(c) NO_{2}^{-} and NH_{2}^{-}",
+   774→      "(d) NO_{2}^{-} and NO_{3}^{-}",
+   775→      4.0,
+   776→      "Both NO_{2}^{-} and NO_{3}^{-} involve sp^{2} hybridisation of the nitrogen atom.",
+   777→      "CBSE AIPMT",
+   778→      2011.0,
+   779→      null
+   780→    ]
+   781→  },
+   782→  {
+   783→    "sheet": "Class11",
+   784→    "row": 339,
+   785→    "data": [
+   786→      "Chemistry",
+   787→      3.0,
+   788→      "Chemical Bonding and Molecular Structure",
+   789→      "English",
+   790→      "In which of the following pairs of molecules/ions, the central atoms have sp^{2} hybridisation?",
+   791→      "(a) NO_{2}^{-} and NH_{3}",
+   792→      "(b) BF_{3} and NO_{2}^{-}",
+   793→      "(c) NH_{2}^{-} and H_{2}O",
+   794→      "(d) BF_{3} and NH_{2}^{-}",
+   795→      2.0,
+   796→      "BF_{3} (3 \\sigma bonds, 0 lone pair) is sp^{2}. NO_{2}^{-} (2 \\sigma bonds, 1 lone pair) is also sp^{2}.",
+   797→      "CBSE AIPMT",
+   798→      2010.0,
+   799→      null
+   800→    ]
+   801→  },
+   802→  {
+   803→    "sheet": "Class11",
+   804→    "row": 340,
+   805→    "data": [
+   806→      "Chemistry",
+   807→      3.0,
+   808→      "Chemical Bonding and Molecular Structure",
+   809→      "English",
+   810→      "In which one of the following species the central atom has the type of hybridisation which is not the same as that present in the other three?",
+   811→      "(a) SF_{4}",
+   812→      "(b) I_{3}^{-}",
+   813→      "(c) SbCl_{5}^{2-}",
+   814→      "(d) PCl_{5}",
+   815→      3.0,
+   816→      "SbCl_{5}^{2-} involves sp^{3}d^{2} hybridisation. SF_{4}, I_{3}^{-}, and PCl_{5} all involve sp^{3}d hybridisation.",
+   817→      "CBSE AIPMT",
+   818→      2010.0,
+   819→      null
+   820→    ]
+   821→  },
+   822→  {
+   823→    "sheet": "Class11",
+   824→    "row": 341,
+   825→    "data": [
+   826→      "Chemistry",
+   827→      3.0,
+   828→      "Chemical Bonding and Molecular Structure",
+   829→      "English",
+   830→      "In which of the following molecules/ions BF_{3}, NO_{2}^{-}, NH_{2}^{-} and H_{2}O, the central atom is sp^{2} hybridised?",
+   831→      "(a) NO_{2}^{-} and NH_{2}^{-}",
+   832→      "(b) NH_{2}^{-} and H_{2}O",
+   833→      "(c) NO_{2}^{-} and H_{2}O",
+   834→      "(d) BF_{3} and NO_{2}^{-}",
+   835→      4.0,
+   836→      "BF_{3} (3 bonds, 0 lone pair) and NO_{2}^{-} (2 bonds, 1 lone pair) both have central atoms with sp^{2} hybridisation.",
+   837→      "CBSE AIPMT",
+   838→      2009.0,
+   839→      null
+   840→    ]
+   841→  },
+   842→  {
+   843→    "sheet": "Class11",
+   844→    "row": 342,
+   845→    "data": [
+   846→      "Chemistry",
+   847→      3.0,
+   848→      "Chemical Bonding and Molecular Structure",
+   849→      "English",
+   850→      "The angular shape of ozone molecule (O_{3}) consists of",
+   851→      "(a) 1 sigma and 2 pi-bonds",
+   852→      "(b) 2 sigma and 2 pi-bonds",
+   853→      "(c) 1 sigma and 1 pi-bonds",
+   854→      "(d) 2 sigma and 1 pi-bonds",
+   855→      4.0,
+   856→      "The ozone molecule has a resonance structure with one single bond and one double bond. Total bonds: 2 sigma and 1 pi.",
+   857→      "CBSE AIPMT",
+   858→      2008.0,
+   859→      null
+   860→    ]
+   861→  },
+   862→  {
+   863→    "sheet": "Class11",
+   864→    "row": 343,
+   865→    "data": [
+   866→      "Chemistry",
+   867→      3.0,
+   868→      "Chemical Bonding and Molecular Structure",
+   869→      "English",
+   870→      "In which of the following pairs, the two species are isostructural?",
+   871→      "(a) SF_{4} and XeF_{4}",
+   872→      "(b) SO_{3}^{2-} and NO_{3}^{-}",
+   873→      "(c) BF_{3} and NF_{3}",
+   874→      "(d) BrO_{3}^{-} and XeO_{3}",
+   875→      4.0,
+   876→      "Both BrO_{3}^{-} and XeO_{3} have pyramidal geometry (sp^{3} hybridisation with one lone pair).",
+   877→      "CBSE AIPMT",
+   878→      2007.0,
+   879→      null
+   880→    ]
+   881→  },
+   882→  {
+   883→    "sheet": "Class11",
+   884→    "row": 344,
+   885→    "data": [
+   886→      "Chemistry",
+   887→      3.0,
+   888→      "Chemical Bonding and Molecular Structure",
+   889→      "English",
+   890→      "Which of the following species has a linear shape?",
+   891→      "(a) NO_{2}^{-}",
+   892→      "(b) SO_{2}",
+   893→      "(c) NO_{2}^{+}",
+   894→      "(d) O_{3}",
+   895→      3.0,
+   896→      "NO_{2}^{+} involves sp hybridisation (2 \\sigma bonds, 0 lone pairs), resulting in a linear shape. Others are angular (sp^{2}).",
+   897→      "CBSE AIPMT",
+   898→      2006.0,
+   899→      null
+   900→    ]
+   901→  },
+   902→  {
+   903→    "sheet": "Class11",
+   904→    "row": 345,
+   905→    "data": [
+   906→      "Chemistry",
+   907→      3.0,
+   908→      "Chemical Bonding and Molecular Structure",
+   909→      "English",
+   910→      "Which of the following is not a correct statement?",
+   911→      "(a) The electron deficient molecules can act as Lewis acids",
+   912→      "(b) The canonical structures have no real existence",
+   913→      "(c) Every AB_{5} molecule does infact have square pyramid structure",
+   914→      "(d) Multiple bonds are always shorter than corresponding single bond",
+   915→      3.0,
+   916→      "Generally, AB_{5} molecules have trigonal bipyramidal structure (e.g., PCl_{5}), not square pyramidal.",
+   917→      "CBSE AIPMT",
+   918→      2006.0,
+   919→      null
+   920→    ]
+   921→  },
+   922→  {
+   923→    "sheet": "Class11",
+   924→    "row": 346,
+   925→    "data": [
+   926→      "Chemistry",
+   927→      3.0,
+   928→      "Chemical Bonding and Molecular Structure",
+   929→      "English",
+   930→      "Which of the following is not isostructural with SiCl_{4}?",
+   931→      "(a) SCl_{4}",
+   932→      "(b) SO_{4}^{2-}",
+   933→      "(c) PO_{4}^{3-}",
+   934→      "(d) NH_{4}^{+}",
+   935→      1.0,
+   936→      "SiCl_{4} is tetrahedral. SCl_{4} has a see-saw shape due to one lone pair (sp^{3}d hybridisation), so it is not isostructural.",
+   937→      "CBSE AIPMT",
+   938→      2006.0,
+   939→      null
+   940→    ]
+   941→  },
+   942→  {
+   943→    "sheet": "Class11",
+   944→    "row": 347,
+   945→    "data": [
+   946→      "Chemistry",
+   947→      3.0,
+   948→      "Chemical Bonding and Molecular Structure",
+   949→      "English",
+   950→      "Which of the following molecules has trigonal planar geometry?",
+   951→      "(a) IF_{3}",
+   952→      "(b) PCl_{3}",
+   953→      "(c) NH_{3}",
+   954→      "(d) BF_{3}",
+   955→      4.0,
+   956→      "BF_{3} has sp^{2} hybridisation with no lone pairs, giving it a trigonal planar geometry.",
+   957→      "CBSE AIPMT",
+   958→      2005.0,
+   959→      null
+   960→    ]
+   961→  },
+   962→  {
+   963→    "sheet": "Class11",
+   964→    "row": 348,
+   965→    "data": [
+   966→      "Chemistry",
+   967→      3.0,
+   968→      "Chemical Bonding and Molecular Structure",
+   969→      "English",
+   970→      "H_{2}O is dipolar, whereas BeF_{2} is not. It is because",
+   971→      "(a) the electronegativity of F is greater than that of O",
+   972→      "(b) H_{2}O involves hydrogen bonding whereas BeF_{2} is a discrete molecule",
+   973→      "(c) H_{2}O is linear and BeF_{2} angular",
+   974→      "(d) H_{2}O is angular and BeF_{2} is linear",
+   975→      4.0,
+   976→      "H_{2}O is angular (V-shape) due to lone pairs, creating a net dipole. BeF_{2} is linear (sp), so dipoles cancel out (\\mu=0).",
+   977→      "CBSE AIPMT",
+   978→      2004.0,
+   979→      null
+   980→    ]
+   981→  },
+   982→  {
+   983→    "sheet": "Class11",
+   984→    "row": 349,
+   985→    "data": [
+   986→      "Chemistry",
+   987→      3.0,
+   988→      "Chemical Bonding and Molecular Structure",
+   989→      "English",
+   990→      "In an octahedral structure, the pair of d orbitals involved in d^{2}sp^{3}-hybridisation is",
+   991→      "(a) d_{x^{2}-y^{2}}, d_{z^{2}}",
+   992→      "(b) d_{xz}, d_{x^{2}-y^{2}}",
+   993→      "(c) d_{z^{2}}, d_{xz}",
+   994→      "(d) d_{xy}, d_{yz}",
+   995→      1.0,
+   996→      "In octahedral hybridisation (d^{2}sp^{3} or sp^{3}d^{2}), the orbitals along the axes (d_{x^{2}-y^{2}} and d_{z^{2}}) are involved.",
+   997→      "CBSE AIPMT",
+   998→      2004.0,
+   999→      null
+  1000→    ]
+  1001→  }
+  1002→]

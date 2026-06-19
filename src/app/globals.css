@@ -1,0 +1,505 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-neon-orange: #f97316;
+  --color-neon-amber: #f59e0b;
+  --color-neon-green: #10b981;
+  --color-neon-red: #ef4444;
+}
+
+:root {
+  --radius: 0.625rem;
+  --background: #0a0a0f;
+  --foreground: #f5f5f5;
+  --card: rgba(255, 255, 255, 0.05);
+  --card-foreground: #f5f5f5;
+  --popover: #12121a;
+  --popover-foreground: #f5f5f5;
+  --primary: #f97316;
+  --primary-foreground: #ffffff;
+  --secondary: rgba(255, 255, 255, 0.08);
+  --secondary-foreground: #f5f5f5;
+  --muted: rgba(255, 255, 255, 0.06);
+  --muted-foreground: #a0a0a0;
+  --accent: rgba(249, 115, 22, 0.15);
+  --accent-foreground: #f97316;
+  --destructive: #ef4444;
+  --border: rgba(255, 255, 255, 0.08);
+  --input: rgba(255, 255, 255, 0.1);
+  --ring: #f97316;
+  --chart-1: #f97316;
+  --chart-2: #f59e0b;
+  --chart-3: #10b981;
+  --chart-4: #ef4444;
+  --chart-5: #8b5cf6;
+  --sidebar: #12121a;
+  --sidebar-foreground: #f5f5f5;
+  --sidebar-primary: #f97316;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: rgba(249, 115, 22, 0.15);
+  --sidebar-accent-foreground: #f97316;
+  --sidebar-border: rgba(255, 255, 255, 0.08);
+  --sidebar-ring: #f97316;
+}
+
+.dark {
+  --background: #0a0a0f;
+  --foreground: #f5f5f5;
+  --card: rgba(255, 255, 255, 0.05);
+  --card-foreground: #f5f5f5;
+  --popover: #12121a;
+  --popover-foreground: #f5f5f5;
+  --primary: #f97316;
+  --primary-foreground: #ffffff;
+  --secondary: rgba(255, 255, 255, 0.08);
+  --secondary-foreground: #f5f5f5;
+  --muted: rgba(255, 255, 255, 0.06);
+  --muted-foreground: #a0a0a0;
+  --accent: rgba(249, 115, 22, 0.15);
+  --accent-foreground: #f97316;
+  --destructive: #ef4444;
+  --border: rgba(255, 255, 255, 0.08);
+  --input: rgba(255, 255, 255, 0.1);
+  --ring: #f97316;
+  --chart-1: #f97316;
+  --chart-2: #f59e0b;
+  --chart-3: #10b981;
+  --chart-4: #ef4444;
+  --chart-5: #8b5cf6;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-geist-sans), system-ui, sans-serif;
+  }
+}
+
+/* ============ CUSTOM SCROLLBAR ============ */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(249, 115, 22, 0.3);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(249, 115, 22, 0.5);
+}
+
+/* ============ GLASSMORPHISM CARD ============ */
+.glass-card {
+  background: rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  transition: all 0.3s ease;
+}
+.glass-card:hover {
+  background: rgba(255, 255, 255, 0.07);
+  border-color: rgba(249, 115, 22, 0.2);
+  box-shadow: 0 0 30px rgba(249, 115, 22, 0.08);
+}
+
+/* ============ NEON GLOW BUTTON ============ */
+.neon-btn {
+  position: relative;
+  box-shadow: 0 0 15px rgba(249, 115, 22, 0.3), inset 0 0 15px rgba(249, 115, 22, 0.1);
+  transition: all 0.3s ease;
+}
+.neon-btn:hover {
+  box-shadow: 0 0 30px rgba(249, 115, 22, 0.5), inset 0 0 30px rgba(249, 115, 22, 0.15);
+  transform: translateY(-2px);
+}
+.neon-btn:active {
+  transform: translateY(0);
+}
+
+.neon-btn-green {
+  position: relative;
+  box-shadow: 0 0 15px rgba(16, 185, 129, 0.3), inset 0 0 15px rgba(16, 185, 129, 0.1);
+  transition: all 0.3s ease;
+}
+.neon-btn-green:hover {
+  box-shadow: 0 0 30px rgba(16, 185, 129, 0.5), inset 0 0 30px rgba(16, 185, 129, 0.15);
+  transform: translateY(-2px);
+}
+
+/* ============ NEON GLOW TEXT ============ */
+.neon-text {
+  text-shadow: 0 0 10px rgba(249, 115, 22, 0.5), 0 0 20px rgba(249, 115, 22, 0.3);
+}
+
+/* ============ GRADIENT TEXT ============ */
+.gradient-text {
+  background: linear-gradient(135deg, #f97316, #f59e0b, #ef4444);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ============ XP BAR SHIMMER ============ */
+.xp-bar-shimmer {
+  position: relative;
+  overflow: hidden;
+}
+.xp-bar-shimmer::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+  animation: shimmer 2s infinite;
+}
+
+/* ============ CONFETTI ============ */
+.confetti-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 9999;
+  overflow: hidden;
+}
+
+.confetti-piece {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: -10px;
+  animation: confetti-fall 2s ease-out forwards;
+}
+
+@keyframes confetti-fall {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(100vh) rotate(720deg);
+    opacity: 0;
+  }
+}
+
+/* ============ SCORE POPUP ============ */
+.score-popup {
+  position: absolute;
+  animation: score-float 1.5s ease-out forwards;
+  pointer-events: none;
+  font-weight: 800;
+  font-size: 1.25rem;
+  z-index: 50;
+}
+
+@keyframes score-float {
+  0% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: translateY(-40px) scale(1.2);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-80px) scale(0.8);
+    opacity: 0;
+  }
+}
+
+/* ============ SCREEN SHAKE ============ */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% { transform: translateX(-4px); }
+  20%, 40%, 60%, 80% { transform: translateX(4px); }
+}
+
+.screen-shake {
+  animation: shake 0.5s ease-in-out;
+}
+
+/* ============ TIMER PULSE ============ */
+@keyframes timer-pulse {
+  0%, 100% { transform: scale(1); box-shadow: 0 0 10px rgba(239, 68, 68, 0.3); }
+  50% { transform: scale(1.05); box-shadow: 0 0 25px rgba(239, 68, 68, 0.6); }
+}
+
+.timer-danger {
+  animation: timer-pulse 0.5s ease-in-out infinite;
+}
+
+/* ============ COMBO BOUNCE ============ */
+@keyframes combo-bounce {
+  0% { transform: scale(1); }
+  30% { transform: scale(1.4); }
+  50% { transform: scale(0.9); }
+  70% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+
+.combo-bounce {
+  animation: combo-bounce 0.6s ease-out;
+}
+
+/* ============ CORRECT/WRONG FLASH ============ */
+@keyframes correct-flash {
+  0% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.6); }
+  100% { box-shadow: 0 0 30px 10px rgba(16, 185, 129, 0); }
+}
+
+@keyframes wrong-flash {
+  0% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.6); }
+  100% { box-shadow: 0 0 30px 10px rgba(239, 68, 68, 0); }
+}
+
+.correct-glow {
+  animation: correct-flash 0.6s ease-out;
+  border-color: #10b981 !important;
+}
+
+.wrong-shake {
+  animation: wrong-flash 0.6s ease-out, shake 0.5s ease-in-out;
+  border-color: #ef4444 !important;
+}
+
+/* ============ PARTICLES (CSS-only) ============ */
+.particles {
+  position: relative;
+  overflow: hidden;
+}
+
+.particle {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  background: rgba(249, 115, 22, 0.6);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.particle:nth-child(1) { left: 10%; animation: float-particle 8s linear infinite; animation-delay: 0s; }
+.particle:nth-child(2) { left: 20%; animation: float-particle 12s linear infinite; animation-delay: 1s; }
+.particle:nth-child(3) { left: 30%; animation: float-particle 10s linear infinite; animation-delay: 2s; }
+.particle:nth-child(4) { left: 40%; animation: float-particle 9s linear infinite; animation-delay: 3s; }
+.particle:nth-child(5) { left: 50%; animation: float-particle 11s linear infinite; animation-delay: 0.5s; }
+.particle:nth-child(6) { left: 60%; animation: float-particle 7s linear infinite; animation-delay: 1.5s; }
+.particle:nth-child(7) { left: 70%; animation: float-particle 13s linear infinite; animation-delay: 2.5s; }
+.particle:nth-child(8) { left: 80%; animation: float-particle 8s linear infinite; animation-delay: 3.5s; }
+.particle:nth-child(9) { left: 90%; animation: float-particle 10s linear infinite; animation-delay: 0.3s; }
+.particle:nth-child(10) { left: 5%; animation: float-particle 11s linear infinite; animation-delay: 1.8s; }
+.particle:nth-child(11) { left: 15%; animation: float-particle 9s linear infinite; animation-delay: 2.8s; }
+.particle:nth-child(12) { left: 35%; animation: float-particle 12s linear infinite; animation-delay: 3.8s; }
+.particle:nth-child(13) { left: 55%; animation: float-particle 7s linear infinite; animation-delay: 0.8s; }
+.particle:nth-child(14) { left: 75%; animation: float-particle 10s linear infinite; animation-delay: 1.3s; }
+.particle:nth-child(15) { left: 95%; animation: float-particle 8s linear infinite; animation-delay: 2.3s; }
+
+@keyframes float-particle {
+  0% {
+    transform: translateY(100vh) translateX(0) scale(0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+    transform: translateY(90vh) translateX(20px) scale(1);
+  }
+  90% {
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateY(-10vh) translateX(-20px) scale(0);
+    opacity: 0;
+  }
+}
+
+/* ============ SHIMMER ANIMATION ============ */
+@keyframes shimmer {
+  0% { left: -100%; }
+  100% { left: 100%; }
+}
+
+/* ============ FADE IN UP ============ */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.5s ease-out;
+}
+
+/* ============ FLIP ANIMATION ============ */
+@keyframes flip-in {
+  0% {
+    transform: perspective(600px) rotateY(-90deg);
+    opacity: 0;
+  }
+  100% {
+    transform: perspective(600px) rotateY(0);
+    opacity: 1;
+  }
+}
+
+.flip-in {
+  animation: flip-in 0.5s ease-out;
+}
+
+/* ============ ACHIEVEMENT POPUP ============ */
+@keyframes achievement-slide-in {
+  0% {
+    transform: translateX(100%) scale(0.8);
+    opacity: 0;
+  }
+  50% {
+    transform: translateX(0) scale(1.05);
+  }
+  100% {
+    transform: translateX(0) scale(1);
+    opacity: 1;
+  }
+}
+
+.achievement-popup {
+  animation: achievement-slide-in 0.5s ease-out;
+}
+
+/* ============ COUNTING NUMBER ============ */
+@keyframes countUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ============ OPTION BUTTON NEON HOVER ============ */
+.option-btn {
+  position: relative;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.2s ease;
+  overflow: hidden;
+}
+.option-btn:hover:not(:disabled) {
+  background: rgba(249, 115, 22, 0.1);
+  border-color: rgba(249, 115, 22, 0.4);
+  box-shadow: 0 0 20px rgba(249, 115, 22, 0.15);
+  transform: translateX(4px);
+}
+.option-btn:active:not(:disabled) {
+  transform: translateX(2px);
+}
+.option-btn:disabled {
+  cursor: default;
+  opacity: 0.7;
+}
+.option-btn.selected-correct {
+  background: rgba(16, 185, 129, 0.2) !important;
+  border-color: #10b981 !important;
+  box-shadow: 0 0 20px rgba(16, 185, 129, 0.3);
+}
+.option-btn.selected-wrong {
+  background: rgba(239, 68, 68, 0.2) !important;
+  border-color: #ef4444 !important;
+  box-shadow: 0 0 20px rgba(239, 68, 68, 0.3);
+}
+.option-btn.reveal-correct {
+  background: rgba(16, 185, 129, 0.1) !important;
+  border-color: rgba(16, 185, 129, 0.5) !important;
+}
+
+/* ============ BACKGROUND GRADIENT ============ */
+.bg-main-gradient {
+  background: radial-gradient(ellipse at 20% 50%, rgba(249, 115, 22, 0.08) 0%, transparent 50%),
+              radial-gradient(ellipse at 80% 20%, rgba(245, 158, 11, 0.05) 0%, transparent 50%),
+              radial-gradient(ellipse at 50% 80%, rgba(239, 68, 68, 0.04) 0%, transparent 50%),
+              #0a0a0f;
+}
+
+/* ============ HEATMAP CELL ============ */
+.heatmap-cell {
+  width: 16px;
+  height: 16px;
+  border-radius: 2px;
+  transition: all 0.2s ease;
+}
+.heatmap-cell:hover {
+  transform: scale(1.3);
+}
+
+/* ============ PROGRESS RING ============ */
+@keyframes progress-fill {
+  from { stroke-dashoffset: 283; }
+}
+
+/* ============ LEADERBOARD BADGES ============ */
+.rank-1 {
+  background: linear-gradient(135deg, #f59e0b, #f97316);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.rank-2 {
+  background: linear-gradient(135deg, #94a3b8, #cbd5e1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.rank-3 {
+  background: linear-gradient(135deg, #cd7f32, #d4a574);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}

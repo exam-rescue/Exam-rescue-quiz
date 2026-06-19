@@ -1,0 +1,1503 @@
+   500→  4000→     A: bacteria
+   501→  4001→     B: fungi
+   502→  4002→     C: nematodes
+   503→  4003→     D: viruses
+   504→  4004→R 860 | BioCh30.0 | B | Which of the following is a pair of viral diseases?
+   505→  4005→     A: Ringworm, AIDS
+   506→  4006→     B: Common cold, AIDS
+   507→  4007→     C: Dysentery, common cold
+   508→  4008→     D: Typhoid, tuberculosis
+   509→  4009→R 861 | BioCh30.0 | D | Match the disease in column I with the appropriate items (pathogen/prevention/treatment) in column II:
+   510→  4010→     A: A–(i), B–(ii), C–(iii), D–(iv)
+   511→  4011→     B: A–(ii), B–(iv), C–(i), D–(iii)
+   512→  4012→     C: A–(ii), B–(i), C–(iii), D–(iv)
+   513→  4013→     D: A–(ii), B–(iii), C–(iv), D–(i)
+   514→  4014→R 862 | BioCh30.0 | D | Which one of the following is not correctly matched?
+   515→  4015→     A: Glossina palpalis — Sleeping sickness
+   516→  4016→     B: Culex pipiens — Filariasis
+   517→  4017→     C: Aedes aegypti — Yellow fever
+   518→  4018→     D: Anopheles culicifacies — Leishmaniasis
+   519→  4019→R 863 | BioCh30.0 | A | Salmonella is related with:
+   520→  4020→     A: typhoid
+   521→  4021→     B: polio
+   522→  4022→     C: TB
+   523→  4023→     D: tetanus
+   524→  4024→R 864 | BioCh30.0 | A | Which of these is most infectious disease?
+   525→  4025→     A: Hepatitis-B
+   526→  4026→     B: AIDS
+   527→  4027→     C: Cough and cold
+   528→  4028→     D: Malaria
+   529→  4029→R 865 | BioCh30.0 | D | Bovine spongiform encephalopathy is a bovine disease. To which of the following human diseases it is related?
+   530→  4030→     A: Kala-azar
+   531→  4031→     B: Encephalitis
+   532→  4032→     C: Cerebral spondylitis
+   533→  4033→     D: Creutzfeldt Jacob disease
+   534→  4034→R 866 | BioCh30.0 | B | A patient suffering from cholera is given saline drip because
+   535→  4035→     A: Cl− ions are important component of blood plasma
+   536→  4036→     B: Na +ions help to retain water in the body
+   537→  4037→     C: Na +ions are important in transport of substances across membrane
+   538→  4038→     D: Cl− ions help in the formation of HCl in stomach for digestion
+   539→  4039→R 867 | BioCh30.0 | B | Koch’s postulates are not applicable to
+   540→  4040→     A: cholera
+   541→  4041→     B: leprosy
+   542→  4042→     C: TB
+   543→  4043→     D: diphtheria
+   544→  4044→R 868 | BioCh30.0 | B | Typhoid fever is caused by
+   545→  4045→     A: Giardia
+   546→  4046→     B: Salmonella
+   547→  4047→     C: Shigella
+   548→  4048→     D: Escherichia
+   549→  4049→R 869 | BioCh30.0 | D | Botulism caused by Clostridium botulinum affects the
+   550→  4050→     A: spleen
+   551→  4051→     B: intestine
+   552→  4052→     C: lymph glands
+   553→  4053→     D: neuromuscular junction
+   554→  4054→R 870 | BioCh30.0 | A | Diphtheria is caused by
+   555→  4055→     A: poisons released by living bacterial cells into the host tissue
+   556→  4056→     B: poisons released from dead bacterial cells into the host tissue
+   557→  4057→     C: poisons released by virus into the host tissues
+   558→  4058→     D: excessive immune response by the host’s body
+   559→  4059→R 871 | BioCh30.0 | A | Which of the following disease is now considered nearly eradicated from India?
+   560→  4060→     A: Smallpox
+   561→  4061→     B: Polio myelitis
+   562→  4062→     C: Plague
+   563→  4063→     D: Kala-azar
+   564→  4064→R 872 | BioCh30.0 | A | Which of the following pair of diseases is caused by virus?
+   565→  4065→     A: Rabies, mumps
+   566→  4066→     B: Cholera, tuberculosis
+   567→  4067→     C: Typhoid, tetanus
+   568→  4068→     D: AIDS, syphilis
+   569→  4069→R 873 | BioCh30.0 | D | In which one of the following pairs of diseases both are caused by viruses?
+   570→  4070→     A: Tetanus and typhoid
+   571→  4071→     B: Whooping cough and sleeping sickness
+   572→  4072→     C: Syphilis and AIDS
+   573→  4073→     D: Measles and rabies
+   574→  4074→R 874 | BioCh30.0 | D | Give the correct matching of causative agent/germ and disease
+   575→  4075→     A: Anopheles — malaria
+   576→  4076→     B: Leishmania — sleeping sickness
+   577→  4077→     C: Glossina — kala-azar
+   578→  4078→     D: Wuchereria — filariasis
+   579→  4079→R 875 | BioCh30.0 | A | The part of life cycle of malarial parasite Plasmodium vivax, that is passed in female Anopheles is
+   580→  4080→     A: sexual cycle
+   581→  4081→     B: pre-erythrocytic schisogony
+   582→  4082→     C: exo-erythrocytic schisogony
+   583→  4083→     D: post-erythrocytic schisogony
+   584→  4084→R 876 | BioCh30.0 | C | Who discovered Plasmodium in RBCs of human beings?
+   585→  4085→     A: Ronald Ross
+   586→  4086→     B: Mendel
+   587→  4087→     C: Laveran
+   588→  4088→     D: Stephen
+   589→  4089→R 877 | BioCh30.0 | A | Malignant tertian malarial is caused by
+   590→  4090→     A: Plasmodium falciparum
+   591→  4091→     B: P. vivax
+   592→  4092→     C: P. ovale
+   593→  4093→     D: P. malariae
+   594→  4094→R 878 | BioCh30.0 | D | In hot summer and cold winter, the number of malaria cases as well as Anopheles declines, reappearance of mala
+   595→  4095→     A: surviving malarial parasites in human carriers
+   596→  4096→     B: surviving sporozoites in surviving mosquitoes
+   597→  4097→     C: monkeys
+   598→  4098→     D: mosquito larvae in permanent waters
+   599→  4099→R 879 | BioCh30.0 | C | Amoebiasis is prevented by
+   600→  4100→     A: eating balanced food
+   601→  4101→     B: eating plenty of fruits
+   602→  4102→     C: drinking boiled water
+   603→  4103→     D: using mosquito nets
+   604→  4104→R 880 | BioCh30.0 | B | The vector for sleeping sickness is
+   605→  4105→     A: house fly
+   606→  4106→     B: tse-tse fly
+   607→  4107→     C: sand fly
+   608→  4108→     D: fruit fly
+   609→  4109→R 881 | BioCh30.0 | B | The infective state of malarial parasite Plasmodium that enters human body is
+   610→  4110→     A: merozoite
+   611→  4111→     B: sporozoite
+   612→  4112→     C: trophozoite
+   613→  4113→     D: minuta form
+   614→  4114→R 882 | BioCh30.0 | C | Malaria fever coincides with liberation of
+   615→  4115→     A: cryptomerozoites
+   616→  4116→     B: metacryptomerozoites
+   617→  4117→     C: merozoites
+   618→  4118→     D: trophozoites
+   619→  4119→R 883 | BioCh30.0 | A | The Adenosine deaminase deficiency results into
+   620→  4120→     A: dysfunction of immune system
+   621→  4121→     B: Parkinson’s disease
+   622→  4122→     C: digestive disorder
+   623→  4123→     D: Addison’s disease
+   624→  4124→R 884 | BioCh30.0 | A | The yellowish fluid ‘colostrum’ secreted by mammary glands of mother during the initial days of lactation has 
+   625→  4125→     A: passive immunity
+   626→  4126→     B: active immunity
+   627→  4127→     C: acquired immunity
+   628→  4128→     D: autoimmunity
+   629→  4129→R 885 | BioCh30.0 | B | Identify the wrong statement with reference to immunity.
+   630→  4130→     A: When readymade antibodies are directly given, it is called ‘passive immunity’
+   631→  4131→     B: Active immunity is quick and gives full response
+   632→  4132→     C: Foetus receives some antibodies from mother, it is an example for passive immuni
+   633→  4133→     D: When exposed to antigen (living or dead) antibodies are produced in the host’s b
+   634→  4134→R 886 | BioCh30.0 | C | Humans have acquired immune system that produces antibodies to neutralise pathogens. Still innate immune syste
+   635→  4135→     A: is very specific and uses different macrophages
+   636→  4136→     B: produces memory cells for mounting fast secondary response
+   637→  4137→     C: has natural killer cells which can phagocytose and destroy microbes
+   638→  4138→     D: provides passive immunity
+   639→  4139→R 887 | BioCh30.0 | A | Which of the following diseases is an autoimmune disorder?
+   640→  4140→     A: Myasthenia gravis
+   641→  4141→     B: Arthritis
+   642→  4142→     C: Osteoporosis
+   643→  4143→     D: Gout
+   644→  4144→R 888 | BioCh30.0 | B | Concanavalin A is
+   645→  4145→     A: an essential oil
+   646→  4146→     B: a lectin
+   647→  4147→     C: a pigment
+   648→  4148→     D: an alkaloid
+   649→  4149→R 889 | BioCh30.0 | C | Which of the following immune responses is responsible for rejection of kidney graft?
+   650→  4150→     A: Humoral immune response
+   651→  4151→     B: Inflammatory immune response
+   652→  4152→     C: Cell-mediated immune response
+   653→  4153→     D: Auto-immune response
+   654→  4154→R 890 | BioCh30.0 | A | Which of the following is not an autoimmune disease?
+   655→  4155→     A: Alzheimer’s disease
+   656→  4156→     B: Rheumatoid arthritis
+   657→  4157→     C: Psoriasis
+   658→  4158→     D: Vitiligo
+   659→  4159→R 891 | BioCh30.0 | A | MALT constitutes about ................. per cent of the lymphoid tissue in human body.
+   660→  4160→     A: 0.5
+   661→  4161→     B: 0.2
+   662→  4162→     C: 0.7
+   663→  4163→     D: 0.1
+   664→  4164→R 892 | BioCh30.0 | B | Transplantation of tissues/organs fails often due to non-acceptance by the patient’s body. Which type of immun
+   665→  4165→     A: Autoimmune response
+   666→  4166→     B: Cell-mediated immune response
+   667→  4167→     C: Hormonal immune response
+   668→  4168→     D: Physiological immune response
+   669→  4169→R 893 | BioCh30.0 | B | In higher vertebrates, the immune system can distinguish self-cells and non-self. If this property is lost due
+   670→  4170→     A: graft rejection
+   671→  4171→     B: auto-immune disease
+   672→  4172→     C: active immunity
+   673→  4173→     D: allergic response
+   674→  4174→R 894 | BioCh30.0 | B | Antivenom injection contains preformed antibodies while polio drops that are administered into the body contai
+   675→  4175→     A: harvested antibodies
+   676→  4176→     B: live attenuated pathogen
+   677→  4177→     C: killed attenuated pathogen
+   678→  4178→     D: weakened pathogen
+   679→  4179→R 895 | BioCh30.0 | B | Grafted kidney may be rejected in a patient due to
+   680→  4180→     A: humoral immune response
+   681→  4181→     B: cell-mediated immune response
+   682→  4182→     C: passive immune response
+   683→  4183→     D: innate immune response
+   684→  4184→R 896 | BioCh30.0 | C | Which of the following immunoglobulins does constitute the largest percentage in human milk?
+   685→  4185→     A: IgD
+   686→  4186→     B: IgM
+   687→  4187→     C: IgA
+   688→  4188→     D: IgG
+   689→  4189→R 897 | BioCh30.0 | A | The cell-mediated immunity inside the human body is carried out by
+   690→  4190→     A: T-lymphocytes
+   691→  4191→     B: B-lymphocytes
+   692→  4192→     C: thrombocytes
+   693→  4193→     D: erythrocytes
+   694→  4194→R 898 | BioCh30.0 | D | If you suspect major deficiency of antibodies in a person, to which of the following would you look for confir
+   695→  4195→     A: Fibrinogin in plasma
+   696→  4196→     B: Serum albumins
+   697→  4197→     C: Haemocytes
+   698→  4198→     D: Serum globulins
+   699→  4199→R 899 | BioCh30.0 | A | Which one of the following statements is correct with respect to immunity?
+   700→  4200→     A: Preformed antibodies need to be injected to treat the bite by a viper snake
+   701→  4201→     B: The antibodies against smallpox pathogen are produced by T-lymphocytes
+   702→  4202→     C: Rejection of a kidney graft is the function of B-lymphocytes
+   703→  4203→     D: Antibodies are protein molecules, each of which has four light chains
+   704→  4204→R 900 | BioCh30.0 | A | In which one of the following options the two examples are correctly matched with their particular type of imm
+   705→  4205→     A: Polymorphonuclear leukocytes and monocytes | Cellular barriers
+   706→  4206→     B: Anti-tetanus and anti-snake bite injections | Active immunity
+   707→  4207→     C: Saliva in mouth and tears in eyes | Physical barriers
+   708→  4208→     D: Mucus coating of epithelium lining the urinogenital tract and the HCl in stomach
+   709→  4209→R 901 | BioCh30.0 | C | Oral polio vaccine consists of
+   710→  4210→     A: gamma globulin
+   711→  4211→     B: serum anti-toxin
+   712→  4212→     C: attenuated pathogens
+   713→  4213→     D: activated pathogens
+   714→  4214→R 902 | BioCh30.0 | D | Consider the following four statements (I-IV) regarding kidney transplant and select the two correct ones out 
+   715→  4215→     A: II and III
+   716→  4216→     B: III and IV
+   717→  4217→     C: I and III
+   718→  4218→     D: I and II
+   719→  4219→R 903 | BioCh30.0 | B | A person likely to develop tetanus is immunised by administering
+   720→  4220→     A: dead germs
+   721→  4221→     B: preformed antibodies
+   722→  4222→     C: wide spectrum antibiotics
+   723→  4223→     D: weakened germs
+   724→  4224→R 904 | BioCh30.0 | A | Globulins contained in human blood plasma are primarily involved in
+   725→  4225→     A: defence mechanisms of body
+   726→  4226→     B: osmotic balance of body fluids
+   727→  4227→     C: oxygen transport in the blood
+   728→  4228→     D: clotting of blood
+   729→  4229→R 905 | BioCh30.0 | D | The letter T in T-lymphocyte refers to
+   730→  4230→     A: thyroid
+   731→  4231→     B: thalamus
+   732→  4232→     C: tonsil
+   733→  4233→     D: thymus
+   734→  4234→R 906 | BioCh30.0 | A | Use of anti-histamines and steroids give a quick relief from
+   735→  4235→     A: allergy
+   736→  4236→     B: nausea
+   737→  4237→     C: cough
+   738→  4238→     D: headache
+   739→  4239→R 907 | BioCh30.0 | C | To which type of barriers under innate immunity, do the saliva in the mouth and the tears from the eyes, belon
+   740→  4240→     A: Cytokine barriers
+   741→  4241→     B: Cellular barriers
+   742→  4242→     C: Physiological barriers
+   743→  4243→     D: Physical barriers
+   744→  4244→R 908 | BioCh30.0 | B | If you suspect major deficiency of antibodies in a person, to which of the following would you look for confir
+   745→  4245→     A: Serum albumins
+   746→  4246→     B: Serum globulins
+   747→  4247→     C: Fibrinogen in plasma
+   748→  4248→     D: Haemocytes
+   749→  4249→R 909 | BioCh30.0 | C | Increased asthmatic attacks in certain seasons are related to
+   750→  4250→     A: hot and humid environment
+   751→  4251→     B: eating fruits preserved in tin containers
+   752→  4252→     C: inhalation of seasonal pollen
+   753→  4253→     D: low temperature
+   754→  4254→R 910 | BioCh30.0 | C | What is true about T-lymphocytes in mammals?
+   755→  4255→     A: They scavenge damaged cells and cellular debris
+   756→  4256→     B: These are produced in thyroid
+   757→  4257→     C: There are three main types–cytotoxic T-cells, helper T-cells and suppressor T-ce
+   758→  4258→     D: These originate in lymphoid tissues
+   759→  4259→R 911 | BioCh30.0 | A | The term ‘antibiotic’ was coined by
+   760→  4260→     A: Selman Waksman
+   761→  4261→     B: Alexander Fleming
+   762→  4262→     C: Edward Jenner
+   763→  4263→     D: Louis Pasteur
+   764→  4264→R 912 | BioCh30.0 | C | Interferons are synthesised in response to
+   765→  4265→     A: Mycoplasma
+   766→  4266→     B: bacteria
+   767→  4267→     C: viruses
+   768→  4268→     D: fungi
+   769→  4269→R 913 | BioCh30.0 | B | Small proteins produced by vertebrate cells naturally in response to viral infections and which inhibit mutlip
+   770→  4270→     A: immunoglobulins
+   771→  4271→     B: interferons
+   772→  4272→     C: antitoxins
+   773→  4273→     D: lipoproteins
+   774→  4274→R 914 | BioCh30.0 | B | If a person shows production of interferons in his body, the chances are that he has got an infection of
+   775→  4275→     A: typhoid
+   776→  4276→     B: measles
+   777→  4277→     C: tetanus
+   778→  4278→     D: malaria
+   779→  4279→R 915 | BioCh30.0 | A | Passive immunity was discovered by
+   780→  4280→     A: Edward Jenner
+   781→  4281→     B: Emil von Behring
+   782→  4282→     C: Robert Koch
+   783→  4283→     D: Louis Pasteur
+   784→  4284→R 916 | BioCh30.0 | A | Hypersensitivity to an allergen is associated with
+   785→  4285→     A: aberrant functioning of the immune mechanism
+   786→  4286→     B: increase in ambient temperature
+   787→  4287→     C: age of the individual
+   788→  4288→     D: food habits
+   789→  4289→R 917 | BioCh30.0 | C | Which of the following diseases is due to an allergic reaction?
+   790→  4290→     A: Goitre
+   791→  4291→     B: Skin cancer
+   792→  4292→     C: Hay fever
+   793→  4293→     D: Enteric fever
+   794→  4294→R 918 | BioCh30.0 | B | Cells involved in immune mechanism are
+   795→  4295→     A: erythrocytes
+   796→  4296→     B: lymphocytes
+   797→  4297→     C: eosinophils
+   798→  4298→     D: thrombocytes
+   799→  4299→R 919 | BioCh30.0 | B | Small proteins produced by vertebrate cells naturally in response to viral infections and which inhibit multip
+   800→  4300→     A: immunoglobulins
+   801→  4301→     B: interferons
+   802→  4302→     C: antitoxins
+   803→  4303→     D: lipoproteins
+   804→  4304→R 920 | BioCh30.0 | C | The antibodies are
+   805→  4305→     A: germs
+   806→  4306→     B: carbohydrates
+   807→  4307→     C: proteins
+   808→  4308→     D: lipids
+   809→  4309→R 921 | BioCh30.0 | D | In mammals, histamine is secreted by
+   810→  4310→     A: fibroblasts
+   811→  4311→     B: histocytes
+   812→  4312→     C: lymphocytes
+   813→  4313→     D: mast cells
+   814→  4314→R 922 | BioCh30.0 | A | Interferons are
+   815→  4315→     A: antiviral proteins
+   816→  4316→     B: antibacterial proteins
+   817→  4317→     C: anticancer proteins
+   818→  4318→     D: complex proteins
+   819→  4319→R 923 | BioCh30.0 | C | For effective treatment of the disease, early diagnosis and understanding its pathophysiology is very importan
+   820→  4320→     A: Western Blotting Technique
+   821→  4321→     B: Southern Blotting Technique
+   822→  4322→     C: ELISA Technique
+   823→  4323→     D: Hybridisation Technique
+   824→  4324→R 924 | BioCh30.0 | B | Which of the following is correct regarding AIDS causative agent HIV?
+   825→  4325→     A: HIV is enveloped virus containing one molecule of single-stranded RNA and one mo
+   826→  4326→     B: HIV is enveloped virus that contains two identical molecules of single-stranded 
+   827→  4327→     C: HIV is unenveloped retrovirus
+   828→  4328→     D: HIV does not escape but attacks the acquired immune response
+   829→  4329→R 925 | BioCh30.0 | C | At which stage of HIV infection does one usually show symptoms of AIDS?
+   830→  4330→     A: Within 15 days of sexual contact with an infected person
+   831→  4331→     B: When the infected retrovirus enters host cells
+   832→  4332→     C: When HIV damages large number of helper T-lymphocytes
+   833→  4333→     D: When the viral DNA is produced by reverse transcriptase
+   834→  4334→R 926 | BioCh30.0 | D | Which one of the following is not a property of cancerous cells, whereas the remaining three are?
+   835→  4335→     A: They compete with normal cells for vital nutrients
+   836→  4336→     B: They do not remain confined in the area of formation
+   837→  4337→     C: They divide in an uncontrolled manner
+   838→  4338→     D: They show contact inhibition
+   839→  4339→R 927 | BioCh30.0 | D | A certain patient is suspected to be suffering from acquired immuno deficiency syndrome. Which diagnostic tech
+   840→  4340→     A: MRI
+   841→  4341→     B: Ultra sound
+   842→  4342→     C: WIDAL
+   843→  4343→     D: ELISA
+   844→  4344→R 928 | BioCh30.0 | D | Which one of the following statements is correct with respect to AIDS?
+   845→  4345→     A: The HIV can be transmitted through eating food together with an infected person
+   846→  4346→     B: Drug addicts are least susceptible to HIV infection
+   847→  4347→     C: AIDS patients are being fully cured cent per cent with proper care and nutrition
+   848→  4348→     D: The causative HIV retrovirus enters helper T-lymphocytes thus, reducing their nu
+   849→  4349→R 929 | BioCh30.0 | D | Which one of the following statements is correct?
+   850→  4350→     A: Patients, who had undergone surgery are given cannabinoids to relieve pain
+   851→  4351→     B: Benign tumours show the property of metastasis
+   852→  4352→     C: Heroin accelerates body functions
+   853→  4353→     D: Malignant tumours may exhibit metastasis
+   854→  4354→R 930 | BioCh30.0 | D | Carcinoma refers to
+   855→  4355→     A: malignant tumours of the colon
+   856→  4356→     B: benign tumours of the connective tissue
+   857→  4357→     C: malignant tumours of the connective tissue
+   858→  4358→     D: malignant tumours of the skin or mucous membrane
+   859→  4359→R 931 | BioCh30.0 | C | ELISA is used to detect viruses where the key reagent is
+   860→  4360→     A: DNA probe
+   861→  4361→     B: RNase
+   862→  4362→     C: alkaline phosphatase
+   863→  4363→     D: catalase
+   864→  4364→R 932 | BioCh30.0 | A | Cancerous cells can easily be destroyed by radiation due to
+   865→  4365→     A: rapid cell division
+   866→  4366→     B: lack of nutrition
+   867→  4367→     C: fast mutation
+   868→  4368→     D: lack of oxygen
+   869→  4369→R 933 | BioCh30.0 | C | Reason of lung cancer is
+   870→  4370→     A: coal mining
+   871→  4371→     B: calcium fluoride
+   872→  4372→     C: cement factory
+   873→  4373→     D: bauxite mining
+   874→  4374→R 934 | BioCh30.0 | B | Human Immunodeficiency Virus (HIV) has a protein coat and a genetic material which is
+   875→  4375→     A: single stranded DNA
+   876→  4376→     B: single stranded RNA
+   877→  4377→     C: double stranded RNA
+   878→  4378→     D: double stranded DNA
+   879→  4379→R 935 | BioCh30.0 | D | Which of the following symptoms indicate radiation sickness ?
+   880→  4380→     A: Red and ulcerated skin
+   881→  4381→     B: Nausea and anaemia
+   882→  4382→     C: Nausea and loss of hair
+   883→  4383→     D: Ulcerated skin, nausea and loss of hair
+   884→  4384→R 936 | BioCh30.0 | B | Which of the following will be curable in next two decades?
+   885→  4385→     A: tuberculosis
+   886→  4386→     B: cancer
+   887→  4387→     C: polio myelitis
+   888→  4388→     D: None of these
+   889→  4389→R 937 | BioCh30.0 | B | Retroviruses are implicated as a cause for cancer in humans because they
+   890→  4390→     A: carry gene for reverse transcriptase
+   891→  4391→     B: may carry cellular protooncogenes in their genome
+   892→  4392→     C: may carry v-oncogenes in their genome
+   893→  4393→     D: carry single stranded RNA as their genetic material
+   894→  4394→R 938 | BioCh30.0 | B | Cirrhosis of liver is caused by the chronic intake of
+   895→  4395→     A: opium
+   896→  4396→     B: alcohol
+   897→  4397→     C: tobacco (chewing)
+   898→  4398→     D: cocaine
+   899→  4399→R 939 | BioCh30.0 | B | Select the correct statement from the ones given below.
+   900→  4400→     A: Barbiturates when given to criminals make them tell the truth
+   901→  4401→     B: Morphine is often given to persons who have under gone surgery as a pain killer
+   902→  4402→     C: Chewing tobacco lowers blood pressure and heart rate
+   903→  4403→     D: Cocaine is given to patients after surgery as it stimulates recovery
+   904→  4404→R 940 | BioCh30.0 | A | Which one of the following is the correct statement regarding the particular psychotropic drug specified?
+   905→  4405→     A: Hashish causes alter thought perceptions and hallucinations
+   906→  4406→     B: Opium stimulates nervous system and causes hallucinations
+   907→  4407→     C: Morphine leads to delusions and disturbed emotions
+   908→  4408→     D: Barbiturates cause relaxation and temporary euphoria
+   909→  4409→R 941 | BioCh30.0 | A | A person showing unpredictable moods, outbursts of emotion, quarrelsome behaviour and conflicts with others is
+   910→  4410→     A: schizophrenia
+   911→  4411→     B: Borderline Personality Disorder (BPD)
+   912→  4412→     C: mood disorders
+   913→  4413→     D: addictive disorders
+   914→  4414→R 942 | BioCh30.0 | A | Which one of the following depresses brain activity and produces feelings of calmness, relaxation and drowsine
+   915→  4415→     A: Valium
+   916→  4416→     B: Morphine
+   917→  4417→     C: Hashish
+   918→  4418→     D: Amphetamines
+   919→  4419→R 943 | BioCh30.0 | B | Which of the following is an opiate narcotic?
+   920→  4420→     A: Barbiturates
+   921→  4421→     B: Morphine
+   922→  4422→     C: Amphetamines
+   923→  4423→     D: LSD
+   924→  4424→R 944 | BioCh30.0 | B | Nicotine acts as a stimulant, because it nimics the effect of
+   925→  4425→     A: thyroxine
+   926→  4426→     B: acetylcholine
+   927→  4427→     C: testosterone
+   928→  4428→     D: dopamine
+   929→  4429→R 945 | BioCh30.0 | C | Opiate narcotic is
+   930→  4430→     A: bhang
+   931→  4431→     B: charas
+   932→  4432→     C: heroin
+   933→  4433→     D: nicotine
+   934→  4434→R 946 | BioCh31.0 | B | Which of the following is a method of plant breeding?
+   935→  4435→     A: Apomixis
+   936→  4436→     B: Hybridization
+   937→  4437→     C: Budding
+   938→  4438→     D: Tissue culture
+   939→  4439→R 947 | BioCh31.0 | B | What is the primary goal of a seminiferous tubule in males?
+   940→  4440→     A: Production of testosterone
+   941→  4441→     B: Maturation of sperm
+   942→  4442→     C: Storage of sperm
+   943→  4443→     D: Production of seminal fluid
+   944→  4444→R 948 | BioCh31.0 | C | Which of the following is a desirable trait in crop plants for increasing yield?
+   945→  4445→     A: Drought sensitivity
+   946→  4446→     B: Pest susceptibility
+   947→  4447→     C: High protein content
+   948→  4448→     D: Short breeding cycle
+   949→  4449→R 949 | BioCh31.0 | D | What is the main purpose of artificial insemination?
+   950→  4450→     A: To increase genetic diversity
+   951→  4451→     B: To introduce desirable traits into livestock
+   952→  4452→     C: To overcome infertility
+   953→  4453→     D: All of the above
+   954→  4454→R 950 | BioCh31.0 | D | Human population growth in India
+   955→  4455→     A: tends to follow a sigmoid curve as in case of many other animal species
+   956→  4456→     B: tends to reach zero population growth as in case of some animal species
+   957→  4457→     C: can be reduced by permitting natural calamities and enforcing birth control meas
+   958→  4458→     D: can be regulated by following the National programme of family planning
+   959→  4459→R 951 | BioCh31.0 | C | In India, human population is heavily weighed towards the younger age groups as a result of
+   960→  4460→     A: short life span of many individuals and low birth rate
+   961→  4461→     B: long life span of many individuals and low birth rate
+   962→  4462→     C: short life span of many individuals and high birth rate
+   963→  4463→     D: long life span of many individuals and high birth rate
+   964→  4464→R 952 | BioCh31.0 | C | Which of the following diseases is caused by a protozoan?
+   965→  4465→     A: Syphilis
+   966→  4466→     B: Influenza
+   967→  4467→     C: Babesiosis
+   968→  4468→     D: Blastomycosis
+   969→  4469→R 953 | BioCh31.0 | A | Infection of Ascaris usually occurs by:
+   970→  4470→     A: drinking water containing egg of Ascaris
+   971→  4471→     B: eating imperfectly cooked pork
+   972→  4472→     C: tse-tse fly
+   973→  4473→     D: mosquito bite
+   974→  4474→R 954 | BioCh31.0 | B | Which one of the following pairs is not correctly matched?
+   975→  4475→     A: Streptomyces — Antibiotic
+   976→  4476→     B: Serratia — Drug addiction
+   977→  4477→     C: Spirulina — Single cell protein
+   978→  4478→     D: Rhizobium — Biofertiliser
+   979→  4479→R 955 | BioCh31.0 | B | Which one of the following is a disease of poultry?
+   980→  4480→     A: Coryza
+   981→  4481→     B: New castle disease
+   982→  4482→     C: Pasteurellosis
+   983→  4483→     D: Salmonellosis
+   984→  4484→R 956 | BioCh31.0 | A | Which one of the following pair is mismatched?
+   985→  4485→     A: Pila globosa — Pearl
+   986→  4486→     B: Apis indica — Honey
+   987→  4487→     C: Kenia lacca — Lac
+   988→  4488→     D: Bombyx mori — Silk
+   989→  4489→R 957 | BioCh31.0 | A | The world’s highly prized wool yielding ‘Pashmina’ breed is
+   990→  4490→     A: goat
+   991→  4491→     B: sheep
+   992→  4492→     C: goat-sheep cross
+   993→  4493→     D: Kashmir sheep–Afghan sheep cross
+   994→  4494→R 958 | BioCh31.0 | A | High milk yielding varieties of cows are obtained by
+   995→  4495→     A: super ovulation
+   996→  4496→     B: artificial insemination
+   997→  4497→     C: use of surrogate mother
+   998→  4498→     D: All of the above
+   999→  4499→R 959 | BioCh31.0 | C | Pebrine is a disease of
+  1000→  4500→     A: honeybee
+  1001→  4501→     B: fish
+  1002→  4502→     C: silkworm
+  1003→  4503→     D: lac insect
+  1004→  4504→R 960 | BioCh31.0 | C | Pasteurisation of milk involve heating for
+  1005→  4505→     A: 60 min at about 90°C
+  1006→  4506→     B: 30 min at about 50°C
+  1007→  4507→     C: 30 min at about 65°C
+  1008→  4508→     D: 60 min at 100°C
+  1009→  4509→R 961 | BioCh31.0 | C | The silkworm silk is the product of
+  1010→  4510→     A: cuticle of the larva
+  1011→  4511→     B: cuticle of the adult
+  1012→  4512→     C: salivary gland of the larva
+  1013→  4513→     D: salivary gland of the adult
+  1014→  4514→R 962 | BioCh31.0 | B | Which of the following is not an objective of biofortification in crops?
+  1015→  4515→     A: Improve protein content
+  1016→  4516→     B: Improve resistance to diseases
+  1017→  4517→     C: Improve vitamin content
+  1018→  4518→     D: Improve micronutrient and mineral content
+  1019→  4519→R 963 | BioCh31.0 | C | Mutations in plant cells can be induced by
+  1020→  4520→     A: kinetin
+  1021→  4521→     B: infrared rays
+  1022→  4522→     C: gamma rays
+  1023→  4523→     D: zeatin
+  1024→  4524→R 964 | BioCh31.0 | A | In mung bean, resistance to yellow mosaic virus and powdery mildew were brought about by
+  1025→  4525→     A: mutation breeding
+  1026→  4526→     B: biofortification
+  1027→  4527→     C: tissue culture
+  1028→  4528→     D: hybridisation and selection
+  1029→  4529→R 965 | BioCh31.0 | B | Match the List -I with List - II.
+  1030→  4530→List-I
+  1031→  4531→List-II
+  1032→  4532→A. Protoplast fusion    1. Totipotency
+  1033→  4533→B. Plant tissue culture 2
+  1034→  4534→     A: 3 4 2 1
+  1035→  4535→     B: 2 1 4 3
+  1036→  4536→     C: 3 4 1 2
+  1037→  4537→     D: 4 3 2 1
+  1038→  4538→R 966 | BioCh31.0 | C | What triggers activation of protoxin to active Bt toxin of Bacillus thuringiensis in bollworm?
+  1039→  4539→     A: Moist surface
+  1040→  4540→     B: Acidic pH of the stomach
+  1041→  4541→     C: Alkaline pH of the gut
+  1042→  4542→     D: Body temperature
+  1043→  4543→R 967 | BioCh31.0 | A | Honey is
+  1044→  4544→     A: acidic
+  1045→  4545→     B: neutral
+  1046→  4546→     C: alkaline
+  1047→  4547→     D: basic after some days
+  1048→  4548→R 968 | BioCh31.0 | C | The earliest animal to have been domesticated by man was most likely the
+  1049→  4549→     A: horse
+  1050→  4550→     B: cow
+  1051→  4551→     C: dog
+  1052→  4552→     D: pig
+  1053→  4553→R 969 | BioCh31.0 | D | The long-term prospects for a truly human civilisation depend in a large measure on
+  1054→  4554→     A: the ability of humanity to moderate its fecundity
+  1055→  4555→     B: increasing the food production
+  1056→  4556→     C: colonisation of under populated areas
+  1057→  4557→     D: control of human diseases
+  1058→  4558→R 970 | BioCh32.0 | B | Which of the following is used in the production of bread?
+  1059→  4559→     A: Lactobacillus
+  1060→  4560→     B: Saccharomyces cerevisiae
+  1061→  4561→     C: Penicillium
+  1062→  4562→     D: Streptococcus
+  1063→  4563→R 971 | BioCh32.0 | B | Which of the following is a byproduct of anaerobic respiration by yeast?
+  1064→  4564→     A: Lactic acid
+  1065→  4565→     B: Ethanol
+  1066→  4566→     C: Acetic acid
+  1067→  4567→     D: Carbon dioxide only
+  1068→  4568→R 972 | BioCh32.0 | C | Which of the following antibiotics was discovered by Alexander Fleming?
+  1069→  4569→     A: Streptomycin
+  1070→  4570→     B: Tetracycline
+  1071→  4571→     C: Penicillin
+  1072→  4572→     D: Erythromycin
+  1073→  4573→R 973 | BioCh32.0 | A | Biogas is a mixture of:
+  1074→  4574→     A: Methane and Carbon dioxide
+  1075→  4575→     B: Methane and Hydrogen sulfide
+  1076→  4576→     C: Methane and Oxygen
+  1077→  4577→     D: Methane and Nitrogen
+  1078→  4578→R 974 | BioCh32.0 | B | Hybridoma cells are
+  1079→  4579→     A: product of spore formation in bacteria
+  1080→  4580→     B: hybrid cells resulting from myeloma cells
+  1081→  4581→     C: nervous cells of frog
+  1082→  4582→     D: only cells having oncogenes
+  1083→  4583→R 975 | BioCh32.0 | C | Which of the following statements about methanogens is not correct?
+  1084→  4584→     A: They can be used to produce biogas
+  1085→  4585→     B: They are found in the rumen of cattle and their excreta
+  1086→  4586→     C: They grow aerobically and breakdown cellulose rich food
+  1087→  4587→     D: They produce methane gas
+  1088→  4588→R 976 | BioCh32.0 | B | Mad cow disease in cattle is caused by an organism which has
+  1089→  4589→     A: inert crystalline structure
+  1090→  4590→     B: abnormally folded protein
+  1091→  4591→     C: free RNA without protein coat
+  1092→  4592→     D: free DNA without protein coat
+  1093→  4593→R 977 | BioCh32.0 | D | Among the following edible fishes, which one is a marine fish having rich source of omega-3 fatty acids?
+  1094→  4594→     A: Mystus
+  1095→  4595→     B: Mangur
+  1096→  4596→     C: Mrigala
+  1097→  4597→     D: Mackerel
+  1098→  4598→R 978 | BioCh32.0 | D | Which of the following is true for Golden rice?
+  1099→  4599→     A: It is pest resistant, with a gene from Bacillus thuringiensis
+  1100→  4600→     B: It is drought tolerant, developed using Agrobacterium vector
+  1101→  4601→     C: It has yellow grains, because of a gene introduced from a primitive variety of r
+  1102→  4602→     D: It is vitamin-A enriched, with a gene from daffodil
+  1103→  4603→R 979 | BioCh33.0 | D | Which of the following enzymes is used to ligate DNA fragments?
+  1104→  4604→     A: Restriction endonuclease
+  1105→  4605→     B: DNA polymerase
+  1106→  4606→     C: RNA polymerase
+  1107→  4607→     D: DNA ligase
+  1108→  4608→R 980 | BioCh33.0 | A | The technique of producing a large number of genetically identical individuals by budding or in vitro culture 
+  1109→  4609→     A: Cloning
+  1110→  4610→     B: Hybridization
+  1111→  4611→     C: Gene cloning
+  1112→  4612→     D: Polymerase chain reaction
+  1113→  4613→R 981 | BioCh33.0 | C | Which of the following is a restriction endonuclease?
+  1114→  4614→     A: DNA polymerase
+  1115→  4615→     B: RNA polymerase
+  1116→  4616→     C: EcoRI
+  1117→  4617→     D: Ligase
+  1118→  4618→R 982 | BioCh33.0 | B | The process of separation and purification of gene products is called:
+  1119→  4619→     A: Recombinant DNA technology
+  1120→  4620→     B: Downstream processing
+  1121→  4621→     C: Genetic engineering
+  1122→  4622→     D: Biotechnology
+  1123→  4623→R 983 | BioCh33.0 | B | Which one of the following enzymes carries out the initial step of transcription in eukaryotes?
+  1124→  4624→     A: RNA polymerase I
+  1125→  4625→     B: RNA polymerase II
+  1126→  4626→     C: RNA polymerase III
+  1127→  4627→     D: DNase
+  1128→  4628→R 984 | BioCh33.0 | B | Which of the following statements regarding the genetic code is incorrect?
+  1129→  4629→     A: The code is universally accepted by all organisms.
+  1130→  4630→     B: The code is ambiguous as one codon codes for more than one amino acid.
+  1131→  4631→     C: The code is degenerate as some amino acids are coded by more than one codon.
+  1132→  4632→     D: The code is read in triplets.
+  1133→  4633→R 985 | BioCh33.0 | C | Which of the following is not a step in the typical lifecycle of a retrovirus?
+  1134→  4634→     A: Reverse transcription
+  1135→  4635→     B: Integration of viral DNA into the host genome
+  1136→  4636→     C: Replication of viral RNA using host machinery
+  1137→  4637→     D: Synthesis of viral proteins using host ribosomes
+  1138→  4638→R 986 | BioCh33.0 | D | Spliceosomes are not found in cells of
+  1139→  4639→     A: plants
+  1140→  4640→     B: fungi
+  1141→  4641→     C: animals
+  1142→  4642→     D: bacteria
+  1143→  4643→R 987 | BioCh33.0 | D | EcoRI is
+  1144→  4644→     A: 5'- GGAACC- 3'
+  1145→  4645→3'- CCTTGG - 5'
+  1146→  4646→     B: 5' - CTTAAG - 3'
+  1147→  4647→3' - GAATTC - 5'
+  1148→  4648→     C: 5' - GGATCC - 3'
+  1149→  4649→3'- CCTAGG - 5'
+  1150→  4650→     D: 5' - GAATTC - 3'
+  1151→  4651→3'- CTTAAG - 5'
+  1152→  4652→R 988 | BioCh33.0 | A | In cloning of cattle a fertilised egg is taken out of the mother’s womb and
+  1153→  4653→     A: in the eight cell stage, cells are separated and cultured until small embryos ar
+  1154→  4654→     B: in the eight cell stage the individual cells are separated under electrical fiel
+  1155→  4655→     C: from this up to eight identical twins can be produced
+  1156→  4656→     D: the egg is divided into 4 pairs of cells which are implanted into the womb of ot
+  1157→  4657→R 989 | BioCh34.0 | B | Bt cotton is resistant to:
+  1158→  4658→     A: Nematodes
+  1159→  4659→     B: Insect pests
+  1160→  4660→     C: Fungal diseases
+  1161→  4661→     D: Bacterial diseases
+  1162→  4662→R 990 | BioCh34.0 | A | Golden rice is a transgenic crop rich in:
+  1163→  4663→     A: Vitamin A
+  1164→  4664→     B: Vitamin B
+  1165→  4665→     C: Vitamin C
+  1166→  4666→     D: Vitamin D
+  1167→  4667→R 991 | BioCh34.0 | C | Which of the following is a genetically modified crop?
+  1168→  4668→     A: Wheat
+  1169→  4669→     B: Maize
+  1170→  4670→     C: Bt cotton
+  1171→  4671→     D: Rice
+  1172→  4672→R 992 | BioCh34.0 | C | The first transgenic animal was:
+  1173→  4673→     A: Cow
+  1174→  4674→     B: Pig
+  1175→  4675→     C: Mouse
+  1176→  4676→     D: Sheep
+  1177→  4677→R 993 | BioCh34.0 | A | Which of the following is not a step in Multiple Ovulation Embryo Transfer Technology (MOET)?
+  1178→  4678→     A: Cow is administered hormone having LH like activity for super ovulation
+  1179→  4679→     B: Cow yields about 6-8 eggs at a time
+  1180→  4680→     C: Cow is fertilised by artificial insemination
+  1181→  4681→     D: Fertilised eggs are transferred to surrogate mothers at 8-32 cell stage
+  1182→  4682→R 994 | BioCh34.0 | D | Inbreeding depression is
+  1183→  4683→     A: reduced motility and immunity due to close inbreeding.
+  1184→  4684→     B: decreased productivity due to mating of superior male and inferior female
+  1185→  4685→     C: decrease in body mass of progeny due to continued close inbreeding
+  1186→  4686→     D: reduced fertility and productivity due to continued close inbreeding
+  1187→  4687→R 995 | BioCh34.0 | D | Select the incorrect statement regarding inbreeding.
+  1188→  4688→     A: Inbreeding helps in the elimination of deleterious alleles from the population
+  1189→  4689→     B: Inbreeding is necessary to evolve a pureline in any animal
+  1190→  4690→     C: Continued inbreeding reduces fertility and leads to inbreeding depression
+  1191→  4691→     D: Inbreeding depression cannot be overcome by outcrossing
+  1192→  4692→R 996 | BioCh34.0 | B | Artificial selection to obtain cows yielding high milk output represents
+  1193→  4693→     A: stabilising selection as it stabilises this character in the population
+  1194→  4694→     B: directional as it pushes the mean of the character in one direction
+  1195→  4695→     C: disruptive as it splits the population into two, one yielding higher output and 
+  1196→  4696→     D: stabilising followed by disruptive as stabilises the population of produce highe
+  1197→  4697→R 997 | BioCh34.0 | C | Outbreeding is an important strategy of animal husbandry because it
+  1198→  4698→     A: help in accumulation of superior genes
+  1199→  4699→     B: is useful in producing purelines of animals
+  1200→  4700→     C: is useful in overcoming inbreeding depression
+  1201→  4701→     D: exposes harmful recessive genes that are eliminated by selection
+  1202→  4702→R 998 | BioCh34.0 | B | Compared to a bull a bullock is docile because of
+  1203→  4703→     A: higher levels of cortisone
+  1204→  4704→     B: lower levels of blood testosterone
+  1205→  4705→     C: lower levels of adrenaline/noradrenaline in its blood
+  1206→  4706→     D: higher levels of thyroxine
+  1207→  4707→R 999 | BioCh34.0 | B | Interspecific hybridisation is the mating of
+  1208→  4708→     A: animals within same breed without having common ancestors
+  1209→  4709→     B: two different related species
+  1210→  4710→     C: superior males and females of different breeds
+  1211→  4711→     D: more closely related individuals within same breed for 4-6 generations
+  1212→  4712→R1000 | BioCh34.0 | B | By which method was a new breed ‘Hisardale’ of sheep formed by using Bikaneri ewes and Marino rams?
+  1213→  4713→     A: Mutational breeding
+  1214→  4714→     B: Cross breeding
+  1215→  4715→     C: Inbreeding
+  1216→  4716→     D: Outcrossing
+  1217→  4717→R1001 | BioCh34.0 | A | Homozygous purelines in cattle can be obtained by
+  1218→  4718→     A: mating of related individuals of same breed
+  1219→  4719→     B: mating of unrelated individuals of same breed
+  1220→  4720→     C: mating of individuals of different breed
+  1221→  4721→     D: mating of individuals of different species
+  1222→  4722→R1002 | BioCh35.0 | C | The type of symbiotic relationship where both partners are benefited is called:
+  1223→  4723→     A: Commensalism
+  1224→  4724→     B: Parasitism
+  1225→  4725→     C: Mutualism
+  1226→  4726→     D: Predation
+  1227→  4727→R1003 | BioCh35.0 | C | Which of the following is a density-dependent factor that affects population growth?
+  1228→  4728→     A: Drought
+  1229→  4729→     B: Floods
+  1230→  4730→     C: Resource competition
+  1231→  4731→     D: Temperature
+  1232→  4732→R1004 | BioCh35.0 | A | The exponential growth model of population is described by the equation:
+  1233→  4733→     A: dN/dt = rN
+  1234→  4734→     B: dN/dt = rN(1 - K/N)
+  1235→  4735→     C: N = N0e^rt
+  1236→  4736→     D: dN/dt = rN(K - N)/K
+  1237→  4737→R1005 | BioCh35.0 | C | Which of the following is an example of a parasite?
+  1238→  4738→     A: Lion
+  1239→  4739→     B: Deer
+  1240→  4740→     C: Tapeworm
+  1241→  4741→     D: Grass
+  1242→  4742→R1006 | BioCh35.0 | A | In a population, unrestricted reproductive capacity is called
+  1243→  4743→     A: biotic potential
+  1244→  4744→     B: fertility
+  1245→  4745→     C: carrying capacity
+  1246→  4746→     D: birth rate
+  1247→  4747→R1007 | BioCh35.0 | C | In the exponential growth equation N = N0ert, e represents
+  1248→  4748→     A: the base of number logarithms
+  1249→  4749→     B: the base of exponential logarithms
+  1250→  4750→     C: the base of natural logarithms
+  1251→  4751→     D: the base of geometric logarithms
+  1252→  4752→R1008 | BioCh35.0 | A | Amensalism can be represented as
+  1253→  4753→     A: species A (−) : species B (0)
+  1254→  4754→     B: species A (+) : species B (+)
+  1255→  4755→     C: species A (−) : species B (−)
+  1256→  4756→     D: species A (+) : species B (0)
+  1257→  4757→R1009 | BioCh35.0 | B | Match the items in Column I with those in Column II.
+  1258→  4758→Column I                                                                Column II
+  1259→  4759→A. Herbivores-Plants                                    (i) Co
+  1260→  4760→     A: A-(iv), B-(ii), C-(i), D-(iii)
+  1261→  4761→     B: A-(iii), B-(ii), C-(iv), D-(i)
+  1262→  4762→     C: A-(ii), B-(i), C-(iii), D-(iv)
+  1263→  4763→     D: A-(i), B-(iii), C-(iv), D-(ii)
+  1264→  4764→R1010 | BioCh35.0 | D | The impact of immigration on population density is
+  1265→  4765→     A: negative
+  1266→  4766→     B: Both positive and negative
+  1267→  4767→     C: neutralised by natality
+  1268→  4768→     D: positive
+  1269→  4769→R1011 | BioCh35.0 | B | According to Alexander von Humboldt
+  1270→  4770→     A: species richness decreases with increasing area of exploration
+  1271→  4771→     B: species richness increases with increasing area, but only up to a limit
+  1272→  4772→     C: there is no relationship between species richness and area explored
+  1273→  4773→     D: species richness goes on increasing with increasing area of exploration
+  1274→  4774→R1012 | BioCh35.0 | C | Which of the following is not an attribute of a population?
+  1275→  4775→     A: Natality
+  1276→  4776→     B: Mortality
+  1277→  4777→     C: Species interaction
+  1278→  4778→     D: Sex ratio
+  1279→  4779→R1013 | BioCh35.0 | B | Secondary metabolites such as nicotine, strychnine and caffeine are produced by plants for their
+  1280→  4780→     A: growth response
+  1281→  4781→     B: defence action
+  1282→  4782→     C: effect on reproduction
+  1283→  4783→     D: nutritive value
+  1284→  4784→R1014 | BioCh35.0 | D | Between which among the following, the relationship is not an example of commensalism?
+  1285→  4785→     A: Orchid and the tree on which it grows
+  1286→  4786→     B: Cattle egret and grazing cattle
+  1287→  4787→     C: Sea anemone and clown fish
+  1288→  4788→     D: Female wasp and fig species
+  1289→  4789→R1015 | BioCh35.0 | C | Carnivorous animals-lions and leopards, occupy the same niche but lions predate mostly larger animals and leop
+  1290→  4790→     A: character displacement
+  1291→  4791→     B: altruism
+  1292→  4792→     C: resource partitioning
+  1293→  4793→     D: competitive exclusion
+  1294→  4794→R1016 | BioCh35.0 | A | Which of the following statements is correct?
+  1295→  4795→     A: Lichens do not grow in polluted areas
+  1296→  4796→     B: Algal component of lichens is called mycobiont
+  1297→  4797→     C: Fungal component of lichens is called phycobiont
+  1298→  4798→     D: Lichens are not good pollution indicators
+  1299→  4799→R1017 | BioCh35.0 | A | Pinus seed cannot germinate and establish without fungal association. This is because
+  1300→  4800→     A: it has obligate association with mycorrhizae
+  1301→  4801→     B: it has very hard seed coat
+  1302→  4802→     C: its seeds contain inhibitors that prevent germination
+  1303→  4803→     D: its embryo is immature
+  1304→  4804→R1018 | BioCh35.0 | C | Match Column I with Column II.
+  1305→  4805→Column I                                                                                                        Column II
+  1306→  4806→A. Saprophyte                                                                                   (i) Symbiotic associatio
+  1307→  4807→     A: A-(iii), B-(ii), C-(i), D-(iv)
+  1308→  4808→     B: A-(ii), B-(i), C-(iii), D-(iv)
+  1309→  4809→     C: A-(ii), B-(iii), C-(iv), D-(i)
+  1310→  4810→     D: A-(i), B-(ii), C-(iii), D-(iv)
+  1311→  4811→R1019 | BioCh35.0 | B | Which one of the following plants shows a very close relationship with a species of moth, where none of the tw
+  1312→  4812→     A: Banana
+  1313→  4813→     B: Yucca
+  1314→  4814→     C: Hydrilla
+  1315→  4815→     D: Viola
+  1316→  4816→R1020 | BioCh35.0 | C | Natality refers to
+  1317→  4817→     A: number of individuals leaving the habitat
+  1318→  4818→     B: number of deaths in the population
+  1319→  4819→     C: number of births in the population
+  1320→  4820→     D: number of individuals entering the habitat
+  1321→  4821→R1021 | BioCh35.0 | B | Yucca gloriosa has developed an obligate symbiotic relationship with Pronuba yuccasella moth. The moth cannot 
+  1322→  4822→     A: Banana
+  1323→  4823→     B: Yucca
+  1324→  4824→     C: Hydrilla
+  1325→  4825→     D: Viola
+  1326→  4826→R1022 | BioCh35.0 | D | Which one of the following population interactions is widely used in medical science for the production of ant
+  1327→  4827→     A: Parasitism
+  1328→  4828→     B: Mutualism
+  1329→  4829→     C: Commensalism
+  1330→  4830→     D: Amensalism
+  1331→  4831→R1023 | BioCh35.0 | D | Mycorrhizae are the example of
+  1332→  4832→     A: fungistasis
+  1333→  4833→     B: amensalism
+  1334→  4834→     C: antibiosis
+  1335→  4835→     D: mutualism
+  1336→  4836→R1024 | BioCh35.0 | B | Asymptote in a logistic growth curve is obtained, when
+  1337→  4837→     A: The value of ‘r’ approaches zero
+  1338→  4838→     B: K = N
+  1339→  4839→     C: K > N
+  1340→  4840→     D: K < N
+  1341→  4841→R1025 | BioCh35.0 | B | Gause’s principle of competitive exclusion states that
+  1342→  4842→     A: Competition for the same resources excludes species having different food prefer
+  1343→  4843→     B: No two species can occupy the same niche indefinitely for the same limiting reso
+  1344→  4844→     C: Larger organisms exclude smaller ones through competition
+  1345→  4845→     D: More abundant species will exclude the less abundant species through competition
+  1346→  4846→R1026 | BioCh35.0 | D | When does the growth rate of a population following the logistic model equal zero? The logistic model is given
+  1347→  4847→     A: when N nears the carrying capacity of the habitat
+  1348→  4848→     B: when N/K equals zero
+  1349→  4849→     C: when death rate is greater than birth rate
+  1350→  4850→     D: when N/K is exactly one
+  1351→  4851→R1027 | BioCh35.0 | B | The principle of competitive exclusion was stated by
+  1352→  4852→     A: C Darwin
+  1353→  4853→     B: GF Gause
+  1354→  4854→     C: MacArthur
+  1355→  4855→     D: Verhulst and Pearl
+  1356→  4856→R1028 | BioCh35.0 | D | If ‘+’ sign is assigned to beneficial interaction, ‘–’ sign to detrimental and ‘0’ sign to neutral interaction
+  1357→  4857→     A: mutualism
+  1358→  4858→     B: amensalism
+  1359→  4859→     C: commensalism
+  1360→  4860→     D: parasitism
+  1361→  4861→R1029 | BioCh35.0 | A | Which of the following is correct for r-selected species?
+  1362→  4862→     A: Large number of progeny with small size
+  1363→  4863→     B: Large number of progeny with large size
+  1364→  4864→     C: Small number of progeny with small size
+  1365→  4865→     D: Small number of progeny with large size
+  1366→  4866→R1030 | BioCh35.0 | A | In which of the following interactions both partners are adversely affected?
+  1367→  4867→     A: Competition
+  1368→  4868→     B: Predation
+  1369→  4869→     C: Parasitism
+  1370→  4870→     D: Mutualism
+  1371→  4871→R1031 | BioCh35.0 | D | A biologist studied the population of rats in a barn. He found that the average natality was 250, average mort
+  1372→  4872→     A: 10.0
+  1373→  4873→     B: 15.0
+  1374→  4874→     C: 5.0
+  1375→  4875→     D: zero
+  1376→  4876→R1032 | BioCh35.0 | B | A sedentary sea anemone gets attached to the shell lining of hermit crab. The association is
+  1377→  4877→     A: ectoparasitism
+  1378→  4878→     B: symbiosis
+  1379→  4879→     C: commensalism
+  1380→  4880→     D: amensalism
+  1381→  4881→R1033 | BioCh35.0 | C | What type of human population is represented by the following age pyramid?
+  1382→  4882→Post-reproductive
+  1383→  4883→Reproductive
+  1384→  4884→Pre-
+  1385→  4885→     A: Vanishing population
+  1386→  4886→     B: Stable population
+  1387→  4887→     C: Declining population
+  1388→  4888→     D: Expanding population
+  1389→  4889→R1034 | BioCh35.0 | B | Consider the following four conditions (I-IV) and select a correct pair of them as adaptation to environment i
+  1390→  4890→     A: III, IV
+  1391→  4891→     B: I, III
+  1392→  4892→     C: II, IV
+  1393→  4893→     D: I, II
+  1394→  4894→R1035 | BioCh35.0 | C | Which one of the following is categorised as a parasite in true sense?
+  1395→  4895→     A: The female Anopheles bites and sucks blood from humans
+  1396→  4896→     B: Human foetus developing inside the uterus draws nourishment from the mother
+  1397→  4897→     C: Head louse living on the human scalp as well as laying eggs on human hair
+  1398→  4898→     D: The cuckoo (koel) lays its eggs in crow’s nest
+  1399→  4899→R1036 | BioCh35.0 | A | Which one of the following is one of the characteristics of a biological community?
+  1400→  4900→     A: Stratification
+  1401→  4901→     B: Natality
+  1402→  4902→     C: Mortality
+  1403→  4903→     D: Sex-ratio
+  1404→  4904→R1037 | BioCh35.0 | A [FIG] | A country with a high rate of population growth took measures to reduce it. The figure below shows age sex pyr
+  1405→  4905→     A: ‘A’ is more recent and shows slight reduction in the growth rate
+  1406→  4906→     B: ‘B’ is earlier pyramid and shows stabilised growth rate
+  1407→  4907→     C: ‘B’ is more recent showing that population is very young
+  1408→  4908→     D: ‘A’ is the earlier pyramid and no change has occurred in the growth rate
+  1409→  4909→R1038 | BioCh35.0 | B | A high density of elephant population in an area can result in
+  1410→  4910→     A: mutualism
+  1411→  4911→     B: intraspecific competition
+  1412→  4912→     C: interspecific competition
+  1413→  4913→     D: predation on one another
+  1414→  4914→R1039 | BioCh35.0 | C | The population of an insect species shows an explosive increase in numbers during rainy season followed by its
+  1415→  4915→     A: S-shaped or sigmoid growth of this insect
+  1416→  4916→     B: The food plants mature and die at the end of the rainy season
+  1417→  4917→     C: Its population growth curve is of J-type
+  1418→  4918→     D: The population of its predators increases enormously
+  1419→  4919→R1040 | BioCh35.0 | B | Geometric representation of age structure is a characteristic of
+  1420→  4920→     A: biotic community
+  1421→  4921→     B: population
+  1422→  4922→     C: landscape
+  1423→  4923→     D: ecosystem
+  1424→  4924→R1041 | BioCh35.0 | A | If the mean and the median pertaining to a certain character of a population are of the same value, the follow
+  1425→  4925→     A: normal distribution
+  1426→  4926→     B: bi-modal distribution
+  1427→  4927→     C: T-shaped curve
+  1428→  4928→     D: skewed curve
+  1429→  4929→R1042 | BioCh35.0 | D | The formula for exponential population growth is
+  1430→  4930→     A: dt/dN = rN
+  1431→  4931→     B: dN/rN = dt
+  1432→  4932→     C: rN/dN = dt
+  1433→  4933→     D: dN/dt = rN
+  1434→  4934→R1043 | BioCh35.0 | C | Niche overlap indicates
+  1435→  4935→     A: active cooperation between two species
+  1436→  4936→     B: two different parasites on the same host
+  1437→  4937→     C: sharing of one or more resources between the two species
+  1438→  4938→     D: mutualism between two species
+  1439→  4939→R1044 | BioCh35.0 | C | Praying mentis is a good example of
+  1440→  4940→     A: Mullerian mimicry
+  1441→  4941→     B: warning colouration
+  1442→  4942→     C: social insects
+  1443→  4943→     D: camouflage
+  1444→  4944→R1045 | BioCh35.0 | C | Animals have the innate ability to escape from predation. Examples for the same are given below. Select the in
+  1445→  4945→     A: enlargement of body size by swallowing air in puffer fish
+  1446→  4946→     B: melanism in moths
+  1447→  4947→     C: poison fangs in snakes
+  1448→  4948→     D: colour change in Chamaeleon
+  1449→  4949→R1046 | BioCh35.0 | C | Mycorrhiza is an example of
+  1450→  4950→     A: endoparasitism
+  1451→  4951→     B: decomposers
+  1452→  4952→     C: symbiotic relationship
+  1453→  4953→     D: ectoparasitism
+  1454→  4954→R1047 | BioCh35.0 | C | The semilog of per minute growing bacteria is plotted against time. What will be the shape of graph?
+  1455→  4955→     A: Sigmoid
+  1456→  4956→     B: Hyperbola
+  1457→  4957→     C: Ascending straight line
+  1458→  4958→     D: Descending straight line
+  1459→  4959→R1048 | BioCh35.0 | A | Choose the correct sequence of stages of growth curve for bacteria
+  1460→  4960→     A: lag, log, stationary, decline phase
+  1461→  4961→     B: lag, log, stationary phase
+  1462→  4962→     C: stationary, lag, log, decline phase
+  1463→  4963→     D: decline, lag, log phase
+  1464→  4964→R1049 | BioCh35.0 | A | Which type of association is found in between entomophilous flower and pollinating agent?
+  1465→  4965→     A: Mutualism
+  1466→  4966→     B: Commensalism
+  1467→  4967→     C: Cooperation
+  1468→  4968→     D: Co-evolution
+  1469→  4969→R1050 | BioCh35.0 | A | Which of the following is a correct pair?
+  1470→  4970→     A: Cuscuta — Parasite
+  1471→  4971→     B: Dischidia — Insectivorous
+  1472→  4972→     C: Opuntia — Predator
+  1473→  4973→     D: Capsella — Hydrophyte
+  1474→  4974→R1051 | BioCh35.0 | C | Two different species cannot live for long duration in the same niche or habitat. This law is
+  1475→  4975→     A: Allen’s law
+  1476→  4976→     B: Mendel’s law
+  1477→  4977→     C: Gause’s competitive exclusion principle
+  1478→  4978→     D: Weismann’s theory
+  1479→  4979→R1052 | BioCh35.0 | D | The concept that population tends to increase geometrically while food supply increases arithmetically was put
+  1480→  4980→     A: Stuart Mill
+  1481→  4981→     B: Adam Smith
+  1482→  4982→     C: Charles Darwin
+  1483→  4983→     D: Thomas Malthus
+  1484→  4984→R1053 | BioCh35.0 | D | Which of the following pair is correctly matched?
+  1485→  4985→     A: Uricotelism—Aquatic habitat
+  1486→  4986→     B: Parasitism—Intra-specific relationship
+  1487→  4987→     C: Excessive perspiration—Xeric adaptation
+  1488→  4988→     D: Stream lined body—Aquatic adaptation
+  1489→  4989→R1054 | BioCh35.0 | A | A mutually beneficial association necessary for survival of both partners are
+  1490→  4990→     A: mutualism/symbiosis
+  1491→  4991→     B: commensalism
+  1492→  4992→     C: amensalism
+  1493→  4993→     D: Both (a) and (b)
+  1494→  4994→R1055 | BioCh35.0 | A | The relation between algae and fungi in a lichen is
+  1495→  4995→     A: symbiosis
+  1496→  4996→     B: parasitism
+  1497→  4997→     C: commensalism
+  1498→  4998→     D: protocooperation
+  1499→  4999→R1056 | BioCh35.0 | B | Phenomenon when organisms resembling others for escaping from enemies is
+  1500→  5000→     A: adaptation
+  1501→  5001→     B: mimicry
+  1502→  5002→     C: homology
+  1503→  5003→     D: analogy
+  1504→  5004→R1057 | BioCh35.0 | A | Association between sucker fish (Remora) and shark is
+  1505→  5005→     A: commensalism
+  1506→  5006→     B: symbiosis
+  1507→  5007→     C: predation
+  1508→  5008→     D: parasitism
+  1509→  5009→R1058 | BioCh35.0 | B | An orchid resembling the female of an insect, so as to be able to get pollinated is due to the phenomenon of
+  1510→  5010→     A: mimicry
+  1511→  5011→     B: pseudocopulation
+  1512→  5012→     C: pseudopollination
+  1513→  5013→     D: pseudoparthenocarpy
+  1514→  5014→R1059 | BioCh35.0 | B | Analgesic drugs
+  1515→  5015→     A: form tissues
+  1516→  5016→     B: relieve pain
+  1517→  5017→     C: relieve fatigue
+  1518→  5018→     D: cause pain
+  1519→  5019→R1060 | BioCh36.0 | B | Which of the following is a producer in an ecosystem?
+  1520→  5020→     A: Lion
+  1521→  5021→     B: Grass
+  1522→  5022→     C: Fungi
+  1523→  5023→     D: Bacteria
+  1524→  5024→R1061 | BioCh36.0 | B | The pyramid of energy is always:
+  1525→  5025→     A: Inverted
+  1526→  5026→     B: Upright
+  1527→  5027→     C: Spindle-shaped
+  1528→  5028→     D: Irregular
+  1529→  5029→R1062 | BioCh36.0 | B | Which of the following is a decomposer?
+  1530→  5030→     A: Algae
+  1531→  5031→     B: Fungi
+  1532→  5032→     C: Grasses
+  1533→  5033→     D: Trees
+  1534→  5034→R1063 | BioCh36.0 | D | The rate of photosynthesis is limited by:
+  1535→  5035→     A: Carbon dioxide concentration
+  1536→  5036→     B: Temperature
+  1537→  5037→     C: Light intensity
+  1538→  5038→     D: All of the above
+  1539→  5039→R1064 | BioCh36.0 | B | Nine-tenth of all photosynthesis of world (85-90%) is carried out by
+  1540→  5040→     A: large trees with millions of branches and leaves
+  1541→  5041→     B: algae of the ocean
+  1542→  5042→     C: chlorophyll containing ferns of the forest
+  1543→  5043→     D: scientists in the laboratories
+  1544→  5044→R1065 | BioCh36.0 | D | Maximum solar energy is trapped by
+  1545→  5045→     A: planting trees
+  1546→  5046→     B: cultivating crops
+  1547→  5047→     C: growing algae in tanks
+  1548→  5048→     D: growing grasses
+  1549→  5049→R1066 | BioCh36.0 | A | Which one of the following processes during decomposition is correctly described?
+  1550→  5050→     A: Fragmentation-Carried out by organisms such as earthworm
+  1551→  5051→     B: Humification-Leads to the accumulation of a dark coloured substance humus, which
+  1552→  5052→     C: Catabolism-Last step in the decomposition under fully anaerobic condition
+  1553→  5053→     D: Leaching-Water soluble inorganic nutrients rise to the top layers of soil
+  1554→  5054→R1067 | BioCh36.0 | A | Which ecosystem has the maximum biomass?
+  1555→  5055→     A: Forest ecosystem
+  1556→  5056→     B: Grassland ecosystem
+  1557→  5057→     C: Pond ecosystem
+  1558→  5058→     D: Lake ecosystem
+  1559→  5059→R1068 | BioCh36.0 | B | Presence of plants arranged into well defined vertical layers depending on their height can best seen best in
+  1560→  5060→     A: tropical savannah
+  1561→  5061→     B: tropical rain forest
+  1562→  5062→     C: grassland
+  1563→  5063→     D: temperate forest
+  1564→  5064→R1069 | BioCh36.0 | A | The term ecosystem was coined by
+  1565→  5065→     A: AG Tansley
+  1566→  5066→     B: E Haeckel
+  1567→  5067→     C: E Warming
+  1568→  5068→     D: EP Odum
+  1569→  5069→R1070 | BioCh36.0 | A | Which one of the following is a characteristic feature of cropland ecosystem?
+  1570→  5070→     A: Least genetic diversity
+  1571→  5071→     B: The absence of weeds
+  1572→  5072→     C: Ecological succession
+  1573→  5073→     D: The absence of soil organisms
+  1574→  5074→R1071 | BioCh36.0 | B | The primary producers of the deep-sea hydrothermal vent ecosystem are
+  1575→  5075→     A: green algae
+  1576→  5076→     B: chemosynthetic bacteria
+  1577→  5077→     C: blue-green algae
+  1578→  5078→     D: coral reefs
+  1579→  5079→R1072 | BioCh36.0 | D | Which one of the following is not a functional unit of an ecosystem?
+  1580→  5080→     A: Energy flow
+  1581→  5081→     B: Decomposition
+  1582→  5082→     C: Productivity
+  1583→  5083→     D: Stratification
+  1584→  5084→R1073 | BioCh36.0 | A | Quercus species are the dominant component in
+  1585→  5085→     A: temperature deciduous forests
+  1586→  5086→     B: alpine forests
+  1587→  5087→     C: scrub forests
+  1588→  5088→     D: tropical rain forests
+  1589→  5089→R1074 | BioCh36.0 | A | The slow rate of decomposition of fallen logs in nature is due to their
+  1590→  5090→     A: low moisture content
+  1591→  5091→     B: poor nitrogen content
+  1592→  5092→     C: anaerobic environment around them
+  1593→  5093→     D: low cellulose content
+  1594→  5094→R1075 | BioCh36.0 | A | An ecosystem which can be easily damaged but can recover after some time if damaging effect stops, will be hav
+  1595→  5095→     A: low stability and high resilience
+  1596→  5096→     B: high stability and low resilience
+  1597→  5097→     C: low stability and low resilience
+  1598→  5098→     D: high stability and high resilience
+  1599→  5099→R1076 | BioCh36.0 | D | Which of the following is the most stable ecosystem?
+  1600→  5100→     A: Forest
+  1601→  5101→     B: Desert
+  1602→  5102→     C: Mountain
+  1603→  5103→     D: Ocean
+  1604→  5104→R1077 | BioCh36.0 | C | What is true of ecosystem?
+  1605→  5105→     A: Primary consumers are least dependent upon producers
+  1606→  5106→     B: Primary consumers out-number producers
+  1607→  5107→     C: Producers are more than primary consumers
+  1608→  5108→     D: Secondary consumers are the lar
+  1609→  5109→R1078 | BioCh36.0 | A | In an ecosystem, which one shows one-way passage
+  1610→  5110→     A: free energy
+  1611→  5111→     B: carbon
+  1612→  5112→     C: nitrogen
+  1613→  5113→     D: potassium
+  1614→  5114→R1079 | BioCh36.0 | D | Decomposers are organisms that
+  1615→  5115→     A: Elaborate chemical substances, causing death of tissues
+  1616→  5116→     B: operate in living body and simplifying organic substances of cells step by step
+  1617→  5117→     C: attack and kill plants as well as animals
+  1618→  5118→     D: operate in relay terms, simplifying step by step the organic constituents of dea
+  1619→  5119→R1080 | BioCh36.0 | D | In the equation GPP − R = NPP, R represents
+  1620→  5120→     A: radiant energy
+  1621→  5121→     B: retardation factor
+  1622→  5122→     C: environment factor
+  1623→  5123→     D: respiration losses
+  1624→  5124→R1081 | BioCh36.0 | D | The rate of decomposition is faster in the ecosystem due to following factors except
+  1625→  5125→     A: detritus rich in sugars
+  1626→  5126→     B: warm and moist environment
+  1627→  5127→     C: presence of aerobic soil microbes
+  1628→  5128→     D: detritus richer in lignin and chitin
+  1629→  5129→R1082 | BioCh36.0 | B | Which of the following statements is incorrect?
+  1630→  5130→     A: Biomass decreases from first to fourth trophic level
+  1631→  5131→     B: Energy content gradually increases from first to fourth trophic level
+  1632→  5132→     C: Number of individuals decreases from first trophic level to fourth trophic level
+  1633→  5133→     D: Energy content gradually decreases from first to fourth trophic level
+  1634→  5134→R1083 | BioCh36.0 | D | Match the trophic levels with their correct species examples in grassland ecosystem.
+  1635→  5135→     A: A. Fourth trophic level 1. Crow B. Second trophic level 2. Vulture C. First trop
+  1636→  5136→     B: 
+  1637→  5137→     C: 
+  1638→  5138→     D: 
+  1639→  5139→R1084 | BioCh36.0 | A | In relation to gross primary productivity and net primary productivity of an ecosystem, which one of the follo
+  1640→  5140→     A: Gross primary productivity is always more than net primary productivity
+  1641→  5141→     B: Gross primary productivity and net primary productivity are one and same
+  1642→  5142→     C: There is no relationship between gross primary productivity and net primary prod
+  1643→  5143→     D: Gross primary productivity is always less than net primary productivity
+  1644→  5144→R1085 | BioCh36.0 | D | Most animals that in deep oceanic water are
+  1645→  5145→     A: primary consumers
+  1646→  5146→     B: secondary consumers
+  1647→  5147→     C: tertiary consumers
+  1648→  5148→     D: detritivores
+  1649→  5149→R1086 | BioCh36.0 | C | If 20 J of energy is trapped at producer level, then how much energy will be available to peacock as food in t
+  1650→  5150→     A: 0.02 J
+  1651→  5151→     B: 0.002 J
+  1652→  5152→     C: 0.2 J
+  1653→  5153→     D: 0.0002 J
+  1654→  5154→R1087 | BioCh36.0 | C | Secondary productivity is rate of formation of new organic matter by
+  1655→  5155→     A: producer
+  1656→  5156→     B: parasite
+  1657→  5157→     C: consumer
+  1658→  5158→     D: decomposer
+  1659→  5159→R1088 | BioCh36.0 | A | Identify the likely orgnaisms I, II, III and IV in the food web shown below. Hawks Lion Snake (I) (II) (III) (
+  1660→  5160→     A: 
+  1661→  5161→     B: 
+  1662→  5162→     C: 
+  1663→  5163→     D: 
+  1664→  5164→R1089 | BioCh36.0 | C | Identify the possible link ‘A’ in the following food chain Plant→ Insect→ Frog→ ‘A’→ Eagle
+  1665→  5165→     A: Rabbit
+  1666→  5166→     B: Wolf
+  1667→  5167→     C: Cobra
+  1668→  5168→     D: Parrot
+  1669→  5169→R1090 | BioCh36.0 | A | Mass of living matter at a trophic level in an area at any time is called
+  1670→  5170→     A: standing crop
+  1671→  5171→     B: detritus
+  1672→  5172→     C: humus
+  1673→  5173→     D: standing state
+  1674→  5174→R1091 | BioCh36.0 | C | Of the total incident solar radiation the proportion of PAR is
+  1675→  5175→     A: about 70%
+  1676→  5176→     B: about 60%
+  1677→  5177→     C: less than 50%
+  1678→  5178→     D: more than 80%
+  1679→  5179→R1092 | BioCh36.0 | A | The biomass available for consumption by the herbivores and the decomposers is called
+  1680→  5180→     A: net primary productivity
+  1681→  5181→     B: secondary productivity
+  1682→  5182→     C: standing crop
+  1683→  5183→     D: gross primary productivity
+  1684→  5184→R1093 | BioCh36.0 | B | The correct sequence of plants in a hydrosere is
+  1685→  5185→     A: Oak→ Lantana→ Scirpus→ Pistia → Hydrilla→ Volvox
+  1686→  5186→     B: Volvox→ Hydrilla→ Pistia→ Scirpus→ Lantana→ Oak
+  1687→  5187→     C: Pistia→ Volvox→ Scirpus→ Hydrilla→ Oak→ Lantana
+  1688→  5188→     D: Oak→ Lantana→ Volvox→ Hydrilla→ Pistia→ Scirpus
+  1689→  5189→R1094 | BioCh36.0 | B | Which one of the following types of organisms occupy more than one trophic level in a pond ecosystem?
+  1690→  5190→     A: Phytoplankton
+  1691→  5191→     B: Fish
+  1692→  5192→     C: Zooplankton
+  1693→  5193→     D: Frog
+  1694→  5194→R1095 | BioCh36.0 | B | Consider the following statements concerning food chains. I. Removal of 80% tigers from an area resulted in gr
+  1695→  5195→     A: I and II
+  1696→  5196→     B: II and III
+  1697→  5197→     C: III and IV
+  1698→  5198→     D: I and IV
+  1699→  5199→R1096 | BioCh36.0 | A | Which of the following ecosystem types has the highest annual net primary productivity?
+  1700→  5200→     A: Tropical rain forest
+  1701→  5201→     B: Tropical deciduous forest
+  1702→  5202→     C: Temperate evergreen forest
+  1703→  5203→     D: Temperate deciduous forest
+  1704→  5204→R1097 | BioCh36.0 | C | Which of the following is expected to have the highest value (gm/m²/yr) in a grassland ecosystem?
+  1705→  5205→     A: Secondary Production (SP)
+  1706→  5206→     B: Tertiary Production (TP)
+  1707→  5207→     C: Gross Production (GP)
+  1708→  5208→     D: Net Production (NP)
+  1709→  5209→R1098 | BioCh36.0 | A | Bamboo plant is growing in a far forest then what will be the trophic level of it?
+  1710→  5210→     A: First trophic level (T1)
+  1711→  5211→     B: Second trophic level (T2)
+  1712→  5212→     C: Third trophic level (T3)
+  1713→  5213→     D: Fourth trophic level (T4)
+  1714→  5214→R1099 | BioCh36.0 | B | The transfer of energy from one trophic level to another is governed by the 2nd law of thermodynamics. The ave
+  1715→  5215→     A: 0.05
+  1716→  5216→     B: 0.1
+  1717→  5217→     C: 0.25
+  1718→  5218→     D: 0.5
+  1719→  5219→R1100 | BioCh36.0 | D | The rate at which light energy is converted into chemical energy of organic molecules is the ecosystem’s
+  1720→  5220→     A: net primary productivity
+  1721→  5221→     B: gross secondary productivity
+  1722→  5222→     C: net secondary productivity
+  1723→  5223→     D: gross primary productivity
+  1724→  5224→R1101 | BioCh36.0 | A | Upper part of sea/aquatic ecosystem contains
+  1725→  5225→     A: plankton
+  1726→  5226→     B: nekton
+  1727→  5227→     C: Both (a) and (b)
+  1728→  5228→     D: benthos
+  1729→  5229→R1102 | BioCh36.0 | B | Which of the following ecosystem has the highest gross primary productivity?
+  1730→  5230→     A: Grasslands
+  1731→  5231→     B: Coral reefs
+  1732→  5232→     C: Mangroves
+  1733→  5233→     D: Equatorial rain forest
+  1734→  5234→R1103 | BioCh36.0 | D | In a biotic community, the primary consumers are
+  1735→  5235→     A: carnivores
+  1736→  5236→     B: omnivores
+  1737→  5237→     C: detritivores
+  1738→  5238→     D: herbivores
+  1739→  5239→R1104 | BioCh36.0 | C | If we completely remove the decomposers from an ecosystem, its functioning will be adversely affected, because
+  1740→  5240→     A: energy flow will be blocked
+  1741→  5241→     B: herbivores will not receive solar energy
+  1742→  5242→     C: mineral movement will be blocked
+  1743→  5243→     D: rate of decomposition will be very high
+  1744→  5244→R1105 | BioCh36.0 | B | In grass-deer-tiger food chain, grass biomass is one tonne. The tiger biomass shall be
+  1745→  5245→     A: 100 kg
+  1746→  5246→     B: 10 kg
+  1747→  5247→     C: 200 kg
+  1748→  5248→     D: 1 kg
+  1749→  5249→R1106 | BioCh36.0 | A | Second most important trophic level in a lake is
+  1750→  5250→     A: zooplankton
+  1751→  5251→     B: phytoplankton
+  1752→  5252→     C: benthos
+  1753→  5253→     D: neuston
+  1754→  5254→R1107 | BioCh36.0 | B | Food chain in which microorganisms breakdown the food formed by primary producers are
+  1755→  5255→     A: parasitic food chain
+  1756→  5256→     B: detritus food chain
+  1757→  5257→     C: consumer food chain
+  1758→  5258→     D: predator food chain
+  1759→  5259→R1108 | BioCh36.0 | C | Pick up the correct food chain.
+  1760→  5260→     A: Grass→ Chameleon→ Insect → Bird
+  1761→  5261→     B: Grass→ Fox→ Rabbit→ Bird
+  1762→  5262→     C: Phytoplankton→ Zooplankton → Fish
+  1763→  5263→     D: Fallen leaves→ Bacteria→ Insect larvae
+  1764→  5264→R1109 | BioCh36.0 | D | Which of the following statement is not correct?
+  1765→  5265→     A: Pyramid of biomass in sea is generally inverted
+  1766→  5266→     B: Pyramid of energy is always upright
+  1767→  5267→     C: Pyramid of biomass in terrestrial ecosystem is usually upright
+  1768→  5268→     D: The height of the pyramid of biomass depends upon the reproductive potential and
+  1769→  5269→R1110 | BioCh36.0 | B | What type of ecological pyramid would be obtained with the following data? Secondary consumer : 120 g Primary 
+  1770→  5270→     A: Upright pyramid of numbers
+  1771→  5271→     B: Inverted pyramid of biomass
+  1772→  5272→     C: Upright pyramid of biomass
+  1773→  5273→     D: Spindle-shaped pyramid of biomass
+  1774→  5274→R1111 | BioCh36.0 | B | What type of ecological pyramid would be obtained with the following data? Secondary consumer : 120 g Primary 
+  1775→  5275→     A: Upright pyramid of numbers
+  1776→  5276→     B: Inverted pyramid of biomass
+  1777→  5277→     C: Upright pyramid of biomass
+  1778→  5278→     D: Spindle-shaped pyramid of biomass
+  1779→  5279→R1112 | BioCh36.0 | C | Which of the following ecological pyramids is generally inverted?
+  1780→  5280→     A: Pyramid of energy
+  1781→  5281→     B: Pyramid of biomass in a forest
+  1782→  5282→     C: Pyramid of biomass in a sea
+  1783→  5283→     D: Pyramid of numbers in grassland
+  1784→  5284→R1113 | BioCh36.0 | A | During ecological succession
+  1785→  5285→     A: the gradual and predictable change in species composition occurs in a given area
+  1786→  5286→     B: the establishment of a new biotic community is very fast in its primary phase
+  1787→  5287→     C: the numbers and types of animals remain constant
+  1788→  5288→     D: the changes lead to a community that is in near equilibrium with the environment
+  1789→  5289→R1114 | BioCh36.0 | D | Match the following and select the correct option. Column I Column II A. Earthworm 1. Pioneer species B. Succe
+  1790→  5290→     A: A-1, B-2, C-3, D-4
+  1791→  5291→     B: A-4, B-1, C-3, D-2
+  1792→  5292→     C: A-3, B-2, C-4, D-1
+  1793→  5293→     D: A-2, B-1, C-4, D-3
+  1794→  5294→R1115 | BioCh36.0 | A | Given below is an imaginary pyramid of numbers. What could be one of the possibilities about certain organisms
+  1795→  5295→     A: Level PC is insects and level SC is small insectivorous birds
+  1796→  5296→     B: Level PP is phytoplanktons in sea and Whale on top level TC
+  1797→  5297→     C: Level one PP is pipal trees and the level SC is sheep
+  1798→  5298→     D: Level PC is rats and level SC is cats
+  1799→  5299→R1116 | BioCh36.0 | B | The upright pyramid of number is absent in
+  1800→  5300→     A: pond
+  1801→  5301→     B: forest
+  1802→  5302→     C: lake
+  1803→  5303→     D: grassland
+  1804→  5304→R1117 | BioCh36.0 | D | The second stage of hydrosere is occupied by plants like
+  1805→  5305→     A: Azolla
+  1806→  5306→     B: Typha
+  1807→  5307→     C: Salix
+  1808→  5308→     D: Vallisneria
+  1809→  5309→R1118 | BioCh36.0 | A | Which one of the following statements is correct for secondary succession?
+  1810→  5310→     A: It occurs on a deforested site
+  1811→  5311→     B: It follows primary succession
+  1812→  5312→     C: It is similar to primary succession except that it has a relatively fast pace
+  1813→  5313→     D: It begins on a bare rock
+  1814→  5314→R1119 | BioCh36.0 | B | Which one of the following statements for pyramid of energy is incorrect whereas the remaining three are corre
+  1815→  5315→     A: It show energy content of different trophic level of organisms
+  1816→  5316→     B: It is inverted in shape
+  1817→  5317→     C: It is upright in shape
+  1818→  5318→     D: Its base is broad
+  1819→  5319→R1120 | BioCh36.0 | D | Which one of the following is not used for constructing of ecological pyramids?
+  1820→  5320→     A: Dry weight
+  1821→  5321→     B: Number of individuals
+  1822→  5322→     C: Rate of energy flow
+  1823→  5323→     D: Fresh weight
+  1824→  5324→R1121 | BioCh36.0 | D | The greatest biomass of autotrophs in the world’s oceans is that of
+  1825→  5325→     A: benthic brown algae, coastal red algae and dephnids
+  1826→  5326→     B: benthic diatoms and marine viruses
+  1827→  5327→     C: sea grasses and slime molds
+  1828→  5328→     D: free-floating micro-algae, cyanobaceria and nanoplankton
+  1829→  5329→R1122 | BioCh36.0 | A | In a terrestrial ecosystem such as forest, maximum energy is in which trophic level?
+  1830→  5330→     A: T1
+  1831→  5331→     B: T2
+  1832→  5332→     C: T3
+  1833→  5333→     D: T4
+  1834→  5334→R1123 | BioCh36.0 | B | In a food chain, the largest population is that of
+  1835→  5335→     A: decomposers
+  1836→  5336→     B: producers
+  1837→  5337→     C: primary consumers
+  1838→  5338→     D: tertiary consumers
+  1839→  5339→R1124 | BioCh36.0 | A | The nature of climax community ultimately depends on
+  1840→  5340→     A: climate
+  1841→  5341→     B: bed rock
+  1842→  5342→     C: soil organisms
+  1843→  5343→     D: pool of available nutrients
+  1844→  5344→R1125 | BioCh36.0 | D | The primary succession refers to the development of communities on a
+  1845→  5345→     A: fleshly cleared crop field
+  1846→  5346→     B: forest clearing after devastating fire
+  1847→  5347→     C: pond, freshly filled with water after a dry phase
+  1848→  5348→     D: newly-exposed habitat with no record of earlier vegetation
+  1849→  5349→R1126 | BioCh36.0 | C | The amount of nutrients, such as carbon, nitrogen, phosphorus and calcium present in the soil at any given tim
+  1850→  5350→     A: climax
+  1851→  5351→     B: Climax community
+  1852→  5352→     C: standing state
+  1853→  5353→     D: standing crop
+  1854→  5354→R1127 | BioCh36.0 | C | The pyramid which cannot be inverted in a stable ecosystem is that of
+  1855→  5355→     A: biomass
+  1856→  5356→     B: number
+  1857→  5357→     C: energy
+  1858→  5358→     D: All of these
+  1859→  5359→R1128 | BioCh36.0 | C | Pyramid of number deals with number of
+  1860→  5360→     A: species in an area
+  1861→  5361→     B: individuals in a community
+  1862→  5362→     C: individuals in a trophic level
+  1863→  5363→     D: sub-species in a community
+  1864→  5364→R1129 | BioCh36.0 | C | Pyramid of number in a pond ecosystem is
+  1865→  5365→     A: irregular
+  1866→  5366→     B: inverted
+  1867→  5367→     C: upright
+  1868→  5368→     D: spindle-shaped
+  1869→  5369→R1130 | BioCh36.0 | B | Which of the following pair is a sedimentary type of biogeochemical cycle?
+  1870→  5370→     A: Oxygen and nitrogen
+  1871→  5371→     B: Phosphorous and sulphur
+  1872→  5372→     C: Phosphorous and nitrogen
+  1873→  5373→     D: Phosphorus and carbon dioxide
+  1874→  5374→R1131 | BioCh36.0 | A | Natural reservoir of phosphorus is
+  1875→  5375→     A: rock
+  1876→  5376→     B: fossils
+  1877→  5377→     C: sea water
+  1878→  5378→     D: animal bones
+  1879→  5379→R1132 | BioCh36.0 | B | Which one of the following is not a gaseous biogeochemical cycle in ecosystem?
+  1880→  5380→     A: Sulphur cycle
+  1881→  5381→     B: Phosphorus cycle
+  1882→  5382→     C: Nitrogen cycle
+  1883→  5383→     D: Carbon cycle
+  1884→  5384→R1133 | BioCh36.0 | C | About 70% of total global carbon is found in
+  1885→  5385→     A: grasslands
+  1886→  5386→     B: agroecosystems
+  1887→  5387→     C: oceans
+  1888→  5388→     D: forests
+  1889→  5389→R1134 | BioCh36.0 | D | Solar energy – Green house effect
+  1890→  5390→     A: Biomass burning– Release ofCO2
+  1891→  5391→     B: Fossil fuel burning – Release of CO2
+  1892→  5392→     C: Nuclear power – Radioactive wastes
+  1893→  5393→     D: Solar energy – Green house effect
+  1894→  5394→R1135 | BioCh36.0 | B | If by radiation all nitrogenase enzymes are inactivated, then there will be no
+  1895→  5395→     A: fixation of nitrogen in legumes
+  1896→  5396→     B: fixation of atmospheric nitrogen
+  1897→  5397→     C: conversion from nitrate to nitrite in legumes
+  1898→  5398→     D: conversion from ammonium to nitrate in soil
+  1899→  5399→R1136 | BioCh36.0 | C | The main role of bacteria in the carbon cycle involves
+  1900→  5400→     A: photosynthesis
+  1901→  5401→     B: chemosynthesis
+  1902→  5402→     C: digestion or breakdown of organic compounds
+  1903→  5403→     D: assimilation of nitrogenous compounds
+  1904→  5404→R1137 | BioCh36.0 | B | Bulk CO2 -fixation occurs in
+  1905→  5405→     A: crop plants
+  1906→  5406→     B: oceans
+  1907→  5407→     C: tropical rain forests
+  1908→  5408→     D: temperature forests
+  1909→  5409→R1138 | BioCh36.0 | C | A number of natural reserves have been created to conserve specific wildlife species. Identify the correct com
+  1910→  5410→     A: Gir forest — Tiger
+  1911→  5411→     B: Kaziranga — Elephants
+  1912→  5412→     C: Rann of Kutch — Wild ass
+  1913→  5413→     D: Manas Wildlife Sanctuary — Musk deer
+  1914→  5414→R1139 | BioCh36.0 | A | Which of the following is the correct matching pair of a sanctuary and its main protected wild animal?
+  1915→  5415→     A: Gir — Lion
+  1916→  5416→     B: Sariska — Tiger
+  1917→  5417→     C: Sunderban — Rhino
+  1918→  5418→     D: Kaziranga — Musk deer
+  1919→  5419→R1140 | BioCh36.0 | A | National Park associated with rhinoceros is
+  1920→  5420→     A: Kaziranga
+  1921→  5421→     B: Ranthambore
+  1922→  5422→     C: Corbett
+  1923→  5423→     D: Valley of flowers
+  1924→  5424→R1141 | BioCh36.0 | B | Ranthambore National Park is situated in
+  1925→  5425→     A: Maharashtra
+  1926→  5426→     B: Rajasthan
+  1927→  5427→     C: Gujarat
+  1928→  5428→     D: UP
+  1929→  5429→R1142 | BioCh37.0 | D | Which of the following is a type of biodiversity?
+  1930→  5430→     A: Genetic diversity
+  1931→  5431→     B: Species diversity
+  1932→  5432→     C: Ecological diversity
+  1933→  5433→     D: All of the above
+  1934→  5434→R1143 | BioCh37.0 | B | The region of biosphere reserves which is legally protected and where no human activity is allowed is called:
+  1935→  5435→     A: Buffer zone
+  1936→  5436→     B: Core zone
+  1937→  5437→     C: Manipulation zone
+  1938→  5438→     D: Transition zone
+  1939→  5439→R1144 | BioCh37.0 | C | Which of the following is an example of ex-situ conservation?
+  1940→  5440→     A: National park
+  1941→  5441→     B: Wildlife sanctuary
+  1942→  5442→     C: Botanical garden
+  1943→  5443→     D: Biosphere reserve
+  1944→  5444→R1145 | BioCh37.0 | B | Which of the following is a hotspot of biodiversity in India?
+  1945→  5445→     A: Eastern Himalayas
+  1946→  5446→     B: Western Ghats
+  1947→  5447→     C: Indo-Gangetic Plain
+  1948→  5448→     D: Thar Desert
+  1949→  5449→R1146 | BioCh37.0 | B | A species which was introduced for ornamentation but has become a trouble some weed in India
+  1950→  5450→     A: Parthenium hysterophorus
+  1951→  5451→     B: Eichhornia crassipes
+  1952→  5452→     C: Prosopis juliflora
+  1953→  5453→     D: Trapa spinosa
+  1954→  5454→R1147 | BioCh37.0 | C | Which of the following regions of the globe exhibits highest species diversity?
+  1955→  5455→     A: Madagascar
+  1956→  5456→     B: Himalayas
+  1957→  5457→     C: Amazon forests
+  1958→  5458→     D: Western Ghats of India
+  1959→  5459→R1148 | BioCh37.0 | D | Decline in the population of Indian native fishes due to introduction of Clarias gariepinus in river Yamuna ca
+  1960→  5460→     A: co-extinction
+  1961→  5461→     B: habitat fragmentation
+  1962→  5462→     C: overexploitation
+  1963→  5463→     D: alien species invasion
+  1964→  5464→R1149 | BioCh37.0 | C | Which one of the following expanded forms of the following acronyms is correct?
+  1965→  5465→     A: UNEP — United Nations Environmental Policy
+  1966→  5466→     B: EPA — Environmental Pollution Agency
+  1967→  5467→     C: IUCN — International Union for Conservation of Nature and Natural Resources
+  1968→  5468→     D: IPCC — International Panel for Climate Change
+  1969→  5469→R1150 | BioCh37.0 | B | ICBN stands for
+  1970→  5470→     A: Indian Congress of Biological Names
+  1971→  5471→     B: International Code of Botanical Nomenclature
+  1972→  5472→     C: International Congress of Biological Names
+  1973→  5473→     D: Indian Code of Botanical Nomenaclature
+  1974→  5474→R1151 | BioCh37.0 | C | Which one of the following pairs of organisms are exotic species introduced in India?
+  1975→  5475→     A: Ficus religiosa, Lantana camara
+  1976→  5476→     B: Lantana camara, water hyacinth
+  1977→  5477→     C: Water hyacinth, Prosopis cineraria
+  1978→  5478→     D: Nile perch, Ficus religiosa
+  1979→  5479→R1152 | BioCh37.0 | A | Which of the following pairs of an animal and a plant represents endangered organisms in India?
+  1980→  5480→     A: Bentinckia nicobarica and red panda
+  1981→  5481→     B: Tamarind and rhesus monkey
+  1982→  5482→     C: Cinchona and leopard
+  1983→  5483→     D: Banyan and black buck
+  1984→  5484→R1153 | BioCh37.0 | A | What is a keystone species?
+  1985→  5485→     A: A species which makes up only a small proportion of the total biomass of a commu
+  1986→  5486→     B: A common species that has plenty of biomass, yet has a fairly low impact on the 
+  1987→  5487→     C: A rare species that has minimal impact on the biomass and on other species in th
+  1988→  5488→     D: A dominant species that constitutes a large proportion of the biomass and which 
+  1989→  5489→R1154 | BioCh37.0 | D | According to IUCN Red List, what is the status of red panda (Athurus fulgens)?
+  1990→  5490→     A: Vulnerable species
+  1991→  5491→     B: Critically endangered species
+  1992→  5492→     C: Extinct species
+  1993→  5493→     D: Endangered species
+  1994→  5494→R1155 | BioCh37.0 | C | Biodiversity act of India was passed by the Parliament in the year
+  1995→  5495→     A: 1996.0
+  1996→  5496→     B: 1992.0
+  1997→  5497→     C: 2002.0
+  1998→  5498→     D: 2000.0
+  1999→  5499→R1156 | BioCh37.0 | B | Which endangered animal is the source of the world’s finest, lightest, warmest and most expensive wool —the sh
+  2000→  5500→     A: Kashmiri goat
+  2001→
+  2002→[showing lines 3501-5500 of 6214; use offset=5501 with limit to continue reading]

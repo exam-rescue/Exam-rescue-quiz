@@ -1,0 +1,3037 @@
+R3001 | D | Which one of the following statements about viruses is correct?
+  A: Nucleic acid of viruses is known as capsid
+  B: Viruses possess their own metabolic system
+  C: All viruses contain both RNA and DNA
+  D: Viruses are obligate parasites
+
+R3002 | D | Tobacco mosaic virus is a tubular filament of size
+  A: 700 × 30 nm
+  B: 300 × 10 nm
+  C: 300 × 5 nm
+  D: 300 × 18 nm
+
+R3003 | C | Interferons are synthesized in response to
+  A: Mycoplasma
+  B: bacteria
+  C: viruses
+  D: fungi
+
+R3004 | C | Cauliflower mosaic virus contains
+  A: ssRNA
+  B: dsRNA
+  C: dsDNA
+  D: ssDNA
+
+R3005 | B | Which one of the following statements about viruses is correct?
+  A: Viruses possess their own metabolic system
+  B: Viruses contain either DNA or RNA
+  C: Viruses are facultative parasites
+  D: Viruses are readily killed by antibiotics
+
+R3006 | B | Influenza virus has
+  A: DNA
+  B: RNA
+  C: Both (a) and (b)
+  D: Only proteins and no nucleic acids
+
+R3007 | B | Tobacco Mosaic Virus (TMV) genes are
+  A: double stranded RNA
+  B: single stranded RNA
+  C: polyribonucleotides
+  D: proteinaceous
+
+R3008 | D | An alga very rich in protein is
+  A: Spirogyra
+  B: Ulothrix
+  C: Oscillatoria
+  D: Chlorella
+
+R3009 | B | Blue-green algae belong to
+  A: eukaryotes
+  B: prokaryotes
+  C: Rhodophyceae
+  D: Chlorophyceae
+
+R3010 | A | Agar is commercially obtained from
+  A: red algae
+  B: green algae
+  C: brown algae
+  D: blue-green algae
+
+R3011 | D | The absence of chlorophyll, in the lowermost cell of Ulothrix, shows
+  A: functional fission
+  B: tissue formation
+  C: cell characteristic
+  D: beginning of labour division
+
+R3012 | B | In Chlorophyceae, sexual reproduction occurs by
+  A: isogamy and anisogamy
+  B: isogamy, anisogamy and oogamy
+  C: oogamy only
+  D: anisogamy and oogamy
+
+R3013 | C | Which of the following cannot fix nitrogen?
+  A: Nostoc
+  B: Azotobacter
+  C: Spirogyra
+  D: Anabaena
+
+R3014 | B | Chloroplast of Chlamydomonas is
+  A: stellate
+  B: cup-shaped
+  C: collar-shaped
+  D: spiral
+
+R3015 | C | In Ulothrix/Spirogyra, reduction division (meiosis) occurs at the time of
+  A: gamete formation
+  B: zoospore formation
+  C: zygospore germination
+  D: vegetative reproduction
+
+R3016 | D | Pyrenoids are the centres for formation of
+  A: porphyra
+  B: enzymes
+  C: fat
+  D: starch
+
+R3017 | C | A plant in which sporophytic generation is represented by zygote is
+  A: Pinus
+  B: Selaginella
+  C: Chlamydomonas
+  D: Dryopteris
+
+R3018 | A | The product of conjugation in Spirogyra or fertilisation of Chlamydomonas is
+  A: zygospore
+  B: zoospore
+  C: oospore
+  D: carpospore
+
+R3019 | D | Sexual reproduction involving fusion of two cells in Chlamydomonas is
+  A: isogamy
+  B: homogamy
+  C: somatogamy
+  D: hologamy
+
+R3020 | C | Acetabularia used in Hammerling’s nucleocytoplasmic experiments is
+  A: unicellular fungus
+  B: multicellular fungus
+  C: unicellular uninucleate green alga
+  D: unicellular multinucleate green alga
+
+R3021 | A | After karyogamy followed by meiosis, spores are produced exogenously in
+  A: Agaricus
+  B: Alternaria
+  C: Neurospora
+  D: Saccharomyces
+
+R3022 | B | Which of the following is a free-living nitrogen-fixing bacterium?
+  A: Rhizobium
+  B: Azotobacter
+  C: Nostoc
+  D: Rhizoids
+
+R3023 | C | Which one of the following is not a eukaryotic organism?
+  A: Euglena
+  B: Monocystis
+  C: Sycon
+  D: Amoeba
+
+R3024 | D | The concept of chemical evolution is based on
+  A: crystalisation of chemicals
+  B: interaction of water, air and clay under intense heat
+  C: effect of solar radiation on chemicals
+  D: possible origin of life by combination of chemicals under suitable environmental conditions
+
+R3025 | D | Evolutionary history of an organism is known as
+  A: ancestry
+  B: palaeontology
+  C: ontogeny
+  D: phylogeny
+
+R3026 | B | Which one of the following amino acid was not found to be synthesised in Miller’s experiment?
+  A: Aspartic acid
+  B: Glutamic acid
+  C: Alanine
+  D: Glycine
+
+R3027 | D | Which one of the following experiments suggests that simplest living organisms could not have originated spontaneously from non-living matter?
+  A: Larvae could appear in decaying organic matter
+  B: Microbes did not appear in stored meat
+  C: Microbes appeared from unsterilised organic matter
+  D: Meat was not spoiled, when heated and kept sealed in a vessel
+
+R3028 | B | According to Oparin, which one of the following was not present in the primitive atmosphere of the earth?
+  A: Methane
+  B: Oxygen
+  C: Hydrogen
+  D: Water vapour
+
+R3029 | B | Identify the correct sequence in which the following substances have appeared during the course of evolution of life on earth
+  A: glucose, amino acids, nucleic acids, proteins
+  B: ammonia, amino acids, proteins, nucleic acids
+  C: water, amino acids, nucleic acids, enzymes
+  D: amino acids, ammonia, phosphates, nucleic acids
+
+R3030 | B | The first organisms were
+  A: chemoautotrophs
+  B: chemoheterotrophs
+  C: autotrophs
+  D: eukaryotes
+
+R3031 | C | Which was absent in the atmosphere at the time of origin of life?
+  A: NH3
+  B: H2
+  C: O2
+  D: CH4
+
+R3032 | D | ‘Origin of species’ was written by
+  A: Oparin
+  B: Weismann
+  C: Lamarck
+  D: Darwin
+
+R3033 | B | Evolution is
+  A: progressive development of a race
+  B: history and development of race along with variations
+  C: history of race
+  D: development of race
+
+R3034 | B | First life on earth was
+  A: cyanobacteria
+  B: chemoheterotrophs
+  C: autotrophs
+  D: photoautotrophs
+
+R3035 | B | MAB stands for
+  A: Man And Biology programme
+  B: Man And Biosphere programme
+  C: Mammals And Biosphere
+  D: Mammals And Biology programme
+
+R3036 | A | Which of the following are all gamete-bearing plants?
+  A: Bryophytes, Pteridophytes, Gymnosperms
+  B: Algae, Bryophytes, Pteridophytes
+  C: Pteridophytes, Gymnosperms, Angiosperms
+  D: Bryophytes, Gymnosperms, Angiosperms
+
+R3037 | D | The living radioactive element, used in cancer therapy, is:
+  A: P-32
+  B: Sr-90
+  C: Co-60
+  D: I-131
+
+R3038 | C | Which one of the following is a non-membranous organelle?
+  A: Mitochondria
+  B: Lysosome
+  C: Ribosome
+  D: Golgi apparatus
+
+R3039 | A | Gymnosperms are plants in which the ovules are:
+  A: Naked
+  B: Enclosed within the ovary
+  C: Absent
+  D: Part of a flower
+
+R3040 | C | Which one of the following has haplontic life cycle?
+  A: Funaria
+  B: Polytrichum
+  C: Ustilago
+  D: Wheat
+
+R3041 | A | Which of the following algae contains mannitol as reserve food material?
+  A: Ectocarpus
+  B: Gracilaria
+  C: Volvox
+  D: Ulothrix
+
+R3042 | C | Which of the following algae produces carrageen?
+  A: Green algae
+  B: Brown algae
+  C: Red algae
+  D: Blue-green algae
+
+R3043 | A | Phycoerythrin is the major pigment in
+  A: red algae
+  B: blue-green algae
+  C: green algae
+  D: brown algae
+
+R3044 | C | Which of the following pairs is of unicellular algae?
+  A: Gelidium and Gracilaria
+  B: Anabaena and Volvox
+  C: Chlorella and Spirulina
+  D: Laminaria and Sargassum
+
+R3045 | C | Which one is wrongly matched?
+  A: Gemma cups – Marchantia
+  B: Biflagellate zoospores – Brown algae
+  C: Oogamy - Algae
+  D: Unicellular organism - Chlorella
+
+R3046 | D | Zygotic meiosis is characteristic of
+  A: Marchantia
+  B: Fucus
+  C: Funaria
+  D: Chlamydomonas
+
+R3047 | C | Which one produces carrageen?
+  A: Green algae
+  B: Brown algae
+  C: Red algae
+  D: Blue-green algae
+
+R3048 | B | An example of colonial alga is
+  A: Chlorella
+  B: Volvox
+  C: Ulothrix
+  D: Spirogyra
+
+R3049 | B | Which one of the following statements is wrong?
+  A: Algae increase the level of dissolved oxygen in the immediate environment
+  B: Algin is obtained from red algae and carrageenan from brown algae
+  C: Agar-agar is obtained from Gelidium and Gracilaria
+  D: Laminaria and Sargassum are used as food
+
+R3050 | B | Which one is a wrong statement?
+  A: Archegonia are found in Bryophyta, Pteridophyta and Gymnosperms
+  B: Mucor has biflagellate zoospores
+  C: Haploid endosperm is typical feature of gymnosperms
+  D: Brown algae have chlorophyll-a andc, and fucoxanthin
+
+R3051 | D | Which one of the following shows isogamy with non-flagellated gametes?
+  A: Sargassum
+  B: Ectocarpus
+  C: Ulothrix
+  D: Spirogyra
+
+R3052 | B | An alga which can be employed as food for human being is
+  A: Ulothrix
+  B: Chlorella
+  C: Spirogyra
+  D: Polysiphonia
+
+R3053 | C | Which one of the following is wrong about Chara?
+  A: Upper oogonium and lower round antheridium
+  B: Globule and nucule present on the same plant
+  C: Upper antheridium and lower oogonium
+  D: Globule is male reproductive structure
+
+R3054 | C | Select the wrong statement.
+  A: Isogametes are similar in structure, function and behaviour
+  B: Anisogametes differ either in structure, function and behaviour
+  C: In oomycetes female gamete is smaller and motile, while male gamete is larger and non-motile
+  D: Chlamydomonas exhibits both isogamy and anisogamy and Fucus shows oogamy
+
+R3055 | A | Algae have cell wall made up of
+  A: cellulose, galactans and mannans
+  B: hemicellulose, pectins and proteins
+  C: pectins, cellulose and proteins
+  D: cellulose, hemicellulose and pectins
+
+R3056 | C | Mannitol is the stored food in
+  A: Chara
+  B: Porphyra
+  C: Fucus
+  D: Gracilaria
+
+R3057 | A | If you are asked to classify the various algae into distinct groups, which of the following characters you should choose?
+  A: Types of pigments present in the cell
+  B: Nature of stored food materials in the cell
+  C: Structural organisation of thallus
+  D: Chemical composition of the cell wall
+
+R3058 | A | Sexual reproduction in Spirogyra is an advanced feature because it shows
+  A: physiologically differentiated sex organs
+  B: different size of motile sex organs
+  C: same size of motile sex organs
+  D: morphologically different sex organs
+
+R3059 | A | A research student collected certain alga and found that its cells contained both chlorophyll-a,b,c and chlorophyll-d as well as phycoerythrin. The alga belongs to
+  A: Rhodophyceae
+  B: Bacillariophyceae
+  C: Chlorophyceae
+  D: Phaeophyceae
+
+R3060 | D | Ulothrix can be described as a
+  A: non-motile colonial alga lacking zoospores
+  B: filamentous alga lacking flagellated reproductive stages
+  C: membranous alga producing zoospores
+  D: filamentous alga with flagellated reproductive stages
+
+R3061 | A | Ulothrix filaments produce
+  A: isogametes
+  B: anisogametes
+  C: heterogametes
+  D: basidiospores
+
+R3062 | C | Brown algae is characterised by the presence of
+  A: phycocyanin
+  B: phycoerythrin
+  C: fucoxanthin
+  D: haematochrome
+
+R3063 | D | Gemmae are present in
+  A: mosses
+  B: pteridophytes
+  C: some gymnosperms
+  D: some liverworts
+
+R3064 | D | Which of the following is responsible for peat formation?
+  A: Marchantia
+  B: Riccia
+  C: Funaria
+  D: Sphagnum
+
+R3065 | D | Which one of the following is common to multicellular fungi, filamentous algae and protonema of mosses?
+  A: Diplontic life cycle
+  B: Members of kingdom–Plantae
+  C: Mode of nutrition
+  D: Multiplication by fragmentation
+
+R3066 | D | Archegoniophore is present in
+  A: Chara
+  B: Adiantum
+  C: Funaria
+  D: Marchantia
+
+R3067 | D | Male and female gametophytes are independent and free-living in
+  A: mustard
+  B: castor
+  C: Pinus
+  D: Sphagnum
+
+R3068 | D | The following is common to multicellular fungi, filamentous algae and protonema of mosses?
+  A: Diplontic life cycle
+  B: Members of kingdom–Plantae
+  C: Mode of nutrition
+  D: Multiplication by fragmentation
+
+R3069 | D | In the prothallus of a vascular cryptogam, the antherozoids and eggs mature at different times, as a result
+  A: there is no change in success rate of fertilisation
+  B: there is high degree of sterility
+  C: one can conclude that the plant is apomictic
+  D: self fertilisation is prevented
+
+R3070 | A | Spore dissemination in some liverworts is aided by
+  A: elaters
+  B: indusium
+  C: calyptra
+  D: peristome teeth
+
+R3071 | A | Peat moss is used as a packing material for sending flowers and live plants to distant places because
+  A: it is hygroscopic
+  B: it reduces transpiration
+  C: it serves as a disinfectant
+  D: it is easily available
+
+R3072 | B | The antherozoids of Funaria are
+  A: aciliated
+  B: biflagellated
+  C: multiciliated
+  D: monociliated
+
+R3073 | D | Dichotomous branching is found in
+  A: fern
+  B: Funaria
+  C: liverworts
+  D: Marchantia
+
+R3074 | D | Bryophytes comprise
+  A: sporophyte of longer duration
+  B: dominant phase of sporophyte which is parasitic
+  C: dominant phase of gametophyte which produces spores
+  D: small sporophyte phase generally parasitic on gametophyte
+
+R3075 | D | Which of the following is true about bryophytes?
+  A: They possess archegonia
+  B: They contain chloroplast
+  C: They are thalloid
+  D: All of the above
+
+R3076 | C | Bryophytes are dependent on water because
+  A: water is essential for fertilisation for their homosporous nature
+  B: water is essential for their vegetative propagation
+  C: the sperms can easily reach up to egg in the archegonium
+  D: archegonium has to remain filled with water for fertilisation
+
+R3077 | C | Bryophytes can be separated from algae because they
+  A: are thalloid forms
+  B: have no conducting tissue
+  C: possess archegonia with outer layer of sterile cells
+  D: contain chloroplasts in their cells
+
+R3078 | B | Multicellular branched rhizoids and leafy gametophytes are characteristics of
+  A: all bryophytes
+  B: some bryophytes
+  C: all pteridophytes
+  D: some pteridophytes
+
+R3079 | B | In which one of these the elaters are present along with mature spores in the capsule (to help in spore dispersal)?
+  A: Riccia
+  B: Marchantia
+  C: Funaria
+  D: Sphagnum
+
+R3080 | D | The plant body of moss (Funaria) is
+  A: completely sporophyte
+  B: completely gametophyte
+  C: predominantly sporophyte with gametophyte
+  D: predominantly gametophyte with sporophyte
+
+R3081 | B | Unique features of bryophytes is that they
+  A: produce spores
+  B: have sporophyte attached to gametophyte
+  C: lack roots
+  D: lack vascular tissues
+
+R3082 | C | The plant group that produces spores and embryo but lacks vascular tissues and seeds is
+  A: Pteridophyta
+  B: Rhodophyta
+  C: Bryophyta
+  D: Phaeophyta
+
+R3083 | D | Which one has the largest gametophyte?
+  A: Cycas
+  B: Angiosperm
+  C: Selaginella
+  D: Moss
+
+R3084 | A | Bryophytes are amphibians because
+  A: they require a layer of water for carrying out sexual reproduction
+  B: they occur in damp places
+  C: they are mostly aquatic
+  D: All of the above
+
+R3085 | A | Apophysis in the capsule of Funaria is
+  A: lower part
+  B: upper part
+  C: middle part
+  D: fertile part
+
+R3086 | A | Moss peristome takes part in
+  A: spore dispersal
+  B: photosynthesis
+  C: protection
+  D: absorption
+
+R3087 | B | Protonema occurs in the life cycle of
+  A: Riccia
+  B: Funaria
+  C: Chlamydomonas
+  D: Spirogyra
+
+R3088 | D | Sperms of both Funaria and Pteris were released together near the archegonia of Pteris. Only Pteris sperms enter the archegonia as
+  A: Pteris archegonia repel Funaria sperms
+  B: Funaria sperms get killed by Pteris sperms
+  C: Funaria sperms are less mobile
+  D: Pteris archegonia release chemical to attract its sperms
+
+R3089 | C | In bryophytes and pteridophytes, transport of male gametes requires
+  A: insects
+  B: birds
+  C: water
+  D: wind
+
+R3090 | D | Which one of the following is a correct statement?
+  A: Pteridophyte gametophyte has a protonemal and leafy stage
+  B: In gymnosperms female gametophyte is free-living
+  C: Antheridiophores and archegoniophores are present in pteridophytes
+  D: Origin of seed habit can be traced in pteridophytes
+
+R3091 | A | Which one of the following is a vascular cryptogam?
+  A: Equisetum
+  B: Ginkgo
+  C: Marchantia
+  D: Cedrus
+
+R3092 | A | In which one of the following, male and female gametophytes don’t have free living independent existence?
+  A: Pteris
+  B: Funaria
+  C: Polytrichum
+  D: Cedrus
+
+R3093 | B | Which one of the following is heterosporous?
+  A: Dryopteris
+  B: Salvinia
+  C: Adiantum
+  D: Equisetum
+
+R3094 | A | Which of the following propagates through leaf-tip?
+  A: Walking fern
+  B: Sproux-leaf plant
+  C: Marchantia
+  D: Moss
+
+R3095 | C | Which one the following pairs of plants are not seed producers?
+  A: Ficus and Chlamydomonas
+  B: Punica and Pinus
+  C: Fern and Funaria
+  D: Funaria and Ficus
+
+R3096 | C | In ferns meiosis occurs when
+  A: spore germinates
+  B: gametes are formed
+  C: spores are formed
+  D: antheridia and archegonia are formed
+
+R3097 | B | The ‘walking fern’ is so named because
+  A: it is dispersed through the agency of walking animals
+  B: it propagates vegetatively by its leaf tips
+  C: it knows how to walk by itself
+  D: its spores are able to walk
+
+R3098 | B | A well developed archegonium with neck consisting of 4-6 rows of neck canal cells, characterises
+  A: gymnosperms only
+  B: bryophytes and pteridophytes
+  C: pteridophytes and gymnosperms
+  D: gymnosperms and flowering plants
+
+R3099 | D | Which one of the following is not common between Funaria and Selaginella?
+  A: Archegonium
+  B: Embryo
+  C: Flagellate sperms
+  D: Roots
+
+R3100 | B | Pteridophytes differ from mosses/ bryophytes in possessing
+  A: independent gametophyte
+  B: well developed vascular system
+  C: archegonia
+  D: flagellate spermatozoids
+
+R3101 | A | Evolutionary important character of Selaginella is
+  A: heterosporous nature
+  B: rhizophore
+  C: strobili
+  D: ligule
+
+R3102 |  | Pteridophytes are most primitive vascular flowerless, spore producing cryptogamic land plants, commonly called vascular amphibians/botanical snakes/spore producing seedless trachaeophytes. They are fi
+  A: 
+  B: 
+  C: 
+  D: 
+
+R3103 | C | Which one of the following statements is correct?
+  A: Horsetails are gymnosperms
+  B: Selaginella is heterosporous, while Salvinia is homosporous
+  C: Ovules are not enclosed by ovary wall in gymnosperms
+  D: Stems are usually unbrancned in both Cycas and Cedrus.
+
+R3104 | B | Select the correct statement.
+  A: Salvinia, Ginkgo and Pinus all are gymnosperms
+  B: Sequoia is one of the tallest trees
+  C: The leaves of gymnosperms are not well adapted to extremes of climate
+  D: Gymnosperms are both homosporous and heterosporous
+
+R3105 | C | Conifers are adapted to tolerate extreme environmental conditions because of
+  A: broad hardy leaves
+  B: superficial stomata
+  C: thick cuticle
+  D: the presence of vessels
+
+R3106 | C | Read the following statements and answer the question which follows them I. In liverworts, mosses and ferns gametophytes are free living. II. Gymnosperms and some ferns are heterosporous. III. Sexual 
+  A: One
+  B: Two
+  C: Three
+  D: Four
+
+R3107 | B | Cycas and Adiantum resemble each other in having
+  A: seeds
+  B: motile sperms
+  C: cambium
+  D: vessels
+
+R3108 | C | The gametophyte is not an independent, free living generation in
+  A: Adiantum
+  B: Marchantia
+  C: Pinus
+  D: Polytrichum
+
+R3109 | B | Select one of the following pairs of important features distinguishing Gnetum from Cycas and Pinus and showing affinities with angiosperms
+  A: absence of resin duct and leaf venation
+  B: presence of vessel elements and absence of archegonia
+  C: perianth and two integuments
+  D: embryo development and apical meristem
+
+R3110 | D | Flagellated male gametes are present in all the three of which one of the following sets?
+  A: Anthoceros, Funaria and Spirogyra
+  B: Zygnema, Saprolegnia and Hydrilla
+  C: Fucus, Marselia and Calotropis
+  D: Riccia, Dryopteris and Cycas
+
+R3111 | B | In gymnosperms, the pollen chamber represents
+  A: a cell in the pollen grain in which the sperms are formed
+  B: a cavity in the ovule in which pollen grains are stored after pollination
+  C: an opening in the megagametophyte through which the pollen tube approaches the egg
+  D: the microsporangium in which pollen grains develop
+
+R3112 | A | Which one of the following is a living fossil?
+  A: Cycas
+  B: Moss
+  C: Saccharomyces
+  D: Spirogyra
+
+R3113 | B | Which one pair of examples will correctly represent the grouping spermatophyta according to one of the schemes of classifying plants?
+  A: Rhizopus, Triticum
+  B: Ginkgo, Pisum
+  C: Acacia, sugarcane
+  D: Pinus, Cycas
+
+R3114 | D | Which of the following plants produces seeds but not flowers?
+  A: Maize
+  B: Mint
+  C: Peepal
+  D: Pinus
+
+R3115 | A | Cycas has two cotyledons but not included in angiosperms because of
+  A: naked ovules
+  B: seems like monocot
+  C: circinate ptyxis
+  D: compound leaves
+
+R3116 | C | The largest ovules, largest male and female gametes and largest plants are found among
+  A: angiosperms
+  B: tree ferns and some monocots
+  C: gymnosperms
+  D: dicotyledonous plants
+
+R3117 | C | In which of the following would you place the plants having vascular tissue, lacking seeds?
+  A: Algae
+  B: Bryophytes
+  C: Pteridophytes
+  D: Gymnosperms
+
+R3118 | C | Largest sperms in the plant world are found in
+  A: Pinus
+  B: Banyan
+  C: Cycas
+  D: Tsuja
+
+R3119 | A | Which one of the following statements about Cycas is incorrect?
+  A: It does not have a well organised female
+  B: 
+  C: 
+  D: 
+
+R3120 | A | Seed habit first originated in
+  A: certain ferns
+  B: certain pines
+  C: certain monocots
+  D: primitive dicots
+
+R3121 | C | The ‘wing’ of Pinus seed is derived from
+  A: testa
+  B: testa and tegmen
+  C: surface of ovuliferous scale
+  D: All of the above
+
+R3122 | C | Pinus differs from mango in having
+  A: tree habit
+  B: green leaves
+  C: ovules not enclosed in ovary
+  D: wood
+
+R3123 | D | Which one is the most advanced from evolutionary view point?
+  A: Selaginella
+  B: Funaria
+  C: Chlamydomonas
+  D: Pinus
+
+R3124 | D | A plant having seeds but lacking flowers and fruits belongs to
+  A: pteridophytes
+  B: mosses
+  C: ferns
+  D: gymnosperms
+
+R3125 | C | In Pinus, the pollen grain has 6 chromosomes then its endosperm will have the chromosome
+  A: 12.0
+  B: 18.0
+  C: 6.0
+  D: 24.0
+
+R3126 | B | Resin and terpentine are obtained from
+  A: Cycas
+  B: Pinus
+  C: Cedrus
+  D: Abies
+
+R3127 | B | In Pinus/gymnosperms, the haploid structure are
+  A: megaspore, endosperm and embryo
+  B: megaspore, pollen grain and endosperm
+  C: megaspore, integument and root
+  D: pollen grain, leaf and root
+
+R3128 | B | In Pinus/Cycas/gymnosperms, the endosperm is
+  A: triploid
+  B: haploid
+  C: diploid
+  D: tetraploid
+
+R3129 | C | Compared with the gametophytes of the bryophytes, the gametophytes of vascular plants tends to be
+  A: larger but to have smaller sex organs
+  B: larger and to have large sex organs
+  C: smaller and to have smaller sex organs
+  D: smaller but to have larger sex organs
+
+R3130 | C | Conifers differ from grasses in the
+  A: lack of xylem tracheids
+  B: absence of pollen tubes
+  C: formation of endosperm before fertilisation
+  D: production of seeds from ovules
+
+R3131 | C | Life cycle of Ectocarpus and Fucus respectively are
+  A: Haplontic, Diplontic
+  B: Diplontic, Haplodiplontic
+  C: Haplodiplontic, Diplontic
+  D: Haplodiplontic, Haplontic
+
+R3132 | B | Metagenesis refers to
+  A: the presence of different morphic forms
+  B: alternation of generation between asexual and sexual phases of an organism
+  C: occurrence of a drastic change in form during post-embryonic development
+  D: the presence of a segmented body and parthenogenetic mode of reproduction
+
+R3133 | B | Which one of the following is considered important in the development of seed habit?
+  A: Dependent sporophyte
+  B: Heterospory
+  C: Haplontic life cycle
+  D: Free-living gametophyte
+
+R3134 | A | Match items in column I with those in column II.
+  A: A-3, B-1, C-4, D-5, E-2
+  B: A-2, B-1, C-3, D-4, E-5
+  C: A-5, B-3, C-2, D-5, E-1
+  D: A-1, B-2, C-5, D-3, E-2
+
+R3135 | B | Which of the following is without exception in angiosperms?
+  A: Presence of vessels
+  B: Double fertilisation
+  C: Secondary growth
+  D: Autotrophic nutrition
+
+R3136 | C | Life cycle of Ectocarpus and Fucus respectively are
+  A: Haplontic, Diplontic
+  B: Diplontic, Haplodiplontic
+  C: Haplodiplontic, Diplontic
+  D: Haplodiplontic, Haplontic
+
+R3137 | A | Match items in column I with those in column II.
+  A: 3 1 4 5 2
+  B: 2 1 3 4 5
+  C: 5 3 2 5 1
+  D: 1 2 5 3 2
+
+R3138 | B | Metagenesis refers to
+  A: the presence of different morphic forms
+  B: alternation of generation between asexual and sexual phases of an organism
+  C: occurrence of a drastic change in form during post-embryonic development
+  D: the presence of a segmented body and parthenogenetic mode of reproduction
+
+R3139 | B | Which one of the following is considered important in the development of seed habit?
+  A: Dependent sporophyte
+  B: Heterospory
+  C: Haplontic life cycle
+  D: Free-living gametophyte
+
+R3140 |  | After karyogamy followed by meiosis, spores are produced exogenously in
+  A: Agaricus
+  B: Alternaria
+  C: Neurospora
+  D: Saccharomyces
+
+R3141 | D | Which contribute to the success of Mendel?
+  A: Qualitative analysis of data
+  B: Observation of distinct inherited traits
+  C: It took one trait at a time for his experiments
+  D: All of the above
+
+R3142 | A | Which of the following plants is used as a source of edible oil?
+  A: Linseed
+  B: Fennel
+  C: Pea
+  D: Hibiscus
+
+R3143 | A | The vascular bundles are conjoint, collateral and closed in:
+  A: Monocotyledonous stem
+  B: Dicotyledonous root
+  C: Dicotyledonous stem
+  D: Monocotyledonous root
+
+R3144 | D | Which of the following is a unique character of phylum Bryophyta?
+  A: Presence of vascular tissues
+  B: Dominance of sporophyte
+  C: Absence of gametophyte
+  D: Gametophytic plant body
+
+R3145 | D | Which of the following animal groups is responsible for the decline in the population of Australian 'brushtail possum'?
+  A: Sharks
+  B: Bats
+  C: Crocodiles
+  D: Foxes
+
+R3146 | A | In which of the following animals, the adult organism is radially symmetrical but the larva is bilaterally symmetrical?
+  A: Asterias
+  B: Ophiothrix
+  C: Ancylostoma
+  D: Hirudinaria
+
+R3147 | D | Which of the following characters is not typical of the phylum Annelida?
+  A: Nervous system
+  B: Coelomate
+  C: Metameric segmentation
+  D: Chitinous exoskeleton
+
+R3148 | A | Which of the following groups of animals belongs to the same phylum?
+  A: Earthworm, Leech, Nereis
+  B: Cockroach, Grasshopper, Scorpion
+  C: Monkey, Chimpanzee, Man
+  D: Starfish, Jellyfish, Tapeworm
+
+R3149 | C | In case of poriferans, the spongocoel is lined with flagellated cells called
+  A: ostia
+  B: oscula
+  C: choanocytes
+  D: mesenchymal cells
+
+R3150 | B | Body having meshwork of cells, internal cavities lined with food filtering flagellated cells and indirect development are the characteristics of phylum
+  A: Coelenterata
+  B: Porifera
+  C: Mollusca
+  D: Protozoa
+
+R3151 | D | Sycon belongs to a group of animals which are best described as
+  A: multicellular with a gastrovascular system
+  B: multicellular having tissue organisation, but no body cavity
+  C: unicellular or acellular
+  D: multicellular without any tissue organisation
+
+R3152 | D | The canal system is a characteristic feature of
+  A: echinoderms
+  B: helminthes
+  C: coelenterates
+  D: sponges
+
+R3153 | B | What is true about all sponges without exception?
+  A: They are all marine
+  B: They have flagellated collar cells
+  C: They have a mixed skeleton consisting of spicules and spongin fibres
+  D: They reproduce only asexually by budding
+
+R3154 | A | The simplest type of canal system in Porifera is
+  A: ascon type
+  B: leucon type
+  C: sycon type
+  D: radial type
+
+R3155 | B | Classification of Porifera is based on
+  A: branching
+  B: spicules
+  C: reproduction
+  D: symmetry
+
+R3156 | B | Which one of the following living organisms completely lacks a cell wall?
+  A: Cyanobacteria
+  B: Sea-fan (Gorgonia)
+  C: Saccharomyces
+  D: Blue-green algae
+
+R3157 | D | Select the taxon mentioned that represents both marine and freshwater species
+  A: Echinoderms
+  B: Ctenophora
+  C: Cephalochordata
+  D: Cnidaria
+
+R3158 | D | In which animal nerve cell is present but brain is absent?
+  A: Sponge
+  B: Earthworm
+  C: Cockroach
+  D: Hydra
+
+R3159 | C | In Hydra, waste material of food digestion and nitrogenous waste material are removed from
+  A: mouth and mouth
+  B: body wall and body wall
+  C: mouth and body wall
+  D: mouth and tentacles
+
+R3160 |  | Most appropriate term to describe the life cycle of Obelia is
+  A: neoteny
+  B: metagenesis
+  C: metamorphosis
+  D: All of these
+
+R3161 |  | Sea anemone is a coelenterate found in marine water, attached to the empty shell of gastropods already occupied by hermit crab, this association is
+  A: tapeworm
+  B: mosquito
+  C: leech
+  D: sea anemone
+
+R3162 |  | Special character of coelenterates is
+  A: polymorphism
+  B: nematocysts
+  C: flame cells
+  D: hermaphroditism
+
+R3163 |  | Which one of the following animals possesses nerve cells but no nerves?
+  A: Hydra
+  B: Tapeworm
+  C: Earthworm
+  D: Frog’s tadpole
+
+R3164 |  | Budding is a normal mode of asexual reproduction in
+  A: starfish and Hydra
+  B: Hydra and sponges
+  C: tapeworm and Hydra
+  D: sponge and starfish
+
+R3165 |  | Jelly fish belongs to class
+  A: Hydrozoa
+  B: Scyphozoa
+  C: Anthozoa
+  D: None of these
+
+R3166 |  | Organ pipe coral is
+  A: Tubipora
+  B: Astraea
+  C: Helipora
+  D: Fungia
+
+R3167 |  | Biradial symmetry and lack of cnidoblasts are the characteristics of
+  A: Starfish and sea anemone
+  B: Ctenoplana and Beroe
+  C: Aurelia and Paramecium
+  D: Hydra and starfish
+
+R3168 |  | Match the following columns and select the correct option.
+  A: 4 1 2 3
+  B: 3 2 1 4
+  C: 2 1 3 4
+  D: 1 3 2 4
+
+R3169 |  | Bilaterally symmetrical and acoelomate animals are exemplified by
+  A: Platyhelminthes
+  B: Aschelminthes
+  C: Annelida
+  D: Ctenophora
+
+R3170 |  | Planaria possess high capacity of
+  A: metamorphosis
+  B: regeneration
+  C: alternation of generation
+  D: bioluminescence
+
+R3171 |  | One example of animal having a single opening to the outside that serves both as mouth as well as anus is
+  A: Octopus
+  B: Asterias
+  C: Ascidia
+  D: Fasciola
+
+R3172 |  | Which one of the following kinds of animals are triploblastic?
+  A: Flatworms
+  B: Sponges
+  C: Ctenophores
+  D: Corals
+
+R3173 |  | During its life cycle, Fasciola hepatica (liver fluke) infects its intermediate host and primary host at the following larval stages respectively
+  A: metacercaria and cercaria
+  B: miracidium and metacercaria
+  C: redia and miracidium
+  D: cercaria and redia
+
+R3174 |  | Which one belongs to Platyhelminthes?
+  A: Schistosoma
+  B: Trypansoma
+  C: Plasmodium
+  D: Wuchereria
+
+R3175 |  | What is true about Taenia saginata?
+  A: Life history has pig as intermediate host
+  B: There are two large suckers on scolex
+  C: Rostellar hooks are absent
+  D: Rostellum has double circle of hooks
+
+R3176 |  | What is correct about Taenia?
+  A: Male organs occur in posterior proglottids
+  B: Male organs occur in anterior proglottids
+  C: Female organs occur in anterior proglottids
+  D: Mature proglottids contain both male and female organs
+
+R3177 |  | The excretory structures of flat worms/Taenia are
+  A: flame cells
+  B: protonephridia
+  C: Malpighian tubules
+  D: green glands
+
+R3178 |  | Bladderworm/cysticercus is the larval stage of
+  A: tapeworm
+  B: roundworm
+  C: pinworm
+  D: liver fluke
+
+R3179 |  | Transfer of Taenia to secondary host occurs as
+  A: oncosphere
+  B: cysticercus
+  C: morula
+  D: egg
+
+R3180 |  | Which one of the following groups of animals is bilaterally symmetrical and triploblastic?
+  A: Coelenterates (cnidarians)
+  B: Aschelminthes (roundworms)
+  C: Ctenophores
+  D: Sponges
+
+R3181 | A | Which one of the following statements about certain given animals is correct?
+  A: Round worms (Aschelminthes) are pseudocoelomates
+  B: Molluscs are acoelomates
+  C: Insects are pseudocoelomates
+  D: Flatworms (Platyhelminthes) are coelomates
+
+R3182 | B | Ascaris is characterised by
+  A: absence of true coelom but presence of metamerism
+  B: presence of neither true coelom nor metamerism
+  C: presence of true coelom but absence of metamerism
+  D: presence of true coelom and metamerism (metamerisation)
+
+R3183 | D | What is common between Ascaris lumbricoides and Anopheles stephensi?
+  A: Hibernation
+  B: Metamerism
+  C: Anaerobic respiration
+  D: Sexual dimorphism
+
+R3184 | B | Ascaris larva is called
+  A: cysticercus
+  B: rhabditiform
+  C: hexacanth
+  D: onchosphere
+
+R3185 | B | Ascaris lumbricoides infection occurs through
+  A: sole of uncovered feet
+  B: contaminated cooked measly pork
+  C: improperly cooked measly pork
+  D: from air through inhalation
+
+R3186 | C | Match the List-I with List-II.
+  A: A. 4, B. 3, C. 1, D. 2
+  B: A. 3, B. 4, C. 1, D. 2
+  C: A. 3, B. 4, C. 2, D. 1
+  D: A. 4, B. 1, C. 2, D. 3
+
+R3187 | B | Which of the following options does correctly represent the characteristic features of phylum–Annelida?
+  A: Triploblastic, unsegmented body and bilaterally symmetrical
+  B: Triploblastic, segmented body and bilaterally symmetrical
+  C: Triploblastic, flattened body and acoelomate condition
+  D: Diploblastic, mostly marine and radially symmetrical
+
+R3188 | D | Which of the following animals are true coelomates with bilateral symmetry?
+  A: Adult echinoderms
+  B: Aschelminthes
+  C: Platyhelminthes
+  D: Annelids
+
+R3189 | B | Pheretima and its close relatives derive nourishment from
+  A: sugarcane roots
+  B: decaying fallen leaves and soil organic matter
+  C: soil insects
+  D: small pieces of fresh fallen leaves of maize
+
+R3190 | A | One very special feature in the earthworm Pheretima is that
+  A: the typhlosole greatly increases the effective absorption area of the digested food in the intestine
+  B: the S-shaped setae embedded in the integument are the defensive weapons used against the enemies
+  C: it has a long dorsal tubular heart
+  D: fertilisation of eggs occurs inside the body
+
+R3191 | B | If a live earthworm is pricked with a needle on its outer surface without damaging its gut, the fluid that comes out is
+  A: excretory fluid
+  B: coelomic fluid
+  C: haemolymph
+  D: slimy mucus
+
+R3192 | C | Which one of the following is not a characteristic of phylum–Annelida?
+  A: Closed circulatory system
+  B: Segmentation
+  C: Pseudocoelom
+  D: Ventral nerve cord
+
+R3193 | A | Earthworms have no skeleton but during burrowing, the anterior end becomes turgid and acts as a hydraulic skeleton. It is due to
+  A: coelomic fluid
+  B: blood
+  C: gut peristalsis
+  D: setae
+
+R3194 | B | Which one of the following is correct matching pair of a body feature and the animal possessing it?
+  A: Post-anal tail — Octopus
+  B: Ventral central nervous system — Leech
+  C: Pharyngeal gills slits absent in embryo — Chameleon
+  D: Ventral heart — Scorpion
+
+R3195 | A | In which of the following chlorocruorin pigment is found?
+  A: Annelida
+  B: Echinodermata
+  C: Insecta
+  D: Lower Chordata
+
+R3196 | C | Functionwise, just as there are nephridia in an earthworm, so are
+  A: parotid glands in toad
+  B: statocysts in prawn
+  C: flame cells in liver fluke
+  D: myotomes in fish
+
+R3197 | B | Which pair of a body feature and the animal possessing it is correctly matched?
+  A: Post-anal tail – Octopus
+  B: Ventral central nervous system – Leech
+  C: Pharyngeal gills slits absent in embryo – Chameleon
+  D: Ventral heart – Scorpion
+
+R3198 | D | True coelom is the space lying between the alimentary canal and body wall enclosed by the layers of:
+  A: ectoderm on both sides
+  B: endoderm on one side and ectoderm on the other
+  C: mesoderm on one side and ectoderm on the other
+  D: mesoderm on both sides
+
+R3199 | C | Coelom derived from blastocoel is known as:
+  A: enterocoelom
+  B: schizocoelom
+  C: pseudocoelom
+  D: haemocoelom
+
+R3200 | D | Which one assists in locomotion?
+  A: Trichocysts in Paramecium
+  B: Pedicellariae of starfish
+  C: Clitellum in Pheretima
+  D: Posterior sucker in Hirudinaria
+
+R3201 | D | Blood of Pheretima is:
+  A: blue with haemocyanin in corpuscles
+  B: blue with haemocyanin in plasma
+  C: red with haemoglobin in corpuscles
+  D: red with haemoglobin in plasma
+
+R3202 | B | Pheretima posthuma is highly useful as:
+  A: their burrows make the soil loose
+  B: they make the soil porous, leave their castings and take organic debris in the soil
+  C: they are used as fish meal
+  D: they kill the birds due to biomagnification of chlorinated hydrocarbons
+
+R3203 | A | Earthworms are:
+  A: useful
+  B: harmful
+  C: more useful than harmful
+  D: more harmful
+
+R3204 | C | Photoreceptors of earthworm occur on:
+  A: clitellum
+  B: many eyes
+  C: dorsal surface
+  D: lateral sides
+
+R3205 | D | Which one of the following belongs to the family-Muscidae ?
+  A: Firefly
+  B: Grasshopper
+  C: Cockroach
+  D: Housefly
+
+R3206 | A | Match the following organisms with their respective characteristics.
+  A: A. Pila (iii) Radula, B. Bombyx (iv) Malpighian tubules, C. Pleurobrachia (ii) Comb plates, D. Taenia (i) Flame cells
+  B: A. Pila (ii) Comb plates, B. Bombyx (iv) Malpighian tubules, C. Pleurobrachia (iii) Radula, D. Taenia (i) Flame cells
+  C: A. Pila (iii) Radula, B. Bombyx (ii) Comb plates, C. Pleurobrachia (iv) Malpighian tubules, D. Taenia (i) Flame cells
+  D: A. Pila (iii) Radula, B. Bombyx (ii) Comb plates, C. Pleurobrachia (i) Flame cells, D. Taenia (iv) Malpighian tubules
+
+R3207 | B | Which of the following features is not present in the phylum–Arthropoda?
+  A: Metameric segmentation
+  B: Parapodia
+  C: Jointed appendages
+  D: Chitinous exoskeleton
+
+R3208 | A | Match column I with column II for housefly classification and select the correct option using the codes given below:
+  A: A. Family (3) Muscidae, B. Order (1) Diptera, C. Class (4) Insecta, D. Phylum (2) Arthropoda
+  B: A. Family (3) Muscidae, B. Order (2) Arthropoda, C. Class (4) Insecta, D. Phylum (1) Diptera
+  C: A. Family (4) Insecta, B. Order (3) Muscidae, C. Class (2) Arthropoda, D. Phylum (1) Diptera
+  D: A. Family (4) Insecta, B. Order (2) Arthropoda, C. Class (1) Diptera, D. Phylum (3) Muscidae
+
+R3209 | C | Which group of animals belong to the same phylum?
+  A: Malarial parasite, Amoeba, mosquito
+  B: Earthworm, pinworm, tapeworm
+  C: Prawn, scorpion, Locusta
+  D: Sponge, sea anemone, starfish
+
+R3210 | B | One of the representative of Phylum– Arthropoda is:
+  A: cuttle fish
+  B: silver fish
+  C: puffer fish
+  D: flying fish
+
+R3211 | C | Which of the following are correctly matched with respect to their taxonomic classification?
+  A: Flying fish, cuttle fish, silver fish—Pisces
+  B: Centipede, millipede, spider, scorpion—Insecta
+  C: House fly, butterfly, tse-tse fly, silver fish—Insecta
+  D: Spiny anteater, sea urchin, sea cucumber—Echinodermata
+
+R3212 | C | Which of the following is correctly states as it happens in the common cockroach?
+  A: Oxygen is transported by haemoglobin in blood
+  B: Nitrogenous excretory product is urea
+  C: The food is ground by mandibles and gizzard
+  D: Malpighian tubules are excretory organs projecting out from the colon
+
+R3213 | D | Which one of the following is the true description about an animal concerned?
+  A: Earthworm— The alimentary canal consists of a sequence of pharynx, oesophagus, stomach, gizzard and intestine
+  B: Frog — Body divisible into three regions— head, neck and trunk
+  C: Rat — Left kidney is slightly higher in position than the right one
+  D: Cockroach — 10 pairs of spiracles (2 pairs on thorax and 8 pairs on abdomen)
+
+R3214 |  | Which one of the following phyla is correctly matched with its two general characteristics?
+  A: Arthropoda — Body divided into head, thorax and abdomen and respiration by tracheae
+  B: Chordata — Notochord at some stage and separate anal and urinary openings to the outside
+  C: Echinodermata— Pentamerous radial symmetry and mostly internal fertilisation
+  D: Mollusca — Normally oviparous and development through a trochophore or veliger larva
+
+R3215 |  | What is true about Nereis, scorpion, cockroach and silver fish?
+  A: They all have jointed paired appendages
+  B: They all possess dorsal heart
+  C: None of them is aquatic
+  D: They all belong to the same phylum
+
+R3216 |  | Two common characters found in centipede, cockroach and crab are
+  A: compound eyes and anal cerci
+  B: jointed legs and chitinous exoskeleton
+  C: green gland and tracheae
+  D: book lungs and antennae
+
+R3217 |  | From the following statements select the wrong one.
+  A: Millipedes have two pairs of appendages in each segment of the body
+  B: Prawn has two pairs of antennae
+  C: Animals belonging to phylum–Porifera are exclusively marine
+  D: Nematocysts are characteristic of the phylum–Cnidaria
+
+R3218 |  | In Arthropoda, head and thorax are often fused to form cephalothorax, but in which one of the following classes, is the body divided into head, thorax and abdomen?
+  A: Insecta
+  B: Myriapoda
+  C: Crustacea
+  D: Arachnida and Crustacea
+
+R3219 |  | What is common among silver fish, scorpion, crab and honeybee?
+  A: Compound eyes
+  B: Poison glands
+  C: Jointed appendages
+  D: Metamorphosis
+
+R3220 |  | A larval stage occurs in the life history of all members of the group
+  A: frog, lizard and cockroach
+  B: Ascaris, housefly and frog
+  C: housefly, earthworm and mosquito
+  D: butterfly, frog and mosquito
+
+R3221 |  | Adult Culex and Anopheles can be distinguished with the help of
+  A: mouth parts/colour
+  B: sitting posture
+  C: antennae/wings
+  D: feeding habits
+
+R3222 |  | Male and female cockroaches can be distinguished externally through
+  A: anal styles in male
+  B: anal cerci in female
+  C: anal style and antennae in females
+  D: Both (b) and (c)
+
+R3223 |  | Metamorphosis of insects is regulated through hormone
+  A: pheromone
+  B: thyroxine
+  C: ecdysone
+  D: All of these
+
+R3224 |  | An insect regarded as greatest mechanical carrier of diseases is
+  A: Pediculus
+  B: Cimex
+  C: Musca
+  D: Xenopsylla
+
+R3225 |  | Silk thread is obtained from silk moth during
+  A: pupal stage
+  B: larval stage
+  C: nymph stage
+  D: adult stage
+
+R3226 |  | Kala-azar and oriental sore are spread by
+  A: housefly
+  B: bed bug
+  C: sand fly
+  D: fruit fly
+
+R3227 |  | In which one of the following, the genus name, its two characters and its phylum are not correctly matched, whereas the remaining three are correct?
+  A: Pila (i) Body segmented (ii) Mouth with Radula Mollusca
+  B: Asterias (i) Spiny skinned Echinodermata (ii) Water vascular system
+  C: Sycon (i) Pore bearing Porifera (ii) Canal system
+  D: Ancylostoma (i) Intestinal parasite (ii) Female shorter than male Aschelminthes
+
+R3228 |  | Which one of the following have the highest number of species in nature?
+  A: Liver fluke, sea anemone, sea cucumber
+  B: Centipede, prawn, sea urchin
+  C: Scorpion, spider, cockroach
+  D: Cockroach, locust, Taenia
+
+R3229 |  | Ecdysis is shedding of
+  A: stratum corneum
+  B: epidermis
+  C: dermis
+  D: stratum malpighi
+
+R3230 |  | Malpighian tubules are
+  A: excretory organs of insects
+  B: excretory organs of annelids
+  C: respiratory organs of insects
+  D: respiratory organs of annelids
+
+R3231 |  | Match the following. List-I List-II A. Physalia (i) Spiny skinned B. Asterias (ii) Water vascular system C. Sycon (iii) Pore bearing D. Periplaneta (iv) Jointed appendages Choose the correct answer fr
+  A: (ii) (i) (iii) (iv)
+  B: (i) (ii) (iv) (iii)
+  C: (iv) (iii) (ii) (i)
+  D: (iii) (iv) (i) (ii)
+
+R3232 |  | Which one of the following is a matching set of phylum and its three examples?
+  A: Cnidaria — Bonellia, Physalia, Aurelia
+  B: Platyhelminthes — Planaria, Schistosoma, Enterobius
+  C: Mollusca — Loligo, Teredo, Octopus
+  D: Porifera—Spongilla, Euplectella, Pennatula
+
+R3233 |  | Closed circulatory system occurs in
+  A: snail
+  B: cockroach
+  C: cuttle fish
+  D: All of these
+
+R3234 |  | Eye of the molluscan group that resembles vertebrate eye is
+  A: Bivalvia
+  B: Gastropoda
+  C: Pelecypoda
+  D: Cephalopoda
+
+R3235 |  | A wood boring mollusc/shipworm is
+  A: Chiton
+  B: Teredo
+  C: Limax
+  D: Patella
+
+R3236 |  | Match the following genera with their respective phylum Column I Column II 1. Ophiura (i) Mollusca 2. Physalia (ii) Platyhelminthes 3. Pinctada (iii) Echinodermata 4. Planaria (iv) Coelenterata Select
+  A: 1 2 3 4 (iv) (i) (iii) (ii)
+  B: 1 2 3 4 (iii) (iv) (i) (ii)
+  C: 1 2 3 4 (i) (iii) (iv) (ii)
+  D: 1 2 3 4 (iii) (iv) (ii) (i)
+
+R3237 |  | The animal with bilateral symmetry in young stage and radial pentamerous symmetry in the adult stage belong to the phylum
+  A: Annelida
+  B: Mollusca
+  C: Cnidaria
+  D: Echinodermata
+
+R3238 |  | Radial symmetry is usually associated with
+  A: aquatic mode of life
+  B: lower grade of organisation
+  C: creeping mode of locomotion
+  D: sedentary mode of life
+
+R3239 |  | The organisms attached to the substratum generally, possess
+  A: radial symmetry
+  B: one single opening of digestive canal
+  C: asymmetrical body
+  D: cilia on surface to create water current
+
+R3240 |  | Radial symmetry is often exhibited by animals having
+  A: one opening of alimentary canal
+  B: aquatic mode of living
+  C: benthos/sedentary
+  D: ciliary mode of feeding
+
+R3241 |  | Metamorphosis is regulated by ecdysone hormone secreted by
+  A: prothoracic glands
+  B: bone marrow
+  C: intestinal villi
+  D: All of these
+
+R3242 |  | Match the following. Genus Name Two characters Phylum (a) Pila (i) Body segmented (ii) Mouth with Radula Mollusca (b) Asterias (i) Spiny skinned (ii) Water vascular system Echinodermata (c) Sycon (i) 
+  A: a (i), b (i), c (i), d (i)
+  B: a (ii), b (ii), c (ii), d (ii)
+  C: a (i)&(ii), b (i)&(ii), c (i)&(ii), d (i)&(ii)
+  D: a (i), b (ii), c (i), d (ii)
+
+R3243 |  | Match the following. List-I List-II A. Physalia 1. Pearl oyster B. Limulus 2. Portuguese Man of War C. Ancylostoma 3. Living fossil D. Pinctada 4. Hookworm Choose the correct answer from the options g
+  A: 2 3 1 4
+  B: 4 1 3 2
+  C: 2 3 4 1
+  D: 1 4 3 2
+
+R3244 |  | Read the following statements. I. Metagenesis is observed in helminths. II. Echinoderms are triploblastic and coelomate animals. III. Round worms have organ-system level of body organisation. IV. Comb
+  A: III, IV and V are correct
+  B: I, II and III are correct
+  C: I, IV and V are correct
+  D: II, III and V are correct
+
+R3245 | C | In case of poriferans, the spongocoel is lined with flagellated cells called
+  A: ostia
+  B: oscula
+  C: choanocytes
+  D: mesenchymal cells
+
+R3246 | B | Body having meshwork of cells, internal cavities lined with food filtering flagellated cells and indirect development are the characteristics of phylum
+  A: Coelenterata
+  B: Porifera
+  C: Mollusca
+  D: Protozoa
+
+R3247 | D | Sycon belongs to a group of animals which are best described as
+  A: multicellular with a gastrovascular system
+  B: multicellular having tissue organisation, but no body cavity
+  C: unicellular or acellular
+  D: multicellular without any tissue organisation
+
+R3248 | D | The canal system is a characteristic feature of
+  A: echinoderms
+  B: helminthes
+  C: coelenterates
+  D: sponges
+
+R3249 | B | What is true about all sponges without exception?
+  A: They are all marine
+  B: They have flagellated collar cells
+  C: They have a mixed skeleton consisting of spicules and spongin fibres
+  D: They reproduce only asexually by budding
+
+R3250 | A | The simplest type of canal system in Porifera is
+  A: ascon type
+  B: leucon type
+  C: sycon type
+  D: radial type
+
+R3251 | B | Classification of Porifera is based on
+  A: branching
+  B: spicules
+  C: reproduction
+  D: symmetry
+
+R3252 | B | Which one of the following living organisms completely lacks a cell wall?
+  A: Cyanobacteria
+  B: Sea-fan (Gorgonia)
+  C: Saccharomyces
+  D: Blue-green algae
+
+R3253 | D | Select the taxon mentioned that represents both marine and freshwater species
+  A: Echinoderms
+  B: Ctenophora
+  C: Cephalochordata
+  D: Cnidaria
+
+R3254 | D | In which animal nerve cell is present but brain is absent?
+  A: Sponge
+  B: Earthworm
+  C: Cockroach
+  D: Hydra
+
+R3255 | C | In Hydra, waste material of food digestion and nitrogenous waste material are removed from
+  A: mouth and mouth
+  B: body wall and body wall
+  C: mouth and body wall
+  D: mouth and tentacles
+
+R3256 |  | Most appropriate term to describe the life cycle of Obelia is
+  A: neoteny
+  B: metagenesis
+  C: metamorphosis
+  D: All of these
+
+R3257 |  | Sea anemone is a coelenterate found in marine water, attached to the empty shell of gastropods already occupied by hermit crab, this association is
+  A: tapeworm
+  B: mosquito
+  C: leech
+  D: sea anemone
+
+R3258 |  | Special character of coelenterates is
+  A: polymorphism
+  B: nematocysts
+  C: flame cells
+  D: hermaphroditism
+
+R3259 |  | Which one of the following animals possesses nerve cells but no nerves?
+  A: Hydra
+  B: Tapeworm
+  C: Earthworm
+  D: Frog’s tadpole
+
+R3260 |  | Budding is a normal mode of asexual reproduction in
+  A: starfish and Hydra
+  B: Hydra and sponges
+  C: tapeworm and Hydra
+  D: sponge and starfish
+
+R3261 |  | Jelly fish belongs to class
+  A: Hydrozoa
+  B: Scyphozoa
+  C: Anthozoa
+  D: None of these
+
+R3262 |  | Organ pipe coral is
+  A: Tubipora
+  B: Astraea
+  C: Helipora
+  D: Fungia
+
+R3263 |  | Biradial symmetry and lack of cnidoblasts are the characteristics of
+  A: Starfish and sea anemone
+  B: Ctenoplana and Beroe
+  C: Aurelia and Paramecium
+  D: Hydra and starfish
+
+R3264 |  | Match the following columns and select the correct option.
+  A: A. 4 B. 1 C. 2 D. 3
+  B: A. 3 B. 2 C. 1 D. 4
+  C: A. 2 B. 1 C. 3 D. 4
+  D: A. 1 B. 3 C. 2 D. 4
+
+R3265 |  | Bilaterally symmetrical and acoelomate animals are exemplified by
+  A: Platyhelminthes
+  B: Aschelminthes
+  C: Annelida
+  D: Ctenophora
+
+R3266 |  | Planaria possess high capacity of
+  A: metamorphosis
+  B: regeneration
+  C: alternation of generation
+  D: bioluminescence
+
+R3267 |  | One example of animal having a single opening to the outside that serves both as mouth as well as anus is
+  A: Octopus
+  B: Asterias
+  C: Ascidia
+  D: Fasciola
+
+R3268 |  | Which one of the following kinds of animals are triploblastic?
+  A: Flatworms
+  B: Sponges
+  C: Ctenophores
+  D: Corals
+
+R3269 |  | During its life cycle, Fasciola hepatica (liver fluke) infects its intermediate host and primary host at the following larval stages respectively
+  A: metacercaria and cercaria
+  B: miracidium and metacercaria
+  C: redia and miracidium
+  D: cercaria and redia
+
+R3270 |  | Which one belongs to Platyhelminthes?
+  A: Schistosoma
+  B: Trypansoma
+  C: Plasmodium
+  D: Wuchereria
+
+R3271 |  | What is true about Taenia saginata?
+  A: Life history has pig as intermediate host
+  B: There are two large suckers on scolex
+  C: Rostellar hooks are absent
+  D: Rostellum has double circle of hooks
+
+R3272 |  | What is correct about Taenia?
+  A: Male organs occur in posterior proglottids
+  B: Male organs occur in anterior proglottids
+  C: Female organs occur in anterior proglottids
+  D: Mature proglottids contain both male and female organs
+
+R3273 |  | The excretory structures of flat worms/Taenia are
+  A: flame cells
+  B: protonephridia
+  C: Malpighian tubules
+  D: green glands
+
+R3274 |  | Bladderworm/cysticercus is the larval stage of
+  A: tapeworm
+  B: roundworm
+  C: pinworm
+  D: liver fluke
+
+R3275 |  | Transfer of Taenia to secondary host occurs as
+  A: oncosphere
+  B: cysticercus
+  C: morula
+  D: egg
+
+R3276 |  | Which one of the following statements about certain given animals is correct?
+  A: Round worms (Aschelminthes) are pseudocoelomates
+  B: Molluscs are acoelomates
+  C: Insects are pseudocoelomates
+  D: Flatworms (Platyhelminthes) are coelomates
+
+R3277 |  | Which one of the following groups of animals is bilaterally symmetrical and triploblastic?
+  A: Coelenterates (cnidarians)
+  B: Aschelminthes (roundworms)
+  C: Ctenophores
+  D: Sponges
+
+R3278 | B | Ascaris is characterised by
+  A: absence of true coelom but presence of metamerism
+  B: presence of neither true coelom nor metamerism
+  C: presence of true coelom but absence of metamerism
+  D: presence of true coelom and metamerism (metamerisation)
+
+R3279 | D | What is common between Ascaris lumbricoides and Anopheles stephensi?
+  A: Hibernation
+  B: Metamerism
+  C: Anaerobic respiration
+  D: Sexual dimorphism
+
+R3280 | B | Ascaris larva is called
+  A: cysticercus
+  B: rhabditiform
+  C: hexacanth
+  D: onchosphere
+
+R3281 | B | Ascaris lumbricoides infection occurs through
+  A: sole of uncovered feet
+  B: contaminated cooked measly pork
+  C: improperly cooked measly pork
+  D: from air through inhalation
+
+R3282 | C | Match the List-I with List-II.
+  A: A. 4, B. 3, C. 1, D. 2
+  B: A. 3, B. 4, C. 1, D. 2
+  C: A. 3, B. 4, C. 2, D. 1
+  D: A. 4, B. 1, C. 2, D. 3
+
+R3283 | B | Which of the following options does correctly represent the characteristic features of phylum–Annelida?
+  A: Triploblastic, unsegmented body and bilaterally symmetrical
+  B: Triploblastic, segmented body and bilaterally symmetrical
+  C: Triploblastic, flattened body and acoelomate condition
+  D: Diploblastic, mostly marine and radially symmetrical
+
+R3284 | D | Which of the following animals are true coelomates with bilateral symmetry?
+  A: Adult echinoderms
+  B: Aschelminthes
+  C: Platyhelminthes
+  D: Annelids
+
+R3285 | B | Pheretima and its close relatives derive nourishment from
+  A: sugarcane roots
+  B: decaying fallen leaves and soil organic matter
+  C: soil insects
+  D: small pieces of fresh fallen leaves of maize
+
+R3286 | A | One very special feature in the earthworm Pheretima is that
+  A: the typhlosole greatly increases the effective absorption area of the digested food in the intestine
+  B: the S-shaped setae embedded in the integument are the defensive weapons used against the enemies
+  C: it has a long dorsal tubular heart
+  D: fertilisation of eggs occurs inside the body
+
+R3287 | B | If a live earthworm is pricked with a needle on its outer surface without damaging its gut, the fluid that comes out is
+  A: excretory fluid
+  B: coelomic fluid
+  C: haemolymph
+  D: slimy mucus
+
+R3288 | C | Which one of the following is not a characteristic of phylum–Annelida?
+  A: Closed circulatory system
+  B: Segmentation
+  C: Pseudocoelom
+  D: Ventral nerve cord
+
+R3289 | A | Earthworms have no skeleton but during burrowing, the anterior end becomes turgid and acts as a hydraulic skeleton. It is due to
+  A: coelomic fluid
+  B: blood
+  C: gut peristalsis
+  D: setae
+
+R3290 | B | Which one of the following is correct matching pair of a body feature and the animal possessing it?
+  A: Post-anal tail — Octopus
+  B: Ventral central nervous system — Leech
+  C: Pharyngeal gills slits absent in embryo — Chameleon
+  D: Ventral heart — Scorpion
+
+R3291 | A | In which of the following chlorocruorin pigment is found?
+  A: Annelida
+  B: Echinodermata
+  C: Insecta
+  D: Lower Chordata
+
+R3292 | C | Functionwise, just as there are nephridia in an earthworm, so are
+  A: parotid glands in toad
+  B: statocysts in prawn
+  C: flame cells in liver fluke
+  D: myotomes in fish
+
+R3293 | B | Which pair of a body feature and the animal possessing it?
+  A: Post-anal tail — Octopus
+  B: Ventral central nervous system — Leech
+  C: Pharyngeal gills slits absent in embryo — Chameleon
+  D: Ventral heart — Scorpion
+
+R3294 | D | True coelom is the space lying between the alimentary canal and body wall enclosed by the layers of
+  A: ectoderm on both sides
+  B: endoderm on one side and ectoderm on the other
+  C: mesoderm on one side and ectoderm on the other
+  D: mesoderm on both sides
+
+R3295 | C | Coelom derived from blastocoel is known as
+  A: enterocoelom
+  B: schizocoelom
+  C: pseudocoelom
+  D: haemocoelom
+
+R3296 | D | Which one assists in locomotion?
+  A: Trichocysts in Paramecium
+  B: Pedicellariae of starfish
+  C: Clitellum in Pheretima
+  D: Posterior sucker in Hirudinaria
+
+R3297 | D | Blood of Pheretima is
+  A: blue with haemocyanin in corpuscles
+  B: blue with haemocyanin in plasma
+  C: red with haemoglobin in corpuscles
+  D: red with haemoglobin in plasma
+
+R3298 | B | Pheretima posthuma is highly useful as
+  A: their burrows make the soil loose
+  B: they make the soil porous, leave their castings and take organic debris in the soil
+  C: they are used as fish meal
+  D: they kill the birds due to biomagnification of chlorinated hydrocarbons
+
+R3299 | A | Earthworms are
+  A: useful
+  B: harmful
+  C: more useful than harmful
+  D: more harmful
+
+R3300 | C | Photoreceptors of earthworm occur on
+  A: clitellum
+  B: many eyes
+  C: dorsal surface
+  D: lateral sides
+
+R3301 | D | Which one of the following belongs to the family-Muscidae ?
+  A: Firefly
+  B: Grasshopper
+  C: Cockroach
+  D: Housefly
+
+R3302 | A | Match the following organisms with their respective characteristics.
+  A: A-(iii), B-(iv), C-(ii), D-(i)
+  B: A-(ii), B-(iv), C-(iii), D-(i)
+  C: A-(iii), B-(ii), C-(iv), D-(i)
+  D: A-(iii), B-(ii), C-(i), D-(iv)
+
+R3303 | B | Which of the following features is not present in the phylum–Arthropoda?
+  A: Metameric segmentation
+  B: Parapodia
+  C: Jointed appendages
+  D: Chitinous exoskeleton
+
+R3304 | A | Match column I with column II for housefly classification and select the correct option using the codes given below:
+  A: A-3, B-1, C-4, D-2
+  B: A-3, B-2, C-4, D-1
+  C: A-4, B-3, C-2, D-1
+  D: A-4, B-2, C-1, D-3
+
+R3305 | C | Which group of animals belong to the same phylum?
+  A: Malarial parasite, Amoeba, mosquito
+  B: Earthworm, pinworm, tapeworm
+  C: Prawn, scorpion, Locusta
+  D: Sponge, sea anemone, starfish
+
+R3306 | B | One of the representative of Phylum– Arthropoda is
+  A: cuttle fish
+  B: silver fish
+  C: puffer fish
+  D: flying fish
+
+R3307 | C | Which of the following are correctly matched with respect to their taxonomic classification?
+  A: Flying fish, cuttle fish, silver fish—Pisces
+  B: Centipede, millipede, spider, scorpion—Insecta
+  C: House fly, butterfly, tse-tse fly, silver fish—Insecta
+  D: Spiny anteater, sea urchin, sea cucumber—Echinodermata
+
+R3308 | C | Which of the following is correctly states as it happens in the common cockroach?
+  A: Oxygen is transported by haemoglobin in blood
+  B: Nitrogenous excretory product is urea
+  C: The food is ground by mandibles and gizzard
+  D: Malpighian tubules are excretory organs projecting out from the colon
+
+R3309 | D | Which one of the following is the true description about an animal concerned?
+  A: Earthworm— The alimentary canal consists of a sequence of pharynx, oesophagus, stomach, gizzard and intestine
+  B: Frog — Body divisible into three regions— head, neck and trunk
+  C: Rat — Left kidney is slightly higher in position than the right one
+  D: Cockroach — 10 pairs of spiracles (2 pairs on thorax and 8 pairs on abdomen)
+
+R3310 |  | Which one of the following phyla is correctly matched with its two general characteristics?
+  A: Arthropoda — Body divided into head, thorax and abdomen and respiration by tracheae
+  B: Chordata — Notochord at some stage and separate anal and urinary openings to the outside
+  C: Echinodermata— Pentamerous radial symmetry and mostly internal fertilisation
+  D: Mollusca — Normally oviparous and development through a trochophore or veliger larva
+
+R3311 |  | What is true about Nereis, scorpion, cockroach and silver fish?
+  A: They all have jointed paired appendages
+  B: They all possess dorsal heart
+  C: None of them is aquatic
+  D: They all belong to the same phylum
+
+R3312 |  | Two common characters found in centipede, cockroach and crab are
+  A: compound eyes and anal cerci
+  B: jointed legs and chitinous exoskeleton
+  C: green gland and tracheae
+  D: book lungs and antennae
+
+R3313 |  | From the following statements select the wrong one.
+  A: Millipedes have two pairs of appendages in each segment of the body
+  B: Prawn has two pairs of antennae
+  C: Animals belonging to phylum–Porifera are exclusively marine
+  D: Nematocysts are characteristic of the phylum–Cnidaria
+
+R3314 |  | In Arthropoda, head and thorax are often fused to form cephalothorax, but in which one of the following classes, is the body divided into head, thorax and abdomen?
+  A: Insecta
+  B: Myriapoda
+  C: Crustacea
+  D: Arachnida and Crustacea
+
+R3315 |  | Which one of the following is correct matching pair of an animal and a certain phenomenon it exhibits?
+  A: Chameleon — Mimicry
+  B: Taenia — Polymorphism
+  C: Pheretima — Sexual dimorphism
+  D: Musca — Complete metamorphosis
+
+R3316 |  | What is common among silver fish, scorpion, crab and honeybee?
+  A: Compound eyes
+  B: Poison glands
+  C: Jointed appendages
+  D: Metamorphosis
+
+R3317 |  | A larval stage occurs in the life history of all members of the group
+  A: frog, lizard and cockroach
+  B: Ascaris, housefly and frog
+  C: housefly, earthworm and mosquito
+  D: butterfly, frog and mosquito
+
+R3318 |  | Adult Culex and Anopheles can be distinguished with the help of
+  A: mouth parts/colour
+  B: sitting posture
+  C: antennae/wings
+  D: feeding habits
+
+R3319 |  | Male and female cockroaches can be distinguished externally through
+  A: anal styles in male
+  B: anal cerci in female
+  C: anal style and antennae in females
+  D: Both (b) and (c)
+
+R3320 |  | Metamorphosis of insects is regulated through hormone
+  A: pheromone
+  B: thyroxine
+  C: ecdysone
+  D: All of these
+
+R3321 |  | An insect regarded as greatest mechanical carrier of diseases is
+  A: Pediculus
+  B: Cimex
+  C: Musca
+  D: Xenopsylla
+
+R3322 |  | Kala-azar and oriental sore are spread by
+  A: housefly
+  B: bed bug
+  C: sand fly
+  D: fruit fly
+
+R3323 |  | Silk thread is obtained from silk moth during
+  A: pupal stage
+  B: larval stage
+  C: nymph stage
+  D: adult stage
+
+R3324 |  | In which one of the following, the genus name, its two characters and its phylum are not correctly matched, whereas the remaining three are correct?
+  A: Pila (i) Body segmented (ii) Mouth with Radula Mollusca
+  B: Asterias (i) Spiny skinned Echinoder mata (ii) Water vascular system
+  C: Sycon (i) Pore bearing Porifera (ii) Canal system
+  D: Physalia (i) Stinging capsule (ii) Comb jelly Coelenterata
+
+R3325 |  | Which one of the following have the highest number of species in nature?
+  A: Liver fluke, sea anemone, sea cucumber
+  B: Centipede, prawn, sea urchin
+  C: Scorpion, spider, cockroach
+  D: Cockroach, locust, Taenia
+
+R3326 |  | Which one of the following is correctly matched?
+  A: Cockroach — 10 pairs of spiracles (2 pairs on thorax and 8 pairs on abdomen)
+  B: Earthworm — Alimentary canal with 5 types of cells
+  C: Frog — Caudal glands provide lubricant for balancing
+  D: Spider — Malpighian tubules are excretory organs
+
+R3327 |  | Which one of the following pairs of animals has animal products that are sources of the world’s largest commercialproducts?
+  A: Moth, Bee
+  B: Silk moth, Oysters
+  C: Mussel, Goat
+  D: Camels, Mules
+
+R3328 |  | Which one of the following options does not represent the correct matching of the animal, its characteristics and the phylum?
+  A: Cockroach:  Bilateral symmetry, Jointed appendages, Metameric segmentation,   Arthropoda
+  B: Leishmania:  Protozoa,   Pseudopodia,  Protozoa
+  C: Silver fish:  Annelida,  Pseudopodia,   Arthropoda
+  D: Ascaris:   Roundworm,   Triploblastic,   Aschelminthes
+
+R3329 |  | What is the characteristic feature of the phylum, Aschelminthes?
+  A: All are exclusively marine
+  B: All are purely parasitic
+  C: Some are parasitic, while others are free-living; alimentary canal is complete with well-developed muscular pharynx
+  D: Alimentary canal is absent
+
+R3330 |  | The main characters of phylum-Arthropoda are:
+  A: Jointed appendages, exoskeleton, ventral nerve cord
+  B: Exoskeleton, chitinous integument, spiracles
+  C: Jointed appendages, metameric segmentation, gills
+  D: Exoskeleton, compound eyes, sexual dimorphism
+
+R3331 |  | Which of the following is the unique character of phylum-Aschelminthes?
+  A: Presence of both male and female gametes in the same individual
+  B: Presence of external fertilisation
+  C: Presence of alimentary canal with muscular pharynx
+  D: Absence of body cavity
+
+R3332 |  | Which of the following is not a characteristic of phylum-Annelida?
+  A: Metameric segmentation
+  B: Closed circulatory system
+  C: Absence of coelom
+  D: Presence of nephridia
+
+R3333 |  | Which of the following animals has a unique character of causing infection by entering the skin of the healthy person?
+  A: Ascaris
+  B: Taenia solium
+  C: Ancylostoma
+  D: Wuchereria bancrofti
+
+R3334 |  | Which one of the following is correctly matched?
+  A: Cockroach – Anal cerci
+  B: Frog – Stomach
+  C: Earthworm – Four pairs of testes
+  D: Mosquito – Two pairs of wings
+
+R3335 |  | Which of the following phyla are exclusively marine?
+  A: Echinodermata and Mollusca
+  B: Echinodermata and Chordata
+  C: Mollusca and Arthropoda
+  D: Arthropoda and Chordata
+
+R3336 |  | Which of the following is a correct match?
+  A: Earthworm - Nephridia
+  B: Cockroach - Malpighian tubules
+  C: Frog - Kidneys
+  D: All of these
+
+R3337 |  | Which one of the following is a non-chordate?
+  A: Shark
+  B: Frog
+  C: Cockroach
+  D: Pigeon
+
+R3338 |  | Which of the following is the characteristic feature of phylum-Cnidaria?
+  A: Presence of nematocysts
+  B: Absent of coelom
+  C: Hermaphroditic
+  D: Direct development
+
+R3339 |  | Which of the following is a correct match?
+  A: Annelida - Book lungs
+  B: Arthropoda - Antennae
+  C: Mollusca - Gills
+  D: Echinodermata - Proboscis gland
+
+R3340 |  | Which is the largest phylum of Animal Kingdom?
+  A: Mollusca
+  B: Arthropoda
+  C: Annelida
+  D: Echinodermata
+
+R3341 |  | Which of the following statements is wrong?
+  A: Psittacula eats fruits
+  B: Canis has a four chambered heart
+  C: Balaenoptera has bone marrow
+  D: Limulus has gills
+
+R3342 |  | Which of the following is correctly matched?
+  A: Cockroach - Malpighian tubules
+  B: Earthworm - Book lungs
+  C: Frog - Kidneys
+  D: Spider - Nephridia
+
+R3343 |  | Ecdysis is shedding of
+  A: stratum corneum
+  B: epidermis
+  C: dermis
+  D: stratum malpighi
+
+R3344 |  | Malpighian tubules are
+  A: excretory organs of insects
+  B: excretory organs of annelids
+  C: respiratory organs of insects
+  D: respiratory organs of annelids
+
+R3345 |  | Match the following. List-I List-II A. Physalia 1. Pearl oyster B. Limulus 2. Portuguese Man of War C. Ancylostoma 3. Living fossil D. Pinctada 4. Hookworm Choose the correct answer from the options g
+  A: 2 3 1 4
+  B: 4 1 3 2
+  C: 2 3 4 1
+  D: 1 4 3 2
+
+R3346 |  | Which one of the following is a matching set of phylum and its three examples?
+  A: Cnidaria — Bonellia, Physalia, Aurelia
+  B: Platyhelminthes — Planaria, Schistosoma, Enterobius
+  C: Mollusca — Loligo, Teredo, Octopus
+  D: Porifera—Spongilla, Euplectella, Pennatula
+
+R3347 |  | Closed circulatory system occurs in
+  A: snail
+  B: cockroach
+  C: cuttle fish
+  D: All of these
+
+R3348 |  | Eye of the molluscan group that resembles vertebrate eye is
+  A: Bivalvia
+  B: Gastropoda
+  C: Pelecypoda
+  D: Cephalopoda
+
+R3349 |  | A wood boring mollusc/shipworm is
+  A: Chiton
+  B: Teredo
+  C: Limax
+  D: Patella
+
+R3350 |  | Read the following statements. I. Metagenesis is observed in helminths. II. Echinoderms are triploblastic and coelomate animals. III. Round worms have organ-system level of body organisation. IV. Comb
+  A: III, IV and V are correct
+  B: I, II and III are correct
+  C: I, IV and V are correct
+  D: II, III and V are correct
+
+R3351 |  | Match the following genera with their respective phylum Column I Column II 1. Ophiura (i) Mollusca 2. Physalia (ii) Platyhelminthes 3. Pinctada (iii) Echinodermata 4. Planaria (iv) Coelenterata Select
+  A: (iv) (i) (iii) (ii)
+  B: (iii) (iv) (i) (ii)
+  C: (i) (iii) (iv) (ii)
+  D: (iii) (iv) (ii) (i)
+
+R3352 |  | The animal with bilateral symmetry in young stage and radial pentamerous symmetry in the adult stage belong to the phylum
+  A: Annelida
+  B: Mollusca
+  C: Cnidaria
+  D: Echinodermata
+
+R3353 |  | Radial symmetry is usually associated with
+  A: aquatic mode of life
+  B: lower grade of organisation
+  C: creeping mode of locomotion
+  D: sedentary mode of life
+
+R3354 |  | The organisms attached to the substratum generally, possess
+  A: radial symmetry
+  B: one single opening of digestive canal
+  C: asymmetrical body
+  D: cilia on surface to create water current
+
+R3355 |  | Radial symmetry is often exhibited by animals having
+  A: one opening of alimentary canal
+  B: aquatic mode of living
+  C: benthos/sedentary
+  D: ciliary mode of feeding
+
+R3356 |  | Metamorphosis is regulated by ecdysone hormone secreted by
+  A: prothoracic glands
+  B: bone marrow
+  C: intestinal villi
+  D: All of these
+
+R3357 | C | The roof of the cranium of frog is formed by
+  A: parasphenoid
+  B: alisphenoid
+  C: frontoparietal
+  D: orbitosphenoid
+
+R3358 | C | Which of the following animals has a three-chambered heart?
+  A: Shark
+  B: Crocodile
+  C: Frog
+  D: Lizard
+
+R3359 | C | Which of the following characters is not typical of phylum Annelida?
+  A: Metameric segmentation
+  B: Coelom
+  C: Chitinous exoskeleton
+  D: Closed circulatory system
+
+R3360 | C | Which one of the following phyla is correctly matched with its characteristic features?
+  A: Echinodermata – Bilateral symmetry
+  B: Ctenophora – Diploblastic
+  C: Aschelminthes – Pseudocoelomate
+  D: Mollusca – Amniota
+
+R3361 | A | Identify the odd combination of the habitat and the particular animal concerned.
+  A: Dachigam National Park — Snow leopard
+  B: Sunderbans — Bengal tiger
+  C: Periyar — Elephant
+  D: Rann of Kutch — Wild ass
+
+R3362 | B | A flower having both stamens and carpels is called:
+  A: Unisexual
+  B: Bisexual
+  C: Asexual
+  D: Neuter
+
+R3363 | A | The hilum is a scar on the:
+  A: Seed
+  B: Fruit
+  C: Embryo
+  D: Endosperm
+
+R3364 | D | Which one of the following is a unique character of the given options?
+  A: Phloem
+  B: Epidermis
+  C: Xylem
+  D: Cambium
+
+R3365 | A | The given figure represents a typical dicotyledonous seed. Identify the part labelled 'X'.
+  A: Cotyledon
+  B: Scutellum
+  C: Plumule
+  D: Radicle
+
+R3366 | B | Which of the following statements is incorrect about gymnosperms?
+  A: They are heterosporous
+  B: Male and female gametophytes are free living
+  C: Most of them have narrow leaves with thick cuticle
+  D: Their seeds are not covered
+
+R3367 | D | Gymnosperms are also called soft wood spermatophytes because they lack
+  A: cambium
+  B: phloem fibres
+  C: thick-walled tracheids
+  D: xylem fibres
+
+R3368 | C | Leaves of many grasses are capable of folding and unfolding because they
+  A: are very thin
+  B: are isobilateral
+  C: have specialised bulliform cells
+  D: have parallel vascular bundles
+
+R3369 | C | Leaves of many grasses are capable of folding and unfolding because they
+  A: are very thin
+  B: are isobilateral
+  C: have specialised bulliform cells
+  D: have parallel vascular bundles
+
+R3370 | C | Which of the following is responsible for secondary growth in dicotyledonous plants?
+  A: Apical meristem
+  B: Intercalary meristem
+  C: Vascular cambium
+  D: Root cap
+
+R3371 | B | Tracheids, vessels, xylem parenchyma and xylem fibres constitute:
+  A: Phloem
+  B: Xylem
+  C: Epidermis
+  D: Cortex
+
+R3372 | A | The vascular bundles are conjoint, collateral and closed in:
+  A: Monocotyledons
+  B: Dicotyledons
+  C: Pteridophytes
+  D: Gymnosperms
+
+R3373 | C | The lenticels are:
+  A: Primary growing points
+  B: Secretory pores
+  C: Exchange pores
+  D: Apertures for transpiration
+
+R3374 | C | Age of a tree can be estimated by
+  A: its height and girth
+  B: biomass
+  C: number of annual rings
+  D: diameter of its heartwood
+
+R3375 | B | For a critical study of secondary growth in plants which one of the following pairs is suitable?
+  A: Sugarcane and sunflower
+  B: Teak and pine
+  C: Deodar and fern
+  D: Wheat and maiden hair fern
+
+R3376 | C | Main function of lenticel is
+  A: transpiration
+  B: guttation
+  C: gaseous exchange
+  D: bleeding
+
+R3377 | A | As the secondary growth takes place (proceeds) in a tree, thickness of
+  A: heartwood increases
+  B: sapwood increases
+  C: both increase
+  D: both remain the same
+
+R3378 | D | Procambium forms
+  A: only primary vascular bundles
+  B: only vascular cambium
+  C: only cork cambium
+  D: primary vascular bundles and vascular cambium
+
+R3379 | A | Abnormal/anomalous secondary growth occurs in
+  A: Dracaena
+  B: ginger
+  C: wheat
+  D: sunflower
+
+R3380 | B | A narrow layer of thin walled cells found between phloem/bark and wood of a dicot is
+  A: cork cambium
+  B: vascular cambium
+  C: endodermis
+  D: pericycle
+
+R3381 | C | Periderm is produced by
+  A: vascular cambium
+  B: fascicular cambium
+  C: phellogen
+  D: intrafascicular cambium
+
+R3382 | A | Which exposed wood will decay faster?
+  A: Sapwood
+  B: Softwood
+  C: Wood with lot of fibres
+  D: Heartwood
+
+R3383 | C | Commercial cork is obtained from
+  A: Berberis/Barberry
+  B: Salix/Willow
+  C: Quercus/Oak
+  D: Betula/Birch
+
+R3384 | C | Cork cambium and vascular cambium are
+  A: parts of secondary xylem and phloem
+  B: parts of pericycle
+  C: lateral meristems
+  D: apical meristems
+
+R3385 | A | For union between stock and scion in grafting which one is the first to occur?
+  A: Formation of callus
+  B: Production of plasmodesmata
+  C: Differentiation of new vascular tissues
+  D: Regeneration of cortex and epidermis
+
+R3386 | B | Vascular cambium produces
+  A: primary xylem and primary phloem
+  B: secondary xylem and secondary phloem
+  C: primary xylem and secondary phloem
+  D: secondary xylem and primary phloem
+
+R3387 | C | You are given a fairly old piece of dicot stem and a dicot root. Which of the following anatomical structures will you use to distinguish between the two?
+  A: Secondary xylem
+  B: Secondary phloem
+  C: Protoxylem
+  D: Cortical cells
+
+R3388 | A | Which of the following terms describe the phylum Arthropoda?
+  A: Segmented body, exoskeleton, jointed appendages
+  B: Unsegmented body, endoskeleton, chitinous exoskeleton
+  C: Segmented body, endoskeleton, jointed appendages
+  D: Unsegmented body, exoskeleton, radially symmetrical
+
+R3389 | A | The presence of a coelom is a characteristic of which phylum?
+  A: Annelida
+  B: Platyhelminthes
+  C: Aschelminthes
+  D: Cnidaria
+
+R3390 | B | Which of the following is an example of Cnidaria?
+  A: Starfish
+  B: Jellyfish
+  C: Earthworm
+  D: Sponge
+
+R3391 | B | Which of the following is a characteristic feature of sponges?
+  A: Presence of gastrovascular cavity
+  B: Presence of choanocytes
+  C: Presence of nerve cells
+  D: Presence of a muscular pharynx
+
+R3392 | C | Which of the following is not a part of a plant cell?
+  A: Cell wall
+  B: Chloroplast
+  C: Centriole
+  D: Mitochondrion
+
+R3393 | C | Which of the following biomolecules is an enzyme?
+  A: Starch
+  B: Cholesterol
+  C: Lipase
+  D: Insulin
+
+R3394 | A | The fluid mosaic model of the cell membrane was proposed by:
+  A: Singer and Nicolson
+  B: Robertson
+  C: Danielli and Davson
+  D: Gorter and Grendel
+
+R3395 | A | The cell wall of a plant cell is made up of:
+  A: Cellulose
+  B: Pectin
+  C: Lignin
+  D: Hemicellulose
+
+R3396 | A | Which one is apparato reticolare interno?
+  A: Golgi apparatus
+  B: Endoplasmic reticulum
+  C: Microfilaments
+  D: Microtubules
+
+R3397 | B | Experiments on Acetabularia by Hammerling proved the role of
+  A: cytoplasm in controlling differentiation
+  B: nucleus in heredity
+  C: chromosomes in heredity
+  D: nucleocytoplasmic ratio
+
+R3398 | D | Ribosomes were discovered by
+  A: Golgi
+  B: Porter
+  C: de Robertis
+  D: Palade
+
+R3399 | D | Polyribosomes are aggregates of
+  A: ribosomes and rRNA
+  B: only rRNA
+  C: peroxisomes
+  D: several ribosomes held together by string of mRNA
+
+R3400 | C | Organelles can be separated from cell homogenate through
+  A: chromatography
+  B: X-rays diffraction
+  C: differential centrifugation
+  D: auto-radiography
+
+R3401 | A | In plant cells, peroxisomes are associated with
+  A: photorespiration
+  B: phototropism
+  C: photoperiodism
+  D: photosynthesis
+
+R3402 | C | Membranous bag with hydrolytic enzymes which is used for controlling intracellular digestion of macromolecules is
+  A: endoplasmic reticulum
+  B: nucleosome
+  C: lysosome
+  D: phagosome
+
+R3403 | C | Golgi apparatus is absent in
+  A: higher plants
+  B: yeast
+  C: bacteria and blue-green algae
+  D: None of the above
+
+R3404 | B | All plastids have similar structure because they can
+  A: store starch, lipids and proteins
+  B: get transformed from one type to another
+  C: perform same function
+  D: be present together
+
+R3405 | C | Oxysomes orF F 0 1 − particles occur on
+  A: thylakoids
+  B: mitochondrial surface
+  C: inner mitochondrial membrane
+  D: chloroplast surface
+
+R3406 | A | An outer covering membrane is absent over
+  A: nucleolus
+  B: lysosome
+  C: mitochondrion
+  D: plastids
+
+R3407 | C | Ribosomes are the centre for
+  A: respiration
+  B: photosynthesis
+  C: protein synthesis
+  D: fat synthesis
+
+R3408 | A | Which one is apparato reticolare interno?
+  A: Golgi apparatus
+  B: Endoplasmic reticulum
+  C: Microfilaments
+  D: Microtubules
+
+R3409 | B | Experiments on Acetabularia by Hammerling proved the role of
+  A: cytoplasm in controlling differentiation
+  B: nucleus in heredity
+  C: chromosomes in heredity
+  D: nucleocytoplasmic ratio
+
+R3410 | D | Ribosomes were discovered by
+  A: Golgi
+  B: Porter
+  C: de Robertis
+  D: Palade
+
+R3411 | D | Polyribosomes are aggregates of
+  A: ribosomes and rRNA
+  B: only rRNA
+  C: peroxisomes
+  D: several ribosomes held together by string of mRNA
+
+R3412 | C | Organelles can be separated from cell homogenate through
+  A: chromatography
+  B: X-rays diffraction
+  C: differential centrifugation
+  D: auto-radiography
+
+R3413 | D | Which of the following is a polysaccharide?
+  A: Glucose
+  B: Fructose
+  C: Sucrose
+  D: Starch
+
+R3414 | C | The enzyme that catalyzes the transfer of a chemical group from one molecule to another is called:
+  A: Lyase
+  B: Hydrolase
+  C: Transferase
+  D: Oxidoreductase
+
+R3415 | C | Which of the following is a non-reducing sugar?
+  A: Maltose
+  B: Lactose
+  C: Sucrose
+  D: Glucose
+
+R3416 | A | The genetic material of a virus is:
+  A: Either DNA or RNA
+  B: Only DNA
+  C: Only RNA
+  D: DNA and RNA
+
+R3417 | B | Which of the following are not secondary metabolites in plants?
+  A: Morphine, codeine
+  B: Amino acids, glucose
+  C: Vinblastine, curcumin
+  D: Rubber, gums
+
+R3418 | A | Floridean starch has structure similar to
+  A: amylopectin and glycogen
+  B: mannitol and algin
+  C: laminarin and cellulose
+  D: starch and cellulose
+
+R3419 | D | Which two functional groups are characteristic of sugars?
+  A: Carbonyl and phosphate
+  B: Carbonyl and methyl
+  C: Hydroxyl and methyl
+  D: Carbonyl and hydroxyl
+
+R3420 | C | The chitinous exoskeleton of arthropods is formed by the polymerisation of
+  A: keratin sulphate and chondroitin sulphate
+  B: D-glucosamine
+  C: N-acetyl glucosamine
+  D: lipoglycans
+
+R3421 | B | Which one of the following is a non-reducing carbohydrate?
+  A: Maltose
+  B: Sucrose
+  C: Lactose
+  D: Ribose 5-phosphate
+
+R3422 | A | Macromolecule chitin is
+  A: nitrogen containing polysaccharide
+  B: phosphorus containing polysaccharide
+  C: sulphur containing polysaccharide
+  D: simple polysaccharide
+
+R3423 | B | Which one of the following pairs is wrongly matched?
+  A: Detergents — Lipase
+  B: Alcohol — Nitrogenase
+  C: Fruit juice — Pectinase
+  D: Textile — Amylase
+
+R3424 | C | Lactose is composed of
+  A: glucose+glucose
+  B: glucose+fructose
+  C: galactose+glucose
+  D: galactose+galactose
+
+R3425 | A | About 98 per cent of the mass of every living organism is composed of just six elements including carbon, hydrogen, nitrogen, oxygen and
+  A: phosphorus and sulphur
+  B: sulphur and magnesium
+  C: magnesium and sodium
+  D: calcium and phosphorus
+
+R3426 | A | Which of the following is a reducing sugar?
+  A: Galactose
+  B: Gluconic acid
+  C: β-methyl galactoside
+  D: Sucrose
+
+R3427 | B | Most abundant organic compound on earth is
+  A: protein
+  B: cellulose
+  C: lipids
+  D: steroids
+
+R3428 | C | Cellulose, the most important constituent of plant cell wall is made of
+  A: unbranched chain of glucose molecules linked byα 1, 4-glycosidic bond
+  B: branched chain of glucose molecules linked byβ 1, 4-glycosidic bond in straight chain andα, ,1 6 -glycosidic bond at the site of branching
+  C: unbranched chain of glucose molecules linked byβ 1, 4-glycosidic bond
+  D: branched chain of glucose molecules linked byα 1, 6-glycosidic bond at the site of branching
+
+R3429 | A | In which one of the following groups, all the three are examples of polysaccharides?
+  A: Starch, glycogen, cellulose
+  B: Sucrose, maltose, glucose
+  C: Glucose, fructose, lactose
+  D: Galactose, starch, sucrose
+
+R3430 | B | Glycogen is a polymer of
+  A: galactose
+  B: glucose
+  C: fructose
+  D: sucrose
+
+R3431 | A | Which one of the following is the most abundant protein in the animals?
+  A: Collagen
+  B: Lectin
+  C: Insulin
+  D: Haemoglobin
+
+R3432 | C | Identify the substances having glycosidic bond and peptide bond, respectively in their structure.
+  A: Glycerol, trypsin
+  B: Cellulose, lecithin
+  C: Inulin, insulin
+  D: Chitin, cholesterol
+
+R3433 | B | Identify the basic amino acid from the following.
+  A: Glutamic acid
+  B: Lysine
+  C: Valine
+  D: Tyrosine
+
+R3434 | B | “Ramachandran plot” is used to confirm the structure of
+  A: RNA
+  B: proteins
+  C: triacylglycerides
+  D: DNA
+
+R3435 | D | Which of the following is the least likely to be involved in stabilising the three-dimensional folding of most proteins?
+  A: Hydrogen bonds
+  B: Electrostatic interaction
+  C: Hydrophobic interaction
+  D: Ester bonds
+
+R3436 | C | Which one is the most abundant protein in the animal world?
+  A: Trypsin
+  B: Haemoglobin
+  C: Collagen
+  D: Insulin
+
+R3437 | B | Which one out of A-D given below correctly represents the structural formula of the basic amino acid?
+  A: C
+  B: D
+  C: A
+  D: B
+
+R3438 | C | Which of the following is the simplest amino acid?
+  A: Alanine
+  B: Asparagine
+  C: Glycine
+  D: Tyrosine
+
+R3439 | A | Collagen is
+  A: fibrous protein
+  B: globular protein
+  C: lipid
+  D: carbohydrate
+
+R3440 | D | Which is an essential amino acid?
+  A: Serine
+  B: Aspartic acid
+  C: Glycine
+  D: Phenylalanine
+
+R3441 | B | Conjugated proteins containing carbohydrates as prosthetic group are known as
+  A: chromoproteins
+  B: glycoproteins
+  C: lipoproteins
+  D: nucleoproteins
+
+R3442 | A | What is common among amylase, rennin and trypsin?
+  A: These are all proteins
+  B: These are proteolytic enzymes
+  C: These are produced in stomach
+  D: These act at a pH lower than 7
+
+R3443 | A | Most diverse macromolecules, found in the cell both physically and chemically are
+  A: proteins
+  B: carbohydrates
+  C: nucleic acids
+  D: lipids
+
+R3444 | A | The pyrenoids are made up of
+  A: proteinaceous centre and starchy sheath
+  B: core of protein surrounded by fatty sheath
+  C: core of starch surrounded by sheath of protein
+  D: core of nucleic acid surrounded by protein sheath
+
+R3445 | D | Amino acids are produced from
+  A: proteins
+  B: fatty acids
+  C: essential oils
+  D: α-keto acids
+
+R3446 | C | Following are the statements with reference to lipids.
+I. Lipids having only single bonds are called unsaturated fatty acids.
+II. Lecithin is a phospholipid.
+III. Trihydroxy propane is glycerol.
+IV. P
+  A: I and III
+  B: III and IV
+  C: II and III
+  D: II and V
+
+R3447 | D | Which of the following are not polymeric ?
+  A: Nucleic acid
+  B: Proteins
+  C: Polysaccharides
+  D: Lipids
+
+R3448 | A | A typical fat molecule is made up of
+  A: One glycerol and three fatty acid molecules
+  B: One glycerol and one fatty acid molecule
+  C: Three glycerol and three fatty acid molecules
+  D: Three glycerol molecules and one fatty acid molecule
+
+R3449 | C | A phosphoglyceride is always made up of
+  A: only a saturated fatty acid esterified to a glycerol molecule to which a phosphate group is also attached
+  B: only an unsaturated fatty acid esterified to a glycerol molecule to which a phosphate group is also attached
+  C: a saturated or unsaturated fatty acid esterified to a glycerol molecule to which a phosphate group is also attached
+  D: a saturated or unsaturated fatty acid esterified to a phosphate group, which is also attached to a glycerol molecule
+
+R3450 | C | Which one of the following is not a constituent of cell membrane?
+  A: Cholesterol
+  B: Glycolipids
+  C: Proline
+  D: Phospholipids
+
+R3451 | B | Lipids are insoluble in water because lipid molecules are
+  A: hydrophilic
+  B: hydrophobic
+  C: neutral
+  D: Zwitter ions
+
+R3452 | B | Which steroid is used for transformation?
+  A: Cortisol
+  B: Cholesterol
+  C: Testosterone
+  D: Progesterone
+
+R3453 | D | Spoilage of oil can be detected by which fatty acid?
+  A: Oleic acid
+  B: Linolenic acid
+  C: Linoleic acid
+  D: Erucic acid
+
+R3454 | A | Match the List-I with List-II.
+List-I
+A. Protein
+B. Unsaturated fatty acid
+C. Nucleic acid
+D. Polysaccharide
+List-II
+1. C == C double bonds
+2. Phosphodiester bonds
+3. Glycosidic bonds
+4. Peptide bonds
+  A: 4 1 2 3
+  B: 1 4 3 2
+  C: 2 1 4 3
+  D: 4 3 1 2
+
+R3455 | A | Match the items in Column I with those in Column II.
+Column I
+A. Aquaporin
+B. Asparagine
+C. Abscisic acid
+D. Chitin
+Column II
+(i) Amide
+(ii) Polysaccharide
+(iii) Polypeptide
+(iv) Carotenoids
+Select th
+  A: (iii) (i) (iv) (ii)
+  B: (ii) (iii) (iv) (i)
+  C: (ii) (i) (iv) (iii)
+  D: (iii) (i) (ii) (iv)
+
+R3456 | A | DNA precipitation out of a mixture of biomolecules can be achieved by treatment with
+  A: chilled ethanol
+  B: methanol at room temperature
+  C: chilled chloroform
+  D: isopropanol
+
+R3457 | C | Which one of the following statements is wrong?
+  A: Cellulose is a polysaccharide
+  B: Uracil is a pyrimidine
+  C: Glycine is a sulphur containing amino acid
+  D: Sucrose is a disaccharide
+
+R3458 | D | Which of the following biomolecules does have a phosphodiester bond?
+  A: Fatty acids in a diglyceride
+  B: Monosaccharides in a polysaccharide
+  C: Amino acids in a polypeptide
+  D: Nucleic acids in a nucleotide
+
+R3459 |  | Given below is the diagrammatic representation of one of the categories of small molecular weight organic compounds in the living tissues. Identify the category shown and the one blank component X in 
+  A: Cholesterol — Guanine
+  B: Amino acid — NH2
+  C: Nucleotide — Adenine
+  D: Nucleoside — Uracil
+
+R3460 |  | Which one of the following structural formula of two organic compounds is correctly identified along with its related function?
+  A: A — Triglyceride — Major Source of energy
+  B: B — Uracil — A component of DNA
+  C: A — Lecithin — A component of cell membrane
+  D: B — Adenine — A nucleotide
+
+R3461 |  | Which one of the following is the correct matching of three items and their grouping category?
+  A: Malleus, incus, cochlea — Ear ossicles
+  B: Ilium, ischium, pubis — Coxal bones of pelvic girdle
+  C: Actin, myosin, rhodopsin — Muscle proteins
+  D: Cytosine, uracil, thymine — Pyrimidines
+
+R3462 |  | In the DNA molecule
+  A: the total amount of purine nucleotides and pyrimidine nucleotides is not always equal
+  B: there are two strands which run parallel in the 5′→3′ direction
+  C: the proportion of adenine in relation to thymine varies with the organism
+  D: there are two strands which run antiparallel one in 5′→3′ direction and other in 3′→5′
+
+R3463 |  | Which one of the following pairs of nitrogenous bases of nucleic acids, is wrongly matched with the category mentioned against it?
+  A: Thymine, Uracil — Pyrimidines
+  B: Uracil, Cytosine — Pyrimidines
+  C: Guanine, Adenine — Purines
+  D: Adenine, Thymine — Purines
+
+R3464 |  | The two polynucleotide chains in DNA are
+  A: parallel
+  B: discontinuous
+  C: antiparallel
+  D: semiconservative
+
+R3465 |  | One turn of the helix in a B-form DNA is approximately
+  A: 0.34 nm
+  B: 3.4 nm
+  C: 2 nm
+  D: 20 nm
+
+R3466 |  | Nucleotides are building blocks of nucleic acids. Each nucleotide is a composite molecule formed by
+  A: base-sugar-phosphate
+  B: base-sugar-OH
+  C: (base-sugar-phosphate)n
+  D: sugar-phosphate
+
+R3467 |  | ATP is a
+  A: nucleotide
+  B: nucleosome
+  C: nucleoside
+  D: purine
+
+R3468 |  | Which one of the following amino acids is an essential part of human diet?
+  A: Glycine
+  B: Phenylalanine
+  C: Serine
+  D: Aspartic acid
+
+R3469 |  | Radioactive thymidine when added to the medium surrounding living mammalian cells gets incorporated into the newly synthesised DNA. Which of the following types of chromatin is expected to become radi
+  A: Heterochromatin
+  B: Euchromatin
+  C: Both (a) and (b)
+  D: Neither (a) nor (b) but only the nucleolus
+
+R3470 |  | DNA synthesis can be specifically measured by estimating the incorporation of radio labelled
+  A: uracil
+  B: adenine
+  C: thymidine
+  D: deoxyribose sugar
+
+R3471 |  | The nitrogenous organic base purine occurring in RNA is
+  A: cytosine
+  B: thymine
+  C: guanine
+  D: uracil
+
+R3472 |  | Two free ribonucleotide units are interlinked with
+  A: peptide bond
+  B: covalent bond
+  C: hydrogen bond
+  D: phosphodiester bond
+
+R3473 | C | Which is wrong about nucleic acids?
+  A: DNA is single stranded in some viruses
+  B: RNA is double stranded occasionally
+  C: Length of one helix is 45 Å in B-DNA
+  D: One turn of Z-DNA has 12 bases
+
+R3474 | A | Adenine is
+  A: purine
+  B: pyrimidine
+  C: nucleoside
+  D: nucleotide
+
+R3475 | B | Which is distributed more widely in a cell?
+  A: DNA
+  B: RNA
+  C: Chloroplasts
+  D: Spherosomes
+
+R3476 | D | The basic unit of nucleic acid is
+  A: pentose sugar
+  B: nucleoid
+  C: nucleoside
+  D: nucleotide
+
+R3477 | D | DNA is composed of repeating units of
+  A: ribonucleosides
+  B: deoxyribonucleosides
+  C: ribonucleotides
+  D: deoxyribonucleotides
+
+R3478 | D | In RNA, thymine is replaced by
+  A: adenine
+  B: guanine
+  C: cytosine
+  D: uracil
+
+R3479 | B | RNA does not possess
+  A: uracil
+  B: thymine
+  C: adenine
+  D: cytosine
+
+R3480 | A | In double helix of DNA, the two DNA strands are
+  A: coiled around a common axis
+  B: coiled around each other
+  C: coiled differently
+  D: coiled over protein sheath
+
+R3481 | D | Match the following columns.
+Column I
+Column II
+A. Inhibitor of catalytic activity
+1. Ricin
+B. Possess peptide bonds
+2. Malonate
+C. Cell wall material in fungi
+3. Chitin
+D. Secondary metabolite
+4. Col
+  A: 3 1 4 2
+  B: 3 4 1 2
+  C: 2 3 1 4
+  D: 2 4 3 1
+
+R3482 | B | Prosthetic groups differ from coenzymes in that
+  A: they require metal ions for their activity
+  B: they (prosthetic groups) are tightly bound to apoenzymes
+  C: their association with apoenzymes is transient
+  D: they can serve as cofactors in a number of enzyme catalysed reactions
+
+R3483 | A | Which of the following is a commercial blood cholesterol lowering agent?
+  A: Statin
+  B: Streptokinase
+  C: Lipases
+  D: Cyclosporin A
+
+R3484 | A | Consider the following statement
+(A) Coenzyme or metal ion that is tightly bound to enzyme protein is called prosthetic group.
+(B) A complete catalytic active enzyme with its bound prosthetic group is
+  A: (A) is true but (B) is false
+  B: Both (A) and (B) are false
+  C: (A) is false but (B) is true
+  D: Both (A) and (B) are true
+
+R3485 | C | Select the correct match
+  A: TH Morgan – Transduction
+  B: F2 ⋅Recessive parent – Dihybrid cross
+  C: Ribozyme – Nucleic acid
+  D: G Mendel – Transformation
+
+R3486 | B | Which of the following describes the given graph correctly?
+  A: Endothermic reaction with energy A in the presence of enzyme and B in the absence of enzyme
+  B: Exothermic reaction with energy A in the presence of enzyme and B in the absence of enzyme
+  C: Endothermic reaction with energy A in the absence of enzyme and B in the presence of enzyme
+  D: Exothermic reaction with energy A in the absence of enzyme and B in the presence of enzyme
+
+R3487 | B | A non-proteinaceous enzyme is
+  A: Iysozyme
+  B: ribozyme
+  C: ligase
+  D: deoxyribonuclease
+
+R3488 | B | Select the option which is not correct with respect to enzyme action.
+  A: Substrate binds with enzyme as its active site
+  B: Addition of lot of succinate does not reverse the inhibition of succinic dehydrogenase by malonate
+  C: A non-competitive inhibitor binds the enzyme at a site distinct from that which binds the substrate
+  D: Malonate is a competitive inhibitor of succinic dehydrogenase
+
+R3489 | B | Which of the following are not secondary metabolites in plants?
+  A: Morphine, codeine
+  B: Amino acids, glucose
+  C: Vinblastine, curcumin
+  D: Rubber, gums
+
+R3490 | A | Floridean starch has structure similar to
+  A: amylopectin and glycogen
+  B: mannitol and algin
+  C: laminarin and cellulose
+  D: starch and cellulose
+
+R3491 | D | Which two functional groups are characteristic of sugars?
+  A: Carbonyl and phosphate
+  B: Carbonyl and methyl
+  C: Hydroxyl and methyl
+  D: Carbonyl and hydroxyl
+
+R3492 | B | The chitinous exoskeleton of arthropods is formed by the polymerisation of
+  A: keratin sulphate and chondroitin sulphate
+  B: D-glucosamine
+  C: N-acetyl glucosamine
+  D: lipoglycans
+
+R3493 | B | Which one of the following is a non-reducing carbohydrate?
+  A: Maltose
+  B: Sucrose
+  C: Lactose
+  D: Ribose 5-phosphate
+
+R3494 | A | Macromolecule chitin is
+  A: nitrogen containing polysaccharide
+  B: phosphorus containing polysaccharide
+  C: sulphur containing polysaccharide
+  D: simple polysaccharide
+
+R3495 | B | Which one of the following pairs is wrongly matched?
+  A: Detergents — Lipase
+  B: Alcohol — Nitrogenase
+  C: Fruit juice — Pectinase
+  D: Textile — Amylase
+
+R3496 | C | Lactose is composed of
+  A: glucose+glucose
+  B: glucose+fructos
+  C: galactose+glucose
+  D: galactose+galactose
+
+R3497 | B | A non-proteinaceous enzyme is
+  A: lysozyme
+  B: ribozyme
+  C: ligase
+  D: deoxyribonuclease
+
+R3498 | B | Select the option which is not correct with respect to enzyme action.
+  A: Substrate binds with enzyme as its active site
+  B: Addition of lot of succinate does not reverse the inhibition of succinic dehydrogenase by malonate
+  C: A non-competitive inhibitor binds the enzyme at a site distinct from that which binds the substrate
+  D: Malonate is a competitive inhibitor of succinic dehydrogenase
+
+R3499 | C | Transition state structure of the substrate formed during an enzymatic reaction is
+  A: transient but stable
+  B: permanent but unstable
+  C: transient and unstable
+  D: permanent and stable
+
+R3500 | D | The essential chemical components of many coenzymes are
+  A: proteins
+  B: nucleic acids
+  C: carbohydrates
+  D: vitamins
+

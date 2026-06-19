@@ -1,0 +1,1002 @@
+  1001→R 392 | SciCh 2.0 | C | The gas evolved when Sodium Carbonate reacts with Hydrochloric acid is:
+  1002→     A: Hydrogen
+  1003→     B: Oxygen
+  1004→     C: Carbon Dioxide
+  1005→     D: Chlorine
+  1006→R 393 | SciCh 2.0 | B | Which of the following is used in making "Antacid" tablets?
+  1007→     A: $NaOH$
+  1008→     B: $Mg(OH)_2$
+  1009→     C: $KOH$
+  1010→     D: $HCl$
+  1011→R 394 | SciCh 2.0 | B | Identify the salt which is used to make the dough soft and spongy:
+  1012→     A: $Na_2CO_3$
+  1013→     B: $NaHCO_3$
+  1014→     C: $NaCl$
+  1015→     D: $CaCl_2$
+  1016→R 395 | SciCh 2.0 | B | What is the nature of an aqueous solution of Sodium Acetate?
+  1017→     A: Acidic
+  1018→     B: Basic
+  1019→     C: Neutral
+  1020→     D: Amphoteric
+  1021→R 396 | SciCh 2.0 | A | Which of the following is the most acidic?
+  1022→     A: Gastric juice
+  1023→     B: Milk
+  1024→     C: Pure water
+  1025→     D: Blood
+  1026→R 397 | SciCh 2.0 | C | The chemical formula for 'Oil of Vitriol' is:
+  1027→     A: $HCl$
+  1028→     B: $HNO_3$
+  1029→     C: $H_2SO_4$
+  1030→     D: $H_3PO_4$
+  1031→R 398 | SciCh 2.0 | C | Which of the following is a dibasic acid?
+  1032→     A: $HCl$
+  1033→     B: $HNO_3$
+  1034→     C: $H_2SO_4$
+  1035→     D: $CH_3COOH$
+  1036→R 399 | SciCh 2.0 | A | What happens when a base reacts with a metal?
+  1037→     A: Salt and Hydrogen gas are formed
+  1038→     B: Salt and Water are formed
+  1039→     C: Salt and Oxygen gas are formed
+  1040→     D: No reaction occurs
+  1041→R 400 | SciCh 2.0 | B | The acid present in sour milk (curd) is:
+  1042→     A: Citric acid
+  1043→     B: Lactic acid
+  1044→     C: Tartaric acid
+  1045→     D: Oxalic acid
+  1046→R 401 | SciCh 2.0 | C | Which of the following is used for bleaching wood pulp in paper factories?
+  1047→     A: Baking soda
+  1048→     B: Chlorine
+  1049→     C: Bleaching powder
+  1050→     D: Sodium chloride
+  1051→R 422 | SciCh 3.0 | B | Which of the following metals is the most abundant in the Earth's crust?
+  1052→     A: Iron
+  1053→     B: Aluminium
+  1054→     C: Calcium
+  1055→     D: Sodium
+  1056→R 423 | SciCh 3.0 | C | Which non-metal is a good conductor of electricity?
+  1057→     A: Sulphur
+  1058→     B: Phosphorus
+  1059→     C: Graphite
+  1060→     D: Iodine
+  1061→R 424 | SciCh 3.0 | B | The process of coating iron with a thin layer of Zinc to prevent rusting is called:
+  1062→     A: Anodizing
+  1063→     B: Galvanization
+  1064→     C: Alloying
+  1065→     D: Electroplating
+  1066→R 425 | SciCh 3.0 | B | Which of the following metals can be cut with a knife?
+  1067→     A: Magnesium
+  1068→     B: Sodium
+  1069→     C: Aluminium
+  1070→     D: Iron
+  1071→R 426 | SciCh 3.0 | C | An amphoteric oxide is:
+  1072→     A: $Na_2O$
+  1073→     B: $K_2O$
+  1074→     C: $Al_2O_3$
+  1075→     D: $MgO$
+  1076→R 427 | SciCh 3.0 | A | What is the composition of Aqua Regia?
+  1077→     A: Conc. $HCl$ and Conc. $HNO_3$ (3:1)
+  1078→     B: Conc. $HCl$ and Conc. $HNO_3$ (1:3)
+  1079→     C: Dil. $HCl$ and Dil. $HNO_3$ (3:1)
+  1080→     D: Conc. $H_2SO_4$ and Conc. $HCl$ (3:1)
+  1081→R 428 | SciCh 3.0 | B | The most malleable metal is:
+  1082→     A: Silver
+  1083→     B: Gold
+  1084→     C: Aluminium
+  1085→     D: Copper
+  1086→R 429 | SciCh 3.0 | C | Which of the following metals does not react with cold or hot water but reacts with steam?
+  1087→     A: Sodium
+  1088→     B: Calcium
+  1089→     C: Iron
+  1090→     D: Magnesium
+  1091→R 430 | SciCh 3.0 | D | When a non-metal reacts with oxygen, it usually forms:
+  1092→     A: Basic oxide
+  1093→     B: Acidic oxide
+  1094→     C: Neutral oxide
+  1095→     D: Both 2 and 3
+  1096→R 431 | SciCh 3.0 | B | The bond formed by the transfer of electrons from a metal to a non-metal is known as:
+  1097→     A: Covalent bond
+  1098→     B: Ionic bond
+  1099→     C: Hydrogen bond
+  1100→     D: Metallic bond
+  1101→R 432 | SciCh 3.0 | C | Which of the following properties is generally NOT shown by metals?
+  1102→     A: Electrical conduction
+  1103→     B: Sonorous nature
+  1104→     C: Dullness
+  1105→     D: Ductility
+  1106→R 433 | SciCh 3.0 | A | Cinnabar is an ore of which metal?
+  1107→     A: Mercury
+  1108→     B: Copper
+  1109→     C: Zinc
+  1110→     D: Lead
+  1111→R 434 | SciCh 3.0 | B | Metals like Gold and Silver are found in the Earth's crust in:
+  1112→     A: Combined state
+  1113→     B: Free state
+  1114→     C: Oxide state
+  1115→     D: Sulphide state
+  1116→R 435 | SciCh 3.0 | C | Which of the following non-metals is liquid at room temperature?
+  1117→     A: Oxygen
+  1118→     B: Carbon
+  1119→     C: Bromine
+  1120→     D: Chlorine
+  1121→R 436 | SciCh 3.0 | C | What is an Alloy?
+  1122→     A: A compound
+  1123→     B: An element
+  1124→     C: A homogeneous mixture
+  1125→     D: A heterogeneous mixture
+  1126→R 437 | SciCh 3.0 | B | Which metal is stored under kerosene?
+  1127→     A: Magnesium
+  1128→     B: Sodium
+  1129→     C: Calcium
+  1130→     D: Aluminium
+  1131→R 438 | SciCh 3.0 | B | Solder is an alloy of:
+  1132→     A: $Cu$ and $Zn$
+  1133→     B: $Pb$ and $Sn$
+  1134→     C: $Cu$ and $Sn$
+  1135→     D: $Al$ and $Mg$
+  1136→R 439 | SciCh 3.0 | D | The poorest conductor of heat among metals is:
+  1137→     A: Lead
+  1138→     B: Mercury
+  1139→     C: Calcium
+  1140→     D: Both 1 and 2
+  1141→R 440 | SciCh 3.0 | D | Which non-metal is lustrous?
+  1142→     A: Sulphur
+  1143→     B: Oxygen
+  1144→     C: Nitrogen
+  1145→     D: Iodine
+  1146→R 441 | SciCh 3.0 | C | Food cans are coated with tin and not with zinc because:
+  1147→     A: Zinc is costlier than tin
+  1148→     B: Zinc has a higher melting point
+  1149→     C: Zinc is more reactive than tin
+  1150→     D: Zinc is less reactive than tin
+  1151→R 462 | SciCh 3.0 | C | Which of the following methods is suitable for preventing an iron frying pan from rusting?
+  1152→     A: Applying grease
+  1153→     B: Applying paint
+  1154→     C: Applying a coating of zinc
+  1155→     D: All of the above
+  1156→R 463 | SciCh 3.0 | A | An element reacts with oxygen to give a compound with a high melting point. This compound is also soluble in w
+  1157→     A: Calcium
+  1158→     B: Carbon
+  1159→     C: Silicon
+  1160→     D: Iron
+  1161→R 464 | SciCh 3.0 | D | Which of the following pairs will give displacement reactions?
+  1162→     A: $NaCl$ solution and Copper metal
+  1163→     B: $MgCl_2$ solution and Aluminium metal
+  1164→     C: $FeSO_4$ solution and Silver metal
+  1165→     D: $AgNO_3$ solution and Copper metal
+  1166→R 465 | SciCh 3.0 | D | The electronic configurations of three elements X, Y and Z are X — 2, 8; Y — 2, 8, 7 and Z — 2, 8, 2. Which of
+  1167→     A: X is a metal
+  1168→     B: Y is a metal
+  1169→     C: Z is a non-metal
+  1170→     D: Y is a non-metal and Z is a metal
+  1171→R 466 | SciCh 3.0 | C | Which of the following is an oxide of Iron which is formed on prolonged reaction of iron with steam?
+  1172→     A: $FeO$
+  1173→     B: $Fe_2O_3$
+  1174→     C: $Fe_3O_4$
+  1175→     D: $Fe_2O_3$ and $Fe_3O_4$
+  1176→R 467 | SciCh 3.0 | A | During electrolytic refining of zinc, it gets:
+  1177→     A: Deposited on cathode
+  1178→     B: Deposited on anode
+  1179→     C: Deposited on cathode as well as anode
+  1180→     D: Remains in the solution
+  1181→R 468 | SciCh 3.0 | D | Which of the following can undergo a chemical reaction?
+  1182→     A: $MgSO_4 + Fe$
+  1183→     B: $ZnSO_4 + Fe$
+  1184→     C: $MgSO_4 + Pb$
+  1185→     D: $CuSO_4 + Fe$
+  1186→R 469 | SciCh 3.0 | D | Generally, non-metals are not lustrous. Which of the following non-metals is lustrous?
+  1187→     A: Sulphur
+  1188→     B: Oxygen
+  1189→     C: Nitrogen
+  1190→     D: Iodine
+  1191→R 470 | SciCh 3.0 | B | The process of heating carbonate ores in the absence of oxygen to convert them into oxides is:
+  1192→     A: Roasting
+  1193→     B: Calcination
+  1194→     C: Smelting
+  1195→     D: Reduction
+  1196→R 471 | SciCh 3.0 | A | Metals are refined by using different methods. Which of the following metals are refined by electrolytic refin
+  1197→     A: (i) and (ii)
+  1198→     B: (i) and (iii)
+  1199→     C: (ii) and (iii)
+  1200→     D: (iii) and (iv)
+  1201→R 472 | SciCh 3.0 | A | Which of the following represents the correct order of reactivity?
+  1202→     A: $Mg > Al > Zn > Fe$
+  1203→     B: $Al > Mg > Fe > Zn$
+  1204→     C: $Mg > Zn > Al > Fe$
+  1205→     D: $Fe > Zn > Al > Mg$
+  1206→R 473 | SciCh 3.0 | C | Galvanization is a method of protecting iron from rusting by coating with a thin layer of:
+  1207→     A: Gallium
+  1208→     B: Aluminium
+  1209→     C: Zinc
+  1210→     D: Silver
+  1211→R 474 | SciCh 3.0 | A | Stainless steel is very useful material for our life. In stainless steel, iron is mixed with:
+  1212→     A: $Ni$ and $Cr$
+  1213→     B: $Cu$ and $Cr$
+  1214→     C: $Ni$ and $Cu$
+  1215→     D: $Cu$ and $Au$
+  1216→R 475 | SciCh 3.0 | C | Which of the following is NOT a property of ionic compounds?
+  1217→     A: High melting and boiling points
+  1218→     B: Solubility in water
+  1219→     C: Conductivity in solid state
+  1220→     D: Conductivity in molten state
+  1221→R 476 | SciCh 3.0 | B | Brass is an alloy of:
+  1222→     A: Copper and Tin
+  1223→     B: Copper and Zinc
+  1224→     C: Lead and Tin
+  1225→     D: Zinc and Tin
+  1226→R 477 | SciCh 3.0 | C | Which of the following metals exist in their native state in nature? (i) $Cu$ (ii) $Au$ (iii) $Zn$ (iv) $Ag$
+  1227→     A: (i) and (ii)
+  1228→     B: (ii) and (iii)
+  1229→     C: (ii) and (iv)
+  1230→     D: (iii) and (iv)
+  1231→R 478 | SciCh 3.0 | A | Sulphide ores are converted into oxides by heating strongly in the presence of excess air. This process is:
+  1232→     A: Roasting
+  1233→     B: Calcination
+  1234→     C: Reduction
+  1235→     D: Refining
+  1236→R 479 | SciCh 3.0 | C | The metal which can be extracted simply by heating its ore in air is:
+  1237→     A: Sodium
+  1238→     B: Aluminium
+  1239→     C: Mercury
+  1240→     D: Magnesium
+  1241→R 480 | SciCh 3.0 | C | An alloy which contains Mercury as one of its constituents is called:
+  1242→     A: Solder
+  1243→     B: Stainless steel
+  1244→     C: Amalgam
+  1245→     D: Brass
+  1246→R 481 | SciCh 3.0 | D | Which of the following metals does not react even with water at high temperature?
+  1247→     A: $Mg$
+  1248→     B: $Al$
+  1249→     C: $Fe$
+  1250→     D: $Au$
+  1251→R 502 | SciCh 3.0 | C | Which of the following metals is used in the 'Thermite process' to join railway tracks?
+  1252→     A: Copper
+  1253→     B: Zinc
+  1254→     C: Aluminium
+  1255→     D: Magnesium
+  1256→R 503 | SciCh 3.0 | C | The rocky impurities like sand and soil present in an ore are called:
+  1257→     A: Flux
+  1258→     B: Slag
+  1259→     C: Gangue
+  1260→     D: Matrix
+  1261→R 504 | SciCh 3.0 | C | Which of the following metals can displace Hydrogen from dilute acids?
+  1262→     A: Copper
+  1263→     B: Mercury
+  1264→     C: Magnesium
+  1265→     D: Silver
+  1266→R 505 | SciCh 3.0 | A | When Magnesium reacts with very dilute Nitric acid ($HNO_3$), the gas evolved is:
+  1267→     A: Hydrogen
+  1268→     B: Nitrogen dioxide
+  1269→     C: Nitrous oxide
+  1270→     D: Oxygen
+  1271→R 506 | SciCh 3.0 | D | Which of the following non-metals exists in different forms called allotropes?
+  1272→     A: Nitrogen
+  1273→     B: Sulphur
+  1274→     C: Carbon
+  1275→     D: Both 2 and 3
+  1276→R 507 | SciCh 3.0 | B | The silver articles turn black when kept in the air for a long time. This is due to the formation of:
+  1277→     A: Silver oxide
+  1278→     B: Silver sulphide
+  1279→     C: Silver chloride
+  1280→     D: Silver carbonate
+  1281→R 508 | SciCh 3.0 | C | Which of the following metals is extracted by the electrolysis of their molten chlorides?
+  1282→     A: $Fe$
+  1283→     B: $Cu$
+  1284→     C: $Na$
+  1285→     D: $Zn$
+  1286→R 509 | SciCh 3.0 | B | Bronze is an alloy of:
+  1287→     A: $Cu$ and $Zn$
+  1288→     B: $Cu$ and $Sn$
+  1289→     C: $Pb$ and $Sn$
+  1290→     D: $Zn$ and $Sn$
+  1291→R 510 | SciCh 3.0 | B | What is the valency of Magnesium in Magnesium Chloride?
+  1292→     A: 1.0
+  1293→     B: 2.0
+  1294→     C: 3.0
+  1295→     D: 4.0
+  1296→R 511 | SciCh 3.0 | C | Which of the following is an example of an ionic compound?
+  1297→     A: $CO_2$
+  1298→     B: $H_2O$
+  1299→     C: $MgCl_2$
+  1300→     D: $CH_4$
+  1301→R 512 | SciCh 3.0 | B | The melting point of an ionic compound is generally:
+  1302→     A: Low
+  1303→     B: High
+  1304→     C: Moderate
+  1305→     D: Zero
+  1306→R 513 | SciCh 3.0 | B | Which of the following metals is found in the liquid state at room temperature?
+  1307→     A: Gallium
+  1308→     B: Mercury
+  1309→     C: Sodium
+  1310→     D: Calcium
+  1311→R 514 | SciCh 3.0 | C | Anodizing is the process of forming a thick oxide layer of:
+  1312→     A: Iron
+  1313→     B: Zinc
+  1314→     C: Aluminium
+  1315→     D: Copper
+  1316→R 515 | SciCh 3.0 | B | Which of the following non-metals is used for the vulcanization of rubber?
+  1317→     A: Carbon
+  1318→     B: Sulphur
+  1319→     C: Phosphorus
+  1320→     D: Nitrogen
+  1321→R 516 | SciCh 3.0 | C | The metal which is always present in an amalgam is:
+  1322→     A: Iron
+  1323→     B: Aluminium
+  1324→     C: Mercury
+  1325→     D: Magnesium
+  1326→R 517 | SciCh 3.0 | B | In the reactivity series, Hydrogen is placed because:
+  1327→     A: It is a metal
+  1328→     B: It is a non-metal that can lose an electron
+  1329→     C: It is highly reactive
+  1330→     D: It is a gas
+  1331→R 518 | SciCh 3.0 | C | Which of the following is a neutral oxide?
+  1332→     A: $CO_2$
+  1333→     B: $SO_2$
+  1334→     C: $CO$
+  1335→     D: $MgO$
+  1336→R 519 | SciCh 3.0 | B | The process of refining impure metals using electricity is:
+  1337→     A: Electrolysis
+  1338→     B: Electrolytic refining
+  1339→     C: Electroplating
+  1340→     D: Galvanization
+  1341→R 520 | SciCh 3.0 | B | When Copper is heated in air, it reacts with oxygen to form:
+  1342→     A: $Cu_2O$
+  1343→     B: $CuO$
+  1344→     C: $Cu(OH)_2$
+  1345→     D: $CuCO_3$
+  1346→R 521 | SciCh 3.0 | C | Which of the following represents the correct electronic configuration of a Magnesium ion ($Mg^{2+}$)?
+  1347→     A: 2002-08-02 00:00:00
+  1348→     B: 2001-08-02 00:00:00
+  1349→     C: 2026-08-02 00:00:00
+  1350→     D: 2008-08-02 00:00:00
+  1351→R 542 | SciCh 3.0 | B | Which of the following metals catch fire when kept in open air?
+  1352→     A: Magnesium
+  1353→     B: Sodium
+  1354→     C: Silver
+  1355→     D: Copper
+  1356→R 543 | SciCh 3.0 | D | The oxide of which of the following elements can be reduced by Carbon?
+  1357→     A: Magnesium
+  1358→     B: Calcium
+  1359→     C: Aluminium
+  1360→     D: Zinc
+  1361→R 544 | SciCh 3.0 | A | What is the observation when Magnesium ribbon is burnt in air?
+  1362→     A: Dazzling white flame and white powder
+  1363→     B: Yellow flame and black powder
+  1364→     C: Blue flame and white smoke
+  1365→     D: Red flame and grey ash
+  1366→R 545 | SciCh 3.0 | B | Which of the following metals start floating when added to water?
+  1367→     A: Iron and Zinc
+  1368→     B: Calcium and Magnesium
+  1369→     C: Sodium and Potassium
+  1370→     D: Copper and Silver
+  1371→R 546 | SciCh 3.0 | B | An element 'A' is soft and can be cut with a knife. It is very reactive and cannot be kept open in air. It rea
+  1372→     A: Magnesium
+  1373→     B: Sodium
+  1374→     C: Phosphorus
+  1375→     D: Calcium
+  1376→R 547 | SciCh 3.0 | B | In the electrolytic refining of Copper, the anode mud consists of:
+  1377→     A: Soluble impurities
+  1378→     B: Insoluble impurities like Ag and Au
+  1379→     C: Pure copper
+  1380→     D: Copper sulphate
+  1381→R 548 | SciCh 3.0 | B | Which non-metal is used to preserve food items?
+  1382→     A: Oxygen
+  1383→     B: Nitrogen
+  1384→     C: Hydrogen
+  1385→     D: Carbon
+  1386→R 549 | SciCh 3.0 | B | The bond formed between Sodium (atomic no. 11) and Chlorine (atomic no. 17) is:
+  1387→     A: Covalent
+  1388→     B: Ionic
+  1389→     C: Metallic
+  1390→     D: Coordinate
+  1391→R 550 | SciCh 3.0 | C | Which of the following metals does not react even with steam?
+  1392→     A: Iron
+  1393→     B: Aluminium
+  1394→     C: Lead
+  1395→     D: Magnesium
+  1396→R 551 | SciCh 3.0 | A | Metals are generally solid at room temperature. Which of the following is an exception?
+  1397→     A: Mercury
+  1398→     B: Bromine
+  1399→     C: Sodium
+  1400→     D: Iodine
+  1401→R 552 | SciCh 3.0 | B | The property of metals by which they can be drawn into thin wires is:
+  1402→     A: Malleability
+  1403→     B: Ductility
+  1404→     C: Sonority
+  1405→     D: Conductivity
+  1406→R 553 | SciCh 3.0 | B | Which of the following ores is concentrated by the 'Froth Floatation Process'?
+  1407→     A: Oxide ores
+  1408→     B: Sulphide ores
+  1409→     C: Carbonate ores
+  1410→     D: Chloride ores
+  1411→R 554 | SciCh 3.0 | B | The atomic number of an element 'X' is 13. What is the number of electrons in its ion $X^{3+}$?
+  1412→     A: 13.0
+  1413→     B: 10.0
+  1414→     C: 16.0
+  1415→     D: 14.0
+  1416→R 555 | SciCh 3.0 | C | An alloy used for making aircraft bodies is:
+  1417→     A: Steel
+  1418→     B: Brass
+  1419→     C: Duralumin
+  1420→     D: Bronze
+  1421→R 556 | SciCh 3.0 | C | Which of the following non-metals is a form of Carbon and is the hardest natural substance?
+  1422→     A: Graphite
+  1423→     B: Coal
+  1424→     C: Diamond
+  1425→     D: Fullerene
+  1426→R 557 | SciCh 3.0 | C | The reduction of metal oxides to metals using Aluminium is known as:
+  1427→     A: Smelting
+  1428→     B: Calcination
+  1429→     C: Goldschmidt Aluminothermic process
+  1430→     D: Roasting
+  1431→R 558 | SciCh 3.0 | B | What is the chemical formula of 'Bauxite'?
+  1432→     A: $Al_2O_3$
+  1433→     B: $Al_2O_3 \cdot 2H_2O$
+  1434→     C: $Na_3AlF_6$
+  1435→     D: $Fe_3O_4$
+  1436→R 559 | SciCh 3.0 | C | Metals react with acids to produce a salt and Hydrogen gas. Which acid does not usually give Hydrogen with met
+  1437→     A: $HCl$
+  1438→     B: $H_2SO_4$
+  1439→     C: $HNO_3$
+  1440→     D: $CH_3COOH$
+  1441→R 560 | SciCh 3.0 | B | Zinc blend ($ZnS$) is converted into Zinc oxide by:
+  1442→     A: Calcination
+  1443→     B: Roasting
+  1444→     C: Reduction
+  1445→     D: Electrolysis
+  1446→R 561 | SciCh 3.0 | B | The non-metal which is used in the purple-colored antiseptic solution applied on wounds is:
+  1447→     A: Chlorine
+  1448→     B: Iodine
+  1449→     C: Bromine
+  1450→     D: Sulphur
+  1451→R 582 | SciCh 3.0 | A | An element 'X' burns in air with a golden yellow flame and reacts with water to form 'Y'. When 'Y' reacts with
+  1452→     A: X=Na, Y=NaOH, Z=H2
+  1453→     B: X=Mg, Y=MgO, Z=O2
+  1454→     C: X=Ca, Y=CaO, Z=H2
+  1455→     D: X=K, Y=KOH, Z=H2
+  1456→R 583 | SciCh 3.0 | B | Which of the following processes is used for the extraction of highly reactive metals like Aluminium?
+  1457→     A: Carbon reduction
+  1458→     B: Electrolytic reduction
+  1459→     C: Reduction with CO
+  1460→     D: Heating in air
+  1461→R 584 | SciCh 3.0 | B | What is the concentration of Gold in 22-carat gold?
+  1462→     A: 1.0
+  1463→     B: 0.916
+  1464→     C: 0.75
+  1465→     D: 0.5
+  1466→R 585 | SciCh 3.0 | C | Identify the correct statement regarding the reaction: $Fe_2O_3 + 2Al \rightarrow Al_2O_3 + 2Fe$ + Heat.
+  1467→     A: Aluminium is reduced
+  1468→     B: Iron is the reducing agent
+  1469→     C: Aluminium is the reducing agent
+  1470→     D: It is an endothermic reaction
+  1471→R 586 | SciCh 3.0 | B | A metal 'M' reacts with cold water to give a base with molecular formula 'MOH' and liberates gas 'X'. 'X' burn
+  1472→     A: Calcium
+  1473→     B: Sodium
+  1474→     C: Magnesium
+  1475→     D: Iron
+  1476→R 587 | SciCh 3.0 | C | Which of the following oxide(s) of iron would be obtained on prolonged reaction of iron with steam?
+  1477→     A: $FeO$
+  1478→     B: $Fe_2O_3$
+  1479→     C: $Fe_3O_4$
+  1480→     D: $Fe_2O_3$ and $Fe_3O_4$
+  1481→R 588 | SciCh 3.0 | C | Which of the following is an allotrope of carbon used for making lubricants?
+  1482→     A: Diamond
+  1483→     B: Coke
+  1484→     C: Graphite
+  1485→     D: Coal
+  1486→R 589 | SciCh 3.0 | B | A student accidentally spilled some concentrated $HNO_3$ on a copper coin. A reddish-brown gas was evolved. Th
+  1487→     A: $H_2$
+  1488→     B: $NO_2$
+  1489→     C: $O_2$
+  1490→     D: $N_2O$
+  1491→R 590 | SciCh 3.0 | C | Which of the following elements is used to make the filament of electric bulbs?
+  1492→     A: Iron
+  1493→     B: Copper
+  1494→     C: Tungsten
+  1495→     D: Aluminium
+  1496→R 591 | SciCh 3.0 | C | The ionic compound $MgCl_2$ is a solid because:
+  1497→     A: It has covalent bonds
+  1498→     B: It has low melting point
+  1499→     C: Strong electrostatic force of attraction
+  1500→     D: It is a non-metal
+  1501→R 592 | SciCh 3.0 | C | Which metal is protected from further corrosion by a self-protecting oxide layer?
+  1502→     A: Iron
+  1503→     B: Silver
+  1504→     C: Aluminium
+  1505→     D: Gold
+  1506→R 593 | SciCh 3.0 | B | In the electrolytic refining of Silver, the pure silver is used as:
+  1507→     A: Anode
+  1508→     B: Cathode
+  1509→     C: Electrolyte mud
+  1510→     D: Casing
+  1511→R 594 | SciCh 3.0 | A | What is the ratio of Copper and Zinc in Brass?
+  1512→     A: 2 days, 22:30:00
+  1513→     B: 2 days, 2:50:00
+  1514→     C: 3 days, 18:10:00
+  1515→     D: 1 day, 7:10:00
+  1516→R 595 | SciCh 3.0 | C | Which of the following non-metals is used for making pencil leads?
+  1517→     A: Sulphur
+  1518→     B: Phosphorus
+  1519→     C: Graphite
+  1520→     D: Nitrogen
+  1521→R 596 | SciCh 3.0 | B | Which of the following pairs of metals are refined by the process of 'Distillation'?
+  1522→     A: $Cu, Ag$
+  1523→     B: $Zn, Hg$
+  1524→     C: $Na, K$
+  1525→     D: $Fe, Ni$
+  1526→R 597 | SciCh 3.0 | D | During the enrichment of sulphide ores, 'Pine oil' is used to:
+  1527→     A: Dissolve the ore
+  1528→     B: Wet the gangue particles
+  1529→     C: Increase the frothing
+  1530→     D: Wet the ore particles
+  1531→R 598 | SciCh 3.0 | C | Which metal carbonate can be decomposed simply by heating without the presence of oxygen?
+  1532→     A: $Na_2CO_3$
+  1533→     B: $K_2CO_3$
+  1534→     C: $ZnCO_3$
+  1535→     D: $Li_2CO_3$
+  1536→R 599 | SciCh 3.0 | A | An alloy 'Magnalium' contains:
+  1537→     A: $Mg$ and $Al$
+  1538→     B: $Mg$ and $Cu$
+  1539→     C: $Al$ and $Zn$
+  1540→     D: $Mg$ and $Fe$
+  1541→R 600 | SciCh 3.0 | B | A non-metal 'P' reacts with Oxygen to form oxide 'Q'. 'Q' dissolves in water to turn blue litmus red. 'P' is:
+  1542→     A: Sodium
+  1543→     B: Sulphur
+  1544→     C: Magnesium
+  1545→     D: Carbon Monoxide
+  1546→R 601 | SciCh 3.0 | C | What is the chemical reaction called when a more reactive metal replaces a less reactive metal in its salt sol
+  1547→     A: Combination
+  1548→     B: Decomposition
+  1549→     C: Displacement
+  1550→     D: Neutralization
+  1551→R 622 | SciCh 4.0 | A | Which of the following properties is generally not shown by carbon compounds?
+  1552→     A: Good conductor of electricity
+  1553→     B: Low melting and boiling points
+  1554→     C: Covalent bonding
+  1555→     D: Solubility in organic solvents
+  1556→R 623 | SciCh 4.0 | B | The self-linking property of carbon atoms through covalent bonds to form long chains is called:
+  1557→     A: Allotropy
+  1558→     B: Catenation
+  1559→     C: Isomerism
+  1560→     D: Polymerization
+  1561→R 624 | SciCh 4.0 | B | How many covalent bonds are present in a molecule of Ethane ($C_2H_6$)?
+  1562→     A: 6.0
+  1563→     B: 7.0
+  1564→     C: 8.0
+  1565→     D: 9.0
+  1566→R 625 | SciCh 4.0 | B | Which of the following is the correct formula for Benzene?
+  1567→     A: $C_6H_{12}$
+  1568→     B: $C_6H_6$
+  1569→     C: $C_6H_{10}$
+  1570→     D: $C_6H_{14}$
+  1571→R 626 | SciCh 4.0 | C | The general formula for the Alkyne homologous series is:
+  1572→     A: $C_nH_{2n+2}$
+  1573→     B: $C_nH_{2n}$
+  1574→     C: $C_nH_{2n-2}$
+  1575→     D: $C_nH_n$
+  1576→R 627 | SciCh 4.0 | C | Buckminsterfullerene is an allotropic form of:
+  1577→     A: Phosphorus
+  1578→     B: Sulphur
+  1579→     C: Carbon
+  1580→     D: Tin
+  1581→R 628 | SciCh 4.0 | C | Which of the following is the functional group present in Propanone?
+  1582→     A: Aldehyde
+  1583→     B: Alcohol
+  1584→     C: Ketone
+  1585→     D: Carboxylic acid
+  1586→R 629 | SciCh 4.0 | B | The difference in the molecular mass of two consecutive members of a homologous series is:
+  1587→     A: 12 u
+  1588→     B: 14 u
+  1589→     C: 16 u
+  1590→     D: 28 u
+  1591→R 630 | SciCh 4.0 | C | Pentane has the molecular formula $C_5H_{12}$. It has:
+  1592→     A: 5 covalent bonds
+  1593→     B: 12 covalent bonds
+  1594→     C: 16 covalent bonds
+  1595→     D: 17 covalent bonds
+  1596→R 631 | SciCh 4.0 | C | Vinegar is a solution of:
+  1597→     A: 50-60% acetic acid in alcohol
+  1598→     B: 5-8% acetic acid in alcohol
+  1599→     C: 5-8% acetic acid in water
+  1600→     D: 50-60% acetic acid in water
+  1601→R 632 | SciCh 4.0 | B | While cooking, if the bottom of the vessel is getting blackened on the outside, it means that:
+  1602→     A: The food is not cooked completely
+  1603→     B: The fuel is not burning completely
+  1604→     C: The fuel is wet
+  1605→     D: The fuel is burning completely
+  1606→R 633 | SciCh 4.0 | D | Identify the unsaturated compound from the following:
+  1607→     A: Propane
+  1608→     B: Propene
+  1609→     C: Propyne
+  1610→     D: Both 2 and 3
+  1611→R 634 | SciCh 4.0 | B | Carbon forms four covalent bonds by sharing its four valence electrons with four univalent atoms, e.g., hydrog
+  1612→     A: Helium
+  1613→     B: Neon
+  1614→     C: Argon
+  1615→     D: Krypton
+  1616→R 635 | SciCh 4.0 | B | The IUPAC name of the compound $CH_3-CH_2-CHO$ is:
+  1617→     A: Propanol
+  1618→     B: Propanal
+  1619→     C: Propanoic acid
+  1620→     D: Propanone
+  1621→R 636 | SciCh 4.0 | B | Which allotrope of carbon is used as a lubricant and in pencils?
+  1622→     A: Diamond
+  1623→     B: Graphite
+  1624→     C: Fullerene
+  1625→     D: Coke
+  1626→R 637 | SciCh 4.0 | A | The first member of the Alkyne homologous series is:
+  1627→     A: Ethyne
+  1628→     B: Methene
+  1629→     C: Methyne
+  1630→     D: Ethene
+  1631→R 638 | SciCh 4.0 | B | Carbon exists in the atmosphere in the form of:
+  1632→     A: Carbon monoxide only
+  1633→     B: Carbon monoxide in traces and carbon dioxide
+  1634→     C: Carbon dioxide only
+  1635→     D: Coal
+  1636→R 639 | SciCh 4.0 | D | Which of the following does not belong to the same homologous series?
+  1637→     A: $CH_4$
+  1638→     B: $C_2H_6$
+  1639→     C: $C_3H_8$
+  1640→     D: $C_4H_8$
+  1641→R 640 | SciCh 4.0 | B | Which gas is evolved when Ethanoic acid reacts with Sodium Carbonate?
+  1642→     A: $H_2$
+  1643→     B: $CO_2$
+  1644→     C: $O_2$
+  1645→     D: $CH_4$
+  1646→R 641 | SciCh 4.0 | C | The valency of carbon is:
+  1647→     A: 2.0
+  1648→     B: 3.0
+  1649→     C: 4.0
+  1650→     D: 1.0
+  1651→R 662 | SciCh 4.0 | C | Which of the following represents the correct electron dot structure of Nitrogen ($N_2$)?
+  1652→     A: Two nitrogen atoms sharing 1 pair of electrons
+  1653→     B: Two nitrogen atoms sharing 2 pairs of electrons
+  1654→     C: Two nitrogen atoms sharing 3 pairs of electrons
+  1655→     D: Two nitrogen atoms sharing 4 pairs of electrons
+  1656→R 663 | SciCh 4.0 | D | Vegetable oils are converted into vegetable ghee using:
+  1657→     A: Hydrogen gas and Palladium catalyst
+  1658→     B: Oxygen gas and Heat
+  1659→     C: Carbon dioxide and Nickel catalyst
+  1660→     D: Hydrogen gas and Nickel catalyst
+  1661→R 664 | SciCh 4.0 | D | Which of the following will give a sootier flame on combustion?
+  1662→     A: Methane
+  1663→     B: Ethane
+  1664→     C: LPG
+  1665→     D: Benzene
+  1666→R 665 | SciCh 4.0 | D | The functional group $-COOH$ is characteristic of:
+  1667→     A: Alcohols
+  1668→     B: Aldehydes
+  1669→     C: Ketones
+  1670→     D: Carboxylic acids
+  1671→R 666 | SciCh 4.0 | B | What is the observation when a piece of Sodium metal is dropped into Ethanol?
+  1672→     A: Brisk effervescence of $CO_2$
+  1673→     B: Evolution of Hydrogen gas
+  1674→     C: No reaction
+  1675→     D: Formation of a black precipitate
+  1676→R 667 | SciCh 4.0 | C | Soaps are sodium or potassium salts of long chain:
+  1677→     A: Aldehydes
+  1678→     B: Ketones
+  1679→     C: Carboxylic acids
+  1680→     D: Alcohols
+  1681→R 668 | SciCh 4.0 | D | Which of the following reagents is used for the oxidation of Ethanol to Ethanoic acid?
+  1682→     A: Alkaline $KMnO_4$
+  1683→     B: Acidified $K_2Cr_2O_7$
+  1684→     C: Concentrated $H_2SO_4$
+  1685→     D: Both 1 and 2
+  1686→R 669 | SciCh 4.0 | B | The hydrophobic end of a soap molecule is:
+  1687→     A: The ionic head
+  1688→     B: The long hydrocarbon chain
+  1689→     C: The oxygen atom
+  1690→     D: The sodium ion
+  1691→R 670 | SciCh 4.0 | B | Esterification is the reaction between:
+  1692→     A: Acid and Base
+  1693→     B: Alcohol and Carboxylic acid
+  1694→     C: Acid and Metal
+  1695→     D: Alcohol and Sodium
+  1696→R 671 | SciCh 4.0 | B | The reaction $CH_4 + Cl_2 \xrightarrow{Sunlight} CH_3Cl + HCl$ is an example of:
+  1697→     A: Addition reaction
+  1698→     B: Substitution reaction
+  1699→     C: Oxidation reaction
+  1700→     D: Combustion
+  1701→R 672 | SciCh 4.0 | D | Which of the following can be used to distinguish between an Alcohol and a Carboxylic acid?
+  1702→     A: Litmus paper
+  1703→     B: Sodium bicarbonate
+  1704→     C: Sodium metal
+  1705→     D: Both 1 and 2
+  1706→R 673 | SciCh 4.0 | A | Saponification is the process of:
+  1707→     A: Preparing soap from esters
+  1708→     B: Preparing esters from alcohol
+  1709→     C: Preparing alcohol from sugar
+  1710→     D: Burning of fuel
+  1711→R 674 | SciCh 4.0 | B | Detergents are better than soaps because they:
+  1712→     A: Are biodegradable
+  1713→     B: Work well in hard water
+  1714→     C: Are prepared from natural oils
+  1715→     D: Do not cause pollution
+  1716→R 675 | SciCh 4.0 | A | The catalyst used in the addition reaction of ethene to form ethane is:
+  1717→     A: Nickel
+  1718→     B: Iron
+  1719→     C: Copper
+  1720→     D: Manganese
+  1721→R 676 | SciCh 4.0 | B | Which of the following is the next higher homologue of Propanoic acid?
+  1722→     A: Ethanoic acid
+  1723→     B: Butanoic acid
+  1724→     C: Pentanoic acid
+  1725→     D: Methanoic acid
+  1726→R 677 | SciCh 4.0 | B | When Ethanol is heated with excess concentrated $H_2SO_4$ at 443 K, the product is:
+  1727→     A: Ethane
+  1728→     B: Ethene
+  1729→     C: Ethyne
+  1730→     D: Ethanoic acid
+  1731→R 678 | SciCh 4.0 | B | Methane is the main component of:
+  1732→     A: LPG
+  1733→     B: CNG
+  1734→     C: Coal gas
+  1735→     D: Water gas
+  1736→R 679 | SciCh 4.0 | A | The molecular formula of a saturated hydrocarbon is $C_nH_{10}$. The value of 'n' is:
+  1737→     A: 4.0
+  1738→     B: 5.0
+  1739→     C: 6.0
+  1740→     D: 3.0
+  1741→R 680 | SciCh 4.0 | C | Which of the following contains a triple bond?
+  1742→     A: Ethene
+  1743→     B: Propene
+  1744→     C: Propyne
+  1745→     D: Butene
+  1746→R 681 | SciCh 4.0 | A | A spherical aggregate of soap molecules in water is called:
+  1747→     A: Micelle
+  1748→     B: Bubble
+  1749→     C: Emulsion
+  1750→     D: Scum
+  1751→R 702 | SciCh 4.0 | B | How many structural isomers are possible for Pentane ($C_5H_{12}$)?
+  1752→     A: 2.0
+  1753→     B: 3.0
+  1754→     C: 4.0
+  1755→     D: 5.0
+  1756→R 703 | SciCh 4.0 | B | A hydrocarbon 'P' decolourises bromine water but does not react with sodium metal. 'P' is likely to be:
+  1757→     A: $C_2H_6$
+  1758→     B: $C_2H_2$
+  1759→     C: $C_2H_5OH$
+  1760→     D: $CH_3COOH$
+  1761→R 704 | SciCh 4.0 | B | What is the role of concentrated Sulphuric acid in the esterification reaction?
+  1762→     A: Oxidising agent
+  1763→     B: Dehydrating agent and Catalyst
+  1764→     C: Reducing agent
+  1765→     D: Solvent
+  1766→R 705 | SciCh 4.0 | C | Which of the following carbon compounds has the highest boiling point?
+  1767→     A: $CH_4$
+  1768→     B: $CH_3CH_2OH$
+  1769→     C: $CH_3COOH$
+  1770→     D: $CH_3Cl$
+  1771→R 706 | SciCh 4.0 | A | An organic compound 'X' on heating with excess conc. $H_2SO_4$ at 443 K gives an unsaturated hydrocarbon 'Y'. 
+  1772→     A: Ethanol, Ethene, Hydrogen
+  1773→     B: Ethanol, Ethane, Oxygen
+  1774→     C: Ethanoic acid, Ethene, Hydrogen
+  1775→     D: Methane, Ethene, Hydrogen
+  1776→R 707 | SciCh 4.0 | B | The structure of a soap micelle is such that:
+  1777→     A: Heads are towards center, Tails outwards
+  1778→     B: Tails are towards center, Heads outwards
+  1779→     C: Both heads and tails are random
+  1780→     D: Heads and tails are both in the center
+  1781→R 708 | SciCh 4.0 | D | Which of the following will undergo addition reaction?
+  1782→     A: $CH_4$
+  1783→     B: $C_3H_8$
+  1784→     C: $C_2H_6$
+  1785→     D: $C_3H_6$
+  1786→R 709 | SciCh 4.0 | B | The gas produced by the action of Ethanoic acid on Baking soda is used for:
+  1787→     A: Burning
+  1788→     B: Extinguishing fire
+  1789→     C: Respiration
+  1790→     D: Photosynthesis
+  1791→R 710 | SciCh 4.0 | B | Denatured alcohol is prepared by adding which substance to ethanol?
+  1792→     A: Water
+  1793→     B: Methanol and Pyridine
+  1794→     C: Glucose
+  1795→     D: Ethanoic acid
+  1796→R 711 | SciCh 4.0 | C | Which of the following represents the correct electron dot structure of Ethyne ($C_2H_2$)?
+  1797→     A: Two carbons sharing 1 pair
+  1798→     B: Two carbons sharing 2 pairs
+  1799→     C: Two carbons sharing 3 pairs
+  1800→     D: Two carbons sharing 4 pairs
+  1801→R 712 | SciCh 4.0 | B | The correct IUPAC name of the compound $CH_3-CH(OH)-CH_3$ is:
+  1802→     A: Propan-1-ol
+  1803→     B: Propan-2-ol
+  1804→     C: Propanone
+  1805→     D: Isopropanol
+  1806→R 713 | SciCh 4.0 | B | What happens when Ethanol reacts with alkaline $KMnO_4$?
+  1807→     A: It gets reduced to Ethane
+  1808→     B: It gets oxidised to Ethanoic acid
+  1809→     C: No reaction occurs
+  1810→     D: It burns to form $CO_2$
+  1811→R 714 | SciCh 4.0 | C | Soaps do not work in hard water because they form an insoluble precipitate called:
+  1812→     A: Micelle
+  1813→     B: Foam
+  1814→     C: Scum
+  1815→     D: Lather
+  1816→R 715 | SciCh 4.0 | C | A compound 'X' has molecular formula $C_2H_4O_2$. It gives brisk effervescence with sodium carbonate. 'X' is:
+  1817→     A: Ethanol
+  1818→     B: Ethanal
+  1819→     C: Ethanoic acid
+  1820→     D: Methyl Methanoate
+  1821→R 716 | SciCh 4.0 | C | Which of the following is used in the manufacture of perfumes and as a flavoring agent?
+  1822→     A: Ethane
+  1823→     B: Methane
+  1824→     C: Ester
+  1825→     D: Ethanoic acid
+  1826→R 717 | SciCh 4.0 | A | Carbon cannot form $C^{4+}$ cation because:
+  1827→     A: It requires huge energy to remove 4 electrons
+  1828→     B: It gains stability by losing electrons
+  1829→     C: It has high electronegativity
+  1830→     D: None of the above
+  1831→R 718 | SciCh 4.0 | B | The melting point of Diamond is very high because:
+  1832→     A: It is a metal
+  1833→     B: It has strong covalent network structure
+  1834→     C: It has van der Waals forces
+  1835→     D: It is made of Carbon
+  1836→R 719 | SciCh 4.0 | B | Which of the following belongs to the same homologous series as $C_3H_4$?
+  1837→     A: $C_2H_6$
+  1838→     B: $C_2H_2$
+  1839→     C: $C_3H_6$
+  1840→     D: $C_4H_{10}$
+  1841→R 720 | SciCh 4.0 | B | Glacial acetic acid is:
+  1842→     A: Frozen Ethanol
+  1843→     B: 100% pure Ethanoic acid
+  1844→     C: Dilute Acetic acid
+  1845→     D: Vinegar
+  1846→R 721 | SciCh 4.0 | C | Addition of Chlorine to Methane is a:
+  1847→     A: Rapid reaction
+  1848→     B: Slow reaction in dark
+  1849→     C: Chain reaction in sunlight
+  1850→     D: Neutralization reaction
+  1851→R 742 | SciCh 4.0 | B | What is the chemical formula of the third member of the homologous series of Alkenes?
+  1852→     A: $C_3H_6$
+  1853→     B: $C_4H_8$
+  1854→     C: $C_4H_{10}$
+  1855→     D: $C_5H_{10}$
+  1856→R 743 | SciCh 4.0 | B | Which of the following carbon compounds is used as a fuel in spirit lamps?
+  1857→     A: Ethanoic acid
+  1858→     B: Ethanol
+  1859→     C: Methane
+  1860→     D: Benzene
+  1861→R 744 | SciCh 4.0 | C | The reaction of Ethanoic acid with Ethanol in the presence of an acid catalyst is known as:
+  1862→     A: Saponification
+  1863→     B: Hydrogenation
+  1864→     C: Esterification
+  1865→     D: Substitution
+  1866→R 745 | SciCh 4.0 | B | Soaps form micelles with oily dirt. The 'tail' of the soap molecule is:
+  1867→     A: Hydrophilic
+  1868→     B: Hydrophobic
+  1869→     C: Ionic
+  1870→     D: Acidic
+  1871→R 746 | SciCh 4.0 | C | What happens when Methane is burnt in an excess of air?
+  1872→     A: Carbon monoxide and water are formed
+  1873→     B: Carbon and hydrogen are formed
+  1874→     C: Carbon dioxide and water are formed
+  1875→     D: Ethane is formed
+  1876→R 747 | SciCh 4.0 | B | Which of the following is an example of a saturated cyclic hydrocarbon?
+  1877→     A: Benzene
+  1878→     B: Cyclohexane
+  1879→     C: Cyclohexene
+  1880→     D: Ethane
+  1881→R 748 | SciCh 4.0 | C | The process of conversion of an Ester back into Alcohol and Sodium salt of carboxylic acid is:
+  1882→     A: Esterification
+  1883→     B: Neutralization
+  1884→     C: Saponification
+  1885→     D: Fermentation
+  1886→R 749 | SciCh 4.0 | B | Which functional group is present in the compound $CH_3CH_2Cl$?
+  1887→     A: Alcohol
+  1888→     B: Halo group
+  1889→     C: Aldehyde
+  1890→     D: Ketone
+  1891→R 750 | SciCh 4.0 | C | Which of the following will not give a positive result with the Sodium Bicarbonate test?
+  1892→     A: Ethanoic acid
+  1893→     B: Propanoic acid
+  1894→     C: Ethanol
+  1895→     D: Methanoic acid
+  1896→R 751 | SciCh 4.0 | A | How many double bonds are present in a molecule of Ethene?
+  1897→     A: One
+  1898→     B: Two
+  1899→     C: Three
+  1900→     D: Zero
+  1901→R 752 | SciCh 4.0 | B | Which of the following is used in the manufacturing of Tincture Iodine?
+  1902→     A: Ethanoic acid
+  1903→     B: Ethanol
+  1904→     C: Methanol
+  1905→     D: Acetone
+  1906→R 753 | SciCh 4.0 | B | The catalyst used in the industrial preparation of vegetable ghee from oils is:
+  1907→     A: Iron
+  1908→     B: Nickel
+  1909→     C: Copper
+  1910→     D: Platinum
+  1911→R 754 | SciCh 4.0 | A | What is the general formula of the Alcohols homologous series?
+  1912→     A: $C_nH_{2n+1}OH$
+  1913→     B: $C_nH_{2n}OH$
+  1914→     C: $C_nH_{2n+2}OH$
+  1915→     D: $C_nH_{2n-1}OH$
+  1916→R 755 | SciCh 4.0 | C | Which of the following carbon compounds is used as an anaesthetic in surgery?
+  1917→     A: Methane
+  1918→     B: Ethanol
+  1919→     C: Chloroform
+  1920→     D: Ethanoic acid
+  1921→R 756 | SciCh 4.0 | B | A mixture of Ethyne and Oxygen is used for welding. Why is a mixture of Ethyne and Air not used?
+  1922→     A: Air contains Nitrogen which is explosive
+  1923→     B: Combustion in air is incomplete and less hot
+  1924→     C: Ethyne does not burn in air
+  1925→     D: Air is too expensive
+  1926→R 757 | SciCh 4.0 | C | The property of carbon to form four bonds is known as:
+  1927→     A: Catenation
+  1928→     B: Isomerism
+  1929→     C: Tetravalency
+  1930→     D: Allotropy
+  1931→R 758 | SciCh 4.0 | D | Which of the following does not contain a carboxyl group?
+  1932→     A: Vinegar
+  1933→     B: Lemon juice
+  1934→     C: Tomato
+  1935→     D: Ethanol
+  1936→R 759 | SciCh 4.0 | A | When ethanoic acid reacts with sodium hydroxide, the salt formed is:
+  1937→     A: Sodium ethanoate
+  1938→     B: Sodium methanoate
+  1939→     C: Sodium propanoate
+  1940→     D: Sodium chloride
+  1941→R 760 | SciCh 4.0 | B | Carbon and its compounds are used as fuels because:
+  1942→     A: They have low calorific value
+  1943→     B: They burn with a clean flame and high heat
+  1944→     C: They are very cheap
+  1945→     D: They are available in the form of diamonds
+  1946→R 761 | SciCh 4.0 | B | Which of the following is the second member of the Alkyne series?
+  1947→     A: Ethyne
+  1948→     B: Propyne
+  1949→     C: Butyne
+  1950→     D: Methene
+  1951→R 782 | SciCh 4.0 | A | Two organic compounds 'A' and 'B' have the same molecular formula $C_3H_6O$. 'A' gives a positive result with 
+  1952→     A: A=Propanal, B=Propanone
+  1953→     B: A=Propanone, B=Propanal
+  1954→     C: A=Propanol, B=Propanoic acid
+  1955→     D: A=Ethanal, B=Ethanone
+  1956→R 783 | SciCh 4.0 | B | What is the chemical nature of the product formed when Ethanol is treated with alkaline $KMnO_4$?
+  1957→     A: Neutral
+  1958→     B: Acidic
+  1959→     C: Basic
+  1960→     D: Amphoteric
+  1961→R 784 | SciCh 4.0 | B | An organic compound 'X' is a liquid at room temperature and is a vital constituent of many cough syrups. On ox
+  1962→     A: Methanol
+  1963→     B: Ethanol
+  1964→     C: Ethanoic acid
+  1965→     D: Acetone
+  1966→R 785 | SciCh 4.0 | C | Which of the following describes the 'cleansing action of soap'?
+  1967→     A: Micelles trap dirt in their ionic center
+  1968→     B: Hydrophobic tails attach to water
+  1969→     C: Hydrophobic tails attach to oil and hydrophilic heads to water
+  1970→     D: Ionic heads dissolve in oil
+  1971→R 786 | SciCh 4.0 | B | How many single and double bonds are present in the structure of Benzene?
+  1972→     A: 6 single, 6 double
+  1973→     B: 9 single, 3 double
+  1974→     C: 12 single, 3 double
+  1975→     D: 6 single, 3 double
+  1976→R 787 | SciCh 4.0 | C | A salt 'X' is formed by the reaction of Ethanoic acid and Sodium Carbonate. When 'X' is heated with Soda Lime,
+  1977→     A: $CO_2$
+  1978→     B: $H_2$
+  1979→     C: $CH_4$
+  1980→     D: $C_2H_6$
+  1981→R 788 | SciCh 4.0 | C | Which of the following is true for the isomers of Butane?
+  1982→     A: They have different molecular formulas
+  1983→     B: They have the same physical properties
+  1984→     C: They have different structural arrangements
+  1985→     D: They have the same boiling point
+  1986→R 789 | SciCh 4.0 | B | Which reagent is used to convert an unsaturated fat into a saturated fat?
+  1987→     A: $O_2$
+  1988→     B: $H_2$ with $Ni$ catalyst
+  1989→     C: $Cl_2$ with sunlight
+  1990→     D: $KMnO_4$
+  1991→R 790 | SciCh 4.0 | B | The flame of a gas stove turns yellow if the air holes are blocked. This is due to:
+  1992→     A: Complete combustion
+  1993→     B: Incomplete combustion
+  1994→     C: Excess oxygen
+  1995→     D: High temperature
+  1996→R 791 | SciCh 4.0 | C | Which of the following compounds will undergo a substitution reaction?
+  1997→     A: $C_2H_4$
+  1998→     B: $C_3H_4$
+  1999→     C: $C_2H_6$
+  2000→     D: $C_4H_8$
+
+[showing lines 1001-2000 of 3041; use offset=2001 with limit to continue reading]

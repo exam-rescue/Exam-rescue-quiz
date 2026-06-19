@@ -1,0 +1,1002 @@
+     1→     1→[
+     2→     2→  {
+     3→     3→    "sheet": "Class11",
+     4→     4→    "row": 2040,
+     5→     5→    "data": [
+     6→     6→      "Biology",
+     7→     7→      null,
+     8→     8→      "Transport in Plants",
+     9→     9→      "English",
+    10→    10→      "The direction and rate of water movement from cell to cell is based on",
+    11→    11→      "WP",
+    12→    12→      "TP",
+    13→    13→      "DPD",
+    14→    14→      "incipient plasmolysis",
+    15→    15→      3.0,
+    16→    16→      "The difference between the diffusion pressure of the solution and its solvents at a particular temperature and atmospheric condition is called DPD. The direction and rate of water movement from cell to cell is based on DPD (Diffusion Pressure Deficit).",
+    17→    17→      "CBSE AIPMT",
+    18→    18→      null,
+    19→    19→      null
+    20→    20→    ]
+    21→    21→  },
+    22→    22→  {
+    23→    23→    "sheet": "Class11",
+    24→    24→    "row": 2041,
+    25→    25→    "data": [
+    26→    26→      "Biology",
+    27→    27→      null,
+    28→    28→      "Transport in Plants",
+    29→    29→      "English",
+    30→    30→      "Water potential can be obtained by",
+    31→    31→      "OP + TP",
+    32→    32→      "OP = WP",
+    33→    33→      "Ψ Ψ S P +",
+    34→    34→      "OP – DPD",
+    35→    35→      3.0,
+    36→    36→      "Water potential is the difference between the free energy of water in a system and free energy of pure water. It can be obtained by ΨΨΨ WS P = + . It is a function of solute potential and pressure potential. 118",
+    37→    37→      "CBSE AIPMT",
+    38→    38→      null,
+    39→    39→      null
+    40→    40→    ]
+    41→    41→  },
+    42→    42→  {
+    43→    43→    "sheet": "Class11",
+    44→    44→    "row": 2042,
+    45→    45→    "data": [
+    46→    46→      "Biology",
+    47→    47→      null,
+    48→    48→      "Transport in Plants",
+    49→    49→      "English",
+    50→    50→      "Mainly conduction of water in an angiosperm occurs through",
+    51→    51→      "tracheids",
+    52→    52→      "xylem vessels",
+    53→    53→      "sieve tubes",
+    54→    54→      "All of these",
+    55→    55→      2.0,
+    56→    56→      "The water absorbed by roots has to be conducted upward so as to meet the needs of tissues there. Water moves up through the lumen of xylem vessels.",
+    57→    57→      "CBSE AIPMT",
+    58→    58→      null,
+    59→    59→      null
+    60→    60→    ]
+    61→    61→  },
+    62→    62→  {
+    63→    63→    "sheet": "Class11",
+    64→    64→    "row": 2043,
+    65→    65→    "data": [
+    66→    66→      "Biology",
+    67→    67→      null,
+    68→    68→      "Transport in Plants",
+    69→    69→      "English",
+    70→    70→      "Root system in a plant is well developed",
+    71→    71→      "due to deficiency of auxins",
+    72→    72→      "due to deficiency of cytokinins",
+    73→    73→      "due to deficiency of minerals",
+    74→    74→      "for increased absorption of water",
+    75→    75→      4.0,
+    76→    76→      "Water in land plants is mainly absorbed through the roots, especially at the tips in the region of root hairs. Therefore, root system in a plant is well developed, for increasing absorption of water. TOPIC 3 Ascent of Sap",
+    77→    77→      "CBSE AIPMT",
+    78→    78→      null,
+    79→    79→      null
+    80→    80→    ]
+    81→    81→  },
+    82→    82→  {
+    83→    83→    "sheet": "Class11",
+    84→    84→    "row": 2044,
+    85→    85→    "data": [
+    86→    86→      "Biology",
+    87→    87→      null,
+    88→    88→      "Transport in Plants",
+    89→    89→      "English",
+    90→    90→      "A few drops of sap were collected by cutting across a plant stem by a suitable method. The sap was tested chemically. Which one of the following test results indicates that it is phloem sap?",
+    91→    91→      "Acidic",
+    92→    92→      "Alkaline",
+    93→    93→      "Low refractive index",
+    94→    94→      "The absence of sugar",
+    95→    95→      2.0,
+    96→    96→      "The phloem sap is alkaline in nature. It continuously pumps protons from its companion cells to the other neighbouring cells during transport of sugars.",
+    97→    97→      "NEET , Phase II",
+    98→    98→      null,
+    99→    99→      null
+   100→   100→    ]
+   101→   101→  },
+   102→   102→  {
+   103→   103→    "sheet": "Class11",
+   104→   104→    "row": 2045,
+   105→   105→    "data": [
+   106→   106→      "Biology",
+   107→   107→      null,
+   108→   108→      "Transport in Plants",
+   109→   109→      "English",
+   110→   110→      "Root pressure develops due to",
+   111→   111→      "active absorption",
+   112→   112→      "low osmotic potential in soil",
+   113→   113→      "passive absorption",
+   114→   114→      "increase in transpiration",
+   115→   115→      1.0,
+   116→   116→      "Root pressure is the positive pressure depends on cohesion, adhesion and surface tension property of water. Due to these forces only transpiration driven ascent of xylem sap occurs.",
+   117→   117→      "CBSE AIPMT",
+   118→   118→      null,
+   119→   119→      null
+   120→   120→    ]
+   121→   121→  },
+   122→   122→  {
+   123→   123→    "sheet": "Class11",
+   124→   124→    "row": 2046,
+   125→   125→    "data": [
+   126→   126→      "Biology",
+   127→   127→      null,
+   128→   128→      "Transport in Plants",
+   129→   129→      "English",
+   130→   130→      "Which of the following criteria does not pertain to facilitated transport?",
+   131→   131→      "Requirement of special membrane proteins",
+   132→   132→      "High selectivity",
+   133→   133→      "Transport saturation",
+   134→   134→      "Uphill transport",
+   135→   135→      4.0,
+   136→   136→      "Uphill transport is a process in which diffusion of a component occurs from a less concentrated stream to a more concentrated permeable stream. Facilitated transport is a form of passive transport in whichmaterials aremoved across the plasma membrane by a transport protein down their concentration gradient. It requires integral membrane proteins and highly selective biological membranes to cross. Saturation occurs in facilitated, diffusion because not enough carriers may be available to handle all the free solute molecules. The rate of movement may reach a maximum. Thus, uphill transport does not pertain to faciliated transport.",
+   137→   137→      "NEET",
+   138→   138→      null,
+   139→   139→      null
+   140→   140→    ]
+   141→   141→  },
+   142→   142→  {
+   143→   143→    "sheet": "Class11",
+   144→   144→    "row": 2047,
+   145→   145→    "data": [
+   146→   146→      "Biology",
+   147→   147→      null,
+   148→   148→      "Transport in Plants",
+   149→   149→      "English",
+   150→   150→      "The rupture and fractionation do not usually occur in the water column in vessel/tracheids during the ascent of sap because of  C. Surface tension 3. Water loss in liquid phase that develops in the roots of plants by the active absorption of nutrients from",
+   151→   151→      "lignified thick walls",
+   152→   152→      "cohesion and adhesion D. Guttation 4. Attraction towards polar surfaces Choose the correct answer from the options given below. A BC D (a) 2 4 1 3 (b) 4 3 2 1",
+   153→   153→      "3 1 4 2",
+   154→   154→      "2 1 4 3",
+   155→   155→      1.0,
+   156→   156→      "(A)-(2), (B)-(4), (C)-(1), (D)-(3) Cohesion is the property of like molecules (of the same substance) to stick to each other due to mutual attraction, e.g. attraction of water molecules. Adhesion is the property of different molecules or surfaces to cling to each other. Adhesion is the attraction of molecules of one kind for molecules of a different kind, and it can be quite the soil. When the nutrients are actively absorbed by root hairs, water (along with minerals) increases the pressure in the xylem. This pressure pushes water up to small heights. 22 A column of water within xylem vessels of tall trees does not break under its weight because of [CBSE AIPMT 2015] (a) dissolved sugars in water (b) tensile strength of water (c) lignification of xylem vessels (d) positive root pressure  b  A column of water within xylem vessels of tall trees does not break under its weight because of high tensile strength of water, i.e. an ability to resist a pulling force. This high tensile property (c) weak gravitational pull (d) transpiration pull  b  The vertical conduction of water from root to aerial parts of plant is called ascent of sap. The water molecules remain joined to each other due to a force of attraction called cohesion force. This attraction is due to the presence of hydrogen bonds between them. The magnitude of this force is very high therefore, continuous water column in the xylem cannot be broken easily due to the force of gravity or other obstructions offered by internal tissues in the upward movement of water. This adhesive property of water i.e., attraction between the water molecules and the walls of xylem also ensures the continuity of water column in xylem. Transport in Plants 119",
+   157→   157→      "CBSE AIPMT",
+   158→   158→      null,
+   159→   159→      null
+   160→   160→    ]
+   161→   161→  },
+   162→   162→  {
+   163→   163→    "sheet": "Class11",
+   164→   164→    "row": 2048,
+   165→   165→    "data": [
+   166→   166→      "Biology",
+   167→   167→      null,
+   168→   168→      "Transport in Plants",
+   169→   169→      "English",
+   170→   170→      "Meaningful girdling (ringing) experiment cannot be performed within sugarcane because",
+   171→   171→      "its phloem is situated interior to xylem",
+   172→   172→      "its stem surface is covered with waxy coating",
+   173→   173→      "its vascular bundles are not present in a ring",
+   174→   174→      "its stem is thin",
+   175→   175→      3.0,
+   176→   176→      "In ringing experiment removal of bark breaks the continuity of epidermis, cortex and phloem. It shows clearly that epidermis, cortex and phloem do not take part in transport of sap or water. In sugarcane (monocot) the vascular bundles are scattered, therefore, ringing experiment is not applicable. Leave for a week TOPIC 4 Transpiration",
+   177→   177→      "CBSE AIPMT",
+   178→   178→      null,
+   179→   179→      null
+   180→   180→    ]
+   181→   181→  },
+   182→   182→  {
+   183→   183→    "sheet": "Class11",
+   184→   184→    "row": 2049,
+   185→   185→    "data": [
+   186→   186→      "Biology",
+   187→   187→      null,
+   188→   188→      "Transport in Plants",
+   189→   189→      "English",
+   190→   190→      "Grass leaves curl inwards during very dry weather.Select the most appropriate reason from the following",
+   191→   191→      "Flaccidity of bulliform cells",
+   192→   192→      "Shrinkage of air spaces in spongy mesophyll",
+   193→   193→      "Tyloses in vessels",
+   194→   194→      "Closure of stomata",
+   195→   195→      1.0,
+   196→   196→      "Flaccidity of bulliform cells is the most appropriate reason for the curling of grass leaves during dry weather. Bulliform cells are present between the epidermal cells of the leaf and they help to minimise the water loss due to transpiration during water stress period.",
+   197→   197→      "NEET (National)",
+   198→   198→      null,
+   199→   199→      null
+   200→   200→    ]
+   201→   201→  },
+   202→   202→  {
+   203→   203→    "sheet": "Class11",
+   204→   204→    "row": 2050,
+   205→   205→    "data": [
+   206→   206→      "Biology",
+   207→   207→      null,
+   208→   208→      "Anatomy of Flowering Plants",
+   209→   209→      "English",
+   210→   210→      "Stomata in grass leaf are",
+   211→   211→      "rectangular",
+   212→   212→      "kidney-shaped",
+   213→   213→      "dumb-bell-shaped",
+   214→   214→      "barrel-shaped",
+   215→   215→      3.0,
+   216→   216→      "Epidermis of all green aerial parts of plants contain minute opening called stomata. It is surrounded by guard cells and neighbouring subsidiary cells collectivity termed as stomatal apparatus. Kidney-shaped or bean-shaped guard cells are present in dicots only, while in monocots like grasses, these cells are dumb-bell shaped. Guard cells differ from rest of the cells in shape, size and thickenings. Epidermal ring of bank and phloem removed A swelling above the ring (d) CO2 concentration  a  Stomatal movement is not affected by cells Subsidiary cells Chloroplast 26 Guttation is caused by [CBSE AIPMT 1992] (a) transpiration (b) osmosis/DPD (c) root pressure (d) osmotic pressure  c  Guttation refers to the exudation of droplets of liquid water from the margins and tip of leaves through a group of cells called hydathodes. Guttation depends on root pressure. 27 Soil water available to roots is [CBSE AIPMT 1991] (a) surface water (b) hygroscopic water (c) gravitational water (d) capillary water  d  Water, which is mainly held between the spaces of soil particles forming a septum of capillaries, is called capillary water. It is most important form of water which is mainly taken by the plants. CO2 concentration. Stomata are tiny pore complexes found in the epidermis of leaves and other soft aerial parts. They are meant for the gaseous exchange but are also the main source of transpiration. Stomatal movements are affected by many factors like light, temperature andCO2 concentration. In the majority of plants, the stomata are open in light and close in darkness. Normally high temperature above30°C reduces stomatal opening in many species. Low CO2 concentration usually induces opening of stomata while high CO2 concentration closes the same. 30 Stomatal movement is not affected by [NEET 2018] (a) O2 concentration (b) Light (c) Temperature (d) CO2 concentration  a  Stomatal movement is not affected by O2 concentration. Stomata are tiny pore complexes found in the epidermis of leaves and other soft aerial parts. They are meant for the gaseous Guard cells Stomatal aperture Nucleus (a) (b) Bean-shaped guard cells Dumb-bell guard cells Stomatal apparatus",
+   217→   217→      "NEET",
+   218→   218→      null,
+   219→   219→      null
+   220→   220→    ]
+   221→   221→  },
+   222→   222→  {
+   223→   223→    "sheet": "Class11",
+   224→   224→    "row": 2051,
+   225→   225→    "data": [
+   226→   226→      "Biology",
+   227→   227→      null,
+   228→   228→      "Photosynthesis in Higher Plants",
+   229→   229→      "English",
+   230→   230→      "Which of the following facilitates opening of stomatal aperture ?",
+   231→   231→      "Contraction of outer wall of guard cells",
+   232→   232→      "Decrease in turgidity of guard cells",
+   233→   233→      "Radial orientation of cellulose microfibrils in the cell wall of guard cells",
+   234→   234→      "Longitudinal orientation of cellulose microfibrils in the cell wall of guard cells",
+   235→   235→      3.0,
+   236→   236→      "Stomata are tiny pore complexes. Each stomata is surrounded by two specialised green epidermal cells called guard cells. The opening of the stoma is facilitated by the orientation of the microfibril in the cell walls of the guard cells. Cellulose microfibrils are oriented radially rather than longitudinally making it easier for the stoma to open. 120",
+   237→   237→      "NEET",
+   238→   238→      null,
+   239→   239→      null
+   240→   240→    ]
+   241→   241→  },
+   242→   242→  {
+   243→   243→    "sheet": "Class11",
+   244→   244→    "row": 2052,
+   245→   245→    "data": [
+   246→   246→      "Biology",
+   247→   247→      null,
+   248→   248→      "Photosynthesis in Higher Plants",
+   249→   249→      "English",
+   250→   250→      "Water vapour comes out from the plant leaf through the stomatal opening. Through the same stomatal opening carbon dioxide diffuses into the plant during photosynthesis. Reason out the above statements using the following options.",
+   251→   251→      "Both processes can happen together because the diffusion coefficient of water andCO2 is different",
+   252→   252→      "The above processes happen only during night time",
+   253→   253→      "One process occurs during day time and the other at night",
+   254→   254→      "Both processes cannot happen simultaneously",
+   255→   255→      1.0,
+   256→   256→      "Diffusion of water vapour and CO2 are independent process. Their diffusion depends on the difference in their partial pressure in the atmosphere as well as inside the leaves.",
+   257→   257→      "NEET , Phase I",
+   258→   258→      null,
+   259→   259→      null
+   260→   260→    ]
+   261→   261→  },
+   262→   262→  {
+   263→   263→    "sheet": "Class11",
+   264→   264→    "row": 2053,
+   265→   265→    "data": [
+   266→   266→      "Biology",
+   267→   267→      null,
+   268→   268→      "Photosynthesis in Higher Plants",
+   269→   269→      "English",
+   270→   270→      "In land plants, the guard cells differ from other epidermal cells in having",
+   271→   271→      "mitochondria",
+   272→   272→      "endoplasmic reticulum",
+   273→   273→      "chloroplasts",
+   274→   274→      "cytoskeleton",
+   275→   275→      3.0,
+   276→   276→      "The guard cells of stomata in land plants are specialised epidermal cells which contain chloroplasts. In rest of epidermal cells, chloroplasts are absent. The chloroplasts of guard cells are capable of poor photosynthesis as there is absence of NADP reductase enzyme.",
+   277→   277→      "CBSE AIPMT",
+   278→   278→      null,
+   279→   279→      null
+   280→   280→    ]
+   281→   281→  },
+   282→   282→  {
+   283→   283→    "sheet": "Class11",
+   284→   284→    "row": 2054,
+   285→   285→    "data": [
+   286→   286→      "Biology",
+   287→   287→      null,
+   288→   288→      "Transport in Plants",
+   289→   289→      "English",
+   290→   290→      "Guard cells help in",
+   291→   291→      "protection against grazing",
+   292→   292→      "transpiration",
+   293→   293→      "guttation",
+   294→   294→      "fighting against infection",
+   295→   295→      2.0,
+   296→   296→      "Guard cells help in transpiration. Stomata are surrounded by two specialised epidermal cells, called guard cells. Because of their small size guard cells are rapidly influenced by turgor changes and thus regulate the opening and closing of stomata. Stomata are involved in releasing water vapour into the atmosphere. This process is known as transpiration.",
+   297→   297→      "CBSE AIPMT",
+   298→   298→      null,
+   299→   299→      null
+   300→   300→    ]
+   301→   301→  },
+   302→   302→  {
+   303→   303→    "sheet": "Class11",
+   304→   304→    "row": 2055,
+   305→   305→    "data": [
+   306→   306→      "Biology",
+   307→   307→      null,
+   308→   308→      "Transport in Plants",
+   309→   309→      "English",
+   310→   310→      "Stomata of a plant open due to",
+   311→   311→      "influx of hydrogen ions",
+   312→   312→      "influx of calcium ions",
+   313→   313→      "influx of potassium ions",
+   314→   314→      "efflux of potassium ions",
+   315→   315→      3.0,
+   316→   316→      "Accumulation ofK+ ions in the guard cells during the day time is responsible for migration of water molecules from subsidiary cells to guard cells. This increases turgidity of guard cells and thus stomata open.",
+   317→   317→      "CBSE AIPMT",
+   318→   318→      null,
+   319→   319→      null
+   320→   320→    ]
+   321→   321→  },
+   322→   322→  {
+   323→   323→    "sheet": "Class11",
+   324→   324→    "row": 2056,
+   325→   325→    "data": [
+   326→   326→      "Biology",
+   327→   327→      null,
+   328→   328→      "Transport in Plants",
+   329→   329→      "English",
+   330→   330→      "Opening and closing of stomata is due to",
+   331→   331→      "hormonal change in guard cells",
+   332→   332→      "change in turgor pressure of guard cells",
+   333→   333→      "gaseous exchange",
+   334→   334→      "respiration",
+   335→   335→      2.0,
+   336→   336→      "When the guard cells become turgid, the stomata open. On the other hand, if the guard cells loose water, these become flaccid, the inner walls sag and the pore closes. Thus, stomatal movement occurs due to changes in turgor pressure of guard cells.",
+   337→   337→      "CBSE AIPMT",
+   338→   338→      null,
+   339→   339→      null
+   340→   340→    ]
+   341→   341→  },
+   342→   342→  {
+   343→   343→    "sheet": "Class11",
+   344→   344→    "row": 2057,
+   345→   345→    "data": [
+   346→   346→      "Biology",
+   347→   347→      null,
+   348→   348→      "Photosynthesis in Higher Plants",
+   349→   349→      "English",
+   350→   350→      "Glycolate induces opening of stomata in",
+   351→   351→      "presence of oxygen",
+   352→   352→      "lowCO2 concentration",
+   353→   353→      "highCO2 concentration",
+   354→   354→      "absence of CO2",
+   355→   355→      2.0,
+   356→   356→      "Light causes photosynthesis which leads to reduction in CO2 concentration → synthesis of glycolate→ oxidation of glycolate→ ATP synthesis→ activation ofK+ pump→ movement ofK+ in guard cell→ movement of water into guard cells→ swelling of guard cell→ opening of stomata.",
+   357→   357→      "CBSE AIPMT",
+   358→   358→      null,
+   359→   359→      null
+   360→   360→    ]
+   361→   361→  },
+   362→   362→  {
+   363→   363→    "sheet": "Class11",
+   364→   364→    "row": 2058,
+   365→   365→    "data": [
+   366→   366→      "Biology",
+   367→   367→      null,
+   368→   368→      "Transport in Plants",
+   369→   369→      "English",
+   370→   370→      "Which of the following is used to determine the rate of transpiration in plants?",
+   371→   371→      "Porometer",
+   372→   372→      "Potometer",
+   373→   373→      "Auxanometer",
+   374→   374→      "Tensiometer",
+   375→   375→      2.0,
+   376→   376→      "Potometer is an apparatus for measuring the rate of transpiration. It is also known as Transpirometer.",
+   377→   377→      "CBSE AIPMT",
+   378→   378→      null,
+   379→   379→      null
+   380→   380→    ]
+   381→   381→  },
+   382→   382→  {
+   383→   383→    "sheet": "Class11",
+   384→   384→    "row": 2059,
+   385→   385→    "data": [
+   386→   386→      "Biology",
+   387→   387→      null,
+   388→   388→      "Photosynthesis in Higher Plants",
+   389→   389→      "English",
+   390→   390→      "Which of the following is an effective adaptation for better gas exchange in plants?",
+   391→   391→      "Presence of multiple epidermis",
+   392→   392→      "Presence of hair on the lower epidermis",
+   393→   393→      "Presence of waxy cuticle covering the epidermis of the leaves",
+   394→   394→      "The location of the stomata primarily on the lower surface of the leaf, the side turned away from the direct sun rays",
+   395→   395→      4.0,
+   396→   396→      "Stomata are meant for the gaseous exchange but are also the main source of transpiration. The presence of stomata on the lower surface of leaf, the side turned away from the direct sun rays is an effective adaptation for better gaseous exchange in plants.",
+   397→   397→      "CBSE AIPMT",
+   398→   398→      null,
+   399→   399→      null
+   400→   400→    ]
+   401→   401→  },
+   402→   402→  {
+   403→   403→    "sheet": "Class11",
+   404→   404→    "row": 2060,
+   405→   405→    "data": [
+   406→   406→      "Biology",
+   407→   407→      null,
+   408→   408→      "Transport in Plants",
+   409→   409→      "English",
+   410→   410→      "Conversion of starch to organic acid is essential for",
+   411→   411→      "stomatal closure",
+   412→   412→      "stomatal opening",
+   413→   413→      "stomatal initiation",
+   414→   414→      "stomatal growth",
+   415→   415→      2.0,
+   416→   416→      "The starch hydrolyse into glucose 1-phosphate so that, osmotic potential becomes lower in guard cells. As a result of this water enters into the guard cell by osmotic diffusion from surrounding epidermal and mesophyll cells. Guard cells become turgid and stomata will open. The starch-sugar interconversion theory about the mechanism of stomatal movement was given by Seyere (1923) and modified by Steward (1964).",
+   417→   417→      "CBSE AIPMT",
+   418→   418→      null,
+   419→   419→      null
+   420→   420→    ]
+   421→   421→  },
+   422→   422→  {
+   423→   423→    "sheet": "Class11",
+   424→   424→    "row": 2061,
+   425→   425→    "data": [
+   426→   426→      "Biology",
+   427→   427→      null,
+   428→   428→      "Transport in Plants",
+   429→   429→      "English",
+   430→   430→      "In guard cells when sugar is converted into starch the stomatal pore",
+   431→   431→      "opens fully",
+   432→   432→      "opens partially",
+   433→   433→      "closes completely",
+   434→   434→      "remains unchanged",
+   435→   435→      3.0,
+   436→   436→      "According to starch-sugar interconversion theory, during night the Transport in Plants 121 glucose 1-phosphate (sugar) converts into starch in guard cells and thus increasing the osmotic potential. The guard cells release water, become flaccid and stomata closes.",
+   437→   437→      "CBSE AIPMT",
+   438→   438→      null,
+   439→   439→      null
+   440→   440→    ]
+   441→   441→  },
+   442→   442→  {
+   443→   443→    "sheet": "Class11",
+   444→   444→    "row": 2062,
+   445→   445→    "data": [
+   446→   446→      "Biology",
+   447→   447→      null,
+   448→   448→      "Transport in Plants",
+   449→   449→      "English",
+   450→   450→      "In a terrestrial habitat which of the following is affected by temperature and rainfall condition?",
+   451→   451→      "Translocation",
+   452→   452→      "Transpiration",
+   453→   453→      "Transformation",
+   454→   454→      "Thermodenaturation",
+   455→   455→      2.0,
+   456→   456→      "Transpiration increases with increase in temperature and decreases with rainfall conditions. Transpiration will also depends on number of stomata as more stomata may provide more pores for transpiration.",
+   457→   457→      "CBSE AIPMT",
+   458→   458→      null,
+   459→   459→      null
+   460→   460→    ]
+   461→   461→  },
+   462→   462→  {
+   463→   463→    "sheet": "Class11",
+   464→   464→    "row": 2063,
+   465→   465→    "data": [
+   466→   466→      "Biology",
+   467→   467→      null,
+   468→   468→      "Transport in Plants",
+   469→   469→      "English",
+   470→   470→      "Basis of stomatal opening is",
+   471→   471→      "exosmosis",
+   472→   472→      "endosmosis",
+   473→   473→      "decrease in cell sap concentration",
+   474→   474→      "plasmolysis of guard cells",
+   475→   475→      2.0,
+   476→   476→      "The entry of water into a cell when placed in less concentrated solution is called endosmosis. Due to increase in osmotic pressure and diffusion pressure deficit of guard cells endosmosis of water from the surrounding epidermal and mesophyll cells takes place into the guard cells. The guard cells swell and the stomata open.",
+   477→   477→      "CBSE AIPMT",
+   478→   478→      null,
+   479→   479→      null
+   480→   480→    ]
+   481→   481→  },
+   482→   482→  {
+   483→   483→    "sheet": "Class11",
+   484→   484→    "row": 2064,
+   485→   485→    "data": [
+   486→   486→      "Biology",
+   487→   487→      null,
+   488→   488→      "Transport in Plants",
+   489→   489→      "English",
+   490→   490→      "Stomata in angiosperms open and close due to",
+   491→   491→      "their genetic constitution",
+   492→   492→      "effect of hormones",
+   493→   493→      "change of turgor pressure in guard cells",
+   494→   494→      "pressure of gases inside the leaves",
+   495→   495→      3.0,
+   496→   496→      "The turgor pressure of guard cell increases due to the osmotic diffusion of water from the surrounding epidermal and mesophyll cells. Thus, the guard cells swell and stomata open.",
+   497→   497→      "CBSE AIPMT",
+   498→   498→      null,
+   499→   499→      null
+   500→   500→    ]
+   501→   501→  },
+   502→   502→  {
+   503→   503→    "sheet": "Class11",
+   504→   504→    "row": 2065,
+   505→   505→    "data": [
+   506→   506→      "Biology",
+   507→   507→      null,
+   508→   508→      "Transport in Plants",
+   509→   509→      "English",
+   510→   510→      "The spraying of phenyl mercuric acetate in leaves",
+   511→   511→      "increases transpiration",
+   512→   512→      "reduces transpiration",
+   513→   513→      "increases rate of photosynthesis",
+   514→   514→      "causes guttation",
+   515→   515→      2.0,
+   516→   516→      "Phenyl mercuric acetate is an antitranspirant. It covers the stomata as a film and resist the diffusion of water therefore, reduces the rate of transpiration. Other antitranspirants include Abscisic Acid (ABA) and aspirin. TOPIC 5 Phloem Transport",
+   517→   517→      "CBSE AIPMT",
+   518→   518→      null,
+   519→   519→      null
+   520→   520→    ]
+   521→   521→  },
+   522→   522→  {
+   523→   523→    "sheet": "Class11",
+   524→   524→    "row": 2066,
+   525→   525→    "data": [
+   526→   526→      "Biology",
+   527→   527→      null,
+   528→   528→      "Transport in Plants",
+   529→   529→      "English",
+   530→   530→      "Select the incorrect statement.",
+   531→   531→      "Transport of molecules in phloem can be bidirectional",
+   532→   532→      "Movement of minerals in xylem is unidirectional",
+   533→   533→      "Unloading of sucrose at sink does not involve the utilisation of ATP",
+   534→   534→      "Elements most easily mobilised in plants from one region to another are phosphorus, sulphur, nitrogen and potassium",
+   535→   535→      3.0,
+   536→   536→      "Statement (c) is incorrect. It can be corrected as Unloading of sucrose at sink does require utilisation of ATP. Long distance transport of sucrose from the source to sink is carried out by phloem. It is a bidirectional movement. Both loading of food at the source and unloading of the same at sink region are active processes, i.e. require energy in the form of ATP.",
+   537→   537→      "NEET (Oct.)",
+   538→   538→      null,
+   539→   539→      null
+   540→   540→    ]
+   541→   541→  },
+   542→   542→  {
+   543→   543→    "sheet": "Class11",
+   544→   544→    "row": 2067,
+   545→   545→    "data": [
+   546→   546→      "Biology",
+   547→   547→      null,
+   548→   548→      "Transport in Plants",
+   549→   549→      "English",
+   550→   550→      "What is the direction of movement of sugars in phloem?",
+   551→   551→      "Upward",
+   552→   552→      "Downward",
+   553→   553→      "Bidirectional",
+   554→   554→      "Non-multidirectional",
+   555→   555→      3.0,
+   556→   556→      "Sugars show bidirectional movements in phloem unlike unidirectional movement of water in xylem. In phloem, sugars move in both directions depending upon the source-sink relationship. Initially leaves act as source of ‘food from where it moves to the sink (parts requiring food). Later, the food in sink is mobilised towards the growing buds of the plant.",
+   557→   557→      "NEET (National)",
+   558→   558→      null,
+   559→   559→      null
+   560→   560→    ]
+   561→   561→  },
+   562→   562→  {
+   563→   563→    "sheet": "Class11",
+   564→   564→    "row": 2068,
+   565→   565→    "data": [
+   566→   566→      "Biology",
+   567→   567→      null,
+   568→   568→      "Transport in Plants",
+   569→   569→      "English",
+   570→   570→      "The translocation of organic solutes in sieve tube members is supported by",
+   571→   571→      "P-proteins",
+   572→   572→      "mass flow involving a carrier and ATP",
+   573→   573→      "cytoplasmic streaming",
+   574→   574→      "root pressure and transpiration pull",
+   575→   575→      2.0,
+   576→   576→      "According to mass flow hypothesis the transport of organic solutes takes place from source to sink, this transport also depends on metabolic energy. According to cytoplasmic streaming hypothesis (which was given by de Vries, 1885) the transport of organic solutes takes place by combination of diffusion and cytoplasmic streaming. Cytoplasmic streaming carry organic solutes from one and to the other end of sieve tube. P-proteins has a role as defence against phloem feeding insects and sealing of damaged sieve tubes.",
+   577→   577→      "CBSE AIPMT",
+   578→   578→      null,
+   579→   579→      null
+   580→   580→    ]
+   581→   581→  },
+   582→   582→  {
+   583→   583→    "sheet": "Class11",
+   584→   584→    "row": 2069,
+   585→   585→    "data": [
+   586→   586→      "Biology",
+   587→   587→      null,
+   588→   588→      "Transport in Plants",
+   589→   589→      "English",
+   590→   590→      "Loading of phloem is related to",
+   591→   591→      "increases of sugar in phloem",
+   592→   592→      "elongation of phloem cell",
+   593→   593→      "separation of phloem parenchyma",
+   594→   594→      "strengthening of phloem fibre",
+   595→   595→      1.0,
+   596→   596→      "Sugar synthesied in leaves (source) is ‘loaded’ in phloem through which it is transported to all other parts of plants where it is required (sinks).",
+   597→   597→      "CBSE AIPMT",
+   598→   598→      null,
+   599→   599→      null
+   600→   600→    ]
+   601→   601→  },
+   602→   602→  {
+   603→   603→    "sheet": "Class11",
+   604→   604→    "row": 2070,
+   605→   605→    "data": [
+   606→   606→      "Biology",
+   607→   607→      null,
+   608→   608→      "Transport in Plants",
+   609→   609→      "English",
+   610→   610→      "Translocation of carbohydrate nutrients usually occurs in the form of",
+   611→   611→      "glucose",
+   612→   612→      "maltose",
+   613→   613→      "starch",
+   614→   614→      "sucrose",
+   615→   615→      4.0,
+   616→   616→      "In plants, translocation, i.e. the movement of organic nutrients from the region of supply to the region of sink or utilisation occurs through phloem (sieve tube/sieve cells) tissue. Translocated organic nutrients constitute 10-26% carbohydrates (usually sucrose) and 1% nitrogenous components (mostly amino acids). 12 Mineral Nutrition TOPIC 1 Inorganic Nutrients",
+   617→   617→      "CBSE AIPMT",
+   618→   618→      null,
+   619→   619→      null
+   620→   620→    ]
+   621→   621→  },
+   622→   622→  {
+   623→   623→    "sheet": "Class11",
+   624→   624→    "row": 2071,
+   625→   625→    "data": [
+   626→   626→      "Biology",
+   627→   627→      null,
+   628→   628→      "Mineral Nutrition",
+   629→   629→      "English",
+   630→   630→      "Match the following concerning essential elements and their functions in plants.  Column I Column II A. Iron 1. Photolysis of water B. Zinc 2. Pollen germination C. Boron 3. Required for chlorophyll biosynthesis D. Manganese 4. IAA biosynthesis Select the correct option. A BC D",
+   631→   631→      "4 3 2 1",
+   632→   632→      "3 4 2 1",
+   633→   633→      "4 1 2 3",
+   634→   634→      "2 1 4 3",
+   635→   635→      2.0,
+   636→   636→      "The correct option is (b). It can be explained as follows Iron – essential for the formation of chlorophyll. Zinc – needed for synthesis of auxin Boron – have a role in pollen grain germination Manganese – is involved in the splitting of water to liberate O2 during photosynthesis.",
+   637→   637→      "NEET (Sep.)",
+   638→   638→      null,
+   639→   639→      null
+   640→   640→    ]
+   641→   641→  },
+   642→   642→  {
+   643→   643→    "sheet": "Class11",
+   644→   644→    "row": 2072,
+   645→   645→    "data": [
+   646→   646→      "Biology",
+   647→   647→      null,
+   648→   648→      "Mineral Nutrition",
+   649→   649→      "English",
+   650→   650→      "In which of the following forms is iron absorbed by plants?",
+   651→   651→      "Free element",
+   652→   652→      "Ferrous",
+   653→   653→      "Ferric",
+   654→   654→      "Both ferric and ferrous",
+   655→   655→      3.0,
+   656→   656→      "According to NCERT, plants absorb iron mostly in the form of ferric (Fe ) 3 + ions. However, plants in acidic soil can absorb iron in ferrous (Fe ) 2 + as well as ferric (Fe ) 3 + form. It is an important constituent of proteins involved in the transfer of electrons like ferredoxin and cytochromes. It is reversibly oxidised fromFe2 + toFe3 + during electron transfer. It activates catalase enzyme. It is essential for the formation of chlorophyll.",
+   657→   657→      "NEET",
+   658→   658→      null,
+   659→   659→      null
+   660→   660→    ]
+   661→   661→  },
+   662→   662→  {
+   663→   663→    "sheet": "Class11",
+   664→   664→    "row": 2073,
+   665→   665→    "data": [
+   666→   666→      "Biology",
+   667→   667→      null,
+   668→   668→      "Mineral Nutrition",
+   669→   669→      "English",
+   670→   670→      "In which of the following, all three are macronutrients?",
+   671→   671→      "Iron, copper, molybdenum",
+   672→   672→      "Molybdenum, magnesium, manganese",
+   673→   673→      "Nitrogen, nickel, phosphorus",
+   674→   674→      "Boron, zinc, manganese",
+   675→   675→      3.0,
+   676→   676→      "None of the option is correct w.r.t. question. The option (a) seems to be more appropriate. None of the option consist of all three macronutrients, But option (c) have nitrogen and phosphorus which are macronutrients, but nickel is a micronutrients.",
+   677→   677→      "NEET , Phase I",
+   678→   678→      null,
+   679→   679→      null
+   680→   680→    ]
+   681→   681→  },
+   682→   682→  {
+   683→   683→    "sheet": "Class11",
+   684→   684→    "row": 2074,
+   685→   685→    "data": [
+   686→   686→      "Biology",
+   687→   687→      null,
+   688→   688→      "Mineral Nutrition",
+   689→   689→      "English",
+   690→   690→      "Which is essential for the growth of root tip?",
+   691→   691→      "Zn",
+   692→   692→      "Fe",
+   693→   693→      "Ca",
+   694→   694→      "Mn",
+   695→   695→      3.0,
+   696→   696→      "Calcium is needed to the growing root tip. It is required in the formation of middle lamella of the cell wall present in the form of calcium pectate. Thus, correct answer is (c).",
+   697→   697→      "NEET , Phase II",
+   698→   698→      null,
+   699→   699→      null
+   700→   700→    ]
+   701→   701→  },
+   702→   702→  {
+   703→   703→    "sheet": "Class11",
+   704→   704→    "row": 2075,
+   705→   705→    "data": [
+   706→   706→      "Biology",
+   707→   707→      null,
+   708→   708→      "Mineral Nutrition",
+   709→   709→      "English",
+   710→   710→      "Deficiency symptoms of nitrogen and potassium are visible first in",
+   711→   711→      "senescent leaves",
+   712→   712→      "young leaves",
+   713→   713→      "roots",
+   714→   714→      "buds",
+   715→   715→      1.0,
+   716→   716→      "Deficiency of both nitrogen and (N) potassium (K) is first visible in senescent (older) leaves, due to the deficiency symptoms of N chlorosis occurs while, the deficiency of K causes the inhibition of protein synthesis and scorching of older leaves.",
+   717→   717→      "CBSE AIPMT",
+   718→   718→      null,
+   719→   719→      null
+   720→   720→    ]
+   721→   721→  },
+   722→   722→  {
+   723→   723→    "sheet": "Class11",
+   724→   724→    "row": 2076,
+   725→   725→    "data": [
+   726→   726→      "Biology",
+   727→   727→      null,
+   728→   728→      "Transport in Plants",
+   729→   729→      "English",
+   730→   730→      "Which one of the following is correctly matched?",
+   731→   731→      "Passive transport of nutrients – ATP",
+   732→   732→      "Apoplast – Plasmodesmata",
+   733→   733→      "Potassium – Readily immobilisation",
+   734→   734→      "Bakane of rice seedlings – F Skoog",
+   735→   735→      3.0,
+   736→   736→      "Active transport of nutrients require ATP. Symplast includes translocation through plasmodesmata. Bakane disease of rice was found by Hori (1918) to be caused due to Gibberella fujikuroi. None of the options is correct. Option (c) may be correct if statement be read as “Potassium readily mobilisation” instead of “potassium readily immobilisation.",
+   737→   737→      "CBSE AIPMT",
+   738→   738→      null,
+   739→   739→      null
+   740→   740→    ]
+   741→   741→  },
+   742→   742→  {
+   743→   743→    "sheet": "Class11",
+   744→   744→    "row": 2077,
+   745→   745→    "data": [
+   746→   746→      "Biology",
+   747→   747→      null,
+   748→   748→      "Mineral Nutrition",
+   749→   749→      "English",
+   750→   750→      "Which one of the following elements in plants is not remobilised?",
+   751→   751→      "Calcium",
+   752→   752→      "Potassium",
+   753→   753→      "Sulphur",
+   754→   754→      "Phosphorus Mineral Nutrition 123",
+   755→   755→      1.0,
+   756→   756→      "Element like calcium are a part of structural component of the cell and hence, are not released. The deficiency symptoms tend to appear first in the young tissues whenever, the elements are not demobilised.",
+   757→   757→      "CBSE AIPMT",
+   758→   758→      null,
+   759→   759→      null
+   760→   760→    ]
+   761→   761→  },
+   762→   762→  {
+   763→   763→    "sheet": "Class11",
+   764→   764→    "row": 2078,
+   765→   765→    "data": [
+   766→   766→      "Biology",
+   767→   767→      null,
+   768→   768→      "Mineral Nutrition",
+   769→   769→      "English",
+   770→   770→      "Which one of the following is not a micronutrient?",
+   771→   771→      "Molybdenum",
+   772→   772→      "Magnesium",
+   773→   773→      "Zinc",
+   774→   774→      "Boron",
+   775→   775→      2.0,
+   776→   776→      "Magnisium is an essential macrountrient found from 0.2-0.4% dry matter and is necessary for normal plant growth. Magnesium has an important role in photosynthesis because it forms the central atom of chlorophyll.",
+   777→   777→      "CBSE AIPMT , 03",
+   778→   778→      null,
+   779→   779→      null
+   780→   780→    ]
+   781→   781→  },
+   782→   782→  {
+   783→   783→    "sheet": "Class11",
+   784→   784→    "row": 2079,
+   785→   785→    "data": [
+   786→   786→      "Biology",
+   787→   787→      null,
+   788→   788→      "Mineral Nutrition",
+   789→   789→      "English",
+   790→   790→      "Manganese is required in",
+   791→   791→      "nucleic acid synthesis",
+   792→   792→      "plant cell wall formation",
+   793→   793→      "photolysis of water during photosynthesis",
+   794→   794→      "chlorophyll synthesis",
+   795→   795→      3.0,
+   796→   796→      "In plants, manganese is absorbed in the form of manganous ions (Mn2 +). It activates many enzymes involved in photosynthesis, respiration and nitrogen metabolism. The best defined function of manganese is in the splitting of water or photolysis of water to liberate oxygen during photosynthesis.",
+   797→   797→      "CBSE AIPMT",
+   798→   798→      null,
+   799→   799→      null
+   800→   800→    ]
+   801→   801→  },
+   802→   802→  {
+   803→   803→    "sheet": "Class11",
+   804→   804→    "row": 2080,
+   805→   805→    "data": [
+   806→   806→      "Biology",
+   807→   807→      null,
+   808→   808→      "Mineral Nutrition",
+   809→   809→      "English",
+   810→   810→      "Which one of the following elements is not an essential micronutrient for plant growth?",
+   811→   811→      "Mn",
+   812→   812→      "Zn",
+   813→   813→      "Cu",
+   814→   814→      "Ca",
+   815→   815→      4.0,
+   816→   816→      "Ca is essential macronutrient for plant growth. It is constituent of middle lamella, activator of enzymes, connected with chromosome formation and many aspects of metabolism.",
+   817→   817→      "CBSE AIPMT",
+   818→   818→      null,
+   819→   819→      null
+   820→   820→    ]
+   821→   821→  },
+   822→   822→  {
+   823→   823→    "sheet": "Class11",
+   824→   824→    "row": 2081,
+   825→   825→    "data": [
+   826→   826→      "Biology",
+   827→   827→      null,
+   828→   828→      "Mineral Nutrition",
+   829→   829→      "English",
+   830→   830→      "A plant requires magnesium for",
+   831→   831→      "holding cells together",
+   832→   832→      "protein synthesis",
+   833→   833→      "chlorophyll synthesis",
+   834→   834→      "cell wall development",
+   835→   835→      3.0,
+   836→   836→      "Magnesium is an important constituent of chlorophyll molecule. Thus, a plant requires magnesium for chlorophyll synthesis.",
+   837→   837→      "CBSE AIPMT",
+   838→   838→      null,
+   839→   839→      null
+   840→   840→    ]
+   841→   841→  },
+   842→   842→  {
+   843→   843→    "sheet": "Class11",
+   844→   844→    "row": 2082,
+   845→   845→    "data": [
+   846→   846→      "Biology",
+   847→   847→      null,
+   848→   848→      "Mineral Nutrition",
+   849→   849→      "English",
+   850→   850→      "The deficiencies of micronutrients, not only affects growth of plants but also vital functions such as photosynthetic and mitochondrial electron flow. Among the list given below, which group of three elements shall affect most, both photosynthetic and mitochondrial electron transport?",
+   851→   851→      "Co, Ni, Mo",
+   852→   852→      "Ca, K, Na",
+   853→   853→      "Mn, Co, Ca",
+   854→   854→      "Cu, Mn, Fe",
+   855→   855→      4.0,
+   856→   856→      "Micronutrients are minerals obtained from the soil and present in plant tissues at concentrations usually less than 3μmolg–1 dry matter. Cu (copper), Mn (manganese) and Fe (iron) are those micronutrients which affect both photosynthesis and mitochondrial electron transport because they are the main constituents of various electron carriers.",
+   857→   857→      "CBSE AIPMT",
+   858→   858→      null,
+   859→   859→      null
+   860→   860→    ]
+   861→   861→  },
+   862→   862→  {
+   863→   863→    "sheet": "Class11",
+   864→   864→    "row": 2083,
+   865→   865→    "data": [
+   866→   866→      "Biology",
+   867→   867→      null,
+   868→   868→      "Mineral Nutrition",
+   869→   869→      "English",
+   870→   870→      "Boron in green plants assists in",
+   871→   871→      "sugar transport",
+   872→   872→      "activation of enzymes",
+   873→   873→      "acting as enzyme cofactor",
+   874→   874→      "photosynthesis",
+   875→   875→      1.0,
+   876→   876→      "Boron is required by plants for (i) uptake and utilisation of Ca2 + , (ii) pollen germination and cell differentiation (iii) carbohydrate translocation.",
+   877→   877→      "CBSE AIPMT",
+   878→   878→      null,
+   879→   879→      null
+   880→   880→    ]
+   881→   881→  },
+   882→   882→  {
+   883→   883→    "sheet": "Class11",
+   884→   884→    "row": 2084,
+   885→   885→    "data": [
+   886→   886→      "Biology",
+   887→   887→      null,
+   888→   888→      "Mineral Nutrition",
+   889→   889→      "English",
+   890→   890→      "Grey spots of oat are caused by deficiency of",
+   891→   891→      "Fe",
+   892→   892→      "Cu",
+   893→   893→      "Zn",
+   894→   894→      "Mn",
+   895→   895→      4.0,
+   896→   896→      "Grey spots of oat are caused by the deficiency of manganese (Mn). It is a trace element, required in very small amount. Manganese exists in the soil in the form of bivalents, trivalents.",
+   897→   897→      "CBSE AIPMT",
+   898→   898→      null,
+   899→   899→      null
+   900→   900→    ]
+   901→   901→  },
+   902→   902→  {
+   903→   903→    "sheet": "Class11",
+   904→   904→    "row": 2085,
+   905→   905→    "data": [
+   906→   906→      "Biology",
+   907→   907→      null,
+   908→   908→      "Biomolecules",
+   909→   909→      "English",
+   910→   910→      "The major portion of the dry weight of plants comprises of",
+   911→   911→      "carbon, hydrogen and oxygen",
+   912→   912→      "nitrogen, phosphorus and potassium",
+   913→   913→      "calcium, magnesium and sulphur",
+   914→   914→      "carbon, nitrogen and hydrogen",
+   915→   915→      1.0,
+   916→   916→      "The four most common elements in living organisms are H, C, O, N. These are also called as framework element.",
+   917→   917→      "CBSE AIPMT",
+   918→   918→      null,
+   919→   919→      null
+   920→   920→    ]
+   921→   921→  },
+   922→   922→  {
+   923→   923→    "sheet": "Class11",
+   924→   924→    "row": 2086,
+   925→   925→    "data": [
+   926→   926→      "Biology",
+   927→   927→      null,
+   928→   928→      "Mineral Nutrition",
+   929→   929→      "English",
+   930→   930→      "Passive absorption of minerals depend on",
+   931→   931→      "temperature",
+   932→   932→      "temperature and metabolic inhibitor",
+   933→   933→      "metabolic inhibitor",
+   934→   934→      "humidity",
+   935→   935→      1.0,
+   936→   936→      "Metabolic inhibitors affect active absorption. Humidity does not affect absorption of minerals as much as temperature. The movement of mineral ions into the root cells by the process of simple diffusion is called as passive absorption. This is spontaneous process and does not require energy.",
+   937→   937→      "CBSE AIPMT",
+   938→   938→      null,
+   939→   939→      null
+   940→   940→    ]
+   941→   941→  },
+   942→   942→  {
+   943→   943→    "sheet": "Class11",
+   944→   944→    "row": 2087,
+   945→   945→    "data": [
+   946→   946→      "Biology",
+   947→   947→      null,
+   948→   948→      "Mineral Nutrition",
+   949→   949→      "English",
+   950→   950→      "Zinc as a nutrient is used by the plants in the form of",
+   951→   951→      "Zn",
+   952→   952→      "Zn2 +",
+   953→   953→      "ZnO",
+   954→   954→      "ZnSO4",
+   955→   955→      2.0,
+   956→   956→      "Zinc is taken up by the plants in the form ofZn2 +. It is required for biosynthesis of chlorophyll in some plants. Deficiency of Zn is shown by a reduction in internodal growth as a result plants display a rosette habit of growth in which the leaves form a circular cluster radiating at or close to the ground.",
+   957→   957→      "CBSE AIPMT",
+   958→   958→      null,
+   959→   959→      null
+   960→   960→    ]
+   961→   961→  },
+   962→   962→  {
+   963→   963→    "sheet": "Class11",
+   964→   964→    "row": 2088,
+   965→   965→    "data": [
+   966→   966→      "Biology",
+   967→   967→      null,
+   968→   968→      "Mineral Nutrition",
+   969→   969→      "English",
+   970→   970→      "The plants grown in magnesium deficient but urea sprayed soil would show",
+   971→   971→      "deep green foliage",
+   972→   972→      "early flowering",
+   973→   973→      "yellowing of leaves",
+   974→   974→      "loss of pigments in petals",
+   975→   975→      3.0,
+   976→   976→      "Nitrogen is the constituent of amino acids, proteins, nucleic acids, nucleotides, coenzymes, hexosamines etc. Deficiency of nitrogen rapidly inhibits the plant growth and yellowing of the leaves (chlorosis) magnesium has the specific role in the activation of enzymes, taking part in photosynthesis and respiration. It also forms a part of 124 the ring structure of the chlorophyll molecule. Deficiency of Mg causes chlorosis, i.e. yellowing of leaves. Thus a plant growing in magnesium-deficient soil would show chlorosis inspite of being sprayed with urea (nitrogen).",
+   977→   977→      "CBSE AIPMT",
+   978→   978→      null,
+   979→   979→      null
+   980→   980→    ]
+   981→   981→  },
+   982→   982→  {
+   983→   983→    "sheet": "Class11",
+   984→   984→    "row": 2089,
+   985→   985→    "data": [
+   986→   986→      "Biology",
+   987→   987→      null,
+   988→   988→      "Mineral Nutrition",
+   989→   989→      "English",
+   990→   990→      "Which of the following is not caused by deficiency of mineral nutrition?",
+   991→   991→      "Necrosis",
+   992→   992→      "Chlorosis",
+   993→   993→      "Etiolation",
+   994→   994→      "Shortening of internodes",
+   995→   995→      3.0,
+   996→   996→      "The plants grown in dark are said to be etiolated. They lack chlorophyll and, therefore, appear yellow. Thus, it is not caused by deficiency of mineral nutrient. Chlorosis is resulted due to the partial failure of development of chlorophyll which causes an abnormal colour to plant tissues. Uncontrolled death of tissues/cells is called as necrosis. Shortening of internodes is due to the deficiency ofZn2 + ions.",
+   997→   997→      "CBSE AIPMT",
+   998→   998→      null,
+   999→   999→      null
+  1000→  1000→    ]
+  1001→  1001→  }
+  1002→  1002→]

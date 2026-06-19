@@ -1,0 +1,1002 @@
+     1→[
+     2→  {
+     3→    "sheet": "Class11",
+     4→    "row": 2140,
+     5→    "data": [
+     6→      "Biology",
+     7→      null,
+     8→      "Photosynthesis in Higher Plants",
+     9→      "English",
+    10→      "In photosystem-I the first electron acceptor is",
+    11→      "cytochrome",
+    12→      "plastocyanin",
+    13→      "an iron-sulphur protein",
+    14→      "ferredoxin",
+    15→      3.0,
+    16→      "In photosystem-I, the primary electron acceptor is probably a Fe-S protein. The reduced primary acceptor transfers the electrons to secondary electron acceptor (most probablyP430 ). The sequence of electron transfer is as called red drop. Reaction centre of PS-II isP680 while that of PS-I isP700 . So in the red drop reaction PS-II is inactivated.",
+    17→      "CBSE AIPMT",
+    18→      null,
+    19→      null
+    20→    ]
+    21→  },
+    22→  {
+    23→    "sheet": "Class11",
+    24→    "row": 2141,
+    25→    "data": [
+    26→      "Biology",
+    27→      null,
+    28→      "Photosynthesis in Higher Plants",
+    29→      "English",
+    30→      "Photochemical reactions in the chloroplast are directly involved in",
+    31→      "formation of phosphoglyceric acid",
+    32→      "fixation of carbon dioxide",
+    33→      "synthesis of glucose and starch",
+    34→      "photolysis of water and phosphorylation of ADP to ATP",
+    35→      4.0,
+    36→      "CO2 is fixed in the stroma of the chloroplast leading to the synthesis of PGA from which glyceraldehyde phosphate is formed. From glyceraldehyde phosphate, sugar and starch are formed. All these do not require light. However, photolysis of water and phosphorylation of ADP to ATP requires light energy.",
+    37→      "CBSE AIPMT",
+    38→      null,
+    39→      null
+    40→    ]
+    41→  },
+    42→  {
+    43→    "sheet": "Class11",
+    44→    "row": 2142,
+    45→    "data": [
+    46→      "Biology",
+    47→      null,
+    48→      "Photosynthesis in Higher Plants",
+    49→      "English",
+    50→      "Which one occurs both during cyclic and non-cyclic modes of photophosphorylation?",
+    51→      "Involvement of both PS-I and PS-II",
+    52→      "Formation of ATP",
+    53→      "Release ofO2",
+    54→      "Formation of NADPH",
+    55→      2.0,
+    56→      "Cyclic photophosphorylation is that type of light energised ATP synthesis in which electron expelled by excited photocentre does not return to them. It involves two Photochemical Systems (PS-I and PS-II) and produces assimilatory power (ATP and NADPH). In both, cyclic and non-cyclic photophosphorylation, formation of ATP takes place.",
+    57→      "CBSE AIPMT",
+    58→      null,
+    59→      null
+    60→    ]
+    61→  },
+    62→  {
+    63→    "sheet": "Class11",
+    64→    "row": 2143,
+    65→    "data": [
+    66→      "Biology",
+    67→      null,
+    68→      "Photosynthesis in Higher Plants",
+    69→      "English",
+    70→      "Formation of ATP in photosynthesis and respiration is an oxidation process which utilises the energy from",
+    71→      "cytochromes",
+    72→      "ferredoxin follows : →− (a) 2 hydrogen atoms in one of its",
+    73→      "electrons",
+    74→      "carbon dioxide − − e e e P— A —A 700 → → — A pyrrole rings",
+    75→      3.0,
+    76→      "+ (Chl-a ) 1 (Phyloquinone) 2 (Fe -S 3 (P ) p rotein) 430 (b) 2 hydrogen atoms in two of its Cytochromes (Keilin; 1925) are the The reducedP430 passes its electrons to ferredoxin (Fd) present at outer surface of thylakoid membrane. 28 Which of the following absorb light energy for photosynthesis? [CBSE AIPMT 2002] (a) Chlorophyll (b) Water molecule (c)O2 (d) RuBP  a  Chlorophyll molecule absorbs light for photosynthesis.H O2 molecules provide H+ ions and electrons during photosynthesis.O2 is liberated during photosynthesis. RuBP (Ribulose 1, 5-bisphosphate) reacts with CO2 during dark reaction of photosynthesis. This process takes place in the presence of enzyme RuBisCO. 29 Which pigment system is inactivated in red drop? [CBSE AIPMT 2001] (a) PS-I and PS-II (b) PS-I (c) PS-II (d) None of these  c  The fall in photosynthetic yield beyond red region of spectrum (680 nm) is pyrrole rings (c) 4 hydrogen atoms in one of its pyrrole rings (d) 4 hydrogen atoms in two of its pyrrole rings  a  Protochlorophyll differs from chlorophyll in lacking 2 hydrogen atoms in one of its pyrrole rings. 32 NADPH is generated through [CBSE AIPMT 1997] (a) photosystem-I (b) photosystem-II (c) anaerobic respiration (d) glycolysis  b  NADPH is generated through photosystem-II. In non-cyclic photophosphorylation (which involves both PS-I and II) protons released from photolysis and electrons emitted from P700 are ultimately passed on to NADP+ resulting in the formation of NADPH. In cyclic photophosphorylation (which involves only PS-I) electrons flow in a cyclic manner but there is no net formation of NADPH andO2 . electron transport intermediates containing heme (or related prosthetic groups) in which the iron undergoes valency changes during electron transfer and produces energy (ATP) in both photosynthesis and respiration.",
+    77→      "CBSE AIPMT",
+    78→      null,
+    79→      null
+    80→    ]
+    81→  },
+    82→  {
+    83→    "sheet": "Class11",
+    84→    "row": 2144,
+    85→    "data": [
+    86→      "Biology",
+    87→      null,
+    88→      "Photosynthesis in Higher Plants",
+    89→      "English",
+    90→      "Photosystem-II occurs in",
+    91→      "stroma",
+    92→      "cytochrome",
+    93→      "grana",
+    94→      "mitochondrial surface",
+    95→      3.0,
+    96→      "PS-II is present in appressed part of granal thylakoids. PS-I is present in stroma thylakoids and non-appressed parts of granal thylakoids.",
+    97→      "CBSE AIPMT",
+    98→      null,
+    99→      null
+   100→    ]
+   101→  },
+   102→  {
+   103→    "sheet": "Class11",
+   104→    "row": 2145,
+   105→    "data": [
+   106→      "Biology",
+   107→      null,
+   108→      "Photosynthesis in Higher Plants",
+   109→      "English",
+   110→      "Ferredoxin is a constituent of",
+   111→      "PS-I",
+   112→      "PS-II",
+   113→      "Hill reaction",
+   114→      "P680",
+   115→      1.0,
+   116→      "Ferredoxin (Fd) is a soluble protein which acts as electron carrier and forms a constituent of PS-I. Ferredoxin passes electrons to reductase complex which helps in reducing NADP+ to NADPH (a strong reducing agent). Photosynthesis 131",
+   117→      "CBSE AIPMT",
+   118→      null,
+   119→      null
+   120→    ]
+   121→  },
+   122→  {
+   123→    "sheet": "Class11",
+   124→    "row": 2146,
+   125→    "data": [
+   126→      "Biology",
+   127→      null,
+   128→      "Photosynthesis in Higher Plants",
+   129→      "English",
+   130→      "NADP+ is reduced to NADPH in",
+   131→      "PS-I",
+   132→      "PS-II",
+   133→      "Calvin cycle",
+   134→      "Non-cyclic photophosphorylation",
+   135→      4.0,
+   136→      "In photosynthesis during non-cyclic photophosphorylation involving both PS-I and PS-II, electrons released during photolysis of water are transfered to PS-II and then PS-I via a series of electron carriers.P700 of PS-I releases electron after absorbing light energy. This electron passes through chlorophyll X, Fe-S, ferredoxin and finally to NADP+.NADP+ combines with H+ (released during photolysis) with the help of NADP reductase to form NADPH. NADP − + reductase + ⎯⎯⎯⎯⎯→ NADP + 2e H NADPH + TOPIC 3 Dark Reaction",
+   137→      "CBSE AIPMT",
+   138→      null,
+   139→      null
+   140→    ]
+   141→  },
+   142→  {
+   143→    "sheet": "Class11",
+   144→    "row": 2147,
+   145→    "data": [
+   146→      "Biology",
+   147→      null,
+   148→      "Photosynthesis in Higher Plants",
+   149→      "English",
+   150→      "The first stable product of CO2 fixation in Sorghum is",
+   151→      "pyruvic acid",
+   152→      "oxaloacetic acid",
+   153→      "succinic acid",
+   154→      "phosphoglyceric acid",
+   155→      2.0,
+   156→      "Carbon fixation or carbon assimilation is the process by which inorganic carbon (particularly in the form of carbon dioxide) is converted to organic compounds by living organisms. The compounds are then used to store energy and as structure for other biomolecules. Most of the plants that are adapted to dry tropical regions form C-4 acid i.e. oxalic acid as their first stable product. These plants are called C4 plants. Sugarcane, maize, Sorghum, etc. are the examples of these plants.",
+   157→      "NEET",
+   158→      null,
+   159→      null
+   160→    ]
+   161→  },
+   162→  {
+   163→    "sheet": "Class11",
+   164→    "row": 2148,
+   165→    "data": [
+   166→      "Biology",
+   167→      null,
+   168→      "Photosynthesis in Higher Plants",
+   169→      "English",
+   170→      "Which of the following statements is incorrect?",
+   171→      "RuBisCO is a bifunctional enzyme",
+   172→      "InC4 plants the site of RuBisCO activity is mesophyll cell",
+   173→      "The substrate molecule for RuBisCO activity is a 5-carbon compound",
+   174→      "RuBisCO action requires ATP and NADPH",
+   175→      2.0,
+   176→      "Statement (b) is incorrect and can be corrected as In C4 plants, Kranz anatomy in leaf is found due to the presence of two type of cells viz., mesophyll cells and bundle sheath cells. The mesophyll cells are specialised to perform light reaction, evolveO2 and produce assimilatory power. The bundle sheath cells possess RuBisCO and thus, perform RuBisCO activity at this site.",
+   177→      "NEET (Oct.)",
+   178→      null,
+   179→      null
+   180→    ]
+   181→  },
+   182→  {
+   183→    "sheet": "Class11",
+   184→    "row": 2149,
+   185→    "data": [
+   186→      "Biology",
+   187→      null,
+   188→      "Photosynthesis in Higher Plants",
+   189→      "English",
+   190→      "The oxygenation activity of RuBisCO enzyme in photorespiration leads to the formation of",
+   191→      "1 molecule of 3-C compound",
+   192→      "1 molecule of 6-C compound",
+   193→      "1 molecule of 4-C compound and 1 molecule of 2-C compound",
+   194→      "2 molecules of 3-C compound",
+   195→      1.0,
+   196→      "The oxygenation activity of RuBisCO enzyme in photorespiration leads to the formation of 1 molecule of 3C compound (phosphoglycerate). InC3 plants during oxygen fixation, one molecule of PGA(3C) and one molecule of 2-phosphoglycolate(2C) are formed. The latter is then converted back to PGA in the photorespiratory cycle. Photorespiration occurs at high concentration of oxygen and temperature in the environment.",
+   197→      "NEET (Sep.)",
+   198→      null,
+   199→      null
+   200→    ]
+   201→  },
+   202→  {
+   203→    "sheet": "Class11",
+   204→    "row": 2150,
+   205→    "data": [
+   206→      "Biology",
+   207→      null,
+   208→      "Photosynthesis in Higher Plants",
+   209→      "English",
+   210→      "In Hatch and Slack pathway, the primaryCO2 acceptor is",
+   211→      "oxaloacetic acid",
+   212→      "phosphoglyceric acid",
+   213→      "phosphoenol pyruvate",
+   214→      "RuBisCO",
+   215→      3.0,
+   216→      "In Hatch and Slack pathway, the primary CO2 acceptor is phosphoenol pyruvate. This occurs in C4-plants. Phosphoenol pyruvate, a 3-carbon compound, accepts CO2 and forms oxaloacetic acid which is a 4-carbon compound.",
+   217→      "NEET (Odisha)",
+   218→      null,
+   219→      null
+   220→    ]
+   221→  },
+   222→  {
+   223→    "sheet": "Class11",
+   224→    "row": 2151,
+   225→    "data": [
+   226→      "Biology",
+   227→      null,
+   228→      "Photosynthesis in Higher Plants",
+   229→      "English",
+   230→      "Phosphoenol Pyruvate (PEP) is the primaryCO2 acceptor in",
+   231→      "C3-plants",
+   232→      "C4-plants",
+   233→      "C2 -plants",
+   234→      "C3 andC4-plants",
+   235→      2.0,
+   236→      "Phosphoenol Pyruvate (PEP) is found in the mesophyll cell, which accepts the atmospheric CO2 in C4-plants and converts it to oxalo acetate –– aC4 compound. It is the first stable compound of C4-plants. Concept Enhancer C4-plants possess special adaptation anatomy in their leaves to cope up the photorespiratory losses. There are dimorphic chloroplast present in them—agranal in bundle sheath cells and granal in mesophyll cells.",
+   237→      "NEET",
+   238→      null,
+   239→      null
+   240→    ]
+   241→  },
+   242→  {
+   243→    "sheet": "Class11",
+   244→    "row": 2152,
+   245→    "data": [
+   246→      "Biology",
+   247→      null,
+   248→      "Photosynthesis in Higher Plants",
+   249→      "English",
+   250→      "A plant in your garden avoids photorespiratory losses, has improved water use efficiency, shows high rates of photosynthesis at high temperatures and has improved efficiency of nitrogen utilisation. In which of the following physiological groups would you assign this plant?",
+   251→      "C4",
+   252→      "CAM",
+   253→      "Nitrogen fixer",
+   254→      "C3",
+   255→      1.0,
+   256→      "This plant is a C4-plant as these group of plants shows little photorespiration, efficient in binding to CO2 even at low concentrations, better utilisation of water as well as high rates of photosynthesis even at high temperatures, i.e. tropical region. Besides, they can also tolerate excess of salts due to presence of organic acids.",
+   257→      "NEET , Phase I",
+   258→      null,
+   259→      null
+   260→    ]
+   261→  },
+   262→  {
+   263→    "sheet": "Class11",
+   264→    "row": 2153,
+   265→    "data": [
+   266→      "Biology",
+   267→      null,
+   268→      "Photosynthesis in Higher Plants",
+   269→      "English",
+   270→      "PGA as the firstCO2 -fixation product was discovered in photosynthesis of",
+   271→      "bryophyte",
+   272→      "gymnosperm",
+   273→      "angiosperm",
+   274→      "alga",
+   275→      4.0,
+   276→      "The use of radioactive 14Cby Melvin Calvin in algal (Chlorella) photosynthesis studies led to the discovery that the first CO2 fixation product was a 3-carbon organic acid. The first product identified was 3-phosphoglyceric acid (PGA).",
+   277→      "CBSE AIPMT",
+   278→      null,
+   279→      null
+   280→    ]
+   281→  },
+   282→  {
+   283→    "sheet": "Class11",
+   284→    "row": 2154,
+   285→    "data": [
+   286→      "Biology",
+   287→      null,
+   288→      "Photosynthesis in Higher Plants",
+   289→      "English",
+   290→      "C4 -plants are more efficient in photosynthesis thanC3 -plants due to",
+   291→      "higher leaf area",
+   292→      "presence of larger number of chloroplasts in the leaf cells",
+   293→      "presence of thin cuticle",
+   294→      "lower rate of photorespiration 132",
+   295→      2.0,
+   296→      "C4-plants are more efficient in photosynthesis than C3-plants but use more energy. They possess the larger number of chloroplasts in the leaf cells. In the leaves of C4-plants, the vascular bundles are surrounded by bundle sheath cells which in turn are surrounded by mesophyll cells. Chloroplast in bundle sheath cells are larger and always contain grana, whereas chloroplasts in mesophyll cells are smaller.",
+   297→      "CBSE AIPMT , 08",
+   298→      null,
+   299→      null
+   300→    ]
+   301→  },
+   302→  {
+   303→    "sheet": "Class11",
+   304→    "row": 2155,
+   305→    "data": [
+   306→      "Biology",
+   307→      null,
+   308→      "Photosynthesis in Higher Plants",
+   309→      "English",
+   310→      "In the leaves ofC4 -plants, malic acid formation duringCO2 -fixation occurs in the cells of",
+   311→      "mesophyll",
+   312→      "bundle sheath",
+   313→      "phloem",
+   314→      "epidermis",
+   315→      1.0,
+   316→      "The oxalic acid is reduced to malic acid in mesophyll cells, from chloroplast of mesophyll cells the malic acid is transferred to the chloroplast of bundle sheath cells where, it is decarboxylated to form CO2 and pyruvic acid.",
+   317→      "CBSE AIPMT , 08",
+   318→      null,
+   319→      null
+   320→    ]
+   321→  },
+   322→  {
+   323→    "sheet": "Class11",
+   324→    "row": 2156,
+   325→    "data": [
+   326→      "Biology",
+   327→      null,
+   328→      "Photosynthesis in Higher Plants",
+   329→      "English",
+   330→      "As compared to aC3 -plant, how many additional molecules of ATP are needed for net production of one molecule of hexose sugar by C4 -plants",
+   331→      2.0,
+   332→      6.0,
+   333→      12.0,
+   334→      "zero",
+   335→      3.0,
+   336→      "InC4-plants everyCO2 molecule has to be fixed twice, so these plants are needed more energy for the synthesis of hexose sugar molecules than C3-plants in whichCO2 has to be fixed only once. 18 ATP molecules are required byC3-plants for the synthesis of one molecule of hexose sugar while 30 ATP molecules are needed by theC4-plants for the same. Thus,C4-plants have a need of 12 ATP molecules extra than C3-plants for the synthesis of one molecule of hexose sugar. (c) four carbon acids are the primary initialCO2 -fixation products (d) the primary fixation ofCO2 is mediated via PEP carboxylase  d  The fixation of CO2 in C4-plants takes place in two places and by two different organic compounds. Phosphoenol Pyruvate (PEP) is found in mesophyll cells which primarily fixes atmospheric CO2 into oxalo acetic acid (4C). RuBisCO is present in bundle sheath cells where final fixation of CO2 in hexose sugars takes place. CO2 is primarily fixed by PEP carboxylase because this enzyme has greater affinity to CO2 than RuBisCO.",
+   337→      "CBSE AIPMT",
+   338→      null,
+   339→      null
+   340→    ]
+   341→  },
+   342→  {
+   343→    "sheet": "Class11",
+   344→    "row": 2157,
+   345→    "data": [
+   346→      "Biology",
+   347→      null,
+   348→      "Photosynthesis in Higher Plants",
+   349→      "English",
+   350→      "InC3 -plants, the first stable product of photosynthesis during the dark reaction is",
+   351→      "malic acid",
+   352→      "oxaloacetic acid",
+   353→      "3-phosphoglyceric acid",
+   354→      "phosphoglyceraldehyde",
+   355→      3.0,
+   356→      "In C3-plants the first stable product formed during dark reaction is 3-phosphoglyceric acid. Since, it is a 3 carbon compound hence, the pathway is referred as C3-pathway. Oxalo Acetic Acid (OAA) is the first stable compound in C4-plants. It is a 4C compound.",
+   357→      "CBSE AIPMT",
+   358→      null,
+   359→      null
+   360→    ]
+   361→  },
+   362→  {
+   363→    "sheet": "Class11",
+   364→    "row": 2158,
+   365→    "data": [
+   366→      "Biology",
+   367→      null,
+   368→      "Photosynthesis in Higher Plants",
+   369→      "English",
+   370→      "In sugarcane plant 142 CO is fixed in malic acid, in which the enzyme that fixesCO2 is",
+   371→      "fructose phosphatase",
+   372→      "ribulose bisphosphate carboxylase",
+   373→      "phosphoenol pyruvic acid carboxylase",
+   374→      "ribulose phosphate kinase",
+   375→      3.0,
+   376→      "In C4-plants, CO2 is taken up by Phosphoenol- Pyruvate (PEP) and the reaction being catalysed by PEP carboxylase.",
+   377→      "CBSE AIPMT",
+   378→      null,
+   379→      null
+   380→    ]
+   381→  },
+   382→  {
+   383→    "sheet": "Class11",
+   384→    "row": 2159,
+   385→    "data": [
+   386→      "Biology",
+   387→      null,
+   388→      "Photosynthesis in Higher Plants",
+   389→      "English",
+   390→      "In photosynthesis energy from light reaction to dark reaction is transferred in the form of",
+   391→      "ADP",
+   392→      "ATP",
+   393→      "RuDP",
+   394→      "chlorophyll",
+   395→      2.0,
+   396→      "As a result of light reaction, oxygen, NADPH and ATP are formed. Oxygen is released into the atmosphere while NADPH and ATP are utilised for reduction of CO2 to carbohydrate in dark reaction.",
+   397→      "CBSE AIPMT",
+   398→      null,
+   399→      null
+   400→    ]
+   401→  },
+   402→  {
+   403→    "sheet": "Class11",
+   404→    "row": 2160,
+   405→    "data": [
+   406→      "Biology",
+   407→      null,
+   408→      "Photosynthesis in Higher Plants",
+   409→      "English",
+   410→      "Which pair is wrong?",
+   411→      "C3—Maize",
+   412→      "C4—Kranz anatomy",
+   413→      "Calvin cycle—PGA",
+   414→      "Hatch and Slack Pathway—Oxalo acetic acid",
+   415→      1.0,
+   416→      "Maize is a C4-plant. C4-plants have Kranz type anatomy of leaves. PGA (3-Phosphoglyceric Acid) is formed during Calvin cycle. OAA (Oxalo Acetic Acid) a 4C compound is formed during Hatch and Slack cycle (C4 cycle).",
+   417→      "CBSE AIPMT",
+   418→      null,
+   419→      null
+   420→    ]
+   421→  },
+   422→  {
+   423→    "sheet": "Class11",
+   424→    "row": 2161,
+   425→    "data": [
+   426→      "Biology",
+   427→      null,
+   428→      "Photosynthesis in Higher Plants",
+   429→      "English",
+   430→      "How many turns of Calvin cycle yield one molecule of glucose?",
+   431→      8.0,
+   432→      2.0,
+   433→      6.0,
+   434→      4.0,
+   435→      3.0,
+   436→      "Conversion of CO2 to simple (reduced) organic compounds is called CO2 assimilation or CO2 fixation or carbon fixation. This fixation pathway was elucidated in the early 1950s by Melvin Calvin and Coworkers and is often called as Calvin cycle. Since, one molecule of carbon is fixed in one turn of the Calvin cycle. So, six turns of the cycle are required to fix the glucose molecule containing 6 carbon atoms.",
+   437→      "CBSE AIPMT",
+   438→      null,
+   439→      null
+   440→    ]
+   441→  },
+   442→  {
+   443→    "sheet": "Class11",
+   444→    "row": 2162,
+   445→    "data": [
+   446→      "Biology",
+   447→      null,
+   448→      "Photosynthesis in Higher Plants",
+   449→      "English",
+   450→      "Fixation of oneCO2 molecule through Calvin cycle requires 48 Photosynthesis inC4 -plants is relatively less limited by atmosphericCO2 levels because",
+   451→      "effective pumping ofCO2 into bundle sheath cells",
+   452→      "RuBisCO inC4-plants has higher affinity forCO2 CO + PEP 2PEP carboxylase (Mesophyll cells of C -plant) 4 Oxalo acetic acid NADPH Dehydro genase Malic acid + NADP+ [CBSE AIPMT 2000] (a) 1 ATP and 2NADPH2 (b) 2 ATP and 2NADPH2",
+   453→      "3 ATP and 2NADPH2",
+   454→      "2ATP and 1NADPH2",
+   455→      3.0,
+   456→      "2 ATP are required during conversion of PGA to 1, 3 diphosphoglyceric acid and 1 Photosynthesis 133 ATP during conversion of glyceraldehyde phosphate to ribulose biphosphate. 2 NADPH2 molecules are utilised for converting 1, 3 diphosphoglyceric acid to glyceraldehyde phosphate.",
+   457→      "CBSE AIPMT",
+   458→      null,
+   459→      null
+   460→    ]
+   461→  },
+   462→  {
+   463→    "sheet": "Class11",
+   464→    "row": 2163,
+   465→    "data": [
+   466→      "Biology",
+   467→      null,
+   468→      "Photosynthesis in Higher Plants",
+   469→      "English",
+   470→      "Which one of the following is represented by Calvin cycle?",
+   471→      "Reductive carboxylation",
+   472→      "Oxidative carboxylation",
+   473→      "Photophosphorylation",
+   474→      "Oxidative phosphorylation",
+   475→      1.0,
+   476→      "In dark phase or Calvin cycle, carbon dioxide is assimilated with the help of assimilatory power (ATP and NADPH2 ) to produce organic acid. The cycle involves reduction of carbon involving carboxylation, glycolytic reversal and regeneration of RuBP. C3 cycle is also known as reductive pentose pathway or Photosynthetic Carbon Reduction (PCR).",
+   477→      "CBSE AIPMT",
+   478→      null,
+   479→      null
+   480→    ]
+   481→  },
+   482→  {
+   483→    "sheet": "Class11",
+   484→    "row": 2164,
+   485→    "data": [
+   486→      "Biology",
+   487→      null,
+   488→      "Photosynthesis in Higher Plants",
+   489→      "English",
+   490→      "C4 -cycle was discovered by",
+   491→      "Hatch and Slack",
+   492→      "Calvin",
+   493→      "Hill",
+   494→      "Arnon",
+   495→      1.0,
+   496→      "C4 pathway or dicarboxylic acid pathway is an alternative path of CO2 -fixation in photosynthesis. It was discovered by MD Hatch and CR Slack in 1967, so also known as Hatch- Slack cycle.",
+   497→      "CBSE AIPMT",
+   498→      null,
+   499→      null
+   500→    ]
+   501→  },
+   502→  {
+   503→    "sheet": "Class11",
+   504→    "row": 2165,
+   505→    "data": [
+   506→      "Biology",
+   507→      null,
+   508→      "Photosynthesis in Higher Plants",
+   509→      "English",
+   510→      "The carbon dioxide acceptor in Calvin cycle/ C3 -plants is",
+   511→      "Phosphoenol Pyruvate (PEP)",
+   512→      "Ribulose 1,5-Diphosphate (RuDP)",
+   513→      "Phosphoglyceric Acid (PGA)",
+   514→      "Ribulose Monophosphate (RMP)",
+   515→      2.0,
+   516→      "In C3-plants, CO2 combines with ribulose biphosphate (acceptor molecule) in the presence of RuBisCO (RuBP carboxylase) and form two molecules of 3-Phosphoglyceric acid or PGA (first stable product).",
+   517→      "CBSE AIPMT , 95, 96, 99",
+   518→      null,
+   519→      null
+   520→    ]
+   521→  },
+   522→  {
+   523→    "sheet": "Class11",
+   524→    "row": 2166,
+   525→    "data": [
+   526→      "Biology",
+   527→      null,
+   528→      "Photosynthesis in Higher Plants",
+   529→      "English",
+   530→      "Which one is aC4 -plant?",
+   531→      "Papaya",
+   532→      "Pea",
+   533→      "Potato",
+   534→      "Maize/Corn",
+   535→      4.0,
+   536→      "The plants in which the first stable product of dark reaction of photosynthesis is a 4-carbon compound are called C4-plants, e.g. sugarcane, maize, sorghum, etc. These plants show characteristic Kranz anatomy. The first CO2 acceptor in these plants is Phosphoenol Pyruvate (PEP).",
+   537→      "CBSE AIPMT",
+   538→      null,
+   539→      null
+   540→    ]
+   541→  },
+   542→  {
+   543→    "sheet": "Class11",
+   544→    "row": 2167,
+   545→    "data": [
+   546→      "Biology",
+   547→      null,
+   548→      "Photosynthesis in Higher Plants",
+   549→      "English",
+   550→      "The enzyme that catalyses initial carbon dioxide fixation in C4 -plants is",
+   551→      "RuBP carboxylase",
+   552→      "PEP carboxylase",
+   553→      "carbonic anhydrase",
+   554→      "carboxydismutase",
+   555→      2.0,
+   556→      "In C4-plants, mesophyll cells fix carbon dioxide with the help of phosphoenol-pyruvate (the first acceptor) in the presence of PEP carboxylase to a compound oxaloacetic acid (first product).",
+   557→      "CBSE AIPMT , 2002",
+   558→      null,
+   559→      null
+   560→    ]
+   561→  },
+   562→  {
+   563→    "sheet": "Class11",
+   564→    "row": 2168,
+   565→    "data": [
+   566→      "Biology",
+   567→      null,
+   568→      "Photosynthesis in Higher Plants",
+   569→      "English",
+   570→      "Dark reactions of photosynthesis occur in",
+   571→      "granal thylakoid membranes",
+   572→      "stromal lamella membranes",
+   573→      "stroma outside photosynthetic lamellae",
+   574→      "periplastidial space",
+   575→      3.0,
+   576→      "Light reaction of photosynthesis occurs in granal thylakoid membranes of chloroplast while dark reaction occurs in the stroma or matrix, i.e. outside the photosynthetic lamellae of chloroplast.",
+   577→      "CBSE AIPMT",
+   578→      null,
+   579→      null
+   580→    ]
+   581→  },
+   582→  {
+   583→    "sheet": "Class11",
+   584→    "row": 2169,
+   585→    "data": [
+   586→      "Biology",
+   587→      null,
+   588→      "Photosynthesis in Higher Plants",
+   589→      "English",
+   590→      "Which technique has helped in investigation of Calvin cycle?",
+   591→      "X-ray crystallography",
+   592→      "X-ray technique",
+   593→      "Radioactive isotope technique",
+   594→      "Intermittent light",
+   595→      3.0,
+   596→      "Calvin, Benson and Basshan utilised C14 (with long life) to trace the path of carbon in photosynthesis. Calvin was awarded Nobel Prize in 1961 in recognition to his work with C14 isotope. He discovered the cycle involved in carbon assimilation, known as Calvin cycle or C3-cycle.",
+   597→      "CBSE AIPMT",
+   598→      null,
+   599→      null
+   600→    ]
+   601→  },
+   602→  {
+   603→    "sheet": "Class11",
+   604→    "row": 2170,
+   605→    "data": [
+   606→      "Biology",
+   607→      null,
+   608→      "Photosynthesis in Higher Plants",
+   609→      "English",
+   610→      "Kranz anatomy is typical of",
+   611→      "C4 -plants",
+   612→      "C3-plants",
+   613→      "C2-plants",
+   614→      "CAM plants",
+   615→      1.0,
+   616→      "Leaves of C4-plants (e.g. sugarcane, maize) are characterised by Kranz anatomy in which the mesophyll is undifferentiated and its cells occur in concentric layers around vascular bundles. Vascular bundles are surrounded by large sized bundle sheath cells which are arranged in a wreath-like manner (Kranz- wreath).",
+   617→      "CBSE AIPMT , 95",
+   618→      null,
+   619→      null
+   620→    ]
+   621→  },
+   622→  {
+   623→    "sheet": "Class11",
+   624→    "row": 2171,
+   625→    "data": [
+   626→      "Biology",
+   627→      null,
+   628→      "Photosynthesis in Higher Plants",
+   629→      "English",
+   630→      "The first carbon dioxide acceptor inC4 -plants is",
+   631→      "phosphoenol-pyruvate",
+   632→      "ribulose 1,5-diphosphate",
+   633→      "oxalo acetic acid",
+   634→      "phosphoglyceric acid",
+   635→      1.0,
+   636→      "In C4-plants, phosphoenol-pyruvate is the first acceptor of CO2 while ribulose bi-phosphate is the second acceptor. Oxalo Acetic Acid (OAA) is the first product of C4-cycle.",
+   637→      "CBSE AIPMT , 92",
+   638→      null,
+   639→      null
+   640→    ]
+   641→  },
+   642→  {
+   643→    "sheet": "Class11",
+   644→    "row": 2172,
+   645→    "data": [
+   646→      "Biology",
+   647→      null,
+   648→      "Photosynthesis in Higher Plants",
+   649→      "English",
+   650→      "InC4 -plants, Calvin cycle operates in",
+   651→      "stroma of bundle sheath chloroplasts",
+   652→      "grana of bundle sheath chloroplasts",
+   653→      "grana of mesophyll chloroplasts",
+   654→      "stroma of mesophyll chloroplasts",
+   655→      1.0,
+   656→      "C4-plants possess two types of chloroplasts granal in mesophyll cells and agranal in bundle sheath cells. Mesophyll cells are specialised to perform light reaction and bundle sheath cells possess RuBisCO, here CO2 is fixed through Calvin cycle.",
+   657→      "CBSE AIPMT",
+   658→      null,
+   659→      null
+   660→    ]
+   661→  },
+   662→  {
+   663→    "sheet": "Class11",
+   664→    "row": 2173,
+   665→    "data": [
+   666→      "Biology",
+   667→      null,
+   668→      "Photosynthesis in Higher Plants",
+   669→      "English",
+   670→      "A very efficient converter of solar energy with net productivity of 2-4 kg/m2 or more is the crop of",
+   671→      "wheat",
+   672→      "sugarcane",
+   673→      "rice",
+   674→      "bajra",
+   675→      2.0,
+   676→      "In C4-plants, (e.g. maize, sugarcane, sorghum) optimum temperature of photosynthesis is 30–45°C. In C4-plants, rate of net photosynthesis in full sunlight is (40–80 mg CO2 /dm2/hr) which is more than the rate of net photosynthesis (15–35 mg CO2 /dm2/hr) at optimum sunlight in C3-plants. 134",
+   677→      "CBSE AIPMT",
+   678→      null,
+   679→      null
+   680→    ]
+   681→  },
+   682→  {
+   683→    "sheet": "Class11",
+   684→    "row": 2174,
+   685→    "data": [
+   686→      "Biology",
+   687→      null,
+   688→      "Photosynthesis in Higher Plants",
+   689→      "English",
+   690→      "Carbon dioxide joins the photosynthetic pathway in",
+   691→      "PS-I",
+   692→      "PS-II",
+   693→      "light reaction",
+   694→      "dark reaction",
+   695→      4.0,
+   696→      "In dark reaction of photosynthesis, reducing agent (NADPH) and source of energy (ATP) formed during light reaction, are utilised in the conversion of CO2 to carbohydrates. TOPIC 4 Photorespiration",
+   697→      "CBSE AIPMT",
+   698→      null,
+   699→      null
+   700→    ]
+   701→  },
+   702→  {
+   703→    "sheet": "Class11",
+   704→    "row": 2175,
+   705→    "data": [
+   706→      "Biology",
+   707→      null,
+   708→      "Photosynthesis in Higher Plants",
+   709→      "English",
+   710→      "During non-cyclic photophosphorylation, when electrons are lost from the reaction centre at PS-II, what is the source which replaces these electrons?",
+   711→      "Oxygen",
+   712→      "Water",
+   713→      "Carbon dioxide",
+   714→      "Light",
+   715→      2.0,
+   716→      "During non-cyclic photophosphorylation, electrons expelled by the excited PS-II photocentre does not return to it. Therefore, it requires an external electron donor and that purpose is served by water. H O2 undergo photolysis and the electrons thus released are picked up by PS-II (P ) 680 and handed over to PS-I or P700 .",
+   717→      "NEET (Oct.)",
+   718→      null,
+   719→      null
+   720→    ]
+   721→  },
+   722→  {
+   723→    "sheet": "Class11",
+   724→    "row": 2176,
+   725→    "data": [
+   726→      "Biology",
+   727→      null,
+   728→      "Photosynthesis in Higher Plants",
+   729→      "English",
+   730→      "The process which makes major difference betweenC3 and C4 -plants is",
+   731→      "glycolysis",
+   732→      "Calvin cycle",
+   733→      "photorespiration",
+   734→      "respiration",
+   735→      3.0,
+   736→      "Photorespiration is the process which makes a difference between the C3 and C4 -plants. In this process, there is a continuous loss of carbon fixed in the form of CO2 . It occurs due to the highO2 content, high temperature conditions in which RuBP carboxylase starts working as RuBP oxygenate and normal photosynthesis does not occur.",
+   737→      "NEET , Phase II",
+   738→      null,
+   739→      null
+   740→    ]
+   741→  },
+   742→  {
+   743→    "sheet": "Class11",
+   744→    "row": 2177,
+   745→    "data": [
+   746→      "Biology",
+   747→      null,
+   748→      "Photosynthesis in Higher Plants",
+   749→      "English",
+   750→      "The correct sequence of cell organelles during photorespiration is",
+   751→      "chloroplast–Golgi bodies–mitochondria",
+   752→      "chloroplast-rough endoplasmic reticulum- dictyosomes",
+   753→      "chloroplast–mitochondria –peroxisome",
+   754→      "chloroplast–vacuole–peroxisome",
+   755→      3.0,
+   756→      "None of the option is correct. Photorespiration required three cell organelles in sequence of chloroplast, peroxisome and mitochondria. Option (c) may be correct if be read as said sequence.",
+   757→      "CBSE AIPMT",
+   758→      null,
+   759→      null
+   760→    ]
+   761→  },
+   762→  {
+   763→    "sheet": "Class11",
+   764→    "row": 2178,
+   765→    "data": [
+   766→      "Biology",
+   767→      null,
+   768→      "Photosynthesis in Higher Plants",
+   769→      "English",
+   770→      "During photorespiration, the oxygen consuming reaction(s) occur in",
+   771→      "stroma of chloroplasts and peroxisomes",
+   772→      "grana of chloroplasts and peroxisomes",
+   773→      "stroma of chloroplasts",
+   774→      "stroma of chloroplasts and mitochondria",
+   775→      1.0,
+   776→      "The first reaction of photorespiration occurs in stroma of chloroplast. In this reaction the RuBP (Ribulose 1-5 biphosphate) consumes one oxygen molecule in presence of enzyme RuBisCO. In peroxisome the glycolate transferred from chloroplast takes upO2 and formed the glyoxylate whereas, the H O2 2 released as byproduct.",
+   777→      "CBSE AIPMT",
+   778→      null,
+   779→      null
+   780→    ]
+   781→  },
+   782→  {
+   783→    "sheet": "Class11",
+   784→    "row": 2179,
+   785→    "data": [
+   786→      "Biology",
+   787→      null,
+   788→      "Photosynthesis in Higher Plants",
+   789→      "English",
+   790→      "Which one of the following is wrong in relation to photorespiration?",
+   791→      "It is a characteristic ofC3-plants",
+   792→      "It occurs in chloroplasts",
+   793→      "It occurs in day time only",
+   794→      "It is a characteristic ofC4 -plants",
+   795→      4.0,
+   796→      "Dicker and Tio (1959) discovered photorespiration in tobacco plant. It is a light dependent process of oxygenation of Ribulose Bisphosphate (RuBP). During this process CO2 is liberated and O2 is consumed. C4-plants avoid photorespiration by following Hatch Slack pathway.",
+   797→      "CBSE AIPMT",
+   798→      null,
+   799→      null
+   800→    ]
+   801→  },
+   802→  {
+   803→    "sheet": "Class11",
+   804→    "row": 2180,
+   805→    "data": [
+   806→      "Biology",
+   807→      null,
+   808→      "Photosynthesis in Higher Plants",
+   809→      "English",
+   810→      "Which enzyme is most abundantly found on earth?",
+   811→      "Catalase",
+   812→      "RuBisCO",
+   813→      "Nitrogenase",
+   814→      "Invertase",
+   815→      2.0,
+   816→      "RuBisCO (RuBP carboxylase) is the most abundant protein on this planet. RuBisCO constitutes 16% of chloroplast protein. It is required for CO2 fixation with RuBP (Ribulose Biphosphate) in Calvin cycle.",
+   817→      "CBSE AIPMT",
+   818→      null,
+   819→      null
+   820→    ]
+   821→  },
+   822→  {
+   823→    "sheet": "Class11",
+   824→    "row": 2181,
+   825→    "data": [
+   826→      "Biology",
+   827→      null,
+   828→      "Photosynthesis in Higher Plants",
+   829→      "English",
+   830→      "Photorespiration is favoured by",
+   831→      "highO2 and lowCO2",
+   832→      "low light and highO2",
+   833→      "low temperature and highO2",
+   834→      "lowO2 and highCO2",
+   835→      1.0,
+   836→      "Photorespiration is light induced oxidation of photosynthetic intermediates with the help of oxygen. It is stimulated by highO2 concentration or low CO2 , high light intensity, high temperature and ageing of leaf.",
+   837→      "CBSE AIPMT",
+   838→      null,
+   839→      null
+   840→    ]
+   841→  },
+   842→  {
+   843→    "sheet": "Class11",
+   844→    "row": 2182,
+   845→    "data": [
+   846→      "Biology",
+   847→      null,
+   848→      "Photosynthesis in Higher Plants",
+   849→      "English",
+   850→      "The substrate for photorespiration is",
+   851→      "ribulose bis-phosphate",
+   852→      "glycolate",
+   853→      "serine",
+   854→      "glycine",
+   855→      2.0,
+   856→      "Photorespiration is the oxidation of photosynthetic intermediate without production of CO2 , ATP andNADH2 . The substrate for photorespiration is a 2-carbon compound glycolic acid (glycolate). TOPIC 5 Factors Affecting Photosynthesis",
+   857→      "CBSE AIPMT",
+   858→      null,
+   859→      null
+   860→    ]
+   861→  },
+   862→  {
+   863→    "sheet": "Class11",
+   864→    "row": 2183,
+   865→    "data": [
+   866→      "Biology",
+   867→      null,
+   868→      "Photosynthesis in Higher Plants",
+   869→      "English",
+   870→      "With reference to factors affecting the rate of photosynthesis, which of the following statements is not correct?",
+   871→      "Light saturation forCO2 -fixation occurs at10%of full sunlight",
+   872→      "Increasing atmosphericCO2 concentration upto 0.05% can enhanceCO2-fixation rate Photosynthesis 135",
+   873→      "C3-plants respond to higher temperature with enhanced photosynthesis, whileC4 -plants have much lower temperature optimum",
+   874→      "Tomato is a greenhouse crop, which can be grown inCO2 enriched atmosphere for higher yield",
+   875→      3.0,
+   876→      "In C4-plants, the initial fixation of CO2 occurs in mesophyll cells. The primary acceptor of CO2 is Phosphoenol Pyruvate (PEP). It combines with CO2 in the presence of enzyme PEP carboxylase to form the first stable product, i.e. Oxalo Acetic Acid (OAA). Where as C3-plants lackPEPcarboxylase enzyme. They possess RuBisCO enzyme. This enzyme can work as both carboxylase (fixation of CO2 ) and oxygenase (fixation ofO2 ). RuBisCO has a much greater affinity for CO2 than for O2 and the binding is competitive. At higher temperature, its affinity for CO2 decrease and it works as oxygenase. Therefore, at higher temperature photosynthesis decrease in C3-plants, while in C4-plants it increases.",
+   877→      "NEET",
+   878→      null,
+   879→      null
+   880→    ]
+   881→  },
+   882→  {
+   883→    "sheet": "Class11",
+   884→    "row": 2184,
+   885→    "data": [
+   886→      "Biology",
+   887→      null,
+   888→      "Photosynthesis in Higher Plants",
+   889→      "English",
+   890→      "Emerson’s enhancement effect and red drop have been instrumental in the discovery of",
+   891→      "two photosystems operating simultaneously",
+   892→      "photophosphorylation and cyclic electron transport",
+   893→      "oxidative phosphorylation",
+   894→      "photophosphorylation and non-cyclic electron transport",
+   895→      1.0,
+   896→      "Emerson performed photosynthetic experiment on Chlorella. He provided monochromatic light of more than 680 nm and observed decrease in rate of photosynthesis known as red drop. Later, he provided synchronised light of 680 nm and 700 nm and observed increase in rate of photosynthesis, known as enhancement effect. This experiment led to discovery of two photosystems –PS-I and PS-II operating in photosynthesis.",
+   897→      "NEET , Phase I",
+   898→      null,
+   899→      null
+   900→    ]
+   901→  },
+   902→  {
+   903→    "sheet": "Class11",
+   904→    "row": 2185,
+   905→    "data": [
+   906→      "Biology",
+   907→      null,
+   908→      "Photosynthesis in Higher Plants",
+   909→      "English",
+   910→      "The oxygen evolved during photosynthesis comes from water molecules. Which one of the following pairs of elements involved in this reaction?",
+   911→      "Manganese and chlorine",
+   912→      "Manganese and potassium",
+   913→      "Magnesium and molybdenum",
+   914→      "Magnesium and chlorine",
+   915→      1.0,
+   916→      "Photolysis of water during photosynthesis evolve nascent oxygen in the presence of manganese, calcium and chloride ions.",
+   917→      "NEET , Phase I",
+   918→      null,
+   919→      null
+   920→    ]
+   921→  },
+   922→  {
+   923→    "sheet": "Class11",
+   924→    "row": 2186,
+   925→    "data": [
+   926→      "Biology",
+   927→      null,
+   928→      "Photosynthesis in Higher Plants",
+   929→      "English",
+   930→      "Plants adapted to low light intensity have",
+   931→      "larger photosynthetic unit size than the sun plants",
+   932→      "higher rate ofCO2 fixation than the sun plants",
+   933→      "more extended root system",
+   934→      "leaves modified to spines",
+   935→      1.0,
+   936→      "Shade tolerant plants have lower photosynthetic rates and hence, lower growth rates. On the other hand, these plants have larger photosynthetic unit size than the sun plants.",
+   937→      "CBSE AIPMT",
+   938→      null,
+   939→      null
+   940→    ]
+   941→  },
+   942→  {
+   943→    "sheet": "Class11",
+   944→    "row": 2187,
+   945→    "data": [
+   946→      "Biology",
+   947→      null,
+   948→      "Photosynthesis in Higher Plants",
+   949→      "English",
+   950→      "The principle of limiting factors was proposed by",
+   951→      "Blackmann",
+   952→      "Hill",
+   953→      "Arnon",
+   954→      "Liebig",
+   955→      1.0,
+   956→      "The principle of limiting factors was given by Blackmann, a British plant physiologist in 1905, according to him, light intensity, carbon dioxide concentration and temperature are the limiting factors in photosynthesis. When a process is conditioned as to its rapidity by a number of separate factors, the rate of the process is limited by the pace of the slowest factor.",
+   957→      "CBSE AIPMT",
+   958→      null,
+   959→      null
+   960→    ]
+   961→  },
+   962→  {
+   963→    "sheet": "Class11",
+   964→    "row": 2188,
+   965→    "data": [
+   966→      "Biology",
+   967→      null,
+   968→      "Photosynthesis in Higher Plants",
+   969→      "English",
+   970→      "Photosynthetically active radiation is represented by the range of wavelength",
+   971→      "340-450 nm",
+   972→      "400-700 nm",
+   973→      "500-600 nm",
+   974→      "400-950 nm",
+   975→      2.0,
+   976→      "Photosynthetically Active Region (PAR) of solar radiation is visible region. It consists of radiations having wavelength betwen 400 to 700 nm. Green plants use this wavelength in the process of manufacture of food, i.e. photosynthesis.",
+   977→      "CBSE AIPMT , 2004, 05",
+   978→      null,
+   979→      null
+   980→    ]
+   981→  },
+   982→  {
+   983→    "sheet": "Class11",
+   984→    "row": 2189,
+   985→    "data": [
+   986→      "Biology",
+   987→      null,
+   988→      "Photosynthesis in Higher Plants",
+   989→      "English",
+   990→      "A photosynthesising plant is releasing 18Omore than the normal. The plant must have been supplied with",
+   991→      "O3",
+   992→      "H O2 with 18O",
+   993→      "CO2 with 18O",
+   994→      "CH O 6 12 6 with 18O",
+   995→      2.0,
+   996→      "Ruben, Hassid and Kamen (1941) using heavy isotope of oxygen,O18 in water, found that oxygen evolved in photosynthesis comes from water. Evolution of oxygen does not require carbon dioxide.",
+   997→      "CBSE AIPMT",
+   998→      null,
+   999→      null
+  1000→    ]
+  1001→  }
+  1002→]

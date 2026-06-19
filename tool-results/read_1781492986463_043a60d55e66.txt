@@ -1,0 +1,1002 @@
+     1→[
+     2→  {
+     3→    "sheet": "Class11",
+     4→    "row": 2090,
+     5→    "data": [
+     6→      "Biology",
+     7→      null,
+     8→      "Photosynthesis in Higher Plants",
+     9→      "English",
+    10→      "The core metal of chlorophyll is",
+    11→      "iron",
+    12→      "magnesium",
+    13→      "nickel",
+    14→      "copper",
+    15→      2.0,
+    16→      "Chlorophyll molecule, is made up of porphyrin ring which is a structure with alternating single and double bonds containing four small pyrrole rings. It has magnesium atom at the centre.",
+    17→      "CBSE AIPMT",
+    18→      null,
+    19→      null
+    20→    ]
+    21→  },
+    22→  {
+    23→    "sheet": "Class11",
+    24→    "row": 2091,
+    25→    "data": [
+    26→      "Biology",
+    27→      null,
+    28→      "Mineral Nutrition",
+    29→      "English",
+    30→      "Which one of the following is not an essential element for plants?",
+    31→      "Potassium",
+    32→      "Iron",
+    33→      "Iodine",
+    34→      "Zinc",
+    35→      3.0,
+    36→      "Essential elements are those element which are absolutely necessary for supporting normal growth and reproduction of plants, the elements are specific in their action and are directly involved in the nutrition of the plant. Potassium is macroelement, zinc and iron are microelement. Iodine and sodium are essential for animals and are not required by most of the plants however, iodine is found in certain marine algae.",
+    37→      "CBSE AIPMT",
+    38→      null,
+    39→      null
+    40→    ]
+    41→  },
+    42→  {
+    43→    "sheet": "Class11",
+    44→    "row": 2092,
+    45→    "data": [
+    46→      "Biology",
+    47→      null,
+    48→      "Mineral Nutrition",
+    49→      "English",
+    50→      "Which one of the following is a micronutrient for plants?",
+    51→      "Calcium",
+    52→      "Magnesium",
+    53→      "Manganese",
+    54→      "Nitrogen",
+    55→      3.0,
+    56→      "Micronutrients are needed in very small amounts by plants, e.g. Manganese, copper, molybdenum, zinc, boron and chlorine.",
+    57→      "CBSE AIPMT",
+    58→      null,
+    59→      null
+    60→    ]
+    61→  },
+    62→  {
+    63→    "sheet": "Class11",
+    64→    "row": 2093,
+    65→    "data": [
+    66→      "Biology",
+    67→      null,
+    68→      "Mineral Nutrition",
+    69→      "English",
+    70→      "Phosphorus and nitrogen ions generally get depleted in soil because they usually occur as",
+    71→      "neutral ions",
+    72→      "negatively charged ions",
+    73→      "positively charged ions",
+    74→      "both positively and negatively charged but disproportionate mixture",
+    75→      2.0,
+    76→      "In the soil, phosphorus and nitrogen are present as negatively charged ions, e.g. H PO 2 4−,NO2−,NO3− ions. These are usually supplied by fertilisers as urea.",
+    77→      "CBSE AIPMT",
+    78→      null,
+    79→      null
+    80→    ]
+    81→  },
+    82→  {
+    83→    "sheet": "Class11",
+    84→    "row": 2094,
+    85→    "data": [
+    86→      "Biology",
+    87→      null,
+    88→      "Biomolecules",
+    89→      "English",
+    90→      "The four elements making 99% of living system are",
+    91→      "CHOS",
+    92→      "CHOP",
+    93→      "CHON",
+    94→      "CNOP",
+    95→      3.0,
+    96→      "Carbon, hydrogen, oxygen and nitrogen are called as big four of the cell. C is 18%, O is 65%, H is 10% and N is 2.5%. These are principal non-metal elements and form 95% of total cellular materials.",
+    97→      "CBSE AIPMT",
+    98→      null,
+    99→      null
+   100→    ]
+   101→  },
+   102→  {
+   103→    "sheet": "Class11",
+   104→    "row": 2095,
+   105→    "data": [
+   106→      "Biology",
+   107→      null,
+   108→      "Mineral Nutrition",
+   109→      "English",
+   110→      "Mineral associated with cytochrome is",
+   111→      "Cu",
+   112→      "Mg",
+   113→      "Fe and Mg",
+   114→      "Fe and Cu",
+   115→      4.0,
+   116→      "Cytochromes are iron-porphyrin (haem) proteins discovered by Mac Cunn. Cytochromes are infact, the conjugated proteins, composed of a protein molecule and a non-protein group, i.e. inorganic factor iron. It is to be noted, that cell cytochromes have iron only, though cyt-a3 possesses both Fe and Cu. Fe has a role in picking up of electrons and Cu hands over the electrons to oxygen. TOPIC 2 Nitrogen Metabolism",
+   117→      "CBSE AIPMT",
+   118→      null,
+   119→      null
+   120→    ]
+   121→  },
+   122→  {
+   123→    "sheet": "Class11",
+   124→    "row": 2096,
+   125→    "data": [
+   126→      "Biology",
+   127→      null,
+   128→      "Mineral Nutrition",
+   129→      "English",
+   130→      "Match the Column -I with Column-II.  Column I Column II A. Nitrococcus 1. Denitrification B. Rhizobium 2. Conversion of ammonia to nitrite C. Thiobacillus 3. Conversion of nitrite to nitrate D. Nitrobacter 4. Conversion of atmospheric nitrogen to ammonia Choose the correct answer from options given below. A BC D",
+   131→      "2 4 1 3",
+   132→      "1 2 3 4",
+   133→      "3 1 4 2",
+   134→      "4 3 2 1",
+   135→      1.0,
+   136→      "(A)-(2), (B)-(4), (C)-(1), (D)-(3) Nitrification is the process of conversion of ammonia into nitrites and nitrites into nitrates. It is facilitated by microorganism like Nitrococcus and Nitrobacter. Rhizobium is involved in biological nitrogen fixation, i.e. it converts atmospheric nitrogen to ammonia. These are symbiotically associated with the roots of leguminous plants. Thiobacillus are involved in conversion of nitrate to nitrogen gas by the process called denitrification",
+   137→      "NEET",
+   138→      null,
+   139→      null
+   140→    ]
+   141→  },
+   142→  {
+   143→    "sheet": "Class11",
+   144→    "row": 2097,
+   145→    "data": [
+   146→      "Biology",
+   147→      null,
+   148→      "Mineral Nutrition",
+   149→      "English",
+   150→      "In Glycine max, the product of biological nitrogen fixation is transported from the root nodules to other parts as",
+   151→      "ammonia",
+   152→      "glutamate",
+   153→      "nitrates",
+   154→      "ureides",
+   155→      3.0,
+   156→      "In Glycine max (Soyabean), the product of biological nitrogen fixation is transported from the root nodules to other parts as nitrate. Mineral Nutrition 125",
+   157→      "NEET (Oct.)",
+   158→      null,
+   159→      null
+   160→    ]
+   161→  },
+   162→  {
+   163→    "sheet": "Class11",
+   164→    "row": 2098,
+   165→    "data": [
+   166→      "Biology",
+   167→      null,
+   168→      "Mineral Nutrition",
+   169→      "English",
+   170→      "The product(s) of reaction catalysed by nitrogenase in root nodules of leguminous plants is/are",
+   171→      "nitrate only",
+   172→      "ammonia and oxygen",
+   173→      "ammonia and hydrogen",
+   174→      "ammonia only",
+   175→      3.0,
+   176→      "The products of reaction catalysed by nitrogenase in root nodules of leguminous plants are ammonia and hydrogen. The reaction is as follows N 8e 8H 16ATP 2NH + H 2 3 2 + + + ⎯→ − ++ + 16ADP + 16Pi Symbiotic Rhizobium bacteria invade the roots of leguminous plants and form root nodules in which they fix nitrogen, supplying both to the bacteria and the plants.",
+   177→      "NEET (Sep.)",
+   178→      null,
+   179→      null
+   180→    ]
+   181→  },
+   182→  {
+   183→    "sheet": "Class11",
+   184→    "row": 2099,
+   185→    "data": [
+   186→      "Biology",
+   187→      null,
+   188→      "Mineral Nutrition",
+   189→      "English",
+   190→      "Which of the following bacteria reduces nitrate in soil into nitrogen?",
+   191→      "Nitrobacter",
+   192→      "Nitrococcus",
+   193→      "Thiobacillus",
+   194→      "Nitrosomonas",
+   195→      3.0,
+   196→      "Thiobacillus reduces nitrate in soil into nitrogen. The process is called denitrification. On the other hand, Nitrosomonas and Nitrococcus oxidise ammonia into nitrite. The bacterium,Nitrobacter oxidises nitrite to nitrate. These processes together are known as nitrification.",
+   197→      "NEET (Odisha)",
+   198→      null,
+   199→      null
+   200→    ]
+   201→  },
+   202→  {
+   203→    "sheet": "Class11",
+   204→    "row": 2100,
+   205→    "data": [
+   206→      "Biology",
+   207→      null,
+   208→      "Mineral Nutrition",
+   209→      "English",
+   210→      "Thiobacillus is a group of bacteria helpful in carrying out",
+   211→      "chemoautotrophic-fixation",
+   212→      "nitrification",
+   213→      "denitrification",
+   214→      "nitrogen-fixation",
+   215→      3.0,
+   216→      "Thiobacillus bacteria help to carry out denitrification during nitrogen cycle. This bacteria brings about the reduction of nitrate to free nitrogen (N2 ). Nitrosomonas and Nitrobacter are chemoautotrophs that cause nitrification.",
+   217→      "NEET (National)",
+   218→      null,
+   219→      null
+   220→    ]
+   221→  },
+   222→  {
+   223→    "sheet": "Class11",
+   224→    "row": 2101,
+   225→    "data": [
+   226→      "Biology",
+   227→      null,
+   228→      "Mineral Nutrition",
+   229→      "English",
+   230→      "Select the mismatch.",
+   231→      "Frankia — Alnus",
+   232→      "Rhodospirillum — Mycorrhiza",
+   233→      "Anabaena — Nitrogen fixer",
+   234→      "Rhizobium — Alfa-alfa",
+   235→      2.0,
+   236→      "Among the given options, only option (b) is mismatched. Rhodospirillum is a free living nitrogen fixing bacteria. Mycorrhiza is the symbiotic association of a fungus with the root of a higher plant.",
+   237→      "NEET",
+   238→      null,
+   239→      null
+   240→    ]
+   241→  },
+   242→  {
+   243→    "sheet": "Class11",
+   244→    "row": 2102,
+   245→    "data": [
+   246→      "Biology",
+   247→      null,
+   248→      "Mineral Nutrition",
+   249→      "English",
+   250→      "During biological nitrogen fixation, inactivation of nitrogenase by oxygen poisoning is prevented by",
+   251→      "leghaemoglobin",
+   252→      "xanthophyll",
+   253→      "carotene",
+   254→      "cytochrome",
+   255→      1.0,
+   256→      "During biological nitrogen fixation, inactivation of nitrogenase by oxygen poisioning is prevented by leghaemoglobin. It is a red-pigment that is filled outside the peribacteroid space in the cytosol of nodule cells. It is similar to haemoglobin of red blood cells. It has the ability to combine very rapidly with oxygen and thus acts as a very efficient O2 scavenger.",
+   257→      "CBSE AIPMT",
+   258→      null,
+   259→      null
+   260→    ]
+   261→  },
+   262→  {
+   263→    "sheet": "Class11",
+   264→    "row": 2103,
+   265→    "data": [
+   266→      "Biology",
+   267→      null,
+   268→      "Mineral Nutrition",
+   269→      "English",
+   270→      "The first stable product of fixation of atmospheric nitrogen in leguminous plants is",
+   271→      "NO2−",
+   272→      "ammonia",
+   273→      "NO3−",
+   274→      "glutamate",
+   275→      2.0,
+   276→      "The process of conversion of nitrogen (N2 ) to ammonia is termed as nitrogen fixation. N N H N H 2NH 2 22 24 →→→ 3 (Nitrogen) (Dimide) (Hydrazine) (Ammonia) 2NH 3O 2NO 2H 2H O 3 22 2 + ⎯→ + + − + 2NO O 2NO 2 2 3 + ⎯→ − In reductive animation ammonia reacts withα-ketoglutaric acid and forms glutamic acid α-ketoglutaric acid NH NADPH 4 + ++ Glutamate Glutamate H O NADP 2 ⎯⎯⎯⎯→ + + Dehygrogenae",
+   277→      "NEET",
+   278→      null,
+   279→      null
+   280→    ]
+   281→  },
+   282→  {
+   283→    "sheet": "Class11",
+   284→    "row": 2104,
+   285→    "data": [
+   286→      "Biology",
+   287→      null,
+   288→      "Mineral Nutrition",
+   289→      "English",
+   290→      "Which one of the following helps in absorption of phosphorus from soil by plants?",
+   291→      "Rhizobium",
+   292→      "Frankia",
+   293→      "Anabaena",
+   294→      "Glomus",
+   295→      4.0,
+   296→      "Glomus is a genus of arbuscular mycorrhizal fungi, which form symbiotic relationships with plant roots. It is a longest Genus of AM fungi but it is currently defined as non-monphylactic. Mo, Zn and B are micronutrients.",
+   297→      "CBSE AIPMT",
+   298→      null,
+   299→      null
+   300→    ]
+   301→  },
+   302→  {
+   303→    "sheet": "Class11",
+   304→    "row": 2105,
+   305→    "data": [
+   306→      "Biology",
+   307→      null,
+   308→      "Mineral Nutrition",
+   309→      "English",
+   310→      "The function of leghaemoglobin in the root nodules of legumes is",
+   311→      "oxygen removal",
+   312→      "nodule differentiation",
+   313→      "expression ofnif gene",
+   314→      "inhibition of nitrogenase activity",
+   315→      1.0,
+   316→      "Leghaemoglobin is an oxygen scavenger. It protects the nitrogen fixing enzyme nitrogenase from oxygen.",
+   317→      "CBSE AIPMT",
+   318→      null,
+   319→      null
+   320→    ]
+   321→  },
+   322→  {
+   323→    "sheet": "Class11",
+   324→    "row": 2106,
+   325→    "data": [
+   326→      "Biology",
+   327→      null,
+   328→      "Mineral Nutrition",
+   329→      "English",
+   330→      "Nitrifying bacteria",
+   331→      "convert free nitrogen to nitrogen compounds",
+   332→      "convert proteins into ammonia",
+   333→      "reduce nitrates to free nitrogen",
+   334→      "oxidise ammonia to nitrates",
+   335→      4.0,
+   336→      "Nitrifying bacteria (one of the chemosynthetic bacteria) which oxidise ammonia to nitrites and obtain energy for the preparation of food. This oxidation occurs in two steps. In the first step, ammonia is oxidised to nitrite by nitrite bacteria (e.g. Nitrosomonas and Nitrococcus). In the second step, nitrite is oxidised to nitrate by nitrate bacteria (e.g. Nitrocystis and Nitrobacter).",
+   337→      "CBSE AIPMT",
+   338→      null,
+   339→      null
+   340→    ]
+   341→  },
+   342→  {
+   343→    "sheet": "Class11",
+   344→    "row": 2107,
+   345→    "data": [
+   346→      "Biology",
+   347→      null,
+   348→      "Mineral Nutrition",
+   349→      "English",
+   350→      "An element playing important role in nitrogen fixation is",
+   351→      "molybdenum",
+   352→      "copper",
+   353→      "manganese",
+   354→      "zinc",
+   355→      1.0,
+   356→      "Molybdenum is absorbed as molybdate by plants. It is involved in nitrogen metabolism including nitrogen fixation. It is a component of enzyme nitrogenase and acts as enzyme activator. Its deficiency causes chlorosis and necrosis, whiptail of cauliflower and premature leaf fall. Copper is absorbed by the plant in ionic form. Its deficiency causes necrosis, die back in Citrus, reclamation in legumes. Manganese is absorbed by the plants as bivalent ion. It acts as enzyme activator. Its deficiency causes interveinal chlorosis as well as 126 yellowing of starch and their subsequent degenerate. Zinc is needed for biosynthsis of IAA and also acts as enzyme activator. Its deficiency causes chlorosis, little leaf,rosette, white bud of maize and mottling of leaves.",
+   357→      "CBSE AIPMT",
+   358→      null,
+   359→      null
+   360→    ]
+   361→  },
+   362→  {
+   363→    "sheet": "Class11",
+   364→    "row": 2108,
+   365→    "data": [
+   366→      "Biology",
+   367→      null,
+   368→      "Microbes in Human Welfare",
+   369→      "English",
+   370→      "The common nitrogen-fixer in paddy fields is",
+   371→      "Rhizobium",
+   372→      "Azospirillum",
+   373→      "Oscillatoria",
+   374→      "Frankia",
+   375→      2.0,
+   376→      "Azospirillum is a nitrogen fixing bacterium in paddy fields. It is very useful soil and root bacterium. It is associative symbiotic N2-fixing bacteria. When it is added to the soil, it multiplies in millions and can supply 20-40 Kg of nitrogen per hectare per season. It also producess growth promoting substances like Indole Acetic Acid (IAA), gibberellins(GA ) 3 and promotes root proliferation. These substances improve the plant growth and yield.",
+   377→      "CBSE AIPMT",
+   378→      null,
+   379→      null
+   380→    ]
+   381→  },
+   382→  {
+   383→    "sheet": "Class11",
+   384→    "row": 2109,
+   385→    "data": [
+   386→      "Biology",
+   387→      null,
+   388→      "Mineral Nutrition",
+   389→      "English",
+   390→      "Nitrogen fixation in root nodules of Alnus is brought about by",
+   391→      "Bradyrhizobium",
+   392→      "Clostridium",
+   393→      "Frankia",
+   394→      "Azorhizobium",
+   395→      3.0,
+   396→      "Nitrogen is the most critical element. Certain non-leguminous plants also form nodules to fix nitrogen. The best known example in temperate region is alder (Alnus sp). The bacteria involved in nodule formation is an Actinomycetes the Frankia. Clostridium is anaerobic, saprotrophic free-living nitrogen fixing bacteria. Bradyrhizobium sp are symbiont in plants of Paraspania and soyabean. The Azorhizobium forms both stem and root nodules in Sesbania (aquatic plant).",
+   397→      "CBSE AIPMT , 08",
+   398→      null,
+   399→      null
+   400→    ]
+   401→  },
+   402→  {
+   403→    "sheet": "Class11",
+   404→    "row": 2110,
+   405→    "data": [
+   406→      "Biology",
+   407→      null,
+   408→      "Mineral Nutrition",
+   409→      "English",
+   410→      "Which of the following is a flowering plant with nodules containing filamentous nitrogen fixing microorganism?",
+   411→      "Casuarina equisetifolia",
+   412→      "Crotalaria juncea",
+   413→      "Cycas revoluta",
+   414→      "Cicer arietinum",
+   415→      1.0,
+   416→      "The Casuarina tree has nitrogen fixing root nodules that harbor a filamentous actinomycete nitrogen fixing organism called Frankia.",
+   417→      "CBSE AIPMT",
+   418→      null,
+   419→      null
+   420→    ]
+   421→  },
+   422→  {
+   423→    "sheet": "Class11",
+   424→    "row": 2111,
+   425→    "data": [
+   426→      "Biology",
+   427→      null,
+   428→      "Microbes in Human Welfare",
+   429→      "English",
+   430→      "A free living, nitrogen fixing cyanobacterium which can also form symbiotic association with the water fern Azolla is",
+   431→      "Tolypothrix",
+   432→      "Chlorella",
+   433→      "Nostoc",
+   434→      "Anabaena",
+   435→      4.0,
+   436→      "Anabaena is a free living, nitrogen fixing cyanobacterium which can form symbiotic association with water fern Azolla.",
+   437→      "CBSE AIPMT",
+   438→      null,
+   439→      null
+   440→    ]
+   441→  },
+   442→  {
+   443→    "sheet": "Class11",
+   444→    "row": 2112,
+   445→    "data": [
+   446→      "Biology",
+   447→      null,
+   448→      "Mineral Nutrition",
+   449→      "English",
+   450→      "Enzyme involved in nitrogen assimilation",
+   451→      "nitrogenase",
+   452→      "nitrate reductase",
+   453→      "transferase",
+   454→      "tr",
+   455→      1.0,
+   456→      "minase  a  In the process of biological nitrogen fixation, the dinitrogen molecule is reduced by the addition of pairs of hydrogen in the presence of enzyme nitrogenase. Enzyme nitrate reductase and nitrite reductase come into picture at later stage (for nitrate assimilation).",
+   457→      "CBSE AIPMT",
+   458→      null,
+   459→      null
+   460→    ]
+   461→  },
+   462→  {
+   463→    "sheet": "Class11",
+   464→    "row": 2113,
+   465→    "data": [
+   466→      "Biology",
+   467→      null,
+   468→      "Biomolecules",
+   469→      "English",
+   470→      "In plants inulin and pectin are",
+   471→      "reserved food material",
+   472→      "wastes",
+   473→      "secretory material",
+   474→      "insect attracting material",
+   475→      1.0,
+   476→      "Inulin a polymer of fructose, is used as a food store, particularly in roots and tubers of family–Compositae. Pectin is a mucopolysaccharide which is found in cell wall of plants. During the time of food ripening, the pectin becomes hydrolyse and gives rise the constituents of sugar.",
+   477→      "CBSE AIPMT",
+   478→      null,
+   479→      null
+   480→    ]
+   481→  },
+   482→  {
+   483→    "sheet": "Class11",
+   484→    "row": 2114,
+   485→    "data": [
+   486→      "Biology",
+   487→      null,
+   488→      "Mineral Nutrition",
+   489→      "English",
+   490→      "Which aquatic fern performs nitrogen fixation?",
+   491→      "Azolla",
+   492→      "Nostoc",
+   493→      "Salvia",
+   494→      "Salvinia",
+   495→      1.0,
+   496→      "The leaves of Azolla contain colonies of Anabaena azollae which have the capacity to fix atmospheric nitrogen.",
+   497→      "CBSE AIPMT",
+   498→      null,
+   499→      null
+   500→    ]
+   501→  },
+   502→  {
+   503→    "sheet": "Class11",
+   504→    "row": 2115,
+   505→    "data": [
+   506→      "Biology",
+   507→      null,
+   508→      "Mineral Nutrition",
+   509→      "English",
+   510→      "Which of the following is a free living aerobic non-photosynthetic nitrogen fixer?",
+   511→      "Rhizobium",
+   512→      "Azotobacter",
+   513→      "Azospirillum",
+   514→      "Nostoc",
+   515→      2.0,
+   516→      "Azotobacter is a free living, aerobic non-photosynthetic, i.e. saprophytic bacteria. It retains the capability of fixing atmospheric nitrogen, i.e. fixation of atmospheric dinitrogen into ammonia.",
+   517→      "CBSE AIPMT",
+   518→      null,
+   519→      null
+   520→    ]
+   521→  },
+   522→  {
+   523→    "sheet": "Class11",
+   524→    "row": 2116,
+   525→    "data": [
+   526→      "Biology",
+   527→      null,
+   528→      "Mineral Nutrition",
+   529→      "English",
+   530→      "Which of the following can fix atmospheric nitrogen?",
+   531→      "Albugo",
+   532→      "Cystopus",
+   533→      "Saprolegnia",
+   534→      "Anabaena",
+   535→      4.0,
+   536→      "Blue-green algae (BGA) are the only organisms, capable of performing oxygenic photosynthesis and fixation of nitrogen, e.g. Anabaena, Nostoc which produce a specialized type of cell, called heterocyst within whichN2 fixation occurs.",
+   537→      "CBSE AIPMT",
+   538→      null,
+   539→      null
+   540→    ]
+   541→  },
+   542→  {
+   543→    "sheet": "Class11",
+   544→    "row": 2117,
+   545→    "data": [
+   546→      "Biology",
+   547→      null,
+   548→      "Transport in Plants",
+   549→      "English",
+   550→      "Minerals absorbed by roots move to the leaf through",
+   551→      "xylem",
+   552→      "phloem",
+   553→      "sieve tubes",
+   554→      "None of these",
+   555→      1.0,
+   556→      "Mineral ions accumulated in the root hairs passes into the cortex and finally reach the xylem from where these are carried along with water to other parts of the plant along the transpiration stream. Like organic solutes, minerals can move upwards, downwards (bidirectional movement) as well as laterally. 13 Photosynthesis TOPIC 1 Site and Pigments Involved in Photosynthesis",
+   557→      "CBSE AIPMT",
+   558→      null,
+   559→      null
+   560→    ]
+   561→  },
+   562→  {
+   563→    "sheet": "Class11",
+   564→    "row": 2118,
+   565→    "data": [
+   566→      "Biology",
+   567→      null,
+   568→      "Photosynthesis in Higher Plants",
+   569→      "English",
+   570→      "One scientist cultured Cladophora in a suspension of Azotobacter and illuminated the culture by splitting light through a prism. He observed that bacteria accumulated mainly in the region of",
+   571→      "violet and green light",
+   572→      "indigo and green light",
+   573→      "orange and yellow light",
+   574→      "blue and red light",
+   575→      4.0,
+   576→      "Engelmann used a prism to split light into its spectral components and then illuminated a green alga, Cladophora placed in a suspension of aerobic bacteria (Azotobacter). The bacteria were used to detect the sites of oxygen evolution. He observed that bacteria mainly accumulated in the region of blue and red light of the split spectrum, thus giving the first action spectrum of photosynthesis.",
+   577→      "NEET (Odisha)",
+   578→      null,
+   579→      null
+   580→    ]
+   581→  },
+   582→  {
+   583→    "sheet": "Class11",
+   584→    "row": 2119,
+   585→    "data": [
+   586→      "Biology",
+   587→      null,
+   588→      "Photosynthesis in Higher Plants",
+   589→      "English",
+   590→      "In a chloroplast the highest number of protons are found in",
+   591→      "lumen of thylakoids",
+   592→      "inter membrane space",
+   593→      "antennae complex",
+   594→      "stroma",
+   595→      1.0,
+   596→      "Proton concentration is higher in the lumen of thylakoid due to photolysis of water,H+ pumping and NADP reductase activity which occurs in stroma of the chloroplast.",
+   597→      "NEET , Phase I",
+   598→      null,
+   599→      null
+   600→    ]
+   601→  },
+   602→  {
+   603→    "sheet": "Class11",
+   604→    "row": 2120,
+   605→    "data": [
+   606→      "Biology",
+   607→      null,
+   608→      "Photosynthesis in Higher Plants",
+   609→      "English",
+   610→      "Of the total incident solar radiation the proportion of PAR is",
+   611→      "about 60%",
+   612→      "less than 50%",
+   613→      "more than 80%",
+   614→      "about 70%",
+   615→      2.0,
+   616→      "PAR (Photosynthetically Active Radiation) designates the spectral range of solar radiation from 400-700 nm that photosynthetic organisms are able to use in the process of photosynthesis. Of the total incident solar radiation the proportion of PAR is less than 50%.",
+   617→      "CBSE AIPMT",
+   618→      null,
+   619→      null
+   620→    ]
+   621→  },
+   622→  {
+   623→    "sheet": "Class11",
+   624→    "row": 2121,
+   625→    "data": [
+   626→      "Biology",
+   627→      null,
+   628→      "Photosynthesis in Higher Plants",
+   629→      "English",
+   630→      "Stroma in the chloroplasts of higher plants contains",
+   631→      "light-independent reaction enzymes",
+   632→      "light-dependent reaction enzymes",
+   633→      "ribosomes",
+   634→      "chlorophyll",
+   635→      1.0,
+   636→      "In higher plants, enzymes for light independent reactions (dark reactions) are present in the stroma of chloroplasts. Light dependent reaction occurs in grana of chloroplast. Ribosomes are necessary for protein synthesis. Chlorophyll is green photosynthetic pigment found in chloroplasts.",
+   637→      "CBSE AIPMT",
+   638→      null,
+   639→      null
+   640→    ]
+   641→  },
+   642→  {
+   643→    "sheet": "Class11",
+   644→    "row": 2122,
+   645→    "data": [
+   646→      "Biology",
+   647→      null,
+   648→      "Biomolecules",
+   649→      "English",
+   650→      "Carbohydrates are commonly found as starch in plant storage organs. Which of the following five properties of starch (A–E) make it useful as a storage material? A. easily translocated B. chemically non-reactive C. easily digested by animals D. osmotically inactive E. synthesised during photosynthesis The useful properties are",
+   651→      "B and C",
+   652→      "B and D",
+   653→      "A, C and E",
+   654→      "A and E",
+   655→      3.0,
+   656→      "Option (c) is correct. As starch is a high molecular weight polymer of D-glucose inα 1→ 4 linkage. It is synthesised in chloroplasts as one of the stable end products of photosynthesis. It is most abundant and common storage polysaccharide in plants hence, most staple food for man and herbivores. It is a mixture of two types of glucose homopolysaccharide viz, amylose and amylopectin. During day time the starch synthesis in chloroplast is coordinated with sucrose synthesis in cytosol. Typically about 90% of total solute carried in phloem is the carbohydrate sucrose, a disaccharide. This is relatively inactive and highly soluble sugar playing little direct role in metabolism and so, making an ideal transport sugar.",
+   657→      "CBSE AIPMT",
+   658→      null,
+   659→      null
+   660→    ]
+   661→  },
+   662→  {
+   663→    "sheet": "Class11",
+   664→    "row": 2123,
+   665→    "data": [
+   666→      "Biology",
+   667→      null,
+   668→      "Photosynthesis in Higher Plants",
+   669→      "English",
+   670→      "Chlorophyll in chloroplasts is located in",
+   671→      "outer membrane",
+   672→      "inner membrane",
+   673→      "thylakoids",
+   674→      "stroma",
+   675→      3.0,
+   676→      "The thylakoids of chloroplast are flattened vesicles arranged as a membranous network within the stroma. 50% of chloroplast proteins and various components involved (namely chlorophyll, carotenoids and plastoquinone) in photosynthesis are present in thylakoid membranes. 128",
+   677→      "CBSE AIPMT",
+   678→      null,
+   679→      null
+   680→    ]
+   681→  },
+   682→  {
+   683→    "sheet": "Class11",
+   684→    "row": 2124,
+   685→    "data": [
+   686→      "Biology",
+   687→      null,
+   688→      "Photosynthesis in Higher Plants",
+   689→      "English",
+   690→      "Which fractions of the visible spectrum of solar radiations are primarily absorbed by carotenoids of the higher plants?",
+   691→      "Violet and blue",
+   692→      "Blue and green",
+   693→      "Green and red",
+   694→      "Red and violet",
+   695→      1.0,
+   696→      "Carotenoids are a group of yellow, red and orange pigments which function as accessory pigments and protect chlorophyll molecules from destruction by intensive light rays. Carotenoids have three absorption peaks in the blue-violet range of the spectrum.",
+   697→      "CBSE AIPMT",
+   698→      null,
+   699→      null
+   700→    ]
+   701→  },
+   702→  {
+   703→    "sheet": "Class11",
+   704→    "row": 2125,
+   705→    "data": [
+   706→      "Biology",
+   707→      null,
+   708→      "Photosynthesis in Higher Plants",
+   709→      "English",
+   710→      "Which element is located at the centre of the porphyrin ring in chlorophyll?",
+   711→      "Manganese",
+   712→      "Calcium",
+   713→      "Magnesium",
+   714→      "Potassium",
+   715→      3.0,
+   716→      "Magnesium is at the centre of the porphyrin ring in chlorophyll. The general structure of chlorophyll was elucidated by Hand Fischer in 1940.",
+   717→      "CBSE AIPMT",
+   718→      null,
+   719→      null
+   720→    ]
+   721→  },
+   722→  {
+   723→    "sheet": "Class11",
+   724→    "row": 2126,
+   725→    "data": [
+   726→      "Biology",
+   727→      null,
+   728→      "Photosynthesis in Higher Plants",
+   729→      "English",
+   730→      "Stomata of CAM plants",
+   731→      "open during the night and close during the day",
+   732→      "never open",
+   733→      "are always open",
+   734→      "open during the day and close at night",
+   735→      1.0,
+   736→      "CAM (Crassulacean Acid Metabolism) plants open stomata only at night (when temperature is low and humidity is high) to cause lesser loss of water (e.g. Agave, Opuntia, etc.). So, CAM photosynthesis is a carbon fixation pathway that evolved in some plants as an adaptation to arid condition.",
+   737→      "CBSE AIPMT",
+   738→      null,
+   739→      null
+   740→    ]
+   741→  },
+   742→  {
+   743→    "sheet": "Class11",
+   744→    "row": 2127,
+   745→    "data": [
+   746→      "Biology",
+   747→      null,
+   748→      "Photosynthesis in Higher Plants",
+   749→      "English",
+   750→      "The first step of photosynthesis is",
+   751→      "excitation of electron of chlorophyll by a photon of light",
+   752→      "formation of ATP",
+   753→      "attachment ofCO2 to 5 carbon sugar",
+   754→      "ionisation of water",
+   755→      1.0,
+   756→      "The entire process of photosynthesis is driven by light energy coming from the sun. This energy is first captured by chlorophyll molecules and later on utilised for the synthesis of ATP (chemical energy) molecules which are later utilised in the dark reaction, i.e., Calvin cycle.",
+   757→      "CBSE AIPMT",
+   758→      null,
+   759→      null
+   760→    ]
+   761→  },
+   762→  {
+   763→    "sheet": "Class11",
+   764→    "row": 2128,
+   765→    "data": [
+   766→      "Biology",
+   767→      null,
+   768→      "Photosynthesis in Higher Plants",
+   769→      "English",
+   770→      "Chlorophyll-a molecule at its carbon atom 3 of the pyrrole ring-II has one of the following",
+   771→      "aldehyde group",
+   772→      "methyl group",
+   773→      "carboxyl group",
+   774→      "magnesium",
+   775→      1.0,
+   776→      "Chlorophyll has a tetrapyrrole porphyrin head and a long chain alcohol called phytol tail. Each pyrrole is a 5 member ring with one nitrogen and four carbon. A non-ionic Mg atom lies in the centre of porphyrin, attached to nitrogen atoms of pyrrole rings. Chlorophyll-a has methyl group at carbon 3 of pyrrole ring and chlorophyll-b has formyl (aldehyde) group attached to this atom.",
+   777→      "CBSE AIPMT",
+   778→      null,
+   779→      null
+   780→    ]
+   781→  },
+   782→  {
+   783→    "sheet": "Class11",
+   784→    "row": 2129,
+   785→    "data": [
+   786→      "Biology",
+   787→      null,
+   788→      "Photosynthesis in Higher Plants",
+   789→      "English",
+   790→      "Pigment acting as a reaction centre during photosynthesis is",
+   791→      "carotene",
+   792→      "phytochrome",
+   793→      "P700",
+   794→      "cytochrome",
+   795→      3.0,
+   796→      "Photosynthetic pigment molecules (e.g. P ,P 700 680 ) are able to convert light energy into chemical energy. These pigment molecules which together forms the photosynthetic units, possess photocentres (reaction centre = trap centre) surrounded by harvesting molecules differentiated into core molecules and antenna molecules.",
+   797→      "CBSE AIPMT",
+   798→      null,
+   799→      null
+   800→    ]
+   801→  },
+   802→  {
+   803→    "sheet": "Class11",
+   804→    "row": 2130,
+   805→    "data": [
+   806→      "Biology",
+   807→      null,
+   808→      "Photosynthesis in Higher Plants",
+   809→      "English",
+   810→      "Nine-tenth of all photosynthesis of world (85-90%) is carried out by",
+   811→      "large trees with millions of branches and leaves",
+   812→      "algae of the ocean",
+   813→      "chlorophyll containing ferns of the forest",
+   814→      "scientists in the laboratories",
+   815→      2.0,
+   816→      "90% of total photosynthesis is carried out by aquatic plants, chiefly algae (80% in oce a nd 10% in freshwater). 10% of total photosynthesis is performed by land plants.",
+   817→      "CBSE AIPMT",
+   818→      null,
+   819→      null
+   820→    ]
+   821→  },
+   822→  {
+   823→    "sheet": "Class11",
+   824→    "row": 2131,
+   825→    "data": [
+   826→      "Biology",
+   827→      null,
+   828→      "Photosynthesis in Higher Plants",
+   829→      "English",
+   830→      "Maximum solar energy is trapped by",
+   831→      "planting trees",
+   832→      "cultivating crops",
+   833→      "growing algae in tanks",
+   834→      "growing grasses",
+   835→      4.0,
+   836→      "Maximum solar energy is trapped by growing grasses, as they have the largest surface area for absorption. Limited number of algal individual are growing in tank so, they absorb limited amount of light.",
+   837→      "CBSE AIPMT",
+   838→      null,
+   839→      null
+   840→    ]
+   841→  },
+   842→  {
+   843→    "sheet": "Class11",
+   844→    "row": 2132,
+   845→    "data": [
+   846→      "Biology",
+   847→      null,
+   848→      "Photosynthesis in Higher Plants",
+   849→      "English",
+   850→      "Chlorophyll-a occurs in",
+   851→      "all photosynthetic autotrophs",
+   852→      "in all higher plants",
+   853→      "all oxygen liberating autotrophs",
+   854→      "all plants except fungi",
+   855→      2.0,
+   856→      "Chlorophyll-a (C H O N Mg 55 72 5 4 ) is a bluish green pigment, it is the primary photosynthetic pigment or universal photosynthetic pigment that occurs in all plants except photoautotrophic bacteria, i.e. found in all oxygenic photoautotrophs.",
+   857→      "CBSE AIPMT",
+   858→      null,
+   859→      null
+   860→    ]
+   861→  },
+   862→  {
+   863→    "sheet": "Class11",
+   864→    "row": 2133,
+   865→    "data": [
+   866→      "Biology",
+   867→      null,
+   868→      "Photosynthesis in Higher Plants",
+   869→      "English",
+   870→      "Photosynthetic pigments found in the chloroplasts occur in",
+   871→      "thylakoid membranes",
+   872→      "plastoglobules",
+   873→      "matrix",
+   874→      "chloroplast envelope",
+   875→      1.0,
+   876→      "Photosynthetic pigments are those pigments which occur on photosynthetic thylakoids of chloroplasts and absorb light energy for the purpose of photosynthesis. These are mainly of two types—chlorophylls and carotenoids.",
+   877→      "CBSE AIPMT",
+   878→      null,
+   879→      null
+   880→    ]
+   881→  },
+   882→  {
+   883→    "sheet": "Class11",
+   884→    "row": 2134,
+   885→    "data": [
+   886→      "Biology",
+   887→      null,
+   888→      "Photosynthesis in Higher Plants",
+   889→      "English",
+   890→      "The size of chlorophyll molecule is",
+   891→      "head15 15 ⋅ Å, tail 25 Å",
+   892→      "head20 20 ⋅ Å, tail 25 Å",
+   893→      "head15 15 ⋅ Å, tail 20 Å",
+   894→      "head10 12 ⋅ Å, tail 25 Å",
+   895→      3.0,
+   896→      "A chlorophyll molecule consists of two parts, the porphyrin ring (head) 15 15 ⋅ Å and a phytol tail (20 Å). Photosynthesis 129 TOPIC 2 Light Reaction",
+   897→      "CBSE AIPMT",
+   898→      null,
+   899→      null
+   900→    ]
+   901→  },
+   902→  {
+   903→    "sheet": "Class11",
+   904→    "row": 2135,
+   905→    "data": [
+   906→      "Biology",
+   907→      null,
+   908→      "Photosynthesis in Higher Plants",
+   909→      "English",
+   910→      "Which of the following is not a product of light reaction of photosynthesis?",
+   911→      "NADPH",
+   912→      "NADH",
+   913→      "ATP",
+   914→      "Oxygen",
+   915→      2.0,
+   916→      "During light reaction of photosynthesis NADPH, ATP and oxygen are formed. Oxygen is liberated by the photolysis of",
+   917→      "NEET",
+   918→      null,
+   919→      null
+   920→    ]
+   921→  },
+   922→  {
+   923→    "sheet": "Class11",
+   924→    "row": 2136,
+   925→    "data": [
+   926→      "Biology",
+   927→      null,
+   928→      "Photosynthesis in Higher Plants",
+   929→      "English",
+   930→      "A process that makes important difference betweenC3 and C4 -plants is",
+   931→      "transpiration",
+   932→      "glycolysis",
+   933→      "photosynthesis",
+   934→      "photorespiration",
+   935→      4.0,
+   936→      "Photorespiration is a light dependent process which occurs in C3-plants. It is (b) Stroma lamellae have PS-I only and lack NADP reductase water. 4H O 4H + 4OH 2   + − Oxygen-Evolving complex opposite to photosynthesis because during this process, uptake ofO2 and release of CO2 take place. Due to the (c) Grana lamellae have both PS-I and 4OH − ⎯⎯⎯⎯⎯⎯⎯→− 2+ 2+ presence of Kranz anatomy, C4-plants PS-II Mn , Ca , Cl 2H O + O 4 2 2 ↑ + − e do not show photorespiration. (d) Cyclic photophosphorylation involves both PS-I and PS-II  d  Statement in option (d) is incorrect and can be corrected as Only photosystem I is involved in cyclic photophosphorylation process. Cyclic photophosphorylation is a process in which an electron expelled by the excited photocentre is returned to it after passing through a series of electron carriers. The excited electron does not pass on to NADP + but is cycled back to the PS I complex through the electron transport chain. Non-cyclic photophosphorylation involves both photosystems I and II. The electron follows a non-cyclic pathway in it. The representation of it is also called Z scheme. 19 In light reaction, plastoquinone facilitates the transfer of electrons from [NEET (Sep.) 2020] (a) Cyt-b6f complex to PS-I (b) PS-I to NADP + (c) PS-I to ATP synthase (d) PS-II to Cyt-b6f complex  d  In light reaction, plastoquinone facilitates the transfer of electrons from PS II to cytochromeb f6 complex (non-cyclic photophosphorylation) process of light reaction starts with PS II (680 nm). When sunlight falls on the reaction center (chlorophyll, a) it abosrbs 680 nm wavelength of red light causing electrons to become excited and jump into an orbit farther from the atomic nucleus. These electrons are picked by the electron acceptor which passes them to an electron transport system consisting of cytochromeb6 complex. The electrons released during photolysis of water are picked up byP680 photocentre of PS-II. On receiving light energy photocentre expels an electron which passes over a series of carriers. As a result assimilatory power, i.e. ATP and NADPH is produced. NADH is formed during respiration. 21 In photosynthesis, the light-independent reactions take place at [CBSE AIPMT 2015] (a) thylakoid lumen (b) photosystem-I (c) photosystem-II (d) stromal matrix  d  The light-independent reactions (or dark reactions) take place in the stromal matrix of the chloroplasts. In light independent reactions, carbon dioxide is reduced to glucose (carbohydrate) by the hydrogen in NADPH by using the chemical energy stored in ATP. This reaction takes place in the presence of a substance called RuDP. 22 Anoxygenic photosynthesis is characteristic of [CBSE AIPMT 2014] (a) Rhodospirillum (b) Spirogyra (c) Chlamydomonas (d) Ulva  a  Anoxygenic photosynthesis (in whichO2 is not released) is seen in Rhodospirillum which is a purple non-sulphur bacteria. It helps an organism to trap light energy and store it as chemical energy. Other than this anoxygenic photosynthesis commonly occurs in purple non-sulphur bacteria, green sulphur/non-sulphur bacteria, and heliobacteria, etc.",
+   937→      "CBSE AIPMT",
+   938→      null,
+   939→      null
+   940→    ]
+   941→  },
+   942→  {
+   943→    "sheet": "Class11",
+   944→    "row": 2137,
+   945→    "data": [
+   946→      "Biology",
+   947→      null,
+   948→      "Photosynthesis in Higher Plants",
+   949→      "English",
+   950→      "Oxygenic photosynthesis occurs in",
+   951→      "Chromatium",
+   952→      "Oscillatoria",
+   953→      "Rhodospirillum",
+   954→      "Chlorobium",
+   955→      2.0,
+   956→      "Oscillatoria is a photosynthetic cyanobacterium. In this cyanobacteria during photosynthesis water is electron donor and oxygen is a byproduct, i.e., oxygenic photosynthesis occurs. Rhodospirillum and Chlorobium are non-oxygenic photosynthetic, purple non-sulphur and green- sulphur bacteria. Chromatium is purple sulphur bacterium, also a non-oxygenic photosynthetic.",
+   957→      "CBSE AIPMT",
+   958→      null,
+   959→      null
+   960→    ]
+   961→  },
+   962→  {
+   963→    "sheet": "Class11",
+   964→    "row": 2138,
+   965→    "data": [
+   966→      "Biology",
+   967→      null,
+   968→      "Photosynthesis in Higher Plants",
+   969→      "English",
+   970→      "Cyclic-photophosphorylation results in the formation of",
+   971→      "NADPH",
+   972→      "ATP and NADPH",
+   973→      "ATP, NADPH andO2",
+   974→      "ATP",
+   975→      4.0,
+   976→      "Cyclic-photophosphorylation involves only pigment system-I and results in the formation of ATP only. When the photons activate PS-I, a pair of electrons are raised to a higher energy level. They are captured by primary acceptor which passes them on to ferredoxin, plastoquinone, cytochrome complex, plastocyanin and finally back to reaction centre of PS-I, i.e.,P700 . At each step of electron transfer, the electrons lose potential energy. Their trip down hill is caused by the transport chain to pumpH+ across the thylakoid membrane. The proton gradient thus established is responsible for forming ATP (2 molecules). No reduction of NADP to NADPH +H+. 130",
+   977→      "CBSE AIPMT",
+   978→      null,
+   979→      null
+   980→    ]
+   981→  },
+   982→  {
+   983→    "sheet": "Class11",
+   984→    "row": 2139,
+   985→    "data": [
+   986→      "Biology",
+   987→      null,
+   988→      "Photosynthesis in Higher Plants",
+   989→      "English",
+   990→      "The first acceptor of electrons from an excited chlorophyll molecule of photosystem-II is",
+   991→      "cytochrome",
+   992→      "iron-sulphur protein",
+   993→      "ferredoxin",
+   994→      "quinone",
+   995→      4.0,
+   996→      "Plastoquinone is the first acceptor of electrons from an excited chlorophyll molecule of photosystem-II.",
+   997→      "CBSE AIPMT , 08",
+   998→      null,
+   999→      null
+  1000→    ]
+  1001→  }
+  1002→]

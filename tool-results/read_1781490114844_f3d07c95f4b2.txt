@@ -1,0 +1,1002 @@
+     1→[
+     2→  {
+     3→    "sheet": "Class10",
+     4→    "row": 1052,
+     5→    "data": [
+     6→      "SST",
+     7→      1.0,
+     8→      "यूरोप में राष्ट्रवाद का उदय",
+     9→      "Hindi",
+    10→      "इतालवी एकीकरण की 'तलवार' के रूप में किसे जाना जाता था?",
+    11→      "काउंट कावूर",
+    12→      "ज्युसेपे गैरीबाल्डी",
+    13→      "मैजिनी",
+    14→      "विक्टर इमैनुएल द्वितीय",
+    15→      2.0,
+    16→      "गैरीबाल्डी ने अपनी सैन्य विजयों और 'रेड शर्ट्स' स्वयंसेवकों के नेतृत्व के कारण यह उपाधि प्राप्त की, जिन्होंने दक्षिणी इटली को स्वतंत्र कराया था।",
+    17→      "UP Board",
+    18→      2022.0,
+    19→      null
+    20→    ]
+    21→  },
+    22→  {
+    23→    "sheet": "Class10",
+    24→    "row": 1053,
+    25→    "data": [
+    26→      "SST",
+    27→      1.0,
+    28→      "यूरोप में राष्ट्रवाद का उदय",
+    29→      "Hindi",
+    30→      "1813 में 'राष्ट्रों के युद्ध' (लिपज़िग की लड़ाई) का क्या महत्व था?",
+    31→      "नेपोलियन की पहली जीत",
+    32→      "अंग्रेजों की अंतिम हार",
+    33→      "गठबंधन सेनाओं द्वारा नेपोलियन की एक बड़ी हार",
+    34→      "इटली का एकीकरण",
+    35→      3.0,
+    36→      "लिपज़िग की लड़ाई एक महत्वपूर्ण मोड़ थी जहाँ यूरोपीय शक्तियों के गठबंधन ने नेपोलियन की सेना को उसके अंतिम पतन से पहले करारी शिकस्त दी थी।",
+    37→      "CBSE",
+    38→      2020.0,
+    39→      null
+    40→    ]
+    41→  },
+    42→  {
+    43→    "sheet": "Class10",
+    44→    "row": 1054,
+    45→    "data": [
+    46→      "SST",
+    47→      1.0,
+    48→      "यूरोप में राष्ट्रवाद का उदय",
+    49→      "Hindi",
+    50→      "जर्मन प्रतीकों में 'शाही बाज' (Imperial Eagle) अक्सर किसका प्रतीक था?",
+    51→      "शांति",
+    52→      "शक्ति और जर्मन साम्राज्य",
+    53→      "स्वतंत्रता",
+    54→      "धार्मिक शुद्धता",
+    55→      2.0,
+    56→      "बाज एक पारंपरिक प्रतीक था जिसका उपयोग जर्मन साम्राज्य की शक्ति, संप्रभुता और ताकत का प्रतिनिधित्व करने के लिए किया जाता था।",
+    57→      "CBSE",
+    58→      2021.0,
+    59→      null
+    60→    ]
+    61→  },
+    62→  {
+    63→    "sheet": "Class10",
+    64→    "row": 1055,
+    65→    "data": [
+    66→      "SST",
+    67→      1.0,
+    68→      "Rise of Nationalism in Europe",
+    69→      "English",
+    70→      "Which of the following was a result of the 'Act of Union' (1701)?",
+    71→      "Formation of the United Kingdom of Great Britain",
+    72→      "Unification of Germany",
+    73→      "Independence of Greece",
+    74→      "French Revolution",
+    75→      1.0,
+    76→      "The Act of Union between England and Scotland resulted in the formation of the United Kingdom of Great Britain, allowing England to impose influence on Scotland.",
+    77→      "CBSE",
+    78→      2018.0,
+    79→      null
+    80→    ]
+    81→  },
+    82→  {
+    83→    "sheet": "Class10",
+    84→    "row": 1056,
+    85→    "data": [
+    86→      "SST",
+    87→      1.0,
+    88→      "Rise of Nationalism in Europe",
+    89→      "English",
+    90→      "Who was the female allegory of the German nation who wears a crown of oak leaves?",
+    91→      "Marianne",
+    92→      "Germania",
+    93→      "Britannia",
+    94→      "Bharat Mata",
+    95→      2.0,
+    96→      "Germania became the allegory of the German nation. In visual representations, she wears a crown of oak leaves, as the German oak stands for heroism.",
+    97→      "CBSE",
+    98→      2023.0,
+    99→      null
+   100→    ]
+   101→  },
+   102→  {
+   103→    "sheet": "Class10",
+   104→    "row": 1057,
+   105→    "data": [
+   106→      "SST",
+   107→      1.0,
+   108→      "Rise of Nationalism in Europe",
+   109→      "English",
+   110→      "What does the 'Ray of the Rising Sun' symbolize in 19th-century allegories?",
+   111→      "Beginning of a new era",
+   112→      "End of a war",
+   113→      "Freedom",
+   114→      "Willingness to make peace",
+   115→      1.0,
+   116→      "The rays of the rising sun symbolize the beginning of a new era in the nationalist iconography of the time.",
+   117→      "CBSE",
+   118→      2022.0,
+   119→      null
+   120→    ]
+   121→  },
+   122→  {
+   123→    "sheet": "Class10",
+   124→    "row": 1058,
+   125→    "data": [
+   126→      "SST",
+   127→      1.0,
+   128→      "Rise of Nationalism in Europe",
+   129→      "English",
+   130→      "Which of the following was the main reason for the Greek War of Independence?",
+   131→      "Industrial Revolution",
+   132→      "Influence of Revolutionary Nationalism",
+   133→      "Expansion of the British Empire",
+   134→      "Treaty of Vienna",
+   135→      2.0,
+   136→      "The growth of revolutionary nationalism in Europe sparked a struggle for independence among the Greeks which began in 1821 against the Ottoman Empire.",
+   137→      "CBSE",
+   138→      2020.0,
+   139→      null
+   140→    ]
+   141→  },
+   142→  {
+   143→    "sheet": "Class10",
+   144→    "row": 1059,
+   145→    "data": [
+   146→      "SST",
+   147→      1.0,
+   148→      "Rise of Nationalism in Europe",
+   149→      "English",
+   150→      "Who hosted the 'Congress of Vienna' in 1815?",
+   151→      "Duke Metternich",
+   152→      "Napoleon Bonaparte",
+   153→      "Otto von Bismarck",
+   154→      "Kaiser William I",
+   155→      1.0,
+   156→      "The Congress was hosted by the Austrian Chancellor Duke Metternich to draw up a settlement for Europe after the Napoleonic Wars.",
+   157→      "CBSE",
+   158→      2019.0,
+   159→      null
+   160→    ]
+   161→  },
+   162→  {
+   163→    "sheet": "Class10",
+   164→    "row": 1060,
+   165→    "data": [
+   166→      "SST",
+   167→      1.0,
+   168→      "Rise of Nationalism in Europe",
+   169→      "English",
+   170→      "The concept of a 'National Assembly' was a product of:",
+   171→      "The French Revolution",
+   172→      "The Unification of Italy",
+   173→      "The Balkan Conflict",
+   174→      "The Act of Union",
+   175→      1.0,
+   176→      "The Estates General was elected by the body of active citizens and renamed the National Assembly during the French Revolution.",
+   177→      "CBSE",
+   178→      2021.0,
+   179→      null
+   180→    ]
+   181→  },
+   182→  {
+   183→    "sheet": "Class10",
+   184→    "row": 1061,
+   185→    "data": [
+   186→      "SST",
+   187→      1.0,
+   188→      "Rise of Nationalism in Europe",
+   189→      "English",
+   190→      "What was the primary goal of the 'Zollverein'?",
+   191→      "To protect the monarchy",
+   192→      "To bind Germans economically into a nation",
+   193→      "To start a war with France",
+   194→      "To promote religious unity",
+   195→      2.0,
+   196→      "The union aimed to bind the Germans economically into a nation by strengthening the nation materially through its internal economy.",
+   197→      "CBSE",
+   198→      2018.0,
+   199→      null
+   200→    ]
+   201→  },
+   202→  {
+   203→    "sheet": "Class10",
+   204→    "row": 1062,
+   205→    "data": [
+   206→      "SST",
+   207→      1.0,
+   208→      "Rise of Nationalism in Europe",
+   209→      "English",
+   210→      "Which language was discouraged in France to promote a sense of national unity?",
+   211→      "English",
+   212→      "Regional Dialects",
+   213→      "German",
+   214→      "Latin",
+   215→      2.0,
+   216→      "Regional dialects were discouraged and French, as it was spoken and written in Paris, became the common language of the nation.",
+   217→      "CBSE",
+   218→      2022.0,
+   219→      null
+   220→    ]
+   221→  },
+   222→  {
+   223→    "sheet": "Class10",
+   224→    "row": 1063,
+   225→    "data": [
+   226→      "SST",
+   227→      1.0,
+   228→      "Rise of Nationalism in Europe",
+   229→      "English",
+   230→      "The 'Civil Code of 1804' is also known as the:",
+   231→      "Directory Code",
+   232→      "Napoleonic Code",
+   233→      "Revolutionary Code",
+   234→      "French Law",
+   235→      2.0,
+   236→      "The Civil Code of 1804, known as the Napoleonic Code, established equality before the law and secured the right to property.",
+   237→      "CBSE",
+   238→      2023.0,
+   239→      null
+   240→    ]
+   241→  },
+   242→  {
+   243→    "sheet": "Class10",
+   244→    "row": 1064,
+   245→    "data": [
+   246→      "SST",
+   247→      1.0,
+   248→      "Rise of Nationalism in Europe",
+   249→      "English",
+   250→      "Who was the leader of the 'Red Shirts' volunteers?",
+   251→      "Giuseppe Mazzini",
+   252→      "Count Cavour",
+   253→      "Giuseppe Garibaldi",
+   254→      "Victor Emmanuel II",
+   255→      3.0,
+   256→      "Giuseppe Garibaldi led the 'Red Shirts' volunteers in the expedition of the Thousand to Southern Italy.",
+   257→      "UP Board",
+   258→      2019.0,
+   259→      null
+   260→    ]
+   261→  },
+   262→  {
+   263→    "sheet": "Class10",
+   264→    "row": 1065,
+   265→    "data": [
+   266→      "SST",
+   267→      1.0,
+   268→      "Rise of Nationalism in Europe",
+   269→      "English",
+   270→      "Which empire was referred to as the 'Sick Man of Europe'?",
+   271→      "British Empire",
+   272→      "Ottoman Empire",
+   273→      "Russian Empire",
+   274→      "Austrian Empire",
+   275→      2.0,
+   276→      "The Ottoman Empire was often called the 'Sick Man of Europe' due to its gradual decline and loss of territories in the Balkans.",
+   277→      "Bihar Board",
+   278→      2020.0,
+   279→      null
+   280→    ]
+   281→  },
+   282→  {
+   283→    "sheet": "Class10",
+   284→    "row": 1066,
+   285→    "data": [
+   286→      "SST",
+   287→      1.0,
+   288→      "Rise of Nationalism in Europe",
+   289→      "English",
+   290→      "What was the outcome of the Battle of Waterloo?",
+   291→      "Napoleon's Victory",
+   292→      "Napoleon's Final Defeat",
+   293→      "Unification of Germany",
+   294→      "Formation of the French Republic",
+   295→      2.0,
+   296→      "The Battle of Waterloo in 1815 marked the final defeat of Napoleon Bonaparte by the European coalition forces.",
+   297→      "CBSE",
+   298→      2017.0,
+   299→      null
+   300→    ]
+   301→  },
+   302→  {
+   303→    "sheet": "Class10",
+   304→    "row": 1067,
+   305→    "data": [
+   306→      "SST",
+   307→      1.0,
+   308→      "Rise of Nationalism in Europe",
+   309→      "English",
+   310→      "Which ideology supports the idea that 'The government should be by consent'?",
+   311→      "Liberalism",
+   312→      "Conservatism",
+   313→      "Imperialism",
+   314→      "Absolutism",
+   315→      1.0,
+   316→      "Political liberalism emphasized the concept of government by consent and the end of autocracy and clerical privileges.",
+   317→      "CBSE",
+   318→      2021.0,
+   319→      null
+   320→    ]
+   321→  },
+   322→  {
+   323→    "sheet": "Class10",
+   324→    "row": 1068,
+   325→    "data": [
+   326→      "SST",
+   327→      1.0,
+   328→      "Rise of Nationalism in Europe",
+   329→      "English",
+   330→      "What did the 'Phrygian Cap' symbolize?",
+   331→      "Liberty",
+   332→      "Heroism",
+   333→      "Justice",
+   334→      "Peace",
+   335→      1.0,
+   336→      "The red Phrygian cap was a symbol of liberty used during the French Revolution, often worn by Marianne.",
+   337→      "CBSE",
+   338→      2020.0,
+   339→      null
+   340→    ]
+   341→  },
+   342→  {
+   343→    "sheet": "Class10",
+   344→    "row": 1069,
+   345→    "data": [
+   346→      "SST",
+   347→      1.0,
+   348→      "Rise of Nationalism in Europe",
+   349→      "English",
+   350→      "Which of the following states was ruled by an Italian Princely House before unification?",
+   351→      "Lombardy",
+   352→      "Venetia",
+   353→      "Sardinia-Piedmont",
+   354→      "Kingdom of Two Sicilies",
+   355→      3.0,
+   356→      "Sardinia-Piedmont was the only state among the seven Italian states ruled by an Italian princely house before unification.",
+   357→      "CBSE",
+   358→      2022.0,
+   359→      null
+   360→    ]
+   361→  },
+   362→  {
+   363→    "sheet": "Class10",
+   364→    "row": 1070,
+   365→    "data": [
+   366→      "SST",
+   367→      1.0,
+   368→      "Rise of Nationalism in Europe",
+   369→      "English",
+   370→      "The 'Treaty of Frankfurt' (1871) ended which war?",
+   371→      "Crimean War",
+   372→      "Austro-Prussian War",
+   373→      "Franco-Prussian War",
+   374→      "Seven Years' War",
+   375→      3.0,
+   376→      "The Treaty of Frankfurt marked the end of the Franco-Prussian War, leading to the final unification of Germany.",
+   377→      "UP Board",
+   378→      2021.0,
+   379→      null
+   380→    ]
+   381→  },
+   382→  {
+   383→    "sheet": "Class10",
+   384→    "row": 1071,
+   385→    "data": [
+   386→      "SST",
+   387→      1.0,
+   388→      "Rise of Nationalism in Europe",
+   389→      "English",
+   390→      "Who said 'The task of the artist is to represent the soul of the nation'?",
+   391→      "Johann Gottfried Herder",
+   392→      "Napoleon",
+   393→      "Metternich",
+   394→      "Louis Philippe",
+   395→      1.0,
+   396→      "Herder, a German philosopher, believed that true German culture was to be discovered among the common people through folk songs and poetry.",
+   397→      "CBSE",
+   398→      2019.0,
+   399→      null
+   400→    ]
+   401→  },
+   402→  {
+   403→    "sheet": "Class10",
+   404→    "row": 1072,
+   405→    "data": [
+   406→      "SST",
+   407→      1.0,
+   408→      "Rise of Nationalism in Europe",
+   409→      "English",
+   410→      "Which of the following was a feature of the conservative regimes set up in 1815?",
+   411→      "Autocratic nature",
+   412→      "Promotion of freedom of press",
+   413→      "Support for democratic elections",
+   414→      "Abolition of monarchy",
+   415→      1.0,
+   416→      "Conservative regimes set up in 1815 were autocratic; they did not tolerate criticism and sought to curb activities that questioned their legitimacy.",
+   417→      "CBSE",
+   418→      2023.0,
+   419→      null
+   420→    ]
+   421→  },
+   422→  {
+   423→    "sheet": "Class10",
+   424→    "row": 1073,
+   425→    "data": [
+   426→      "SST",
+   427→      1.0,
+   428→      "Rise of Nationalism in Europe",
+   429→      "English",
+   430→      "In which country did the 'Romantic Movement' first gain momentum?",
+   431→      "Britain",
+   432→      "Germany",
+   433→      "Russia",
+   434→      "Italy",
+   435→      2.0,
+   436→      "Romanticism as a cultural movement was particularly strong in Germany, where thinkers emphasized 'Volksgeist' (the spirit of the people).",
+   437→      "CBSE",
+   438→      2018.0,
+   439→      null
+   440→    ]
+   441→  },
+   442→  {
+   443→    "sheet": "Class10",
+   444→    "row": 1074,
+   445→    "data": [
+   446→      "SST",
+   447→      1.0,
+   448→      "Rise of Nationalism in Europe",
+   449→      "English",
+   450→      "What was the main tension in the Balkans after 1871?",
+   451→      "Religious wars",
+   452→      "Competition among European powers for control",
+   453→      "Industrial strikes",
+   454→      "Demand for a new Pope",
+   455→      2.0,
+   456→      "As the Ottoman Empire weakened, big European powers like Russia, Germany, and England competed for control over the Balkan region.",
+   457→      "CBSE",
+   458→      2020.0,
+   459→      null
+   460→    ]
+   461→  },
+   462→  {
+   463→    "sheet": "Class10",
+   464→    "row": 1075,
+   465→    "data": [
+   466→      "SST",
+   467→      1.0,
+   468→      "यूरोप में राष्ट्रवाद का उदय",
+   469→      "Hindi",
+   470→      "1707 के 'एक्ट ऑफ यूनियन' का परिणाम निम्नलिखित में से क्या था?",
+   471→      "यूनाइटेड किंगडम ऑफ ग्रेट ब्रिटेन का गठन",
+   472→      "जर्मनी का एकीकरण",
+   473→      "यूनान की स्वतंत्रता",
+   474→      "फ्रांसीसी क्रांति",
+   475→      1.0,
+   476→      "इंग्लैंड और स्कॉटलैंड के बीच एक्ट ऑफ यूनियन के परिणामस्वरूप 'यूनाइटेड किंगडम ऑफ ग्रेट ब्रिटेन' का गठन हुआ, जिससे इंग्लैंड को स्कॉटलैंड पर अपना प्रभाव थोपने का अवसर मिला।",
+   477→      "CBSE",
+   478→      2018.0,
+   479→      null
+   480→    ]
+   481→  },
+   482→  {
+   483→    "sheet": "Class10",
+   484→    "row": 1076,
+   485→    "data": [
+   486→      "SST",
+   487→      1.0,
+   488→      "यूरोप में राष्ट्रवाद का उदय",
+   489→      "Hindi",
+   490→      "जर्मन राष्ट्र का वह महिला रूपक कौन है जो बलूत के पत्तों का मुकुट पहनती है?",
+   491→      "मारिएन",
+   492→      "जर्मेनिया",
+   493→      "ब्रिटानिया",
+   494→      "भारत माता",
+   495→      2.0,
+   496→      "जर्मेनिया जर्मन राष्ट्र का रूपक बनी। दृश्य प्रस्तुतियों में, वह बलूत (ओक) के पत्तों का मुकुट पहनती है, क्योंकि जर्मन बलूत वीरता का प्रतीक है।",
+   497→      "CBSE",
+   498→      2023.0,
+   499→      null
+   500→    ]
+   501→  },
+   502→  {
+   503→    "sheet": "Class10",
+   504→    "row": 1077,
+   505→    "data": [
+   506→      "SST",
+   507→      1.0,
+   508→      "यूरोप में राष्ट्रवाद का उदय",
+   509→      "Hindi",
+   510→      "19वीं सदी के रूपकों में 'उगते सूरज की किरणें' किसका प्रतीक हैं?",
+   511→      "एक नए युग की शुरुआत",
+   512→      "युद्ध का अंत",
+   513→      "स्वतंत्रता",
+   514→      "शांति बनाने की इच्छा",
+   515→      1.0,
+   516→      "उगते सूरज की किरणें उस समय की राष्ट्रवादी दृश्य शब्दावली में एक नए युग की शुरुआत का प्रतीक मानी जाती थीं।",
+   517→      "CBSE",
+   518→      2022.0,
+   519→      null
+   520→    ]
+   521→  },
+   522→  {
+   523→    "sheet": "Class10",
+   524→    "row": 1078,
+   525→    "data": [
+   526→      "SST",
+   527→      1.0,
+   528→      "यूरोप में राष्ट्रवाद का उदय",
+   529→      "Hindi",
+   530→      "यूनानी स्वतंत्रता संग्राम का मुख्य कारण निम्नलिखित में से क्या था?",
+   531→      "औद्योगिक क्रांति",
+   532→      "क्रांतिकारी राष्ट्रवाद का प्रभाव",
+   533→      "ब्रिटिश साम्राज्य का विस्तार",
+   534→      "वियना की संधि",
+   535→      2.0,
+   536→      "यूरोप में क्रांतिकारी राष्ट्रवाद की वृद्धि ने यूनानियों के बीच स्वतंत्रता के संघर्ष को जन्म दिया, जो 1821 में ओटोमन साम्राज्य के विरुद्ध शुरू हुआ था।",
+   537→      "CBSE",
+   538→      2020.0,
+   539→      null
+   540→    ]
+   541→  },
+   542→  {
+   543→    "sheet": "Class10",
+   544→    "row": 1079,
+   545→    "data": [
+   546→      "SST",
+   547→      1.0,
+   548→      "यूरोप में राष्ट्रवाद का उदय",
+   549→      "Hindi",
+   550→      "1815 में 'वियना कांग्रेस' की मेजबानी किसने की थी?",
+   551→      "ड्यूक मेटरनिख",
+   552→      "नेपोलियन बोनापार्ट",
+   553→      "ओटो वॉन बिस्मार्क",
+   554→      "कैसर विलियम प्रथम",
+   555→      1.0,
+   556→      "ऑस्ट्रियाई चांसलर ड्यूक मेटरनिख ने नेपोलियन युद्धों के बाद यूरोप के लिए एक समझौता तैयार करने के लिए इस कांग्रेस की मेजबानी की थी।",
+   557→      "CBSE",
+   558→      2019.0,
+   559→      null
+   560→    ]
+   561→  },
+   562→  {
+   563→    "sheet": "Class10",
+   564→    "row": 1080,
+   565→    "data": [
+   566→      "SST",
+   567→      1.0,
+   568→      "यूरोप में राष्ट्रवाद का उदय",
+   569→      "Hindi",
+   570→      "नेशनल असेंबली' की अवधारणा किसकी देन थी?",
+   571→      "फ्रांसीसी क्रांति",
+   572→      "इटली का एकीकरण",
+   573→      "बाल्कन संघर्ष",
+   574→      "एक्ट ऑफ यूनियन",
+   575→      1.0,
+   576→      "सक्रिय नागरिकों के समूह द्वारा 'एस्टेट जनरल' का चुनाव किया गया और फ्रांसीसी क्रांति के दौरान इसका नाम बदलकर नेशनल असेंबली कर दिया गया।",
+   577→      "CBSE",
+   578→      2021.0,
+   579→      null
+   580→    ]
+   581→  },
+   582→  {
+   583→    "sheet": "Class10",
+   584→    "row": 1081,
+   585→    "data": [
+   586→      "SST",
+   587→      1.0,
+   588→      "यूरोप में राष्ट्रवाद का उदय",
+   589→      "Hindi",
+   590→      "जोलवेरिन' (Zollverein) का प्राथमिक लक्ष्य क्या था?",
+   591→      "राजतंत्र की रक्षा करना",
+   592→      "जर्मनों को आर्थिक रूप से एक राष्ट्र में बांधना",
+   593→      "फ्रांस के साथ युद्ध शुरू करना",
+   594→      "धार्मिक एकता को बढ़ावा देना",
+   595→      2.0,
+   596→      "इस संघ का उद्देश्य अपनी आंतरिक अर्थव्यवस्था के माध्यम से राष्ट्र को भौतिक रूप से मजबूत करके जर्मनों को आर्थिक रूप से एक राष्ट्र में बांधना था।",
+   597→      "CBSE",
+   598→      2018.0,
+   599→      null
+   600→    ]
+   601→  },
+   602→  {
+   603→    "sheet": "Class10",
+   604→    "row": 1082,
+   605→    "data": [
+   606→      "SST",
+   607→      1.0,
+   608→      "यूरोप में राष्ट्रवाद का उदय",
+   609→      "Hindi",
+   610→      "राष्ट्रीय एकता की भावना को बढ़ावा देने के लिए फ्रांस में किस भाषा को हतोत्साहित किया गया था?",
+   611→      "अंग्रेजी",
+   612→      "क्षेत्रीय बोलियाँ",
+   613→      "जर्मन",
+   614→      "लैटिन",
+   615→      2.0,
+   616→      "क्षेत्रीय बोलियों को हतोत्साहित किया गया और पेरिस में बोली और लिखी जाने वाली फ्रेंच भाषा राष्ट्र की साझा भाषा बन गई।",
+   617→      "CBSE",
+   618→      2022.0,
+   619→      null
+   620→    ]
+   621→  },
+   622→  {
+   623→    "sheet": "Class10",
+   624→    "row": 1083,
+   625→    "data": [
+   626→      "SST",
+   627→      1.0,
+   628→      "यूरोप में राष्ट्रवाद का उदय",
+   629→      "Hindi",
+   630→      "1804 की नागरिक संहिता' को किस नाम से भी जाना जाता है?",
+   631→      "डायरेक्टरी कोड",
+   632→      "नेपोलियन संहिता",
+   633→      "क्रांतिकारी कोड",
+   634→      "फ्रांसीसी कानून",
+   635→      2.0,
+   636→      "1804 की नागरिक संहिता, जिसे नेपोलियन संहिता के रूप में जाना जाता है, ने कानून के समक्ष समानता स्थापित की और संपत्ति के अधिकार को सुरक्षित किया।",
+   637→      "CBSE",
+   638→      2023.0,
+   639→      null
+   640→    ]
+   641→  },
+   642→  {
+   643→    "sheet": "Class10",
+   644→    "row": 1084,
+   645→    "data": [
+   646→      "SST",
+   647→      1.0,
+   648→      "यूरोप में राष्ट्रवाद का उदय",
+   649→      "Hindi",
+   650→      "रेड शर्ट्स' (लाल कुर्ती) स्वयंसेवकों का नेता कौन था?",
+   651→      "ज्युसेपे मैजिनी",
+   652→      "काउंट कावूर",
+   653→      "ज्युसेपे गैरीबाल्डी",
+   654→      "विक्टर इमैनुएल द्वितीय",
+   655→      3.0,
+   656→      "ज्युसेपे गैरीबाल्डी ने दक्षिणी इटली के 'हजारों लोगों के अभियान' (Expedition of the Thousand) में 'रेड शर्ट्स' स्वयंसेवकों का नेतृत्व किया था।",
+   657→      "UP Board",
+   658→      2019.0,
+   659→      null
+   660→    ]
+   661→  },
+   662→  {
+   663→    "sheet": "Class10",
+   664→    "row": 1085,
+   665→    "data": [
+   666→      "SST",
+   667→      1.0,
+   668→      "यूरोप में राष्ट्रवाद का उदय",
+   669→      "Hindi",
+   670→      "किस साम्राज्य को 'यूरोप का बीमार व्यक्ति' कहा जाता था?",
+   671→      "ब्रिटिश साम्राज्य",
+   672→      "ओटोमन साम्राज्य",
+   673→      "रूसी साम्राज्य",
+   674→      "ऑस्ट्रियाई साम्राज्य",
+   675→      2.0,
+   676→      "ओटोमन साम्राज्य को उसके क्रमिक पतन और बाल्कन में क्षेत्रों के नुकसान के कारण अक्सर 'यूरोप का बीमार व्यक्ति' कहा जाता था।",
+   677→      "Bihar Board",
+   678→      2020.0,
+   679→      null
+   680→    ]
+   681→  },
+   682→  {
+   683→    "sheet": "Class10",
+   684→    "row": 1086,
+   685→    "data": [
+   686→      "SST",
+   687→      1.0,
+   688→      "यूरोप में राष्ट्रवाद का उदय",
+   689→      "Hindi",
+   690→      "वाटरलू के युद्ध का क्या परिणाम हुआ?",
+   691→      "नेपोलियन की विजय",
+   692→      "नेपोलियन की अंतिम हार",
+   693→      "जर्मनी का एकीकरण",
+   694→      "फ्रांसीसी गणराज्य का गठन",
+   695→      2.0,
+   696→      "1815 में वाटरलू के युद्ध ने यूरोपीय गठबंधन सेनाओं द्वारा नेपोलियन बोनापार्ट की अंतिम हार को चिह्नित किया।",
+   697→      "CBSE",
+   698→      2017.0,
+   699→      null
+   700→    ]
+   701→  },
+   702→  {
+   703→    "sheet": "Class10",
+   704→    "row": 1087,
+   705→    "data": [
+   706→      "SST",
+   707→      1.0,
+   708→      "यूरोप में राष्ट्रवाद का उदय",
+   709→      "Hindi",
+   710→      "कौन सी विचारधारा इस विचार का समर्थन करती है कि 'सरकार सहमति से होनी चाहिए'?",
+   711→      "उदारवाद",
+   712→      "रूढ़िवाद",
+   713→      "साम्राज्यवाद",
+   714→      "निरंकुशता",
+   715→      1.0,
+   716→      "राजनीतिक उदारवाद ने सहमति से सरकार की अवधारणा और निरंकुशता तथा पादरी विशेषाधिकारों के अंत पर जोर दिया।",
+   717→      "CBSE",
+   718→      2021.0,
+   719→      null
+   720→    ]
+   721→  },
+   722→  {
+   723→    "sheet": "Class10",
+   724→    "row": 1088,
+   725→    "data": [
+   726→      "SST",
+   727→      1.0,
+   728→      "यूरोप में राष्ट्रवाद का उदय",
+   729→      "Hindi",
+   730→      "फ्रिजियन टोपी' (Phrygian Cap) किसका प्रतीक थी?",
+   731→      "स्वतंत्रता",
+   732→      "वीरता",
+   733→      "न्याय",
+   734→      "शांति",
+   735→      1.0,
+   736→      "लाल फ्रिजियन टोपी स्वतंत्रता का प्रतीक थी जिसका उपयोग फ्रांसीसी क्रांति के दौरान किया गया था, इसे अक्सर मारिएन को पहने हुए दिखाया जाता था।",
+   737→      "CBSE",
+   738→      2020.0,
+   739→      null
+   740→    ]
+   741→  },
+   742→  {
+   743→    "sheet": "Class10",
+   744→    "row": 1089,
+   745→    "data": [
+   746→      "SST",
+   747→      1.0,
+   748→      "यूरोप में राष्ट्रवाद का उदय",
+   749→      "Hindi",
+   750→      "एकीकरण से पहले निम्नलिखित में से किस राज्य पर एक इतालवी राजघराने का शासन था?",
+   751→      "लोम्बार्डी",
+   752→      "वेनेशिया",
+   753→      "सार्डिनिया-पीडमोंट",
+   754→      "दो सिसिली का राज्य",
+   755→      3.0,
+   756→      "एकीकरण से पहले सात इतालवी राज्यों में से केवल सार्डिनिया-पीडमोंट ही ऐसा राज्य था जिस पर एक इतालवी राजघराने का शासन था।",
+   757→      "CBSE",
+   758→      2022.0,
+   759→      null
+   760→    ]
+   761→  },
+   762→  {
+   763→    "sheet": "Class10",
+   764→    "row": 1090,
+   765→    "data": [
+   766→      "SST",
+   767→      1.0,
+   768→      "यूरोप में राष्ट्रवाद का उदय",
+   769→      "Hindi",
+   770→      "फ्रैंकफर्ट की संधि' (1871) ने किस युद्ध को समाप्त किया?",
+   771→      "क्रीमिया का युद्ध",
+   772→      "ऑस्ट्रो-प्रशिया युद्ध",
+   773→      "फ्रेंको-प्रशिया युद्ध",
+   774→      "सात वर्षीय युद्ध",
+   775→      3.0,
+   776→      "फ्रैंकफर्ट की संधि ने फ्रेंको-प्रशिया युद्ध के अंत को चिह्नित किया, जिससे जर्मनी का अंतिम एकीकरण हुआ।",
+   777→      "UP Board",
+   778→      2021.0,
+   779→      null
+   780→    ]
+   781→  },
+   782→  {
+   783→    "sheet": "Class10",
+   784→    "row": 1091,
+   785→    "data": [
+   786→      "SST",
+   787→      1.0,
+   788→      "यूरोप में राष्ट्रवाद का उदय",
+   789→      "Hindi",
+   790→      "किसने कहा था 'कलाकार का कार्य राष्ट्र की आत्मा का प्रतिनिधित्व करना है'?",
+   791→      "जोहान गॉटफ्राइड हेडर",
+   792→      "नेपोलियन",
+   793→      "मेटरनिख",
+   794→      "लुई फिलिप",
+   795→      1.0,
+   796→      "जर्मन दार्शनिक हेडर का मानना था कि सच्ची जर्मन संस्कृति लोक गीतों और कविता के माध्यम से आम जनता के बीच खोजी जानी चाहिए।",
+   797→      "CBSE",
+   798→      2019.0,
+   799→      null
+   800→    ]
+   801→  },
+   802→  {
+   803→    "sheet": "Class10",
+   804→    "row": 1092,
+   805→    "data": [
+   806→      "SST",
+   807→      1.0,
+   808→      "यूरोप में राष्ट्रवाद का उदय",
+   809→      "Hindi",
+   810→      "1815 में स्थापित रूढ़िवादी शासनों की एक विशेषता क्या थी?",
+   811→      "निरंकुश प्रकृति",
+   812→      "प्रेस की स्वतंत्रता को बढ़ावा देना",
+   813→      "लोकतांत्रिक चुनावों का समर्थन",
+   814→      "राजतंत्र का उन्मूलन",
+   815→      1.0,
+   816→      "1815 में स्थापित रूढ़िवादी शासन निरंकुश थे; वे आलोचना बर्दाश्त नहीं करते थे और उन गतिविधियों को दबाते थे जो उनकी वैधता पर सवाल उठाती थीं।",
+   817→      "CBSE",
+   818→      2023.0,
+   819→      null
+   820→    ]
+   821→  },
+   822→  {
+   823→    "sheet": "Class10",
+   824→    "row": 1093,
+   825→    "data": [
+   826→      "SST",
+   827→      1.0,
+   828→      "यूरोप में राष्ट्रवाद का उदय",
+   829→      "Hindi",
+   830→      "रोमानी आंदोलन' ने सबसे पहले किस देश में गति पकड़ी?",
+   831→      "ब्रिटेन",
+   832→      "जर्मनी",
+   833→      "रूस",
+   834→      "इटली",
+   835→      2.0,
+   836→      "एक सांस्कृतिक आंदोलन के रूप में रोमांटिकतावाद विशेष रूप से जर्मनी में मजबूत था, जहाँ विचारकों ने 'वोल्क्सगेइस्ट' (राष्ट्र की आत्मा) पर जोर दिया था।",
+   837→      "CBSE",
+   838→      2018.0,
+   839→      null
+   840→    ]
+   841→  },
+   842→  {
+   843→    "sheet": "Class10",
+   844→    "row": 1094,
+   845→    "data": [
+   846→      "SST",
+   847→      1.0,
+   848→      "यूरोप में राष्ट्रवाद का उदय",
+   849→      "Hindi",
+   850→      "1871 के बाद बाल्कन में मुख्य तनाव क्या था?",
+   851→      "धार्मिक युद्ध",
+   852→      "नियंत्रण के लिए यूरोपीय शक्तियों के बीच प्रतिस्पर्धा",
+   853→      "औद्योगिक हड़तालें",
+   854→      "नए पोप की मांग",
+   855→      2.0,
+   856→      "जैसे-जैसे ओटोमन साम्राज्य कमजोर हुआ, रूस, जर्मनी और इंग्लैंड जैसी बड़ी यूरोपीय शक्तियों के बीच बाल्कन क्षेत्र पर नियंत्रण के लिए प्रतिस्पर्धा बढ़ गई।",
+   857→      "CBSE",
+   858→      2020.0,
+   859→      null
+   860→    ]
+   861→  },
+   862→  {
+   863→    "sheet": "Class10",
+   864→    "row": 1095,
+   865→    "data": [
+   866→      "SST",
+   867→      2.0,
+   868→      "Nationalism in India",
+   869→      "English",
+   870→      "In which year did Mahatma Gandhi return to India from South Africa?",
+   871→      1913.0,
+   872→      1915.0,
+   873→      1917.0,
+   874→      1919.0,
+   875→      2.0,
+   876→      "Mahatma Gandhi returned to India in January 1915 after successfully leading the Satyagraha movement in South Africa.",
+   877→      "CBSE",
+   878→      2022.0,
+   879→      null
+   880→    ]
+   881→  },
+   882→  {
+   883→    "sheet": "Class10",
+   884→    "row": 1096,
+   885→    "data": [
+   886→      "SST",
+   887→      2.0,
+   888→      "Nationalism in India",
+   889→      "English",
+   890→      "The Idea of Satyagraha emphasized the power of:",
+   891→      "Physical force",
+   892→      "Truth",
+   893→      "Violence",
+   894→      "Wealth",
+   895→      2.0,
+   896→      "Satyagraha was a novel method of mass agitation based on the power of truth and the need to search for truth without using physical force.",
+   897→      "CBSE",
+   898→      2023.0,
+   899→      null
+   900→    ]
+   901→  },
+   902→  {
+   903→    "sheet": "Class10",
+   904→    "row": 1097,
+   905→    "data": [
+   906→      "SST",
+   907→      2.0,
+   908→      "Nationalism in India",
+   909→      "English",
+   910→      "Where was the first Satyagraha movement organized by Mahatma Gandhi in India?",
+   911→      "Kheda",
+   912→      "Ahmedabad",
+   913→      "Champaran",
+   914→      "Bardoli",
+   915→      3.0,
+   916→      "In 1917, Gandhi traveled to Champaran in Bihar to inspire the peasants to struggle against the oppressive indigo plantation system.",
+   917→      "CBSE",
+   918→      2021.0,
+   919→      null
+   920→    ]
+   921→  },
+   922→  {
+   923→    "sheet": "Class10",
+   924→    "row": 1098,
+   925→    "data": [
+   926→      "SST",
+   927→      2.0,
+   928→      "Nationalism in India",
+   929→      "English",
+   930→      "Why was the Rowlatt Act (1919) called an 'Oppressive Act'?",
+   931→      "It allowed detention of political prisoners without trial for two years",
+   932→      "It banned all religious gatherings",
+   933→      "It increased taxes on food",
+   934→      "It forced Indians to join the British army",
+   935→      1.0,
+   936→      "The Rowlatt Act gave the government enormous powers to repress political activities and allowed the detention of political prisoners without trial for up to two years.",
+   937→      "CBSE",
+   938→      2019.0,
+   939→      null
+   940→    ]
+   941→  },
+   942→  {
+   943→    "sheet": "Class10",
+   944→    "row": 1099,
+   945→    "data": [
+   946→      "SST",
+   947→      2.0,
+   948→      "Nationalism in India",
+   949→      "English",
+   950→      "The Jallianwala Bagh incident took place on:",
+   951→      "1919-04-13T00:00:00",
+   952→      "1919-03-10T00:00:00",
+   953→      "1919-08-15T00:00:00",
+   954→      "1919-01-26T00:00:00",
+   955→      1.0,
+   956→      "On 13 April 1919, General Dyer opened fire on a large, peaceful crowd gathered in the enclosed ground of Jallianwala Bagh in Amritsar.",
+   957→      "CBSE",
+   958→      2022.0,
+   959→      null
+   960→    ]
+   961→  },
+   962→  {
+   963→    "sheet": "Class10",
+   964→    "row": 1100,
+   965→    "data": [
+   966→      "SST",
+   967→      2.0,
+   968→      "Nationalism in India",
+   969→      "English",
+   970→      "Which movement was started by the Ali Brothers, Muhammad Ali and Shaukat Ali?",
+   971→      "Non-Cooperation Movement",
+   972→      "Khilafat Movement",
+   973→      "Quit India Movement",
+   974→      "Civil Disobedience Movement",
+   975→      2.0,
+   976→      "The Khilafat Movement was started to defend the temporal powers of the Khalifa (Ottoman Emperor) after the First World War.",
+   977→      "CBSE",
+   978→      2020.0,
+   979→      null
+   980→    ]
+   981→  },
+   982→  {
+   983→    "sheet": "Class10",
+   984→    "row": 1101,
+   985→    "data": [
+   986→      "SST",
+   987→      2.0,
+   988→      "Nationalism in India",
+   989→      "English",
+   990→      "At which Congress session was the Non-Cooperation program adopted?",
+   991→      "Calcutta (Sept 1920)",
+   992→      "Nagpur (Dec 1920)",
+   993→      "Madras (1927)",
+   994→      "Lahore (1929)",
+   995→      2.0,
+   996→      "At the Nagpur session in December 1920, a compromise was worked out and the Non-Cooperation program was formally adopted by the Congress.",
+   997→      "CBSE",
+   998→      2023.0,
+   999→      null
+  1000→    ]
+  1001→  }
+  1002→]

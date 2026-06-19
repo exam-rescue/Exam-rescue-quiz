@@ -1,0 +1,1002 @@
+     1→     1→[
+     2→     2→  {
+     3→     3→    "sheet": "Class11",
+     4→     4→    "row": 1309,
+     5→     5→    "data": [
+     6→     6→      "Biology",
+     7→     7→      2.0,
+     8→     8→      "Biological Classification",
+     9→     9→      "English",
+    10→    10→      "Columella is a specialised structure found in the sporangium of",
+    11→    11→      "(a) Ulothrix",
+    12→    12→      "(b) Rhizopus",
+    13→    13→      "(c) Spirogyra",
+    14→    14→      "(d) None of these",
+    15→    15→      2.0,
+    16→    16→      "Columella is a sterile, dome-shaped structure found in the sporangium of Rhizopus.",
+    17→    17→      "CBSE AIPMT",
+    18→    18→      1999.0,
+    19→    19→      null
+    20→    20→    ]
+    21→    21→  },
+    22→    22→  {
+    23→    23→    "sheet": "Class11",
+    24→    24→    "row": 1310,
+    25→    25→    "data": [
+    26→    26→      "Biology",
+    27→    27→      2.0,
+    28→    28→      "Biological Classification",
+    29→    29→      "English",
+    30→    30→      "Puccinia forms",
+    31→    31→      "(a) uredia and aecia on wheat leaves",
+    32→    32→      "(b) uredia and telia on wheat leaves",
+    33→    33→      "(c) uredia and aecia on barbery leaves",
+    34→    34→      "(d) uredia and pycnia on barbery leaves",
+    35→    35→      2.0,
+    36→    36→      "Puccinia graminis produces urediniospores (in uredia) and teliospores (in telia) on the primary host, wheat.",
+    37→    37→      "CBSE AIPMT",
+    38→    38→      1998.0,
+    39→    39→      null
+    40→    40→    ]
+    41→    41→  },
+    42→    42→  {
+    43→    43→    "sheet": "Class11",
+    44→    44→    "row": 1311,
+    45→    45→    "data": [
+    46→    46→      "Biology",
+    47→    47→      2.0,
+    48→    48→      "Biological Classification",
+    49→    49→      "English",
+    50→    50→      "Most of the lichens consist of",
+    51→    51→      "(a) blue-green algae and Basidomycetes",
+    52→    52→      "(b) blue-green algae and Ascomycetes",
+    53→    53→      "(c) red algae and Ascomycetes",
+    54→    54→      "(d) brown algae and Phycomycetes",
+    55→    55→      2.0,
+    56→    56→      "Most lichens are an association between an ascomycete fungus and a green alga or cyanobacterium (blue-green alga).",
+    57→    57→      "CBSE AIPMT",
+    58→    58→      1997.0,
+    59→    59→      null
+    60→    60→    ]
+    61→    61→  },
+    62→    62→  {
+    63→    63→    "sheet": "Class11",
+    64→    64→    "row": 1313,
+    65→    65→    "data": [
+    66→    66→      "Biology",
+    67→    67→      2.0,
+    68→    68→      "जीव जगत का वर्गीकरण",
+    69→    69→      "Hindi",
+    70→    70→      "रोग और उसके कारक जीव के लिए कौन सा जोड़ा गलत है?",
+    71→    71→      "(a) Late blight of potato — Alternaria solani",
+    72→    72→      "(b) Black rust of wheat — Puccinia graminis",
+    73→    73→      "(c) Loose smut of wheat — Ustilago nuda",
+    74→    74→      "(d) Root-knot of vegetables — Meloidogyne sp.",
+    75→    75→      1.0,
+    76→    76→      "Late blight of potato Phytophthora infestans के कारण होता है। Alternaria solani आलू के early blight का कारण बनता है।",
+    77→    77→      "CBSE AIPMT",
+    78→    78→      2009.0,
+    79→    79→      null
+    80→    80→    ]
+    81→    81→  },
+    82→    82→  {
+    83→    83→    "sheet": "Class11",
+    84→    84→    "row": 1314,
+    85→    85→    "data": [
+    86→    86→      "Biology",
+    87→    87→      2.0,
+    88→    88→      "जीव जगत का वर्गीकरण",
+    89→    89→      "Hindi",
+    90→    90→      "Trichoderma harzianum किसके लिए एक उपयोगी सूक्ष्मजीव साबित हुआ है?",
+    91→    91→      "(a) दूषित मिट्टी का bioremediation",
+    92→    92→      "(b) बंजर भूमि का सुधार (reclamation)",
+    93→    93→      "(c) उच्च पौधों में जीन स्थानांतरण (gene transfer)",
+    94→    94→      "(d) मिट्टी से उत्पन्न होने वाले पौधों के रोगजनकों का जैविक नियंत्रण (biological control)",
+    95→    95→      4.0,
+    96→    96→      "Trichoderma harzianum एक कवक है जिसका उपयोग कई मिट्टी से उत्पन्न होने वाले पौधों के रोगजनकों के खिलाफ जैविक नियंत्रण एजेंट के रूप में किया जाता है।",
+    97→    97→      "CBSE AIPMT",
+    98→    98→      2008.0,
+    99→    99→      null
+   100→   100→    ]
+   101→   101→  },
+   102→   102→  {
+   103→   103→    "sheet": "Class11",
+   104→   104→    "row": 1315,
+   105→   105→    "data": [
+   106→   106→      "Biology",
+   107→   107→      2.0,
+   108→   108→      "जीव जगत का वर्गीकरण",
+   109→   109→      "Hindi",
+   110→   110→      "Cellulose किसकी कोशिका भित्ति (cell walls) का प्रमुख घटक है?",
+   111→   111→      "(a) Pythium",
+   112→   112→      "(b) Xanthomonas",
+   113→   113→      "(c) Pseudomonas",
+   114→   114→      "(d) Saccharomyces",
+   115→   115→      1.0,
+   116→   116→      "Pythium, Oomycetes से संबंधित है, जहाँ कोशिका भित्ति मुख्य रूप से सेलूलोज़ से बनी होती है, जबकि सच्चे कवक में काइटिन होता है।",
+   117→   117→      "CBSE AIPMT",
+   118→   118→      2008.0,
+   119→   119→      null
+   120→   120→    ]
+   121→   121→  },
+   122→   122→  {
+   123→   123→    "sheet": "Class11",
+   124→   124→    "row": 1316,
+   125→   125→    "data": [
+   126→   126→      "Biology",
+   127→   127→      2.0,
+   128→   128→      "जीव जगत का वर्गीकरण",
+   129→   129→      "Hindi",
+   130→   130→      "निम्नलिखित में से कौन एक स्लाइम मोल्ड (slime mold) है?",
+   131→   131→      "(a) Rhizopus",
+   132→   132→      "(b) Physarum",
+   133→   133→      "(c) Thiobacillus",
+   134→   134→      "(d) Anabaena",
+   135→   135→      2.0,
+   136→   136→      "Physarum एक स्लाइम मोल्ड (Myxomycetes) है। Rhizopus एक कवक है, Thiobacillus एक बैक्टीरिया है, और Anabaena एक सायनोबैक्टीरियम है।",
+   137→   137→      "CBSE AIPMT",
+   138→   138→      2007.0,
+   139→   139→      null
+   140→   140→    ]
+   141→   141→  },
+   142→   142→  {
+   143→   143→    "sheet": "Class11",
+   144→   144→    "row": 1317,
+   145→   145→    "data": [
+   146→   146→      "Biology",
+   147→   147→      2.0,
+   148→   148→      "जीव जगत का वर्गीकरण",
+   149→   149→      "Hindi",
+   150→   150→      "Ergot of rye किसकी एक प्रजाति के कारण होता है?",
+   151→   151→      "(a) Phytophthora",
+   152→   152→      "(b) Uncinula",
+   153→   153→      "(c) Ustilago",
+   154→   154→      "(d) Claviceps",
+   155→   155→      4.0,
+   156→   156→      "Ergot of rye कवक Claviceps purpurea के कारण होता है।",
+   157→   157→      "CBSE AIPMT",
+   158→   158→      2007.0,
+   159→   159→      null
+   160→   160→    ]
+   161→   161→  },
+   162→   162→  {
+   163→   163→    "sheet": "Class11",
+   164→   164→    "row": 1318,
+   165→   165→    "data": [
+   166→   166→      "Biology",
+   167→   167→      2.0,
+   168→   168→      "जीव जगत का वर्गीकरण",
+   169→   169→      "Hindi",
+   170→   170→      "निम्नलिखित में से कौन सा जोड़ा Basidiomycetes से संबंधित है?",
+   171→   171→      "(a) Birds nest fungi और puff balls",
+   172→   172→      "(b) Puff balls और Claviceps",
+   173→   173→      "(c) Peziza और stink horns",
+   174→   174→      "(d) Morchella और mushrooms",
+   175→   175→      1.0,
+   176→   176→      "Birds nest fungi और puffballs, Basidiomycetes के सदस्य हैं। Claviceps, Peziza, और Morchella, Ascomycetes से संबंधित हैं।",
+   177→   177→      "CBSE AIPMT",
+   178→   178→      2007.0,
+   179→   179→      null
+   180→   180→    ]
+   181→   181→  },
+   182→   182→  {
+   183→   183→    "sheet": "Class11",
+   184→   184→    "row": 1319,
+   185→   185→    "data": [
+   186→   186→      "Biology",
+   187→   187→      2.0,
+   188→   188→      "जीव जगत का वर्गीकरण",
+   189→   189→      "Hindi",
+   190→   190→      "Slime mold (Myxomycetes) के थैलॉइड शरीर (thalloid body) को किस रूप में जाना जाता है?",
+   191→   191→      "(a) Plasmodium",
+   192→   192→      "(b) fruiting body",
+   193→   193→      "(c) mycelium",
+   194→   194→      "(d) protonema",
+   195→   195→      1.0,
+   196→   196→      "Acellular slime moulds का वनस्पति, थैलॉइड शरीर Plasmodium कहलाता है, जो प्रोटोप्लाज्म का एक बहुसंस्कृति (multinucleate) द्रव्यमान है।",
+   197→   197→      "CBSE AIPMT",
+   198→   198→      2006.0,
+   199→   199→      null
+   200→   200→    ]
+   201→   201→  },
+   202→   202→  {
+   203→   203→    "sheet": "Class11",
+   204→   204→    "row": 1320,
+   205→   205→    "data": [
+   206→   206→      "Biology",
+   207→   207→      2.0,
+   208→   208→      "जीव जगत का वर्गीकरण",
+   209→   209→      "Hindi",
+   210→   210→      "रोटी के टुकड़े पर Mucor की इष्टतम वृद्धि के लिए निम्नलिखित में से कौन सी पर्यावरणीय परिस्थितियाँ आवश्यक हैं?\n (i) लगभग 25°C तापमान\n (ii) लगभग 5°C तापमान\n (iii) लगभग 5% सापेक्ष आर्द्रता\n (iv) लगभग 95% सापेक्ष आर्द्रता\n (v) एक छायादार जगह\n (vi) एक चमकदार जगह\n निम्नलिखित विकल्पों में से उत्तर चुनें",
+   211→   211→      "(a) (i), (iv) और (v) केवल",
+   212→   212→      "(b) (ii), (iv) और (v) केवल",
+   213→   213→      "(c) (ii), (iii) और (vi) केवल",
+   214→   214→      "(d) (i), (iii) और (v) केवल",
+   215→   215→      1.0,
+   216→   216→      "Mucor गर्म (25°C), नम (95% RH), और छायादार परिस्थितियों में सबसे अच्छा बढ़ता है।",
+   217→   217→      "CBSE AIPMT",
+   218→   218→      2006.0,
+   219→   219→      null
+   220→   220→    ]
+   221→   221→  },
+   222→   222→  {
+   223→   223→    "sheet": "Class11",
+   224→   224→    "row": 1321,
+   225→   225→    "data": [
+   226→   226→      "Biology",
+   227→   227→      2.0,
+   228→   228→      "जीव जगत का वर्गीकरण",
+   229→   229→      "Hindi",
+   230→   230→      "एक लाइकेन (lichen) के भीतर शैवाल (algae) और कवक (fungus) के बीच घनिष्ठ संबंध मौजूद होता है। कवक",
+   231→   231→      "(a) शैवाल के लिए सुरक्षा, लंगर और अवशोषण प्रदान करता है",
+   232→   232→      "(b) शैवाल के लिए भोजन प्रदान करता है",
+   233→   233→      "(c) शैवाल के लिए वायुमंडलीय नाइट्रोजन को ठीक करता है",
+   234→   234→      "(d) शैवाल के लिए ऑक्सीजन छोड़ता है",
+   235→   235→      1.0,
+   236→   236→      "लाइकेन में, कवक साथी (mycobiont) शैवाल (phycobiont) के लिए आश्रय, लंगर और पानी और खनिजों को अवशोषित करता है।",
+   237→   237→      "CBSE AIPMT",
+   238→   238→      2005.0,
+   239→   239→      null
+   240→   240→    ]
+   241→   241→  },
+   242→   242→  {
+   243→   243→    "sheet": "Class11",
+   244→   244→    "row": 1322,
+   245→   245→    "data": [
+   246→   246→      "Biology",
+   247→   247→      2.0,
+   248→   248→      "जीव जगत का वर्गीकरण",
+   249→   249→      "Hindi",
+   250→   250→      "Lichens शैवाल (algae) और कवक (fungus) का एक प्रसिद्ध संयोजन है जहाँ कवक का",
+   251→   251→      "(a) शैवाल के साथ saprophytic संबंध है",
+   252→   252→      "(b) शैवाल के साथ epiphytic संबंध है",
+   253→   253→      "(c) शैवाल के साथ parasitic संबंध है",
+   254→   254→      "(d) शैवाल के साथ symbiotic संबंध है",
+   255→   255→      4.0,
+   256→   256→      "Lichens शैवाल और कवक के बीच एक सहजीवी संबंध (mutualism) का प्रतिनिधित्व करते हैं।",
+   257→   257→      "CBSE AIPMT",
+   258→   258→      2004.0,
+   259→   259→      null
+   260→   260→    ]
+   261→   261→  },
+   262→   262→  {
+   263→   263→    "sheet": "Class11",
+   264→   264→    "row": 1323,
+   265→   265→    "data": [
+   266→   266→      "Biology",
+   267→   267→      2.0,
+   268→   268→      "जीव जगत का वर्गीकरण",
+   269→   269→      "Hindi",
+   270→   270→      "रोटी (bread) के निर्माण के दौरान किसकी क्रिया द्वारा CO2 की रिहाई के कारण यह छिद्रपूर्ण (porous) हो जाती है?",
+   271→   271→      "(a) yeast",
+   272→   272→      "(b) bacteria",
+   273→   273→      "(c) virus",
+   274→   274→      "(d) protozoans",
+   275→   275→      1.0,
+   276→   276→      "खमीर (Yeast) (Saccharomyces cerevisiae) किण्वन करता है, जिससे CO2 निकलती है जो रोटी को छिद्रपूर्ण बनाती है।",
+   277→   277→      "CBSE AIPMT",
+   278→   278→      2002.0,
+   279→   279→      null
+   280→   280→    ]
+   281→   281→  },
+   282→   282→  {
+   283→   283→    "sheet": "Class11",
+   284→   284→    "row": 1324,
+   285→   285→    "data": [
+   286→   286→      "Biology",
+   287→   287→      2.0,
+   288→   288→      "जीव जगत का वर्गीकरण",
+   289→   289→      "Hindi",
+   290→   290→      "कौन सा कवक रोग (fungal disease) बीज और फूलों से फैलता है?",
+   291→   291→      "(a) Loose smut of wheat",
+   292→   292→      "(b) Corn stunt",
+   293→   293→      "(c) Covered smut of barley",
+   294→   294→      "(d) Soft rot of potato",
+   295→   295→      1.0,
+   296→   296→      "Loose smut of wheat, Ustilago nuda के कारण होता है, जो एक आंतरिक रूप से बीज-जनित बीमारी है जहाँ संक्रमण फूलों के माध्यम से फैलता है।",
+   297→   297→      "CBSE AIPMT",
+   298→   298→      2002.0,
+   299→   299→      null
+   300→   300→    ]
+   301→   301→  },
+   302→   302→  {
+   303→   303→    "sheet": "Class11",
+   304→   304→    "row": 1325,
+   305→   305→    "data": [
+   306→   306→      "Biology",
+   307→   307→      2.0,
+   308→   308→      "जीव जगत का वर्गीकरण",
+   309→   309→      "Hindi",
+   310→   310→      "पौधों के अपघटक (Plant decomposers) हैं",
+   311→   311→      "(a) Monera और Fungi",
+   312→   312→      "(b) Fungi और Plants",
+   313→   313→      "(c) Protista और Animalia",
+   314→   314→      "(d) Animalia और Monera",
+   315→   315→      1.0,
+   316→   316→      "बैक्टीरिया (Monera) और कवक (Fungi) पारिस्थितिक तंत्र में प्राथमिक अपघटक हैं, जो कार्बनिक पदार्थों को तोड़ते हैं।",
+   317→   317→      "CBSE AIPMT",
+   318→   318→      2001.0,
+   319→   319→      null
+   320→   320→    ]
+   321→   321→  },
+   322→   322→  {
+   323→   323→    "sheet": "Class11",
+   324→   324→    "row": 1326,
+   325→   325→    "data": [
+   326→   326→      "Biology",
+   327→   327→      2.0,
+   328→   328→      "जीव जगत का वर्गीकरण",
+   329→   329→      "Hindi",
+   330→   330→      "कवक का चिपकने वाला पैड (Adhesive pad) किसकी मदद से मेजबान (host) में प्रवेश करता है?",
+   331→   331→      "(a) यांत्रिक दबाव (mechanical pressure) और एंजाइम",
+   332→   332→      "(b) हुक (hooks) और चूसने वाले (suckers)",
+   333→   333→      "(c) एंजाइमों द्वारा नरम होना",
+   334→   334→      "(d) केवल यांत्रिक दबाव द्वारा",
+   335→   335→      1.0,
+   336→   336→      "कवक एप्रेसोरिया (appressoria) द्वारा लगाए गए यांत्रिक दबाव और कोशिका भित्ति-विघटित करने वाले एंजाइमों को स्रावित करके मेजबान के ऊतकों में प्रवेश करते हैं।",
+   337→   337→      "CBSE AIPMT",
+   338→   338→      2001.0,
+   339→   339→      null
+   340→   340→    ]
+   341→   341→  },
+   342→   342→  {
+   343→   343→    "sheet": "Class11",
+   344→   344→    "row": 1327,
+   345→   345→    "data": [
+   346→   346→      "Biology",
+   347→   347→      2.0,
+   348→   348→      "जीव जगत का वर्गीकरण",
+   349→   349→      "Hindi",
+   350→   350→      "कवक (fungi) में संग्रहीत खाद्य सामग्री (stored food material) है",
+   351→   351→      "(a) glycogen",
+   352→   352→      "(b) starch",
+   353→   353→      "(c) sucrose",
+   354→   354→      "(d) glucose",
+   355→   355→      1.0,
+   356→   356→      "कवक मुख्य रूप से ग्लाइकोजन और तेल की बूंदों के रूप में भोजन जमा करते हैं, जो जानवरों के समान है।",
+   357→   357→      "CBSE AIPMT",
+   358→   358→      2000.0,
+   359→   359→      null
+   360→   360→    ]
+   361→   361→  },
+   362→   362→  {
+   363→   363→    "sheet": "Class11",
+   364→   364→    "row": 1328,
+   365→   365→    "data": [
+   366→   366→      "Biology",
+   367→   367→      2.0,
+   368→   368→      "जीव जगत का वर्गीकरण",
+   369→   369→      "Hindi",
+   370→   370→      "Black rust of wheat किसके कारण होता है?",
+   371→   371→      "(a) Puccinia",
+   372→   372→      "(b) Mucor",
+   373→   373→      "(c) Aspergillus",
+   374→   374→      "(d) Rhizopus",
+   375→   375→      1.0,
+   376→   376→      "गेहूं का Black rust (stem rust) कवक Puccinia graminis के कारण होता है।",
+   377→   377→      "CBSE AIPMT",
+   378→   378→      2000.0,
+   379→   379→      null
+   380→   380→    ]
+   381→   381→  },
+   382→   382→  {
+   383→   383→    "sheet": "Class11",
+   384→   384→    "row": 1329,
+   385→   385→    "data": [
+   386→   386→      "Biology",
+   387→   387→      2.0,
+   388→   388→      "जीव जगत का वर्गीकरण",
+   389→   389→      "Hindi",
+   390→   390→      "प्रदूषण के मामले में लाइकेन (lichens) का उपयोग निम्नलिखित में से कौन सा है?",
+   391→   391→      "(a) Lichens का प्रदूषण से कोई संबंध नहीं है",
+   392→   392→      "(b) वे प्रदूषण के जैव संकेतक (bioindicators) के रूप में कार्य करते हैं",
+   393→   393→      "(c) वे प्रदूषित पानी का उपचार करते हैं",
+   394→   394→      "(d) वे प्रदूषण को बढ़ावा देते हैं",
+   395→   395→      2.0,
+   396→   396→      "लाइकेन SO2 के प्रति संवेदनशील होते हैं और प्रदूषण वाले क्षेत्रों में नहीं उगते हैं, जो वायु प्रदूषण के जैव संकेतक के रूप में कार्य करते हैं।",
+   397→   397→      "CBSE AIPMT",
+   398→   398→      1999.0,
+   399→   399→      null
+   400→   400→    ]
+   401→   401→  },
+   402→   402→  {
+   403→   403→    "sheet": "Class11",
+   404→   404→    "row": 1330,
+   405→   405→    "data": [
+   406→   406→      "Biology",
+   407→   407→      2.0,
+   408→   408→      "जीव जगत का वर्गीकरण",
+   409→   409→      "Hindi",
+   410→   410→      "Columella एक विशेष संरचना है जो किसके sporangium में पाई जाती है?",
+   411→   411→      "(a) Ulothrix",
+   412→   412→      "(b) Rhizopus",
+   413→   413→      "(c) Spirogyra",
+   414→   414→      "(d) इनमें से कोई नहीं",
+   415→   415→      2.0,
+   416→   416→      "Columella एक बाँझ, गुंबद के आकार की संरचना है जो Rhizopus के sporangium में पाई जाती है।",
+   417→   417→      "CBSE AIPMT",
+   418→   418→      1999.0,
+   419→   419→      null
+   420→   420→    ]
+   421→   421→  },
+   422→   422→  {
+   423→   423→    "sheet": "Class11",
+   424→   424→    "row": 1331,
+   425→   425→    "data": [
+   426→   426→      "Biology",
+   427→   427→      2.0,
+   428→   428→      "जीव जगत का वर्गीकरण",
+   429→   429→      "Hindi",
+   430→   430→      "Puccinia बनाता है",
+   431→   431→      "(a) गेहूं की पत्तियों पर uredia और aecia",
+   432→   432→      "(b) गेहूं की पत्तियों पर uredia और telia",
+   433→   433→      "(c) barbery की पत्तियों पर uredia और aecia",
+   434→   434→      "(d) barbery की पत्तियों पर uredia और pycnia",
+   435→   435→      2.0,
+   436→   436→      "Puccinia graminis प्राथमिक मेजबान, गेहूं पर urediniospores (uredia में) और teliospores (telia में) पैदा करता है।",
+   437→   437→      "CBSE AIPMT",
+   438→   438→      1998.0,
+   439→   439→      null
+   440→   440→    ]
+   441→   441→  },
+   442→   442→  {
+   443→   443→    "sheet": "Class11",
+   444→   444→    "row": 1332,
+   445→   445→    "data": [
+   446→   446→      "Biology",
+   447→   447→      2.0,
+   448→   448→      "जीव जगत का वर्गीकरण",
+   449→   449→      "Hindi",
+   450→   450→      "अधिकांश लाइकेन (lichens) में होते हैं",
+   451→   451→      "(a) blue-green algae और Basidomycetes",
+   452→   452→      "(b) blue-green algae और Ascomycetes",
+   453→   453→      "(c) red algae और Ascomycetes",
+   454→   454→      "(d) brown algae और Phycomycetes",
+   455→   455→      2.0,
+   456→   456→      "अधिकांश लाइकेन एक ascomycete कवक और एक हरे शैवाल या साइनोबैक्टीरियम (blue-green alga) के बीच एक संघ हैं।",
+   457→   457→      "CBSE AIPMT",
+   458→   458→      1997.0,
+   459→   459→      null
+   460→   460→    ]
+   461→   461→  },
+   462→   462→  {
+   463→   463→    "sheet": "Class11",
+   464→   464→    "row": 1334,
+   465→   465→    "data": [
+   466→   466→      "Biology",
+   467→   467→      2.0,
+   468→   468→      "Biological Classification",
+   469→   469→      "English",
+   470→   470→      "Which one of the following is not true about lichens?",
+   471→   471→      "(a) Their body is composed of both algal and fungal cells",
+   472→   472→      "(b) Some form food for reindeers in Arctic regions",
+   473→   473→      "(c) Some species can be used as pollution indicators",
+   474→   474→      "(d) These grow very fast at the rate of about 2 cm per year",
+   475→   475→      4.0,
+   476→   476→      "Lichens show very slow growth. Their size and slow rate of growth suggest that some lichens in the Arctic are very old.",
+   477→   477→      "CBSE AIPMT",
+   478→   478→      1996.0,
+   479→   479→      null
+   480→   480→    ]
+   481→   481→  },
+   482→   482→  {
+   483→   483→    "sheet": "Class11",
+   484→   484→    "row": 1335,
+   485→   485→    "data": [
+   486→   486→      "Biology",
+   487→   487→      2.0,
+   488→   488→      "Biological Classification",
+   489→   489→      "English",
+   490→   490→      "Which of the following is not correctly matched?",
+   491→   491→      "(a) Root knot disease — Meloidogyne javanica",
+   492→   492→      "(b) Smut of bajra — Tolysporium penicillariae",
+   493→   493→      "(c) Covered smut of barley — Ustilago nuda",
+   494→   494→      "(d) Late blight of potato — Phytophthora infestans",
+   495→   495→      3.0,
+   496→   496→      "Covered smut of barley is caused by Ustilago hordei. Ustilago nuda causes loose smut of barley.",
+   497→   497→      "CBSE AIPMT",
+   498→   498→      1995.0,
+   499→   499→      null
+   500→   500→    ]
+   501→   501→  },
+   502→   502→  {
+   503→   503→    "sheet": "Class11",
+   504→   504→    "row": 1336,
+   505→   505→    "data": [
+   506→   506→      "Biology",
+   507→   507→      2.0,
+   508→   508→      "Biological Classification",
+   509→   509→      "English",
+   510→   510→      "The chemical compounds produced by the host plants to protect themselves against fungal infection is",
+   511→   511→      "(a) phytotoxin",
+   512→   512→      "(b) pathogen",
+   513→   513→      "(c) phytoalexins",
+   514→   514→      "(d) hormone",
+   515→   515→      3.0,
+   516→   516→      "Phytoalexins are chemical substances produced by plants in response to fungal infection and are toxic to fungi.",
+   517→   517→      "CBSE AIPMT",
+   518→   518→      1995.0,
+   519→   519→      null
+   520→   520→    ]
+   521→   521→  },
+   522→   522→  {
+   523→   523→    "sheet": "Class11",
+   524→   524→    "row": 1337,
+   525→   525→    "data": [
+   526→   526→      "Biology",
+   527→   527→      2.0,
+   528→   528→      "Biological Classification",
+   529→   529→      "English",
+   530→   530→      "White rust disease is caused by",
+   531→   531→      "(a) Claviceps",
+   532→   532→      "(b) Alternaria",
+   533→   533→      "(c) Phytophthora",
+   534→   534→      "(d) Albugo candida",
+   535→   535→      4.0,
+   536→   536→      "Albugo candida (Oomycetes) causes white rust or blister rust disease in crucifers like mustard.",
+   537→   537→      "CBSE AIPMT",
+   538→   538→      1995.0,
+   539→   539→      null
+   540→   540→    ]
+   541→   541→  },
+   542→   542→  {
+   543→   543→    "sheet": "Class11",
+   544→   544→    "row": 1338,
+   545→   545→    "data": [
+   546→   546→      "Biology",
+   547→   547→      2.0,
+   548→   548→      "Biological Classification",
+   549→   549→      "English",
+   550→   550→      "Ustilago caused plant diseases are called smuts because",
+   551→   551→      "(a) they parasitise cereals",
+   552→   552→      "(b) Mycelium is black",
+   553→   553→      "(c) they develop sooty masses of spores",
+   554→   554→      "(d) affected parts become completely black",
+   555→   555→      3.0,
+   556→   556→      "The black dusty masses of spores produced by these fungi resemble soot or smut, hence the name smut fungi.",
+   557→   557→      "CBSE AIPMT",
+   558→   558→      1994.0,
+   559→   559→      null
+   560→   560→    ]
+   561→   561→  },
+   562→   562→  {
+   563→   563→    "sheet": "Class11",
+   564→   564→    "row": 1339,
+   565→   565→    "data": [
+   566→   566→      "Biology",
+   567→   567→      2.0,
+   568→   568→      "Biological Classification",
+   569→   569→      "English",
+   570→   570→      "Mycorrhiza represents",
+   571→   571→      "(a) antagonism",
+   572→   572→      "(b) endemism",
+   573→   573→      "(c) symbiosis",
+   574→   574→      "(d) parasitism",
+   575→   575→      3.0,
+   576→   576→      "Mycorrhiza represents a symbiotic association of fungi with the roots of higher plants.",
+   577→   577→      "CBSE AIPMT",
+   578→   578→      "1994, 96, 2003",
+   579→   579→      null
+   580→   580→    ]
+   581→   581→  },
+   582→   582→  {
+   583→   583→    "sheet": "Class11",
+   584→   584→    "row": 1340,
+   585→   585→    "data": [
+   586→   586→      "Biology",
+   587→   587→      2.0,
+   588→   588→      "Biological Classification",
+   589→   589→      "English",
+   590→   590→      "Absorptive heterotrophic nutrition is exhibited by",
+   591→   591→      "(a) algae",
+   592→   592→      "(b) fungi",
+   593→   593→      "(c) bryophytes",
+   594→   594→      "(d) pteridophytes",
+   595→   595→      2.0,
+   596→   596→      "Fungi are heterotrophic and obtain nutrition from hosts or substrates by absorption (holophytic type).",
+   597→   597→      "CBSE AIPMT",
+   598→   598→      1990.0,
+   599→   599→      null
+   600→   600→    ]
+   601→   601→  },
+   602→   602→  {
+   603→   603→    "sheet": "Class11",
+   604→   604→    "row": 1341,
+   605→   605→    "data": [
+   606→   606→      "Biology",
+   607→   607→      2.0,
+   608→   608→      "Biological Classification",
+   609→   609→      "English",
+   610→   610→      "Lichens indicate SO2 pollution because they",
+   611→   611→      "(a) show association between algae and fungi",
+   612→   612→      "(b) grow faster than others",
+   613→   613→      "(c) are sensitive to SO2",
+   614→   614→      "(d) flourish in SO2 rich environment",
+   615→   615→      3.0,
+   616→   616→      "Lichens are extremely sensitive to SO2 pollution and their growth is inhibited in polluted areas, acting as bioindicators.",
+   617→   617→      "CBSE AIPMT",
+   618→   618→      "1989, 92",
+   619→   619→      null
+   620→   620→    ]
+   621→   621→  },
+   622→   622→  {
+   623→   623→    "sheet": "Class11",
+   624→   624→    "row": 1342,
+   625→   625→    "data": [
+   626→   626→      "Biology",
+   627→   627→      2.0,
+   628→   628→      "Biological Classification",
+   629→   629→      "English",
+   630→   630→      "Which of the following statements about inclusion bodies is incorrect?",
+   631→   631→      "(a) These are involved in ingestion of food particles",
+   632→   632→      "(b) They lie free in the cytoplasm",
+   633→   633→      "(c) These represent reserve material in cytoplasm",
+   634→   634→      "(d) They are not bound by any membrane",
+   635→   635→      1.0,
+   636→   636→      "Inclusion bodies are reserve materials (like phosphate granules, glycogen granules) and are not involved in ingestion of food particles.",
+   637→   637→      "NEET (Sep.)",
+   638→   638→      2020.0,
+   639→   639→      null
+   640→   640→    ]
+   641→   641→  },
+   642→   642→  {
+   643→   643→    "sheet": "Class11",
+   644→   644→    "row": 1343,
+   645→   645→    "data": [
+   646→   646→      "Biology",
+   647→   647→      2.0,
+   648→   648→      "Biological Classification",
+   649→   649→      "English",
+   650→   650→      "Which of the following statements is incorrect?",
+   651→   651→      "(a) Viruses are obligate parasites",
+   652→   652→      "(b) Infective constituent in viruses is the protein coat",
+   653→   653→      "(c) Prions consist of abnormally folded proteins",
+   654→   654→      "(d) Viroids lack a protein coat",
+   655→   655→      2.0,
+   656→   656→      "The infective constituent in viruses is the genetic material (DNA or RNA), not the protein coat.",
+   657→   657→      "NEET (National)",
+   658→   658→      2019.0,
+   659→   659→      null
+   660→   660→    ]
+   661→   661→  },
+   662→   662→  {
+   663→   663→    "sheet": "Class11",
+   664→   664→    "row": 1344,
+   665→   665→    "data": [
+   666→   666→      "Biology",
+   667→   667→      2.0,
+   668→   668→      "Biological Classification",
+   669→   669→      "English",
+   670→   670→      "Viroids differ from viruses in having",
+   671→   671→      "(a) DNA molecules with protein coat",
+   672→   672→      "(b) DNA molecules without protein coat",
+   673→   673→      "(c) RNA molecules with protein coat",
+   674→   674→      "(d) RNA molecules without protein coat",
+   675→   675→      4.0,
+   676→   676→      "Viroids consist of RNA molecules without a protein coat, whereas viruses have a protein coat.",
+   677→   677→      "NEET",
+   678→   678→      2017.0,
+   679→   679→      null
+   680→   680→    ]
+   681→   681→  },
+   682→   682→  {
+   683→   683→    "sheet": "Class11",
+   684→   684→    "row": 1345,
+   685→   685→    "data": [
+   686→   686→      "Biology",
+   687→   687→      2.0,
+   688→   688→      "Biological Classification",
+   689→   689→      "English",
+   690→   690→      "Which of the following statements is wrong for viroids?",
+   691→   691→      "(a) They are smaller than viruses",
+   692→   692→      "(b) They cause infections",
+   693→   693→      "(c) Their RNA is of high molecular weight",
+   694→   694→      "(d) They lack a protein coat",
+   695→   695→      3.0,
+   696→   696→      "Viroids contain RNA of low molecular weight, not high.",
+   697→   697→      "NEET",
+   698→   698→      "2016 Phase I",
+   699→   699→      null
+   700→   700→    ]
+   701→   701→  },
+   702→   702→  {
+   703→   703→    "sheet": "Class11",
+   704→   704→    "row": 1346,
+   705→   705→    "data": [
+   706→   706→      "Biology",
+   707→   707→      2.0,
+   708→   708→      "Biological Classification",
+   709→   709→      "English",
+   710→   710→      "Select wrong statement.",
+   711→   711→      "(a) The viroids were discovered by DJ Ivanowski",
+   712→   712→      "(b) WM Stanley showed that viruses could be crystallised",
+   713→   713→      "(c) The term ‘ Contagium vivum fluidum ’ was coined by MW Beijerinek",
+   714→   714→      "(d) Mosaic disease in tobacco and AIDS in human being are caused by viruses",
+   715→   715→      1.0,
+   716→   716→      "Viroids were discovered by T.O. Diener in 1971, not by D.J. Ivanowski.",
+   717→   717→      "CBSE AIPMT",
+   718→   718→      2015.0,
+   719→   719→      null
+   720→   720→    ]
+   721→   721→  },
+   722→   722→  {
+   723→   723→    "sheet": "Class11",
+   724→   724→    "row": 1347,
+   725→   725→    "data": [
+   726→   726→      "Biology",
+   727→   727→      2.0,
+   728→   728→      "Biological Classification",
+   729→   729→      "English",
+   730→   730→      "Which of the following shows coiled RNA strand and capsomeres?",
+   731→   731→      "(a) Polio virus",
+   732→   732→      "(b) Tobacco mosaic virus",
+   733→   733→      "(c) Measles virus",
+   734→   734→      "(d) Retrovirus",
+   735→   735→      2.0,
+   736→   736→      "TMV has a single-stranded helically coiled RNA and capsomeres arranged in a helical manner.",
+   737→   737→      "CBSE AIPMT",
+   738→   738→      2014.0,
+   739→   739→      null
+   740→   740→    ]
+   741→   741→  },
+   742→   742→  {
+   743→   743→    "sheet": "Class11",
+   744→   744→    "row": 1348,
+   745→   745→    "data": [
+   746→   746→      "Biology",
+   747→   747→      2.0,
+   748→   748→      "Biological Classification",
+   749→   749→      "English",
+   750→   750→      "Which statement is wrong for viruses?",
+   751→   751→      "(a) All are parasites",
+   752→   752→      "(b) All of them have helical symmetry",
+   753→   753→      "(c) They have ability to synthesise nucleic acids and proteins",
+   754→   754→      "(d) Antibiotics have no effect on them",
+   755→   755→      2.0,
+   756→   756→      "Viruses have different symmetries; for example, some are helical (rod-shaped) while others are icosahedral (spherical).",
+   757→   757→      "CBSE AIPMT",
+   758→   758→      2012.0,
+   759→   759→      null
+   760→   760→    ]
+   761→   761→  },
+   762→   762→  {
+   763→   763→    "sheet": "Class11",
+   764→   764→    "row": 1349,
+   765→   765→    "data": [
+   766→   766→      "Biology",
+   767→   767→      2.0,
+   768→   768→      "Biological Classification",
+   769→   769→      "English",
+   770→   770→      "Virus envelope is known as",
+   771→   771→      "(a) capsid",
+   772→   772→      "(b) virion",
+   773→   773→      "(c) nucleoprotein",
+   774→   774→      "(d) core",
+   775→   775→      1.0,
+   776→   776→      "The protein shell surrounding the nucleic acid of a virus is called the capsid.",
+   777→   777→      "CBSE AIPMT",
+   778→   778→      2010.0,
+   779→   779→      null
+   780→   780→    ]
+   781→   781→  },
+   782→   782→  {
+   783→   783→    "sheet": "Class11",
+   784→   784→    "row": 1350,
+   785→   785→    "data": [
+   786→   786→      "Biology",
+   787→   787→      2.0,
+   788→   788→      "Biological Classification",
+   789→   789→      "English",
+   790→   790→      "TO Diener discovered a",
+   791→   791→      "(a) free infectious RNA",
+   792→   792→      "(b) free infectious DNA",
+   793→   793→      "(c) infectious protein",
+   794→   794→      "(d) bacteriophage",
+   795→   795→      1.0,
+   796→   796→      "T.O. Diener discovered viroids, which are free infectious RNA molecules without a protein coat.",
+   797→   797→      "CBSE AIPMT",
+   798→   798→      2009.0,
+   799→   799→      null
+   800→   800→    ]
+   801→   801→  },
+   802→   802→  {
+   803→   803→    "sheet": "Class11",
+   804→   804→    "row": 1351,
+   805→   805→    "data": [
+   806→   806→      "Biology",
+   807→   807→      2.0,
+   808→   808→      "Biological Classification",
+   809→   809→      "English",
+   810→   810→      "Viruses that infect bacteria, multiply and cause their lysis are called",
+   811→   811→      "(a) lysozymes",
+   812→   812→      "(b) lytic",
+   813→   813→      "(c) lipolytic",
+   814→   814→      "(d) lysogenic",
+   815→   815→      2.0,
+   816→   816→      "The cycle in which viruses multiply within a host bacterium and cause its lysis is called the lytic cycle.",
+   817→   817→      "CBSE AIPMT",
+   818→   818→      2004.0,
+   819→   819→      null
+   820→   820→    ]
+   821→   821→  },
+   822→   822→  {
+   823→   823→    "sheet": "Class11",
+   824→   824→    "row": 1352,
+   825→   825→    "data": [
+   826→   826→      "Biology",
+   827→   827→      2.0,
+   828→   828→      "Biological Classification",
+   829→   829→      "English",
+   830→   830→      "Which of the following statements is not true for retroviruses?",
+   831→   831→      "(a) DNA is not present at any stage in the life cycle of retroviruses",
+   832→   832→      "(b) Retroviruses carry gene for RNA dependent DNA polymerase",
+   833→   833→      "(c) The genetic material in mature retroviruses is RNA",
+   834→   834→      "(d) Retroviruses are causative agents for certain kinds of cancer in man",
+   835→   835→      1.0,
+   836→   836→      "Retroviruses synthesise DNA from RNA using reverse transcriptase during their replication cycle, so DNA is present.",
+   837→   837→      "CBSE AIPMT",
+   838→   838→      2004.0,
+   839→   839→      null
+   840→   840→    ]
+   841→   841→  },
+   842→   842→  {
+   843→   843→    "sheet": "Class11",
+   844→   844→    "row": 1353,
+   845→   845→    "data": [
+   846→   846→      "Biology",
+   847→   847→      2.0,
+   848→   848→      "Biological Classification",
+   849→   849→      "English",
+   850→   850→      "Viruses are no more ‘alive’ than isolated chromosomes because",
+   851→   851→      "(a) both require the environment of a cell to replicate",
+   852→   852→      "(b) they require both RNA and DNA",
+   853→   853→      "(c) they both need food molecules",
+   854→   854→      "(d) they both require oxygen for respiration",
+   855→   855→      1.0,
+   856→   856→      "Viruses are obligate parasites that lack their own metabolic machinery and require a host cell to replicate.",
+   857→   857→      "CBSE AIPMT",
+   858→   858→      2003.0,
+   859→   859→      null
+   860→   860→    ]
+   861→   861→  },
+   862→   862→  {
+   863→   863→    "sheet": "Class11",
+   864→   864→    "row": 1354,
+   865→   865→    "data": [
+   866→   866→      "Biology",
+   867→   867→      2.0,
+   868→   868→      "Biological Classification",
+   869→   869→      "English",
+   870→   870→      "Which one of the following statements about viruses is correct?",
+   871→   871→      "(a) Nucleic acid of viruses is known as capsid",
+   872→   872→      "(b) Viruses possess their own metabolic system",
+   873→   873→      "(c) All viruses contain both RNA and DNA",
+   874→   874→      "(d) Viruses are obligate parasites",
+   875→   875→      4.0,
+   876→   876→      "Viruses are non-cellular, obligate parasites. They have DNA or RNA as genetic material (never both). Viruses do not contain their own metabolic system.",
+   877→   877→      "CBSE AIPMT",
+   878→   878→      2003.0,
+   879→   879→      null
+   880→   880→    ]
+   881→   881→  },
+   882→   882→  {
+   883→   883→    "sheet": "Class11",
+   884→   884→    "row": 1355,
+   885→   885→    "data": [
+   886→   886→      "Biology",
+   887→   887→      2.0,
+   888→   888→      "Biological Classification",
+   889→   889→      "English",
+   890→   890→      "Tobacco mosaic virus is a tubular filament of size",
+   891→   891→      "(a) 700 × 30 nm",
+   892→   892→      "(b) 300 × 10 nm",
+   893→   893→      "(c) 300 × 5 nm",
+   894→   894→      "(d) 300 × 18 nm",
+   895→   895→      4.0,
+   896→   896→      "TMV is elongated rod-like, 3000 Å (300 nm) long and 180 Å (18 nm) in diameter.",
+   897→   897→      "CBSE AIPMT",
+   898→   898→      2003.0,
+   899→   899→      null
+   900→   900→    ]
+   901→   901→  },
+   902→   902→  {
+   903→   903→    "sheet": "Class11",
+   904→   904→    "row": 1356,
+   905→   905→    "data": [
+   906→   906→      "Biology",
+   907→   907→      2.0,
+   908→   908→      "Biological Classification",
+   909→   909→      "English",
+   910→   910→      "Interferons are synthesised in response to",
+   911→   911→      "(a) Mycoplasma",
+   912→   912→      "(b) bacteria",
+   913→   913→      "(c) viruses",
+   914→   914→      "(d) fungi",
+   915→   915→      3.0,
+   916→   916→      "Cells infected by virus produce interferon which is an antiviral protein. It spreads to neighbouring cells and makes them resistant to virus infections.",
+   917→   917→      "CBSE AIPMT",
+   918→   918→      2001.0,
+   919→   919→      null
+   920→   920→    ]
+   921→   921→  },
+   922→   922→  {
+   923→   923→    "sheet": "Class11",
+   924→   924→    "row": 1357,
+   925→   925→    "data": [
+   926→   926→      "Biology",
+   927→   927→      2.0,
+   928→   928→      "Biological Classification",
+   929→   929→      "English",
+   930→   930→      "Cauliflower mosaic virus contains",
+   931→   931→      "(a) ssRNA",
+   932→   932→      "(b) dsRNA",
+   933→   933→      "(c) dsDNA",
+   934→   934→      "(d) ssDNA",
+   935→   935→      3.0,
+   936→   936→      "Caulimovirus (Cauliflower Mosaic Virus) contains double stranded (ds) DNA.",
+   937→   937→      "CBSE AIPMT",
+   938→   938→      2001.0,
+   939→   939→      null
+   940→   940→    ]
+   941→   941→  },
+   942→   942→  {
+   943→   943→    "sheet": "Class11",
+   944→   944→    "row": 1358,
+   945→   945→    "data": [
+   946→   946→      "Biology",
+   947→   947→      2.0,
+   948→   948→      "Biological Classification",
+   949→   949→      "English",
+   950→   950→      "Which one of the following statements about viruses is correct?",
+   951→   951→      "(a) Viruses possess their own metabolic system",
+   952→   952→      "(b) Viruses contain either DNA or RNA",
+   953→   953→      "(c) Viruses are facultative parasites",
+   954→   954→      "(d) Viruses are readily killed by antibiotics",
+   955→   955→      2.0,
+   956→   956→      "Viruses contain only one type of nucleic acid DNA or RNA. These are obligate parasites; do not possess metabolic machinery.",
+   957→   957→      "CBSE AIPMT",
+   958→   958→      1997.0,
+   959→   959→      null
+   960→   960→    ]
+   961→   961→  },
+   962→   962→  {
+   963→   963→    "sheet": "Class11",
+   964→   964→    "row": 1359,
+   965→   965→    "data": [
+   966→   966→      "Biology",
+   967→   967→      2.0,
+   968→   968→      "Biological Classification",
+   969→   969→      "English",
+   970→   970→      "Influenza virus has",
+   971→   971→      "(a) DNA",
+   972→   972→      "(b) RNA",
+   973→   973→      "(c) Both (a) and (b)",
+   974→   974→      "(d) Only proteins and no nucleic acids",
+   975→   975→      2.0,
+   976→   976→      "Influenza virus is single (–) stranded RNA virus, which cannot serve directly as mRNA but rather as templates for mRNA synthesis via a viral transcriptase.",
+   977→   977→      "CBSE AIPMT",
+   978→   978→      1996.0,
+   979→   979→      null
+   980→   980→    ]
+   981→   981→  },
+   982→   982→  {
+   983→   983→    "sheet": "Class11",
+   984→   984→    "row": 1360,
+   985→   985→    "data": [
+   986→   986→      "Biology",
+   987→   987→      2.0,
+   988→   988→      "Biological Classification",
+   989→   989→      "English",
+   990→   990→      "Tobacco Mosaic Virus (TMV) genes are",
+   991→   991→      "(a) double stranded RNA",
+   992→   992→      "(b) single stranded RNA",
+   993→   993→      "(c) polyribonucleotides",
+   994→   994→      "(d) proteinaceous",
+   995→   995→      2.0,
+   996→   996→      "Tobacco Mosaic Virus (TMV) is elongated, rod shaped, with 95% protein and 5% RNA by weight. RNA is genomic, single stranded, linear, helically coiled.",
+   997→   997→      "CBSE AIPMT",
+   998→   998→      1994.0,
+   999→   999→      null
+  1000→  1000→    ]
+  1001→  1001→  }
+  1002→  1002→]

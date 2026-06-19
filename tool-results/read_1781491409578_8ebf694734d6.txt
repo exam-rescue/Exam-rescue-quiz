@@ -1,0 +1,1002 @@
+     1→[
+     2→  {
+     3→    "sheet": "Class11",
+     4→    "row": 1731,
+     5→    "data": [
+     6→      "Biology",
+     7→      4.0,
+     8→      "Animal Kingdom",
+     9→      "English",
+    10→      "One of the representative of Phylum-Arthropoda is",
+    11→      "(a) cuttle fish",
+    12→      "(b) silver fish",
+    13→      "(c) puffer fish",
+    14→      "(d) flying fish",
+    15→      2.0,
+    16→      "Silver fish (Lepisma) is a wingless insect belonging to Phylum Arthropoda. Cuttle fish is a Mollusc. Puffer fish and flying fish are bony fishes (Chordata).",
+    17→      "NEET",
+    18→      2013.0,
+    19→      null
+    20→    ]
+    21→  },
+    22→  {
+    23→    "sheet": "Class11",
+    24→    "row": 1732,
+    25→    "data": [
+    26→      "Biology",
+    27→      4.0,
+    28→      "Animal Kingdom",
+    29→      "English",
+    30→      "Which of the following are correctly matched with respect to their taxonomic classification?",
+    31→      "(a) Flying fish, cuttle fish, silver fish-Pisces",
+    32→      "(b) Centipede, millipede, spider, scorpion-Insecta",
+    33→      "(c) House fly, butterfly, tse-tse fly, silver fish-Insecta",
+    34→      "(d) Spiny anteater, sea urchin, sea cucumber-Echinodermata",
+    35→      3.0,
+    36→      "House fly, butterfly, tse-tse fly, and silver fish all belong to the Class Insecta of Phylum Arthropoda. Flying fish is Pisces, cuttle fish is Mollusca. Centipede, millipede, spider, scorpion are Arthropods but not all Insecta (Arachnida, Chilopoda, Diplopoda). Spiny anteater is Mammalia.",
+    37→      "NEET",
+    38→      2013.0,
+    39→      null
+    40→    ]
+    41→  },
+    42→  {
+    43→    "sheet": "Class11",
+    44→    "row": 1733,
+    45→    "data": [
+    46→      "Biology",
+    47→      4.0,
+    48→      "Animal Kingdom",
+    49→      "English",
+    50→      "Which one of the following have the highest number of species in nature?",
+    51→      "(a) Insects",
+    52→      "(b) Birds",
+    53→      "(c) Angiosperms",
+    54→      "(d) Fungi",
+    55→      1.0,
+    56→      "Insects (Phylum Arthropoda) are the most species-rich taxonomic group, making up more than 70% of all recorded animal species.",
+    57→      "CBSE AIPMT",
+    58→      2011.0,
+    59→      null
+    60→    ]
+    61→  },
+    62→  {
+    63→    "sheet": "Class11",
+    64→    "row": 1734,
+    65→    "data": [
+    66→      "Biology",
+    67→      4.0,
+    68→      "Animal Kingdom",
+    69→      "English",
+    70→      "Which of the following is correctly states as it happens in the common cockroach?",
+    71→      "(a) Oxygen is transported by haemoglobin in blood",
+    72→      "(b) Nitrogenous excretory product is urea",
+    73→      "(c) The food is ground by mandibles and gizzard",
+    74→      "(d) Malpighian tubules are excretory organs projecting out from the colon",
+    75→      3.0,
+    76→      "In cockroaches, mandibles crush the food, and the gizzard (proventriculus) has chitinous teeth that grind the food. Their blood (haemolymph) lacks respiratory pigment. Excretion is uricotelic (uric acid). Malpighian tubules are at the junction of midgut and hindgut.",
+    77→      "CBSE AIPMT",
+    78→      2011.0,
+    79→      null
+    80→    ]
+    81→  },
+    82→  {
+    83→    "sheet": "Class11",
+    84→    "row": 1735,
+    85→    "data": [
+    86→      "Biology",
+    87→      4.0,
+    88→      "Animal Kingdom",
+    89→      "English",
+    90→      "Which one of the following groups of three animals each is correctly matched with their one characteristic morphological feature?",
+    91→      "(a) Liver fluke, sea anemone, sea cucumber - Bilateral symmetry",
+    92→      "(b) Centipede, prawn, sea urchin - Jointed appendages",
+    93→      "(c) Scorpion, spider, cockroach - Ventral solid central nervous system",
+    94→      "(d) Cockroach, locust, Taenia - Metameric segmentation",
+    95→      3.0,
+    96→      "Scorpion, spider, and cockroach are Arthropods, which typically have a ventral, solid, double nerve cord.",
+    97→      "CBSE AIPMT",
+    98→      2008.0,
+    99→      null
+   100→    ]
+   101→  },
+   102→  {
+   103→    "sheet": "Class11",
+   104→    "row": 1736,
+   105→    "data": [
+   106→      "Biology",
+   107→      4.0,
+   108→      "Animal Kingdom",
+   109→      "English",
+   110→      "Which one of the following is the true description about an animal concerned?",
+   111→      "(a) Earthworm - The alimentary canal consists of a sequence of pharynx, oesophagus, stomach, gizzard and intestine",
+   112→      "(b) Frog - Body divisible into three regions-head, neck and trunk",
+   113→      "(c) Rat - Left kidney is slightly higher in position than the right one",
+   114→      "(d) Cockroach - 10 pairs of spiracles (2 pairs on thorax and 8 pairs on abdomen)",
+   115→      4.0,
+   116→      "The respiratory system of cockroach opens to the exterior through 10 pairs of spiracles: 2 pairs are thoracic and 8 pairs are abdominal.",
+   117→      "CBSE AIPMT",
+   118→      2008.0,
+   119→      null
+   120→    ]
+   121→  },
+   122→  {
+   123→    "sheet": "Class11",
+   124→    "row": 1737,
+   125→    "data": [
+   126→      "Biology",
+   127→      4.0,
+   128→      "Animal Kingdom",
+   129→      "English",
+   130→      "Which one of the following phyla is correctly matched with its two general characteristics?",
+   131→      "(a) Arthropoda - Body divided into head, thorax and abdomen and respiration by tracheae",
+   132→      "(b) Chordata - Notochord at some stage and separate anal and urinary openings to the outside",
+   133→      "(c) Echinodermata - Pentamerous radial symmetry and mostly internal fertilisation",
+   134→      "(d) Mollusca - Normally oviparous and development through a trochophore or veliger larva",
+   135→      1.0,
+   136→      "Arthropods typically have a body divided into head, thorax, and abdomen (or cephalothorax and abdomen) and many respire via tracheal systems (insects).",
+   137→      "CBSE AIPMT",
+   138→      2008.0,
+   139→      null
+   140→    ]
+   141→  },
+   142→  {
+   143→    "sheet": "Class11",
+   144→    "row": 1738,
+   145→    "data": [
+   146→      "Biology",
+   147→      4.0,
+   148→      "Animal Kingdom",
+   149→      "English",
+   150→      "What is true about Nereis, scorpion, cockroach and silver fish?",
+   151→      "(a) They all have jointed paired appendages",
+   152→      "(b) They all possess dorsal heart",
+   153→      "(c) None of them is aquatic",
+   154→      "(d) They all belong to the same phylum",
+   155→      2.0,
+   156→      "Nereis (Annelida) and Arthropods (scorpion, cockroach, silver fish) share the feature of a dorsal heart/vessel in their open or closed circulatory systems (dorsal vessel in annelids, dorsal heart in arthropods). Note: Option (b) is the best fit among choices, though Nereis has a dorsal vessel, not a \"heart\" in the arthropod sense, but anatomically dorsal circulatory structures are common to non-chordates. Wait, strictly speaking, Nereis is Annelida, others are Arthropoda. Nereis is aquatic. Jointed appendages are Arthropod specific. However, all non-chordates with a heart typically have it dorsally located.",
+   157→      "CBSE AIPMT",
+   158→      2007.0,
+   159→      null
+   160→    ]
+   161→  },
+   162→  {
+   163→    "sheet": "Class11",
+   164→    "row": 1739,
+   165→    "data": [
+   166→      "Biology",
+   167→      4.0,
+   168→      "Animal Kingdom",
+   169→      "English",
+   170→      "Two common characters found in centipede, cockroach and crab are",
+   171→      "(a) compound eyes and anal cerci",
+   172→      "(b) jointed legs and chitinous exoskeleton",
+   173→      "(c) green gland and tracheae",
+   174→      "(d) book lungs and antennae",
+   175→      2.0,
+   176→      "Centipede, cockroach, and crab are all Arthropods. The defining features of Arthropoda include jointed appendages (legs) and a chitinous exoskeleton.",
+   177→      "CBSE AIPMT",
+   178→      2006.0,
+   179→      null
+   180→    ]
+   181→  },
+   182→  {
+   183→    "sheet": "Class11",
+   184→    "row": 1740,
+   185→    "data": [
+   186→      "Biology",
+   187→      4.0,
+   188→      "Animal Kingdom",
+   189→      "English",
+   190→      "From the following statements select the wrong one.",
+   191→      "(a) Millipedes have two pairs of appendages in each segment of the body",
+   192→      "(b) Prawn has two pairs of antennae",
+   193→      "(c) Animals belonging to phylum-Porifera are exclusively marine",
+   194→      "(d) Nematocysts are characteristic of the phylum-Cnidaria",
+   195→      3.0,
+   196→      "Porifera (sponges) are mostly marine, but there are freshwater forms (e.g., Spongillidae). Thus, \"exclusively marine\" is incorrect. Note: The PDF answer key says (b) is wrong because \"Prawn has two pairs of antennae\" is considered incorrect in the context of the question's provided solution explanation saying \"Prawn does not have two pairs of antennae instead it has one pair of antennae and one pair of antennules\". However, biologically prawns (Crustacea) do have 2 pairs of antennal appendages (antennules and antennae). But since I must follow the PDF's logic/answer key where available: The PDF explanation for Q71 says \"Ans. (b) Prawn does not have two pairs of antennae instead it has one pair of antennae and one pair of antennules.\" Therefore, I will select (b) as the correct option for \"wrong statement\" based on the PDF.",
+   197→      "CBSE AIPMT",
+   198→      2005.0,
+   199→      null
+   200→    ]
+   201→  },
+   202→  {
+   203→    "sheet": "Class11",
+   204→    "row": 1741,
+   205→    "data": [
+   206→      "Biology",
+   207→      4.0,
+   208→      "Animal Kingdom",
+   209→      "English",
+   210→      "In Arthropoda, head and thorax are often fused to form cephalothorax, but in which one of the following classes, is the body divided into head, thorax and abdomen?",
+   211→      "(a) Insecta",
+   212→      "(b) Myriapoda",
+   213→      "(c) Crustacea",
+   214→      "(d) Arachnida and Crustacea",
+   215→      1.0,
+   216→      "In Class Insecta, the body is distinctively divided into three regions: head, thorax, and abdomen. In Arachnida and Crustacea, head and thorax often fuse to form a cephalothorax.",
+   217→      "CBSE AIPMT",
+   218→      2004.0,
+   219→      null
+   220→    ]
+   221→  },
+   222→  {
+   223→    "sheet": "Class11",
+   224→    "row": 1742,
+   225→    "data": [
+   226→      "Biology",
+   227→      4.0,
+   228→      "Animal Kingdom",
+   229→      "English",
+   230→      "Which one of the following is correct matching pair of an animal and a certain phenomenon it exhibits?",
+   231→      "(a) Chameleon - Mimicry",
+   232→      "(b) Taenia - Polymorphism",
+   233→      "(c) Pheretima - Sexual dimorphism",
+   234→      "(d) Musca - Complete metamorphosis",
+   235→      4.0,
+   236→      "Musca (Housefly) undergoes complete metamorphosis (holometabolous development): Egg -> Larva (maggot) -> Pupa -> Adult.",
+   237→      "CBSE AIPMT",
+   238→      2003.0,
+   239→      null
+   240→    ]
+   241→  },
+   242→  {
+   243→    "sheet": "Class11",
+   244→    "row": 1743,
+   245→    "data": [
+   246→      "Biology",
+   247→      4.0,
+   248→      "Animal Kingdom",
+   249→      "English",
+   250→      "What is common among silver fish, scorpion, crab and honeybee?",
+   251→      "(a) Compound eyes",
+   252→      "(b) Poison glands",
+   253→      "(c) Jointed appendages",
+   254→      "(d) Metamorphosis",
+   255→      3.0,
+   256→      "All these animals belong to Phylum Arthropoda, and the presence of jointed appendages is a fundamental characteristic of this phylum.",
+   257→      "CBSE AIPMT",
+   258→      1997.0,
+   259→      null
+   260→    ]
+   261→  },
+   262→  {
+   263→    "sheet": "Class11",
+   264→    "row": 1744,
+   265→    "data": [
+   266→      "Biology",
+   267→      4.0,
+   268→      "Animal Kingdom",
+   269→      "English",
+   270→      "A larval stage occurs in the life history of all members of the group",
+   271→      "(a) frog, lizard and cockroach",
+   272→      "(b) Ascaris, housefly and frog",
+   273→      "(c) housefly, earthworm and mosquito",
+   274→      "(d) butterfly, frog and mosquito",
+   275→      4.0,
+   276→      "Butterfly has a caterpillar larva, frog has a tadpole larva, and mosquito has a wriggler larva. Lizard and earthworm (in some contexts direct) and cockroach (nymph is not a true larva in the sense of complete metamorphosis, though often called so, but direct development is more accurate for lizard/earthworm in terms of lacking a distinct larval form like tadpole). Option (d) is the best fit where all distinctively have larvae.",
+   277→      "CBSE AIPMT",
+   278→      1993.0,
+   279→      null
+   280→    ]
+   281→  },
+   282→  {
+   283→    "sheet": "Class11",
+   284→    "row": 1745,
+   285→    "data": [
+   286→      "Biology",
+   287→      4.0,
+   288→      "Animal Kingdom",
+   289→      "English",
+   290→      "Adult Culex and Anopheles can be distinguished with the help of",
+   291→      "(a) mouth parts/colour",
+   292→      "(b) sitting posture",
+   293→      "(c) antennae/wings",
+   294→      "(d) feeding habits",
+   295→      2.0,
+   296→      "Adult Anopheles sits with its body at an angle (approx 45 degrees) to the surface, whereas Culex sits with its body parallel to the surface.",
+   297→      "CBSE AIPMT",
+   298→      1992.0,
+   299→      null
+   300→    ]
+   301→  },
+   302→  {
+   303→    "sheet": "Class11",
+   304→    "row": 1746,
+   305→    "data": [
+   306→      "Biology",
+   307→      4.0,
+   308→      "Animal Kingdom",
+   309→      "English",
+   310→      "Male and female cockroaches can be distinguished externally through",
+   311→      "(a) anal styles in male",
+   312→      "(b) anal cerci in female",
+   313→      "(c) anal style and antennae in females",
+   314→      "(d) Both (b) and (c)",
+   315→      1.0,
+   316→      "Males have a pair of short, thread-like anal styles which are absent in females. Both sexes have anal cerci.",
+   317→      "CBSE AIPMT",
+   318→      1991.0,
+   319→      null
+   320→    ]
+   321→  },
+   322→  {
+   323→    "sheet": "Class11",
+   324→    "row": 1747,
+   325→    "data": [
+   326→      "Biology",
+   327→      4.0,
+   328→      "Animal Kingdom",
+   329→      "English",
+   330→      "Metamorphosis of insects is regulated through hormone",
+   331→      "(a) pheromone",
+   332→      "(b) thyroxine",
+   333→      "(c) ecdysone",
+   334→      "(d) All of these",
+   335→      3.0,
+   336→      "Ecdysone is the moulting hormone that regulates metamorphosis in insects.",
+   337→      "CBSE AIPMT",
+   338→      1991.0,
+   339→      null
+   340→    ]
+   341→  },
+   342→  {
+   343→    "sheet": "Class11",
+   344→    "row": 1748,
+   345→    "data": [
+   346→      "Biology",
+   347→      4.0,
+   348→      "Animal Kingdom",
+   349→      "English",
+   350→      "An insect regarded as greatest mechanical carrier of diseases is",
+   351→      "(a) Pediculus",
+   352→      "(b) Cimex",
+   353→      "(c) Musca",
+   354→      "(d) Xenopsylla",
+   355→      3.0,
+   356→      "Musca domestica (Housefly) is a mechanical carrier for many diseases (typhoid, cholera, dysentery, etc.) as it sits on filth and then on food.",
+   357→      "CBSE AIPMT",
+   358→      1991.0,
+   359→      null
+   360→    ]
+   361→  },
+   362→  {
+   363→    "sheet": "Class11",
+   364→    "row": 1749,
+   365→    "data": [
+   366→      "Biology",
+   367→      4.0,
+   368→      "Animal Kingdom",
+   369→      "English",
+   370→      "Ecdysis is shedding of",
+   371→      "(a) stratum corneum",
+   372→      "(b) epidermis",
+   373→      "(c) dermis",
+   374→      "(d) stratum malpighi",
+   375→      1.0,
+   376→      "Ecdysis (moulting) generally refers to the shedding of the outer cuticular layer (exoskeleton in arthropods or stratum corneum in reptiles).",
+   377→      "CBSE AIPMT",
+   378→      1990.0,
+   379→      null
+   380→    ]
+   381→  },
+   382→  {
+   383→    "sheet": "Class11",
+   384→    "row": 1751,
+   385→    "data": [
+   386→      "Biology",
+   387→      4.0,
+   388→      "प्राणी जगत",
+   389→      "Hindi",
+   390→      "जानवरों का कौन सा समूह एक ही संघ (phylum) से संबंधित है?",
+   391→      "(a) मलेरिया परजीवी, अमीबा, मच्छर",
+   392→      "(b) केंचुआ, पिनवॉर्म, टेपवर्म",
+   393→      "(c) झींगा, बिच्छू, टिड्डी (Locusta)",
+   394→      "(d) स्पंज, समुद्री एनीमोन, स्टारफिश",
+   395→      3.0,
+   396→      "झींगा, बिच्छू और Locusta संघ-Arthropoda से संबंधित हैं। अन्य को इस प्रकार ठीक किया जा सकता है: मलेरिया परजीवी और अमीबा-प्रोटोजोआ; मच्छर-आर्थ्रोपोडा; केंचुआ-एनेलिडा; पिनवॉर्म और टेपवर्म-एस्केलमिंथीज।",
+   397→      "NEET",
+   398→      2013.0,
+   399→      null
+   400→    ]
+   401→  },
+   402→  {
+   403→    "sheet": "Class11",
+   404→    "row": 1752,
+   405→    "data": [
+   406→      "Biology",
+   407→      4.0,
+   408→      "प्राणी जगत",
+   409→      "Hindi",
+   410→      "संघ-आर्थ्रोपोडा का एक प्रतिनिधि है:",
+   411→      "(a) कटल फिश",
+   412→      "(b) सिल्वर फिश",
+   413→      "(c) पफर फिश",
+   414→      "(d) फ्लाइंग फिश",
+   415→      2.0,
+   416→      "सिल्वर फिश - आर्थ्रोपोडा (संघ)। सिल्वर फिश गण Thysanura में एक छोटा, पंखहीन कीट है। कटल फिश - मोलस्का। पफर फिश और फ्लाइंग फिश - कॉर्डेटा (मत्स्य)।",
+   417→      "NEET",
+   418→      2013.0,
+   419→      null
+   420→    ]
+   421→  },
+   422→  {
+   423→    "sheet": "Class11",
+   424→    "row": 1753,
+   425→    "data": [
+   426→      "Biology",
+   427→      4.0,
+   428→      "प्राणी जगत",
+   429→      "Hindi",
+   430→      "निम्नलिखित में से कौन सा उनके वर्गीकरण के संबंध में सही सुमेलित है?",
+   431→      "(a) फ्लाइंग फिश, कटल फिश, सिल्वर फिश-Pisces",
+   432→      "(b) कनखजूरा, मिलीपीड, मकड़ी, बिच्छू-Insecta",
+   433→      "(c) घरेलू मक्खी, तितली, सीसी मक्खी, सिल्वर फिश-Insecta",
+   434→      "(d) स्पाइनी एंटईटर, समुद्री अर्चिन, समुद्री खीरा-Echinodermata",
+   435→      3.0,
+   436→      "विकल्प (c) सही सुमेलित है: घरेलू मक्खी, तितली, सीसी मक्खी, सिल्वर फिश - संघ आर्थ्रोपोडा का वर्ग Insecta। अन्य: फ्लाइंग फिश (Pisces), कटल फिश (Mollusca); कनखजूरा (Chilopoda), मिलीपीड (Diplopoda), मकड़ी और बिच्छू (Arachnida)।",
+   437→      "NEET",
+   438→      2013.0,
+   439→      null
+   440→    ]
+   441→  },
+   442→  {
+   443→    "sheet": "Class11",
+   444→    "row": 1754,
+   445→    "data": [
+   446→      "Biology",
+   447→      4.0,
+   448→      "प्राणी जगत",
+   449→      "Hindi",
+   450→      "प्रकृति में निम्नलिखित में से किसकी प्रजातियों की संख्या सबसे अधिक है?",
+   451→      "(a) कीड़े (Insects)",
+   452→      "(b) पक्षी",
+   453→      "(c) आवृतबीजी (Angiosperms)",
+   454→      "(d) कवक (Fungi)",
+   455→      1.0,
+   456→      "दर्ज की गई सभी प्रजातियों में से 70% से अधिक जानवर हैं। जानवरों में, कीड़े सबसे अधिक प्रजातियों वाला समूह है, जो कुल का 70% से अधिक है।",
+   457→      "CBSE AIPMT",
+   458→      2011.0,
+   459→      null
+   460→    ]
+   461→  },
+   462→  {
+   463→    "sheet": "Class11",
+   464→    "row": 1755,
+   465→    "data": [
+   466→      "Biology",
+   467→      4.0,
+   468→      "प्राणी जगत",
+   469→      "Hindi",
+   470→      "सामान्य तिलचट्टे (cockroach) में जो होता है, उसके बारे में निम्नलिखित में से कौन सा सही है?",
+   471→      "(a) रक्त में हीमोग्लोबिन द्वारा ऑक्सीजन का परिवहन होता है",
+   472→      "(b) नाइट्रोजनयुक्त उत्सर्जी उत्पाद यूरिया है",
+   473→      "(c) भोजन को मैंडिबल्स और गिज़र्ड द्वारा पीसा जाता है",
+   474→      "(d) मैल्पिघियन नलिकाएं उत्सर्जन अंग हैं जो कोलन से बाहर निकलती हैं",
+   475→      3.0,
+   476→      "तिलचट्टे में, मैंडिबल्स कठोर, बड़े, गहरे रंग की संरचनाएं हैं जो भोजन को कुचलते हैं। गिज़र्ड (proventriculus) में मोटी छल्ली होती है जो दांत बनाती है और भोजन को पीसने में मदद करती है।",
+   477→      "CBSE AIPMT",
+   478→      2011.0,
+   479→      null
+   480→    ]
+   481→  },
+   482→  {
+   483→    "sheet": "Class11",
+   484→    "row": 1756,
+   485→    "data": [
+   486→      "Biology",
+   487→      4.0,
+   488→      "प्राणी जगत",
+   489→      "Hindi",
+   490→      "निम्नलिखित में से तीन जानवरों के किस समूह का उनके एक विशिष्ट रूपात्मक लक्षण के साथ सही मिलान किया गया है?",
+   491→      "(a) लिवर फ्लूक, समुद्री एनीमोन, समुद्री खीरा - द्विपार्श्व सममिति",
+   492→      "(b) कनखजूरा, झींगा, समुद्री अर्चिन - संयुक्त उपांग",
+   493→      "(c) बिच्छू, मकड़ी, तिलचट्टा - अधर ठोस केंद्रीय तंत्रिका तंत्र",
+   494→      "(d) तिलचट्टा, टिड्डी, Taenia - विखंडी खंडीभवन",
+   495→      3.0,
+   496→      "बिच्छू, मकड़ी, तिलचट्टा - अधर ठोस केंद्रीय तंत्रिका तंत्र (Ventral solid central nervous system)।",
+   497→      "CBSE AIPMT",
+   498→      2008.0,
+   499→      null
+   500→    ]
+   501→  },
+   502→  {
+   503→    "sheet": "Class11",
+   504→    "row": 1757,
+   505→    "data": [
+   506→      "Biology",
+   507→      4.0,
+   508→      "प्राणी जगत",
+   509→      "Hindi",
+   510→      "संबंधित जानवर के बारे में निम्नलिखित में से कौन सा सही वर्णन है?",
+   511→      "(a) केंचुआ - आहार नाल में ग्रसनी, ग्रासनली, आमाशय, गिज़र्ड और आंत का अनुक्रम होता है",
+   512→      "(b) मेंढक - शरीर तीन क्षेत्रों में विभाजित होता है- सिर, गर्दन और धड़",
+   513→      "(c) चूहा - बाईं किडनी दाईं किडनी की तुलना में थोड़ी ऊपर स्थित होती है",
+   514→      "(d) तिलचट्टा - 10 जोड़े श्वास रंध्र (2 जोड़े वक्ष पर और 8 जोड़े पेट पर)",
+   515→      4.0,
+   516→      "तिलचट्टे के श्वसन तंत्र में श्वासनली, ट्रैकियोल्स और श्वास रंध्र (spiracles) होते हैं। मुख्य श्वासनली शरीर की सतह पर 10 जोड़े खंडीय रूप से व्यवस्थित श्वास रंध्रों के माध्यम से खुलती है।",
+   517→      "CBSE AIPMT",
+   518→      2008.0,
+   519→      null
+   520→    ]
+   521→  },
+   522→  {
+   523→    "sheet": "Class11",
+   524→    "row": 1758,
+   525→    "data": [
+   526→      "Biology",
+   527→      4.0,
+   528→      "प्राणी जगत",
+   529→      "Hindi",
+   530→      "निम्नलिखित में से कौन सा संघ (phylum) अपनी दो सामान्य विशेषताओं के साथ सही सुमेलित है?",
+   531→      "(a) आर्थ्रोपोडा - शरीर सिर, वक्ष और पेट में विभाजित और श्वासनली द्वारा श्वसन",
+   532→      "(b) कॉर्डेटा - किसी अवस्था में नोटोकॉर्ड और बाहर की ओर अलग गुदा और मूत्र छिद्र",
+   533→      "(c) एकाइनोडर्मेटा - पंचतयी अरीय सममिति और अधिकतर आंतरिक निषेचन",
+   534→      "(d) मोलस्का - आम तौर पर अंडज और ट्रोकोफोर या वेलिगर लार्वा के माध्यम से विकास",
+   535→      1.0,
+   536→      "आर्थ्रोपोडा पशु जगत का सबसे बड़ा संघ है। आर्थ्रोपोड का शरीर सिर, वक्ष और पेट में विभाजित होता है। श्वसन शरीर की सतह, गलफड़ों, श्वासनली या बुक लंग्स द्वारा होता है।",
+   537→      "CBSE AIPMT",
+   538→      2008.0,
+   539→      null
+   540→    ]
+   541→  },
+   542→  {
+   543→    "sheet": "Class11",
+   544→    "row": 1759,
+   545→    "data": [
+   546→      "Biology",
+   547→      4.0,
+   548→      "प्राणी जगत",
+   549→      "Hindi",
+   550→      "Nereis, बिच्छू, तिलचट्टा और सिल्वर फिश के बारे में क्या सच है?",
+   551→      "(a) उन सभी में संयुक्त युग्मित उपांग होते हैं",
+   552→      "(b) उन सभी में पृष्ठीय हृदय होता है",
+   553→      "(c) उनमें से कोई भी जलीय नहीं है",
+   554→      "(d) वे सभी एक ही संघ के हैं",
+   555→      3.0,
+   556→      "Nereis रेत या कीचड़ में बिलों में अक्सर क्लैम के साथ रहता है। बिच्छू रेगिस्तान में प्रचुर मात्रा में होते हैं। तिलचट्टा गर्मी, नमी में पाए जाते हैं। सिल्वर फिश नम ठंडी जगहों पर रहती है।",
+   557→      "CBSE AIPMT",
+   558→      2007.0,
+   559→      null
+   560→    ]
+   561→  },
+   562→  {
+   563→    "sheet": "Class11",
+   564→    "row": 1760,
+   565→    "data": [
+   566→      "Biology",
+   567→      4.0,
+   568→      "प्राणी जगत",
+   569→      "Hindi",
+   570→      "कनखजूरा, तिलचट्टा और केकड़े में पाए जाने वाले दो सामान्य लक्षण हैं:",
+   571→      "(a) संयुक्त नेत्र और गुदा शूक (anal cerci)",
+   572→      "(b) संयुक्त पैर और काइटिनस बहिःकंकाल",
+   573→      "(c) हरित ग्रंथि और श्वासनली",
+   574→      "(d) बुक लंग्स और एंटीना",
+   575→      2.0,
+   576→      "केकड़ा, कनखजूरा और तिलचट्टा संघ-आर्थ्रोपोडा से संबंधित हैं। इनमें संयुक्त उपांग (jointed appendages) और काइटिनस बहिःकंकाल होते हैं।",
+   577→      "CBSE AIPMT",
+   578→      2006.0,
+   579→      null
+   580→    ]
+   581→  },
+   582→  {
+   583→    "sheet": "Class11",
+   584→    "row": 1761,
+   585→    "data": [
+   586→      "Biology",
+   587→      4.0,
+   588→      "प्राणी जगत",
+   589→      "Hindi",
+   590→      "निम्नलिखित कथनों में से गलत कथन का चयन करें।",
+   591→      "(a) मिलीपीड के शरीर के प्रत्येक खंड में दो जोड़ी उपांग होते हैं",
+   592→      "(b) झींगा में दो जोड़ी एंटीना होते हैं",
+   593→      "(c) संघ-पोरिफेरा से संबंधित जानवर विशेष रूप से समुद्री होते हैं",
+   594→      "(d) निमेटोसिस्ट संघ-निडारिया की विशेषता हैं",
+   595→      2.0,
+   596→      "झींगा में दो जोड़ी एंटीना नहीं होते हैं, इसके बजाय इसमें एक जोड़ी एंटीना और एक जोड़ी एंटीन्यूल (antennules) होते हैं।",
+   597→      "CBSE AIPMT",
+   598→      2005.0,
+   599→      null
+   600→    ]
+   601→  },
+   602→  {
+   603→    "sheet": "Class11",
+   604→    "row": 1762,
+   605→    "data": [
+   606→      "Biology",
+   607→      4.0,
+   608→      "प्राणी जगत",
+   609→      "Hindi",
+   610→      "आर्थ्रोपोडा में, सिर और वक्ष अक्सर जुड़कर सिरोवक्ष (cephalothorax) बनाते हैं, लेकिन निम्नलिखित में से किस वर्ग में, शरीर सिर, वक्ष और पेट में विभाजित होता है?",
+   611→      "(a) इंसेक्टा (Insecta)",
+   612→      "(b) मिरियापोडा (Myriapoda)",
+   613→      "(c) क्रस्टेशिया (Crustacea)",
+   614→      "(d) एरेक्निडा और क्रस्टेशिया",
+   615→      1.0,
+   616→      "एक आर्थ्रोपोड शरीर सिर, वक्ष और पेट से बना होता है, कुछ मामलों में सिर और वक्ष जुड़कर सिरोवक्ष बना सकते हैं। वर्ग-इंसेक्टा में शरीर सिर, वक्ष और पेट में विभाजित होता है।",
+   617→      "CBSE AIPMT",
+   618→      2004.0,
+   619→      null
+   620→    ]
+   621→  },
+   622→  {
+   623→    "sheet": "Class11",
+   624→    "row": 1763,
+   625→    "data": [
+   626→      "Biology",
+   627→      4.0,
+   628→      "प्राणी जगत",
+   629→      "Hindi",
+   630→      "निम्नलिखित में से कौन सा एक जानवर और उसके द्वारा प्रदर्शित एक निश्चित घटना का सही मिलान है?",
+   631→      "(a) गिरगिट - मिमिक्री (Mimicry)",
+   632→      "(b) Taenia - बहुरूपता (Polymorphism)",
+   633→      "(c) Pheretima - लैंगिक द्विरूपता",
+   634→      "(d) Musca - पूर्ण कायांतरण (Complete metamorphosis)",
+   635→      4.0,
+   636→      "घरेलू मक्खी (मैगॉट, प्यूपा) के युवा रूप वयस्क से पूरी तरह अलग होते हैं, कायांतरण पूर्ण होता है (holometabolic metamorphosis)।",
+   637→      "CBSE AIPMT",
+   638→      2003.0,
+   639→      null
+   640→    ]
+   641→  },
+   642→  {
+   643→    "sheet": "Class11",
+   644→    "row": 1764,
+   645→    "data": [
+   646→      "Biology",
+   647→      4.0,
+   648→      "प्राणी जगत",
+   649→      "Hindi",
+   650→      "सिल्वर फिश, बिच्छू, केकड़ा और मधुमक्खी में क्या सामान्य है?",
+   651→      "(a) संयुक्त नेत्र",
+   652→      "(b) विष ग्रंथियां",
+   653→      "(c) संयुक्त उपांग",
+   654→      "(d) कायांतरण (Metamorphosis)",
+   655→      3.0,
+   656→      "संघ-आर्थ्रोपोडा की मुख्य विशेषताएं इस प्रकार हैं... (i) संयुक्त उपांग, कुछ या सभी सोमाइट या खंडों में मौजूद होते हैं...।",
+   657→      "CBSE AIPMT",
+   658→      1997.0,
+   659→      null
+   660→    ]
+   661→  },
+   662→  {
+   663→    "sheet": "Class11",
+   664→    "row": 1765,
+   665→    "data": [
+   666→      "Biology",
+   667→      4.0,
+   668→      "प्राणी जगत",
+   669→      "Hindi",
+   670→      "समूह के सभी सदस्यों के जीवन इतिहास में एक लार्वा चरण होता है:",
+   671→      "(a) मेंढक, छिपकली और तिलचट्टा",
+   672→      "(b) एस्केरिस, घरेलू मक्खी और मेंढक",
+   673→      "(c) घरेलू मक्खी, केंचुआ और मच्छर",
+   674→      "(d) तितली, मेंढक और मच्छर",
+   675→      4.0,
+   676→      "छिपकली, तिलचट्टा, एस्केरिस, केंचुआ प्रत्यक्ष विकास दर्शाते हैं। जबकि, तितली में कैटरपिलर, मेंढक में टैडपोल और मच्छर में रिगलर लार्वा होते हैं।",
+   677→      "CBSE AIPMT",
+   678→      1993.0,
+   679→      null
+   680→    ]
+   681→  },
+   682→  {
+   683→    "sheet": "Class11",
+   684→    "row": 1766,
+   685→    "data": [
+   686→      "Biology",
+   687→      4.0,
+   688→      "प्राणी जगत",
+   689→      "Hindi",
+   690→      "वयस्क Culex और Anopheles को किसकी मदद से पहचाना जा सकता है?",
+   691→      "(a) मुखांग/रंग",
+   692→      "(b) बैठने की मुद्रा",
+   693→      "(c) एंटीना/पंख",
+   694→      "(d) खाने की आदतें",
+   695→      2.0,
+   696→      "बैठने के दौरान Anopheles मच्छर का शरीर 45° का कोण बनाता है जबकि Culex मच्छर का शरीर सतह के समानांतर होता है।",
+   697→      "CBSE AIPMT",
+   698→      1992.0,
+   699→      null
+   700→    ]
+   701→  },
+   702→  {
+   703→    "sheet": "Class11",
+   704→    "row": 1767,
+   705→    "data": [
+   706→      "Biology",
+   707→      4.0,
+   708→      "प्राणी जगत",
+   709→      "Hindi",
+   710→      "नर और मादा तिलचट्टों को बाहरी रूप से किसके द्वारा पहचाना जा सकता है?",
+   711→      "(a) नर में एनल स्टाइल (anal styles)",
+   712→      "(b) मादा में एनल सरसी (anal cerci)",
+   713→      "(c) मादाओं में एनल स्टाइल और एंटीना",
+   714→      "(d) (b) और (c) दोनों",
+   715→      1.0,
+   716→      "एनल स्टाइल, छोटे, रीढ़ की हड्डी जैसी संरचनाओं की एक जोड़ी केवल नर में 9वें खंड के स्टर्नाइट पर मौजूद होती है।",
+   717→      "CBSE AIPMT",
+   718→      1991.0,
+   719→      null
+   720→    ]
+   721→  },
+   722→  {
+   723→    "sheet": "Class11",
+   724→    "row": 1768,
+   725→    "data": [
+   726→      "Biology",
+   727→      4.0,
+   728→      "प्राणी जगत",
+   729→      "Hindi",
+   730→      "कीड़ों का कायांतरण किस हार्मोन द्वारा नियंत्रित होता है?",
+   731→      "(a) फेरोमोन",
+   732→      "(b) थायरोक्सिन",
+   733→      "(c) एक्डिसोन",
+   734→      "(d) ये सभी",
+   735→      3.0,
+   736→      "कायांतरण प्रोथोरेसिक ग्रंथियों द्वारा स्रावित एक्डिसोन (ecdysone) हार्मोन द्वारा नियंत्रित होता है। यह हार्मोन 1954 में Butenandt और Karlson द्वारा अलग किया गया था।",
+   737→      "CBSE AIPMT",
+   738→      1991.0,
+   739→      null
+   740→    ]
+   741→  },
+   742→  {
+   743→    "sheet": "Class11",
+   744→    "row": 1769,
+   745→    "data": [
+   746→      "Biology",
+   747→      4.0,
+   748→      "प्राणी जगत",
+   749→      "Hindi",
+   750→      "बीमारियों का सबसे बड़ा यांत्रिक वाहक माना जाने वाला कीट है:",
+   751→      "(a) Pediculus",
+   752→      "(b) Cimex",
+   753→      "(c) Musca",
+   754→      "(d) Xenopsylla",
+   755→      3.0,
+   756→      "Musca (घरेलू मक्खी) एंथ्रेक्स, ट्रेकोमा, डायरिया, तपेदिक, कुष्ठ रोग, प्लेग, टाइफाइड, हैजा और पेचिश जैसी कई बीमारियों का वाहक है।",
+   757→      "CBSE AIPMT",
+   758→      1991.0,
+   759→      null
+   760→    ]
+   761→  },
+   762→  {
+   763→    "sheet": "Class11",
+   764→    "row": 1770,
+   765→    "data": [
+   766→      "Biology",
+   767→      4.0,
+   768→      "प्राणी जगत",
+   769→      "Hindi",
+   770→      "Ecdysis किसका गिरना (shedding) है?",
+   771→      "(a) स्ट्रैटम कॉर्नियम",
+   772→      "(b) एपिडर्मिस",
+   773→      "(c) डर्मिस",
+   774→      "(d) स्ट्रैटम मैल्पीघी",
+   775→      1.0,
+   776→      "Ecdysis स्ट्रैटम कॉर्नियम की सबसे बाहरी आंशिक रूप से कॉर्निफाइड परत को हटाना है, जिसे बाद में स्ट्रैटम जर्मिनेटिवम द्वारा बनाई गई कोशिकाओं द्वारा प्रतिस्थापित किया जाता है।",
+   777→      "CBSE AIPMT",
+   778→      1990.0,
+   779→      null
+   780→    ]
+   781→  },
+   782→  {
+   783→    "sheet": "Class11",
+   784→    "row": 1772,
+   785→    "data": [
+   786→      "Biology",
+   787→      4.0,
+   788→      "Animal Kingdom",
+   789→      "English",
+   790→      "Malpighian tubules are",
+   791→      "(a) excretory organs of insects",
+   792→      "(b) excretory organs of annelids",
+   793→      "(c) respiratory organs of insects",
+   794→      "(d) respiratory organs of annelids",
+   795→      1.0,
+   796→      "Malpighian tubules are the excretory organs of insects. These are unbranched tubules lying almost freely in haemocoel and open into alimentary canal.",
+   797→      "CBSE AIPMT",
+   798→      1990.0,
+   799→      null
+   800→    ]
+   801→  },
+   802→  {
+   803→    "sheet": "Class11",
+   804→    "row": 1773,
+   805→    "data": [
+   806→      "Biology",
+   807→      4.0,
+   808→      "Animal Kingdom",
+   809→      "English",
+   810→      "Kala-azar and oriental sore are spread by",
+   811→      "(a) housefly",
+   812→      "(b) bed bug",
+   813→      "(c) sand fly",
+   814→      "(d) fruit fly",
+   815→      3.0,
+   816→      "Kala-azar and oriental sore both the disease are caused by Leishmania. It is digenetic and intermediate host is sand fly belonging to the genus Phlebotomus.",
+   817→      "CBSE AIPMT",
+   818→      1990.0,
+   819→      null
+   820→    ]
+   821→  },
+   822→  {
+   823→    "sheet": "Class11",
+   824→    "row": 1774,
+   825→    "data": [
+   826→      "Biology",
+   827→      4.0,
+   828→      "Animal Kingdom",
+   829→      "English",
+   830→      "Silk thread is obtained from silk moth during",
+   831→      "(a) pupal stage",
+   832→      "(b) larval stage",
+   833→      "(c) nymph stage",
+   834→      "(d) adult stage",
+   835→      1.0,
+   836→      "Caterpillar feeds on mulberry leaves. Its salivary gland secretes liquid silk. Silk is obtained from (pupa, chrysalis).",
+   837→      "CBSE AIPMT",
+   838→      1988.0,
+   839→      null
+   840→    ]
+   841→  },
+   842→  {
+   843→    "sheet": "Class11",
+   844→    "row": 1775,
+   845→    "data": [
+   846→      "Biology",
+   847→      4.0,
+   848→      "Animal Kingdom",
+   849→      "English",
+   850→      "Match the following. List-I A. Physalia B. Limulus C. Ancylostoma D. Pinctada List-II 1. Pearl oyster 2. Portuguese Man of War 3. Living fossil 4. Hookworm Choose the correct answer from the options given below.",
+   851→      "(a) 2 3 1 4",
+   852→      "(b) 4 1 3 2",
+   853→      "(c) 2 3 4 1",
+   854→      "(d) 1 4 3 2",
+   855→      3.0,
+   856→      "Physalia belongs to phylum-Coelenterata (Cnidaria) and is commonly known as Portuguese man-of-war. Limulus belongs to phylum-Arthropoda (living fossil). Ancylostoma is hookworm. Pinctada is pearl oyster.",
+   857→      "NEET",
+   858→      2021.0,
+   859→      null
+   860→    ]
+   861→  },
+   862→  {
+   863→    "sheet": "Class11",
+   864→    "row": 1776,
+   865→    "data": [
+   866→      "Biology",
+   867→      4.0,
+   868→      "Animal Kingdom",
+   869→      "English",
+   870→      "In which one of the following, the genus name, its two characters and its phylum are not correctly matched, whereas the remaining three are correct?",
+   871→      "(a) Pila (i) Body segmented Mollusca (ii) Mouth with Radula",
+   872→      "(b) Asterias (i) Spiny skinned Echinodermata (ii) Water vascular system",
+   873→      "(c) Sycon (i) Pore bearing Porifera (ii) Canal system",
+   874→      "(d) Periplaneta (i) Jointed appendages Arthropoda (ii) Chitinous exoskeleton",
+   875→      1.0,
+   876→      "Option (a) is incorrect because molluscs are bilaterally symmetrical, triploblastic, coelomate, soft bodied animals. Their soft body is unsegmented.",
+   877→      "CBSE AIPMT",
+   878→      2012.0,
+   879→      null
+   880→    ]
+   881→  },
+   882→  {
+   883→    "sheet": "Class11",
+   884→    "row": 1777,
+   885→    "data": [
+   886→      "Biology",
+   887→      4.0,
+   888→      "Animal Kingdom",
+   889→      "English",
+   890→      "Which one of the following is a matching set of phylum and its three examples?",
+   891→      "(a) Cnidaria — Bonellia, Physalia, Aurelia",
+   892→      "(b) Platyhelminthes — Planaria, Schistosoma, Enterobius",
+   893→      "(c) Mollusca — Loligo, Teredo, Octopus",
+   894→      "(d) Porifera— Spongilla, Euplectella, Pennatula",
+   895→      3.0,
+   896→      "Loligo, Teredo and Octopus are the members of phylum—Mollusca.",
+   897→      "CBSE AIPMT",
+   898→      2006.0,
+   899→      null
+   900→    ]
+   901→  },
+   902→  {
+   903→    "sheet": "Class11",
+   904→    "row": 1778,
+   905→    "data": [
+   906→      "Biology",
+   907→      4.0,
+   908→      "Animal Kingdom",
+   909→      "English",
+   910→      "Closed circulatory system occurs in",
+   911→      "(a) snail",
+   912→      "(b) cockroach",
+   913→      "(c) cuttle fish",
+   914→      "(d) All of these",
+   915→      3.0,
+   916→      "Closed circulatory system occurs in cuttle fish, i.e. Sepia, cephalopods are the only molluscs with a closed circulatory system.",
+   917→      "CBSE AIPMT",
+   918→      1994.0,
+   919→      null
+   920→    ]
+   921→  },
+   922→  {
+   923→    "sheet": "Class11",
+   924→    "row": 1779,
+   925→    "data": [
+   926→      "Biology",
+   927→      4.0,
+   928→      "Animal Kingdom",
+   929→      "English",
+   930→      "Eye of the molluscan group that resembles vertebrate eye is",
+   931→      "(a) Bivalvia",
+   932→      "(b) Gastropoda",
+   933→      "(c) Pelecypoda",
+   934→      "(d) Cephalopoda",
+   935→      4.0,
+   936→      "Cephalopoda contains the most specialised molluscs including squids, Octopus, cuttle fish. In these animals well developed eyes are present which resembles vertebrate eyes.",
+   937→      "CBSE AIPMT",
+   938→      1992.0,
+   939→      null
+   940→    ]
+   941→  },
+   942→  {
+   943→    "sheet": "Class11",
+   944→    "row": 1780,
+   945→    "data": [
+   946→      "Biology",
+   947→      4.0,
+   948→      "Animal Kingdom",
+   949→      "English",
+   950→      "A wood boring mollusc/shipworm is",
+   951→      "(a) Chiton",
+   952→      "(b) Teredo",
+   953→      "(c) Limax",
+   954→      "(d) Patella",
+   955→      2.0,
+   956→      "Teredo comes under class— Pelecypoda (bivalvia). It is commonly known as ‘shipworm’. It is destructive to wood in sea water.",
+   957→      "CBSE AIPMT",
+   958→      1988.0,
+   959→      null
+   960→    ]
+   961→  },
+   962→  {
+   963→    "sheet": "Class11",
+   964→    "row": 1781,
+   965→    "data": [
+   966→      "Biology",
+   967→      4.0,
+   968→      "Animal Kingdom",
+   969→      "English",
+   970→      "Read the following statements. I. Metagenesis is observed in helminths. II. Echinoderms are triploblastic and coelomate animals. III. Round worms have organ-system level of body organisation. IV. Comb plates present in ctenophores help in digestion. V. Water vascular system is characteristic of echinoderms. Choose the correct answer from the options given below.",
+   971→      "(a) III, IV and V are correct",
+   972→      "(b) I, II and III are correct",
+   973→      "(c) I, IV and V are correct",
+   974→      "(d) II, III and V are correct",
+   975→      4.0,
+   976→      "Statements II, III and V are correct, while statements I and IV are incorrect. Comb plates help in locomotion. Metagenesis is not observed in helminths.",
+   977→      "NEET",
+   978→      2021.0,
+   979→      null
+   980→    ]
+   981→  },
+   982→  {
+   983→    "sheet": "Class11",
+   984→    "row": 1782,
+   985→    "data": [
+   986→      "Biology",
+   987→      4.0,
+   988→      "Animal Kingdom",
+   989→      "English",
+   990→      "Match the following genera with their respective phylum Column I 1. Ophiura 2. Physalia 3. Pinctada 4. Planaria Column II (i) Mollusca (ii) Platyhelminthes (iii) Echinodermata (iv) Coelenterata Select the correct option from the following",
+   991→      "(a) (iv) (i) (iii) (ii)",
+   992→      "(b) (iii) (iv) (i) (ii)",
+   993→      "(c) (i) (iii) (iv) (ii)",
+   994→      "(d) (iii) (iv) (ii) (i)",
+   995→      2.0,
+   996→      "The correct matches are 1. Ophiura (Brittle star) (iii) Echinodermata 2. Physalia (iv) Coelenterata 3. Pinctada (ii) Mollusca 4. Planaria (ii) Platyhelminthes.",
+   997→      "NEET (Odisha)",
+   998→      2019.0,
+   999→      null
+  1000→    ]
+  1001→  }
+  1002→]

@@ -1,0 +1,1002 @@
+     1→     1→[
+     2→     2→  {
+     3→     3→    "sheet": "Class11",
+     4→     4→    "row": 1940,
+     5→     5→    "data": [
+     6→     6→      "Biology",
+     7→     7→      null,
+     8→     8→      "Cell: The Unit of Life",
+     9→     9→      "English",
+    10→    10→      "An outer covering membrane is absent over",
+    11→    11→      "nucleolus",
+    12→    12→      "lysosome",
+    13→    13→      "mitochondrion",
+    14→    14→      "plastids",
+    15→    15→      1.0,
+    16→    16→      "Nucleolus was discovered by Fontana (1781) and named by Bowman (1840) is a naked roughly rounded darkly stained structure. It is attached to chromatin at specific spot called nucleolar organiser region or NOR. Nucleolus constitute 35% mass of nucleus and is the largest part of nucleus.",
+    17→    17→      "CBSE AIPMT",
+    18→    18→      null,
+    19→    19→      null
+    20→    20→    ]
+    21→    21→  },
+    22→    22→  {
+    23→    23→    "sheet": "Class11",
+    24→    24→    "row": 1941,
+    25→    25→    "data": [
+    26→    26→      "Biology",
+    27→    27→      null,
+    28→    28→      "Cell: The Unit of Life",
+    29→    29→      "English",
+    30→    30→      "Ribosomes are the centre for",
+    31→    31→      "respiration",
+    32→    32→      "photosynthesis",
+    33→    33→      "protein synthesis",
+    34→    34→      "fat synthesis",
+    35→    35→      3.0,
+    36→    36→      "Ribosomes are smallest, membraneless sub- microscopic organelles, called as protein factories. They act as a template, bringing together different components involved in the protein synthesis.",
+    37→    37→      "CBSE AIPMT",
+    38→    38→      null,
+    39→    39→      null
+    40→    40→    ]
+    41→    41→  },
+    42→    42→  {
+    43→    43→    "sheet": "Class11",
+    44→    44→    "row": 1942,
+    45→    45→    "data": [
+    46→    46→      "Biology",
+    47→    47→      null,
+    48→    48→      "Cell: The Unit of Life",
+    49→    49→      "English",
+    50→    50→      "Which one is apparato reticolare interno?",
+    51→    51→      "Golgi apparatus",
+    52→    52→      "Endoplasmic reticulum",
+    53→    53→      "Microfilaments",
+    54→    54→      "Microtubules",
+    55→    55→      1.0,
+    56→    56→      "Golgi body (dictyosomes, lipochondria) is a stack of flattened membrane bound sac-like body. They form internal reticulare apparatus (apparato reticolare interno).",
+    57→    57→      "CBSE AIPMT",
+    58→    58→      null,
+    59→    59→      null
+    60→    60→    ]
+    61→    61→  },
+    62→    62→  {
+    63→    63→    "sheet": "Class11",
+    64→    64→    "row": 1943,
+    65→    65→    "data": [
+    66→    66→      "Biology",
+    67→    67→      null,
+    68→    68→      "Cell: The Unit of Life",
+    69→    69→      "English",
+    70→    70→      "Experiments on Acetabularia by Hammerling proved the role of",
+    71→    71→      "cytoplasm in controlling differentiation",
+    72→    72→      "nucleus in heredity",
+    73→    73→      "chromosomes in heredity",
+    74→    74→      "nucleocytoplasmic ratio",
+    75→    75→      2.0,
+    76→    76→      "J Hammerling (1953) carried the grafting experiments involving exchange of nucleus (located at the base) in Acetabularia. He proved the role of nucleus in heredity, growth, etc. Cell: The Unit of Life 93",
+    77→    77→      "CBSE AIPMT",
+    78→    78→      null,
+    79→    79→      null
+    80→    80→    ]
+    81→    81→  },
+    82→    82→  {
+    83→    83→    "sheet": "Class11",
+    84→    84→    "row": 1944,
+    85→    85→    "data": [
+    86→    86→      "Biology",
+    87→    87→      null,
+    88→    88→      "Cell: The Unit of Life",
+    89→    89→      "English",
+    90→    90→      "Ribosomes were discovered by",
+    91→    91→      "Golgi",
+    92→    92→      "Porter",
+    93→    93→      "de Robertis",
+    94→    94→      "Palade",
+    95→    95→      4.0,
+    96→    96→      "Ribosomes were first observed by Claude (1941), he called them as microsomes. Robinson and Brown (1950) noticed them in plant cells of bean roots and Palade (1955) detected them in animal cells and called these structures as ribosomes.",
+    97→    97→      "CBSE AIPMT",
+    98→    98→      null,
+    99→    99→      null
+   100→   100→    ]
+   101→   101→  },
+   102→   102→  {
+   103→   103→    "sheet": "Class11",
+   104→   104→    "row": 1945,
+   105→   105→    "data": [
+   106→   106→      "Biology",
+   107→   107→      null,
+   108→   108→      "Cell: The Unit of Life",
+   109→   109→      "English",
+   110→   110→      "Polyribosomes are aggregates of",
+   111→   111→      "ribosomes and rRNA",
+   112→   112→      "only rRNA",
+   113→   113→      "peroxisomes",
+   114→   114→      "several ribosomes held together by string of mRNA",
+   115→   115→      4.0,
+   116→   116→      "Polyribosomes or ergasomes are formed by the combination of 6-8 ribosomes attached on a single-strand of mRNA. mRNA brings about polymerisation of a specific protein molecule, with the help of ribosomes, from amino acid molecules found in the cytosol.",
+   117→   117→      "CBSE AIPMT",
+   118→   118→      null,
+   119→   119→      null
+   120→   120→    ]
+   121→   121→  },
+   122→   122→  {
+   123→   123→    "sheet": "Class11",
+   124→   124→    "row": 1946,
+   125→   125→    "data": [
+   126→   126→      "Biology",
+   127→   127→      null,
+   128→   128→      "Biomolecules",
+   129→   129→      "English",
+   130→   130→      "Organelles can be separated from cell homogenate through",
+   131→   131→      "chromatography",
+   132→   132→      "X-rays diffraction",
+   133→   133→      "differential centrifugation",
+   134→   134→      "auto-radiography",
+   135→   135→      3.0,
+   136→   136→      "Differential centrifugation is the mechanical separation of individual sub-cellular components from homogenate in centrifuge at low speed. Depending upon the size, specific gravity, mass, density, different organelles are separated and settled at the bottom of the centrifuge tube at different centrifugal speeds. Ultracentrifuges have 50,000-1,00,000 rpm and are used for the separation of minute cell organelles and constitutents on the basis of different densities. 09 Biomolecules TOPIC 1 Carbohydrates",
+   137→   137→      "CBSE AIPMT",
+   138→   138→      null,
+   139→   139→      null
+   140→   140→    ]
+   141→   141→  },
+   142→   142→  {
+   143→   143→    "sheet": "Class11",
+   144→   144→    "row": 1947,
+   145→   145→    "data": [
+   146→   146→      "Biology",
+   147→   147→      null,
+   148→   148→      "Biomolecules",
+   149→   149→      "English",
+   150→   150→      "Which of the following are not secondary metabolites in plants?",
+   151→   151→      "Morphine, codeine",
+   152→   152→      "Amino acids, glucose",
+   153→   153→      "Vinblastine, curcumin",
+   154→   154→      "Rubber, gums",
+   155→   155→      2.0,
+   156→   156→      "Primary metabolites are compounds that are directly involved in the growth and development of a plant like amino acids and sugars (glucose). Primary metabolites prominently function growth, development and reproduction of cell. Secondary metabolites are compounds produced in other metabolic pathways that, although important, are not essential for the functioning of the plant.",
+   157→   157→      "NEET",
+   158→   158→      null,
+   159→   159→      null
+   160→   160→    ]
+   161→   161→  },
+   162→   162→  {
+   163→   163→    "sheet": "Class11",
+   164→   164→    "row": 1948,
+   165→   165→    "data": [
+   166→   166→      "Biology",
+   167→   167→      null,
+   168→   168→      "Biomolecules",
+   169→   169→      "English",
+   170→   170→      "Floridean starch has structure similar to",
+   171→   171→      "amylopectin and glycogen",
+   172→   172→      "mannitol and algin",
+   173→   173→      "laminarin and cellulose",
+   174→   174→      "starch and cellulose",
+   175→   175→      1.0,
+   176→   176→      "Floridean starch has structure similar to amylopectin and glycogen as both are made fromα-D glucose monomers. The key difference between amylopectin and glycogen is, amylopectin is a soluble form of starch, while glycogen is an insoluble form of starch.",
+   177→   177→      "NEET (Sep.)",
+   178→   178→      null,
+   179→   179→      null
+   180→   180→    ]
+   181→   181→  },
+   182→   182→  {
+   183→   183→    "sheet": "Class11",
+   184→   184→    "row": 1949,
+   185→   185→    "data": [
+   186→   186→      "Biology",
+   187→   187→      null,
+   188→   188→      "Biomolecules",
+   189→   189→      "English",
+   190→   190→      "Which two functional groups are characteristic of sugars?",
+   191→   191→      "Carbonyl and phosphate",
+   192→   192→      "Carbonyl and methyl",
+   193→   193→      "Hydroxyl and methyl",
+   194→   194→      "Carbonyl and hydroxyl",
+   195→   195→      4.0,
+   196→   196→      "Sugars are chemically carbohydrates. They are polyhydroxy aldoses, ketoses and their condensation products. Aldoses bear a terminal aldehyde or ⎯CHOgroup while ketoses have an internal ketone or ⎯COgroup. Thus, they possess two functional groups, i.e. carbonyl and hydroxyl.",
+   197→   197→      "NEET",
+   198→   198→      null,
+   199→   199→      null
+   200→   200→    ]
+   201→   201→  },
+   202→   202→  {
+   203→   203→    "sheet": "Class11",
+   204→   204→    "row": 1950,
+   205→   205→    "data": [
+   206→   206→      "Biology",
+   207→   207→      null,
+   208→   208→      "Biomolecules",
+   209→   209→      "English",
+   210→   210→      "The chitinous exoskeleton of arthropods is formed by the polymerisation of",
+   211→   211→      "keratin sulphate and chondroitin sulphate",
+   212→   212→      "D-glucosamine",
+   213→   213→      "N-acetyl glucosamine",
+   214→   214→      "lipoglyc",
+   215→   215→      1.0,
+   216→   216→      "ns. (b) The chitinous exoskeleton of arthropods is formed by the polymerisation of N-acetyl glucosamine, which is a derivative of glucose. It is also a characteristic component of the cell wall of fungi, the radulae of molluscs and the beaks and internal shells of cephalopods, including squid and octopuses.",
+   217→   217→      "CBSE AIPMT",
+   218→   218→      null,
+   219→   219→      null
+   220→   220→    ]
+   221→   221→  },
+   222→   222→  {
+   223→   223→    "sheet": "Class11",
+   224→   224→    "row": 1951,
+   225→   225→    "data": [
+   226→   226→      "Biology",
+   227→   227→      null,
+   228→   228→      "Biomolecules",
+   229→   229→      "English",
+   230→   230→      "Which one of the following is a non-reducing carbohydrate?",
+   231→   231→      "Maltose",
+   232→   232→      "Sucrose",
+   233→   233→      "Lactose",
+   234→   234→      "Ribose 5-phosphate",
+   235→   235→      2.0,
+   236→   236→      "Sucrose is a disaccharide of glucose and fructose. It is a non-reducing sugar as it do not contain any free anomeric carbon atom. Maltose is a disaccharide of 2 glucose units. Its first glucose residue cannot undergo oxidation, whereas, second residue can undergo oxidation because it has a reactive free anomeric carbon atom. Hence, it is a reducing sugar. Lactose and ribose-5-phosphate are also reducing in nature due to the presence of a free ketonic or aldehyde group.",
+   237→   237→      "CBSE AIPMT",
+   238→   238→      null,
+   239→   239→      null
+   240→   240→    ]
+   241→   241→  },
+   242→   242→  {
+   243→   243→    "sheet": "Class11",
+   244→   244→    "row": 1952,
+   245→   245→    "data": [
+   246→   246→      "Biology",
+   247→   247→      null,
+   248→   248→      "Biomolecules",
+   249→   249→      "English",
+   250→   250→      "Macromolecule chitin is",
+   251→   251→      "nitrogen containing polysaccharide",
+   252→   252→      "phosphorus containing polysaccharide",
+   253→   253→      "sulphur containing polysaccharide",
+   254→   254→      "simple polysaccharide",
+   255→   255→      1.0,
+   256→   256→      "Macromolecule chitin is a complex polysaccharide containing amino sugars and chemically modified sugars, (e.g. glucosamine, N-acetyl galactosamine, etc). Polysaccharides are long carbohydrate molecules of monosaccharide units joined together by glycosidic bonds. They have a general formula C (H O) x 2 y . Chitin is the main component of the cell wall of fungi, the exoskeletons of arthropods, insects and radulae of molluscs, etc.",
+   257→   257→      "NEET",
+   258→   258→      null,
+   259→   259→      null
+   260→   260→    ]
+   261→   261→  },
+   262→   262→  {
+   263→   263→    "sheet": "Class11",
+   264→   264→    "row": 1953,
+   265→   265→    "data": [
+   266→   266→      "Biology",
+   267→   267→      null,
+   268→   268→      "Microbes in Human Welfare",
+   269→   269→      "English",
+   270→   270→      "Which one of the following pairs is wrongly matched?",
+   271→   271→      "Detergents — Lipase",
+   272→   272→      "Alcohol — Nitrogenase",
+   273→   273→      "Fruit juice — Pectinase",
+   274→   274→      "Textile — Amylase",
+   275→   275→      2.0,
+   276→   276→      "The wrongly matched pair is ‘b’ because alcohol (ethyl alcohol) can be produced by fermentation of any carbohydrate, containing a fermentable sugar. Biomolecules 95 The development of synthetic alcohol follows following reaction",
+   277→   277→      "CBSE AIPMT",
+   278→   278→      null,
+   279→   279→      null
+   280→   280→    ]
+   281→   281→  },
+   282→   282→  {
+   283→   283→    "sheet": "Class11",
+   284→   284→    "row": 1954,
+   285→   285→    "data": [
+   286→   286→      "Biology",
+   287→   287→      null,
+   288→   288→      "Biomolecules",
+   289→   289→      "English",
+   290→   290→      "Lactose is composed of  straight chains by 1,6α-D glycosidic bonds. Starch Glucose Enzyme Yeast Pyruvate",
+   291→   291→      "glucose+glucose Glycogen is long chain branched Hydrolysis (50-60°C) Glycolysis (30-35°C) Yeast Yeast (30-35°C) (Pyruvate",
+   292→   292→      "glucose+fructose",
+   293→   293→      "fructose+galactose polymer of 5-300 thousand glucose units, straight chain linked byα-D 1-4 glycosidic bonds and side chains decarboxylase) Ethanol (Recovered by distillation) (30-35°C) Alcohol dehydrogenase Aldehyde",
+   294→   294→      "glucose+galactose",
+   295→   295→      4.0,
+   296→   296→      "Lactose (C H O ) 12 22 11 is a disaccharide throughα-D 1 6 → glycosidic bonds. Cellulose, a fibrous polysaccharide has a linear chain of 6-10 thousand 1 4 → linkedβ-pyranose glucose 08 About 98 per cent of the mass of every living organism is composed of just six elements including carbon, hydrogen, nitrogen, oxygen and [CBSE AIPMT 2007] (a) phosphorus and sulphur (b) sulphur and magnesium (c) magnesium and sodium (d) calcium and phosphorus  a  About 98% of the mass of every living organism including bacterium and human beings is composed of just six elements, i.e. Carbon (C), Hydrogen (H), Nitrogen (N), Oxygen (O), Phosphorus (P) and Sulphur (S). Charagaff (1950) suggested that despite wide compositional variations exhibited by different types of DNA the total amount of purines equaled the total amount of pyrimidines (A G T C) + =+ . 09 Which of the following is a reducing sugar? [CBSE AIPMT 2002] (a) Galactose (b) Gluconic acid (c)β-methyl galactoside (d) Sucrose  a  Glucose, fructose, mannose, galactose are hexose monosaccharides. The monosaccharides have free aldehyde or ketone group which can reduceCu2 + to Cu. Therefore, these are called reducing sugars. 10 Most abundant organic compound on earth is [CBSE AIPMT 2001, 04] (a) protein (b) cellulose (c) lipids (d) steroids  b  Cellulose is fibrous polysaccharide that forms the structural component of plant cell wall, some primitive fungi and tunic of ascidi C ellulose is the most abundant organic substance on earth. It can be digested by only a few microbes present in the gut of ruminants and white ants. found in mammalian milk. It comprises of galactose and glucose units which are linked together byβ, 1-4 glycosidic bonds. It is a reducing sugar.",
+   297→   297→      "CBSE AIPMT",
+   298→   298→      null,
+   299→   299→      null
+   300→   300→    ]
+   301→   301→  },
+   302→   302→  {
+   303→   303→    "sheet": "Class11",
+   304→   304→    "row": 1955,
+   305→   305→    "data": [
+   306→   306→      "Biology",
+   307→   307→      null,
+   308→   308→      "Biomolecules",
+   309→   309→      "English",
+   310→   310→      "Cellulose, the most important constituent of plant cell wall is made of",
+   311→   311→      "unbranched chain of glucose molecules linked byα 1, 4-glycosidic bond",
+   312→   312→      "branched chain of glucose molecules linked byβ 1, 4-glycosidic bond in straight chain andα, ,1 6 -glycosidic bond at the site of branching",
+   313→   313→      "unbranched chain of glucose molecules linked byβ 1, 4-glycosidic bond",
+   314→   314→      "branched chain of glucose molecules linked byα 1, 6-glycosidic bond at the site of branching",
+   315→   315→      3.0,
+   316→   316→      "Cellulose (C H O ) 6 10 5 n is the most abundant organic polymer. It is a polysaccharide and consists of long unbranched chains of glucose residues linked byβ, 1-4 glycosidic bonds. In plants, cellulose is formed from sugar. It serves as building material in the formation of cell wall.",
+   317→   317→      "CBSE AIPMT",
+   318→   318→      null,
+   319→   319→      null
+   320→   320→    ]
+   321→   321→  },
+   322→   322→  {
+   323→   323→    "sheet": "Class11",
+   324→   324→    "row": 1956,
+   325→   325→    "data": [
+   326→   326→      "Biology",
+   327→   327→      null,
+   328→   328→      "Biomolecules",
+   329→   329→      "English",
+   330→   330→      "In which one of the following groups, all the three are examples of polysaccharides?",
+   331→   331→      "Starch, glycogen, cellulose",
+   332→   332→      "Sucrose, maltose, glucose",
+   333→   333→      "Glucose, fructose, lactose",
+   334→   334→      "Galactose, starch, sucrose",
+   335→   335→      1.0,
+   336→   336→      "Starch and glycogen are storage polysaccharide and cellulose is a structural polysaccharide. Starch has straight chain of 1,4α-D pyranose glucose units and side chains or amylopectin part of 2-200 thousand glucose units that are attached to chain.",
+   337→   337→      "CBSE AIPMT",
+   338→   338→      null,
+   339→   339→      null
+   340→   340→    ]
+   341→   341→  },
+   342→   342→  {
+   343→   343→    "sheet": "Class11",
+   344→   344→    "row": 1957,
+   345→   345→    "data": [
+   346→   346→      "Biology",
+   347→   347→      null,
+   348→   348→      "Biomolecules",
+   349→   349→      "English",
+   350→   350→      "Glycogen is a polymer of",
+   351→   351→      "galactose",
+   352→   352→      "glucose",
+   353→   353→      "fructose",
+   354→   354→      "sucrose",
+   355→   355→      2.0,
+   356→   356→      "A glycogen molecule is a long highly branched chain of about 30000 to 100000α-D glucose units joined by glycosidic bonds. It is storage form of glucose, popularly called animal starch. It provides energy to animals, fungi and bacteria.",
+   357→   357→      "CBSE AIPMT",
+   358→   358→      null,
+   359→   359→      null
+   360→   360→    ]
+   361→   361→  },
+   362→   362→  {
+   363→   363→    "sheet": "Class11",
+   364→   364→    "row": 1958,
+   365→   365→    "data": [
+   366→   366→      "Biology",
+   367→   367→      null,
+   368→   368→      "Biomolecules",
+   369→   369→      "English",
+   370→   370→      "Living cell contains 60-75% water. Water present in human body is",
+   371→   371→      "60-65%",
+   372→   372→      "50-55%",
+   373→   373→      "75-80%",
+   374→   374→      "65-70%",
+   375→   375→      4.0,
+   376→   376→      "In humans, about two-third of body is formed of water. About 65-70% of human body is water, of these about 55% (20-22 L) is confined to cells as intracellular water. TOPIC 2 Proteins",
+   377→   377→      "CBSE AIPMT",
+   378→   378→      null,
+   379→   379→      null
+   380→   380→    ]
+   381→   381→  },
+   382→   382→  {
+   383→   383→    "sheet": "Class11",
+   384→   384→    "row": 1959,
+   385→   385→    "data": [
+   386→   386→      "Biology",
+   387→   387→      null,
+   388→   388→      "Biomolecules",
+   389→   389→      "English",
+   390→   390→      "Which one of the following is the most abundant protein in the animals?",
+   391→   391→      "Collagen",
+   392→   392→      "Lectin",
+   393→   393→      "Insulin",
+   394→   394→      "Haemoglobin",
+   395→   395→      1.0,
+   396→   396→      "Collagen is the most abundant protein in animal world and RuBisCO is the most abundant protein in the whole of the biosphere because it is present in every plant that undergoes photosynthesis and molecular synthesis through the Calvin cycle. 96",
+   397→   397→      "NEET (Sep.)",
+   398→   398→      null,
+   399→   399→      null
+   400→   400→    ]
+   401→   401→  },
+   402→   402→  {
+   403→   403→    "sheet": "Class11",
+   404→   404→    "row": 1960,
+   405→   405→    "data": [
+   406→   406→      "Biology",
+   407→   407→      null,
+   408→   408→      "Biomolecules",
+   409→   409→      "English",
+   410→   410→      "Identify the substances having glycosidic bond and peptide bond, respectively in their structure. [NEET (Sep.) 2020)",
+   411→   411→      "Glycerol, trypsin",
+   412→   412→      "Cellulose, lecithin",
+   413→   413→      "Inulin, insulin",
+   414→   414→      "Chitin, cholesterol",
+   415→   415→      3.0,
+   416→   416→      "Inulin is a fructan (polysaccharide of fructose). Adjacent fructose units are linked through glycosidic bond. Insulin is a protein composed of 51 amino acids. Adjacent amino acids are attached through peptide bond.",
+   417→   417→      null,
+   418→   418→      null,
+   419→   419→      null
+   420→   420→    ]
+   421→   421→  },
+   422→   422→  {
+   423→   423→    "sheet": "Class11",
+   424→   424→    "row": 1961,
+   425→   425→    "data": [
+   426→   426→      "Biology",
+   427→   427→      null,
+   428→   428→      "Biomolecules",
+   429→   429→      "English",
+   430→   430→      "Identify the basic amino acid from the following.",
+   431→   431→      "Glutamic acid",
+   432→   432→      "Lysine",
+   433→   433→      "Valine",
+   434→   434→      "Tyrosine",
+   435→   435→      2.0,
+   436→   436→      "Option (b) is correct as lysine is a basic amino acid because it’s side chain contain nitrogen and resemble ammonia, which is a base. Valine is a neutral amino acid, glutamic acid is an acidic amino acid, while tyrosine is an aromatic amino acid.",
+   437→   437→      "NEET (Sep.)",
+   438→   438→      null,
+   439→   439→      null
+   440→   440→    ]
+   441→   441→  },
+   442→   442→  {
+   443→   443→    "sheet": "Class11",
+   444→   444→    "row": 1962,
+   445→   445→    "data": [
+   446→   446→      "Biology",
+   447→   447→      null,
+   448→   448→      "Biomolecules",
+   449→   449→      "English",
+   450→   450→      "“Ramachandran plot” is used to confirm the structure of",
+   451→   451→      "RNA",
+   452→   452→      "proteins",
+   453→   453→      "triacylglycerides",
+   454→   454→      "DNA",
+   455→   455→      2.0,
+   456→   456→      "‘Ramachandran plot’ is used to confirm the structure of proteins. Ramachandran plot is a plot of the angles-phi (ϕ) and psi(ψ)of amino acids found in a peptide chain. This plot was developed by GN Ramachandran, an Indian Scientist in 1963.",
+   457→   457→      "NEET (Odisha)",
+   458→   458→      null,
+   459→   459→      null
+   460→   460→    ]
+   461→   461→  },
+   462→   462→  {
+   463→   463→    "sheet": "Class11",
+   464→   464→    "row": 1963,
+   465→   465→    "data": [
+   466→   466→      "Biology",
+   467→   467→      null,
+   468→   468→      "Biomolecules",
+   469→   469→      "English",
+   470→   470→      "Which of the following is the least likely to be involved in stabilising the three-dimensional folding of most proteins?",
+   471→   471→      "Hydrogen bonds",
+   472→   472→      "Electrostatic interaction",
+   473→   473→      "Hydrophobic interaction",
+   474→   474→      "Ester bonds",
+   475→   475→      4.0,
+   476→   476→      "Ester bonds are the least likely to be involved in stabilising the 3D folding of most proteins. A long protein chain gets folded upon itself like a hollow woolen ball, giving rise to a tertiary structure (3D) structure. This structure is stabilised by several type of bonds, i.e. hydrogen bonds, ionic bonds, Vander waal’s interactions, covalent bonds and hydrophobic bonds. Ester bond is formed between sugar and phosphate in a nucleotide and is not involved in stability of a polypeptide chain. Thus, option (d) is correct.",
+   477→   477→      "NEET , Phase II",
+   478→   478→      null,
+   479→   479→      null
+   480→   480→    ]
+   481→   481→  },
+   482→   482→  {
+   483→   483→    "sheet": "Class11",
+   484→   484→    "row": 1964,
+   485→   485→    "data": [
+   486→   486→      "Biology",
+   487→   487→      null,
+   488→   488→      "Biomolecules",
+   489→   489→      "English",
+   490→   490→      "Which one is the most abundant protein in the animal world?",
+   491→   491→      "Trypsin",
+   492→   492→      "Haemoglobin",
+   493→   493→      "Collagen",
+   494→   494→      "Insulin",
+   495→   495→      3.0,
+   496→   496→      "Collagen is the most abundant protein (structural protein) in the animal world while Ribulose Bisphosphate Carboxylase Oxygenase (RuBisCO) is the most abundant protein in the whole of the plant world.",
+   497→   497→      "CBSE AIPMT",
+   498→   498→      null,
+   499→   499→      null
+   500→   500→    ]
+   501→   501→  },
+   502→   502→  {
+   503→   503→    "sheet": "Class11",
+   504→   504→    "row": 1965,
+   505→   505→    "data": [
+   506→   506→      "Biology",
+   507→   507→      null,
+   508→   508→      "Biomolecules",
+   509→   509→      "English",
+   510→   510→      "Which of the following is the simplest amino acid?",
+   511→   511→      "Alanine",
+   512→   512→      "Asparagine",
+   513→   513→      "Glycine",
+   514→   514→      "Tyrosine",
+   515→   515→      3.0,
+   516→   516→      "Proteins are polymers of amino acids in which amino acids are joined by peptide bonds. Glycine is the simplest amino acid.",
+   517→   517→      "CBSE AIPMT",
+   518→   518→      null,
+   519→   519→      null
+   520→   520→    ]
+   521→   521→  },
+   522→   522→  {
+   523→   523→    "sheet": "Class11",
+   524→   524→    "row": 1966,
+   525→   525→    "data": [
+   526→   526→      "Biology",
+   527→   527→      null,
+   528→   528→      "Structural Organisation in Animals",
+   529→   529→      "English",
+   530→   530→      "Collagen is",
+   531→   531→      "fibrous protein",
+   532→   532→      "globular protein",
+   533→   533→      "lipid",
+   534→   534→      "carbohydrate",
+   535→   535→      1.0,
+   536→   536→      "Collagen is a major fibrous protein of connective tissue, occurring as white fibres produced by fibroblast.",
+   537→   537→      "CBSE AIPMT",
+   538→   538→      null,
+   539→   539→      null
+   540→   540→    ]
+   541→   541→  },
+   542→   542→  {
+   543→   543→    "sheet": "Class11",
+   544→   544→    "row": 1967,
+   545→   545→    "data": [
+   546→   546→      "Biology",
+   547→   547→      null,
+   548→   548→      "Biomolecules",
+   549→   549→      "English",
+   550→   550→      "Which is an essential amino acid?",
+   551→   551→      "Serine",
+   552→   552→      "Aspartic acid",
+   553→   553→      "Glycine",
+   554→   554→      "Phenylalanine",
+   555→   555→      4.0,
+   556→   556→      "For human beings, eight amino acids are essential : Leucine, isoleucine, lysine, methionine, phenylalanine, threonine, tryptophan and valine. So, these are known as essential amino acids.Cannot be synthesised in animal body.",
+   557→   557→      "CBSE AIPMT",
+   558→   558→      null,
+   559→   559→      null
+   560→   560→    ]
+   561→   561→  },
+   562→   562→  {
+   563→   563→    "sheet": "Class11",
+   564→   564→    "row": 1968,
+   565→   565→    "data": [
+   566→   566→      "Biology",
+   567→   567→      null,
+   568→   568→      "Digestion and Absorption",
+   569→   569→      "English",
+   570→   570→      "What is common among amylase, rennin and trypsin?",
+   571→   571→      "These are all proteins",
+   572→   572→      "These are proteolytic enzymes",
+   573→   573→      "These are produced in stomach",
+   574→   574→      "These act at a pH lower than 7",
+   575→   575→      1.0,
+   576→   576→      "All three are proteins enzymes amylase, rennin and trypsin acts respectively on the substrates starch, lactose and protein. Amylase acts at an optimum pH—6.8-7, rennin at pH-2 and trypsin at an optimum pH—8.5.",
+   577→   577→      "CBSE AIPMT",
+   578→   578→      null,
+   579→   579→      null
+   580→   580→    ]
+   581→   581→  },
+   582→   582→  {
+   583→   583→    "sheet": "Class11",
+   584→   584→    "row": 1969,
+   585→   585→    "data": [
+   586→   586→      "Biology",
+   587→   587→      null,
+   588→   588→      "Biomolecules",
+   589→   589→      "English",
+   590→   590→      "Most diverse macromolecules, found in the cell both physically and chemically are",
+   591→   591→      "proteins",
+   592→   592→      "carbohydrates",
+   593→   593→      "nucleic acids",
+   594→   594→      "lipids",
+   595→   595→      1.0,
+   596→   596→      "Proteins are the most diverse among organic compounds. Among the biomolecules, proteins constitute 9-12%, fat 1-3%, carbohydrates 1-2%, minerals 1-3%, nucleic acids 2% and water 60-75%.",
+   597→   597→      "CBSE AIPMT",
+   598→   598→      null,
+   599→   599→      null
+   600→   600→    ]
+   601→   601→  },
+   602→   602→  {
+   603→   603→    "sheet": "Class11",
+   604→   604→    "row": 1970,
+   605→   605→    "data": [
+   606→   606→      "Biology",
+   607→   607→      null,
+   608→   608→      "Cell: The Unit of Life",
+   609→   609→      "English",
+   610→   610→      "The pyrenoids are made up of",
+   611→   611→      "proteinaceous centre and starchy sheath",
+   612→   612→      "core of protein surrounded by fatty sheath",
+   613→   613→      "core of starch surrounded by sheath of protein",
+   614→   614→      "core of nucleic acid surrounded by protein sheath",
+   615→   615→      1.0,
+   616→   616→      "Pyrenoids consist of dense proteinaceous area surrounded by starchy sheath. These are unique to chloroplast of algae and are associated in polymerising sugars into reserve polymers (starch).",
+   617→   617→      "CBSE AIPMT",
+   618→   618→      null,
+   619→   619→      null
+   620→   620→    ]
+   621→   621→  },
+   622→   622→  {
+   623→   623→    "sheet": "Class11",
+   624→   624→    "row": 1971,
+   625→   625→    "data": [
+   626→   626→      "Biology",
+   627→   627→      null,
+   628→   628→      "Biomolecules",
+   629→   629→      "English",
+   630→   630→      "Amino acids are produced from",
+   631→   631→      "proteins",
+   632→   632→      "fatty acids",
+   633→   633→      "essential oils",
+   634→   634→      "α-keto acids",
+   635→   635→      4.0,
+   636→   636→      "Amino acids are smallest structural units of proteins. Plants and some microorganisms can synthesise these amino acids from inorganic nitrogen/α-keto acids by reductive amination and tr a mination. Amino acids besides bearing a carboxyl group, possess an amino group attached to α-carbon, hence, called asα-amino acids. TOPIC 3 Lipids",
+   637→   637→      "CBSE AIPMT",
+   638→   638→      null,
+   639→   639→      null
+   640→   640→    ]
+   641→   641→  },
+   642→   642→  {
+   643→   643→    "sheet": "Class11",
+   644→   644→    "row": 1972,
+   645→   645→    "data": [
+   646→   646→      "Biology",
+   647→   647→      null,
+   648→   648→      "Biomolecules",
+   649→   649→      "English",
+   650→   650→      "Following are the statements with reference to lipids.  I. Lipids having only single bonds are called unsaturated fatty acids. II. Lecithin is a phospholipid. III. Trihydroxy propane is glycerol. IV. Palmitic acid has 20 carbon atoms including carboxyl carbon. V. Arachidonic acid has 16 carbon atoms. Choose the correct answer from the options given below",
+   651→   651→      "I and III",
+   652→   652→      "III and IV",
+   653→   653→      "II and III",
+   654→   654→      "II and V",
+   655→   655→      3.0,
+   656→   656→      "Statements I, IV and V are incorrect, while II and III are correct. The incorrect statements can be corrected as Lipid having only single bonds are called saturated fatty acids. Palmitic acid has 16 carbon atoms including carboxyl carbon. Arachidonic acid has 20 carbon atoms.",
+   657→   657→      "NEET",
+   658→   658→      null,
+   659→   659→      null
+   660→   660→    ]
+   661→   661→  },
+   662→   662→  {
+   663→   663→    "sheet": "Class11",
+   664→   664→    "row": 1973,
+   665→   665→    "data": [
+   666→   666→      "Biology",
+   667→   667→      null,
+   668→   668→      "Biomolecules",
+   669→   669→      "English",
+   670→   670→      "Which of the following are not polymeric ?",
+   671→   671→      "Nucleic acid",
+   672→   672→      "Proteins",
+   673→   673→      "Polysaccharides",
+   674→   674→      "Lipids",
+   675→   675→      4.0,
+   676→   676→      "Among the given options except lipids all are polymers. These are formed by the polymerisation of monomers. The basic unit of lipid are fatty acids and glycerol molecules that do not form repetitive chains. Instead they form triglycerides from three fatty acids and one glycerol molecules.",
+   677→   677→      "NEET",
+   678→   678→      null,
+   679→   679→      null
+   680→   680→    ]
+   681→   681→  },
+   682→   682→  {
+   683→   683→    "sheet": "Class11",
+   684→   684→    "row": 1974,
+   685→   685→    "data": [
+   686→   686→      "Biology",
+   687→   687→      null,
+   688→   688→      "Biomolecules",
+   689→   689→      "English",
+   690→   690→      "A typical fat molecule is made up of",
+   691→   691→      "One glycerol and three fatty acid molecules",
+   692→   692→      "One glycerol and one fatty acid molecule",
+   693→   693→      "Three glycerol and three fatty acid molecules",
+   694→   694→      "Three glycerol molecules and one fatty acid molecule",
+   695→   695→      1.0,
+   696→   696→      "A typical fat molecule is triglyceride formed by esterification of one glycerol and three fatty acid molecules. The three fatty acids can be of same type or different depending on the type of the fat molecules.",
+   697→   697→      "NEET , Phase I",
+   698→   698→      null,
+   699→   699→      null
+   700→   700→    ]
+   701→   701→  },
+   702→   702→  {
+   703→   703→    "sheet": "Class11",
+   704→   704→    "row": 1975,
+   705→   705→    "data": [
+   706→   706→      "Biology",
+   707→   707→      null,
+   708→   708→      "Biomolecules",
+   709→   709→      "English",
+   710→   710→      "A phosphoglyceride is always made up of",
+   711→   711→      "only a saturated fatty acid esterified to a glycerol molecule to which a phosphate group is also attached",
+   712→   712→      "only an unsaturated fatty acid esterified to a glycerol molecule to which a phosphate group is also attached",
+   713→   713→      "a saturated or unsaturated fatty acid esterified to a glycerol molecule to which a phosphate group is also attached",
+   714→   714→      "a saturated or unsaturated fatty acid esterified to a phosphate group, which is also attached to a glycerol molecule",
+   715→   715→      3.0,
+   716→   716→      "A fat is formed of two kinds of smaller molecules, i.e. glycerol and fatty acids. In making a fat free fatty acid molecules join to glycerol by an ester linkage. A fatty acid has a long carbon skeleton, usually 16 or 18 carbon atoms in length. If there are no double bonds between carbon atoms composing the chain, then as many hydrogen atoms as possible are bonded to the carbon skeleton.This is called saturated fatty acid. Unsaturated fatty acid has one or more double bonds. Phosphoglycerides are esters of two fatty acids, phosphoric acid and a trifunctional alcohol glycerol. The fatty acids are attached to the glycerol at the 1 and 2 position on glycerol through ester bonds.",
+   717→   717→      "NEET",
+   718→   718→      null,
+   719→   719→      null
+   720→   720→    ]
+   721→   721→  },
+   722→   722→  {
+   723→   723→    "sheet": "Class11",
+   724→   724→    "row": 1976,
+   725→   725→    "data": [
+   726→   726→      "Biology",
+   727→   727→      null,
+   728→   728→      "Cell: The Unit of Life",
+   729→   729→      "English",
+   730→   730→      "Which one of the following is not a constituent of cell membrane?",
+   731→   731→      "Cholesterol",
+   732→   732→      "Glycolipids",
+   733→   733→      "Proline",
+   734→   734→      "Phospholipids 98",
+   735→   735→      3.0,
+   736→   736→      "The lipids of cell membrane are of three types namely phospholipids, glycolipids and sterols. The sterol found in the membrane may be cholesterol (animals), phytosterol (plants) or ergosterol (microorganisms). Cell membrane is made up of lipid+protein (60%) and carbohydrates (2-10%). Proline is an amino acid. TOPIC 4 Nucleic Acids",
+   737→   737→      "CBSE AIPMT",
+   738→   738→      null,
+   739→   739→      null
+   740→   740→    ]
+   741→   741→  },
+   742→   742→  {
+   743→   743→    "sheet": "Class11",
+   744→   744→    "row": 1977,
+   745→   745→    "data": [
+   746→   746→      "Biology",
+   747→   747→      null,
+   748→   748→      "Biotechnology: Principles and Processes",
+   749→   749→      "English",
+   750→   750→      "DNA precipitation out of a mixture of biomolecules can be achieved",
+   751→   751→      "hydrophilic",
+   752→   752→      "hydrophobic",
+   753→   753→      "neutral",
+   754→   754→      "Zwitter ions",
+   755→   755→      2.0,
+   756→   756→      "Bloor (1943) first time used the term ‘lipid’. These are the compounds of C, H, O but the ratio of H and O is more than 2 : 1 that is the ratio of oxygen is lesser as compared to carbohydrates. Lipids are insoluble in water but soluble in non-polar solvents such as benzene, chloroform, etc. Common lipid occurring in a cell is phospholipid. It contains a hydrophilic (polar) head and a hydrophobic (non-polar) tail. 38 Which steroid is used for transformation? [CBSE AIPMT 2002] (a) Cortisol (b) Cholesterol (c) Testosterone (d) Progesterone  b  Cholesterol forms a major component of animal cell membranes liposomes (artificially created spheres surrounded by a phospholipid bilayer like a membrane) which are used for transformation (transgenics). 39 Spoilage of oil can be detected by which fatty acid? [CBSE AIPMT 2001] (a) Oleic acid (b) Linolenic acid (c) Linoleic acid (d) Erucic acid  d  Erucic acid occurs as glycerides in vegetable oils. It is a monounsaturated omega-9-fatty acid. It is found in rapseed, mustared seed and wallflower seed. C. Nucleic acid 3. Glycosidic bonds D. Polysaccharide 4. Peptide bonds Choose the correct answer from the options given below. A BC D (a) 4 1 2 3 (b) 1 4 3 2 (c) 2 1 4 3 (d) 4 3 1 2  a  (A)-(4), (B)-(1), (C)-(2), (D)-(3) Proteins are polypetides, they are linear chain of amino acids linked by peptide bond. Unsaturated fatty acids are carbon chains containing one or more double bonds with terminal carboxylic acid. The two sugar molecules of nucleic acids are linked together via phosphodiester bond. Polysaccharides are long chain of sugar molecules joined with a covalent bond, i.e. glycosidic linkage. 41 Match the items in Column I with those in Column II. [NEET (Oct.) 2020] Column I Column II A. Aquaporin (i) Amide B. Asparagine (ii) Polysaccharide C. Abscisic acid (iii) Polypeptide D. Chitin (iv) Carotenoids Select the correct option. A BC D (a) (iii) (i) (iv) (ii) (b) (ii) (iii) (iv) (i) (c) (ii) (i) (iv) (iii) (d) (iii) (i) (ii) (iv)  a  by treatment with [NEET (National) 2019] (a) chilled ethanol (b) methanol at room temperature (c) chilled chloroform (d) isopropanol  a  Chilled ethanol is used to precipitate DNA out of a mixture of biomolecules. Low temperature protects the DNA by slowing down the activity of enzymes that could break it apart and ethanol helps in the quick precipitation of DNA.",
+   757→   757→      "CBSE AIPMT",
+   758→   758→      null,
+   759→   759→      null
+   760→   760→    ]
+   761→   761→  },
+   762→   762→  {
+   763→   763→    "sheet": "Class11",
+   764→   764→    "row": 1978,
+   765→   765→    "data": [
+   766→   766→      "Biology",
+   767→   767→      null,
+   768→   768→      "Biomolecules",
+   769→   769→      "English",
+   770→   770→      "Which one of the following statements is wrong?",
+   771→   771→      "Cellulose is a polysaccharide",
+   772→   772→      "Uracil is a pyrimidine",
+   773→   773→      "Glycine is a sulphur containing amino acid",
+   774→   774→      "Sucrose is a disaccharide",
+   775→   775→      3.0,
+   776→   776→      "Glycine is the simplest amino acid in which functional group ‘R’ is replaced by hydrogen atom (H).",
+   777→   777→      "NEET , Phase I",
+   778→   778→      null,
+   779→   779→      null
+   780→   780→    ]
+   781→   781→  },
+   782→   782→  {
+   783→   783→    "sheet": "Class11",
+   784→   784→    "row": 1979,
+   785→   785→    "data": [
+   786→   786→      "Biology",
+   787→   787→      null,
+   788→   788→      "Biomolecules",
+   789→   789→      "English",
+   790→   790→      "Which of the following biomolecules does have a phosphodiester bond?",
+   791→   791→      "Fatty acids in a diglyceride",
+   792→   792→      "Monosaccharides in a polysaccharide",
+   793→   793→      "Amino acids in a polypeptide",
+   794→   794→      "Nucleic acids in a nucleotide",
+   795→   795→      4.0,
+   796→   796→      "Phosphodiester bond is in responsible for linking nucleotides in nucleic acid (DNA and RNA). Biomolecules 99",
+   797→   797→      "CBSE AIPMT",
+   798→   798→      null,
+   799→   799→      null
+   800→   800→    ]
+   801→   801→  },
+   802→   802→  {
+   803→   803→    "sheet": "Class11",
+   804→   804→    "row": 1980,
+   805→   805→    "data": [
+   806→   806→      "Biology",
+   807→   807→      null,
+   808→   808→      "Biomolecules",
+   809→   809→      "English",
+   810→   810→      "Given below is the diagrammatic representation of one of the categories of small molecular weight organic compounds in the living tissues. Identify the category shown and the one blank component X in it",
+   811→   811→      "A — Triglyceride major— Source of energy",
+   812→   812→      "B — Uracil — A component of DNA",
+   813→   813→      "A — Lecithin — A component of cell membrane",
+   814→   814→      "B — Adenine — A nucleotide These are polymers of nucleotides. Each nucleotide is composed of phosphoric acid, pentose sugar and nitrogenous base. The nitrogenous bases are of two types, i.e. purine and pyrimidines. Purines are heterocyclic and two rings, e.g. adenine, guanine. HOCH2 O X that makes up nucleic acids 6 1 7 5 N N 8 OH OH",
+   815→   815→      3.0,
+   816→   816→      "Lecithin is a phospholipid composed of 2 HN9 N 3 4  Category Component (a) Cholesterol — Guanine (b) Amino acid — NH2 choline and inositol. It is found in all living cells as a major component of cell membrane.",
+   817→   817→      "CBSE AIPMT",
+   818→   818→      null,
+   819→   819→      null
+   820→   820→    ]
+   821→   821→  },
+   822→   822→  {
+   823→   823→    "sheet": "Class11",
+   824→   824→    "row": 1981,
+   825→   825→    "data": [
+   826→   826→      "Biology",
+   827→   827→      null,
+   828→   828→      "Molecular Basis of Inheritance",
+   829→   829→      "English",
+   830→   830→      "The two polynucleotide chains in DNA are",
+   831→   831→      "parallel",
+   832→   832→      "discontinuous",
+   833→   833→      "antiparallel",
+   834→   834→      "semiconservative",
+   835→   835→      3.0,
+   836→   836→      "In 1953 James Watson and Francis Crick suggested that in a DNA molecule there are two polynucleotide chains arranged antiparallel or in opposite directions.",
+   837→   837→      "CBSE AIPMT",
+   838→   838→      null,
+   839→   839→      null
+   840→   840→    ]
+   841→   841→  },
+   842→   842→  {
+   843→   843→    "sheet": "Class11",
+   844→   844→    "row": 1982,
+   845→   845→    "data": [
+   846→   846→      "Biology",
+   847→   847→      null,
+   848→   848→      "Molecular Basis of Inheritance",
+   849→   849→      "English",
+   850→   850→      "One turn of the helix in a B-form DNA is approximately",
+   851→   851→      "0.34 nm",
+   852→   852→      "3.4 nm",
+   853→   853→      "2 nm",
+   854→   854→      "20 nm",
+   855→   855→      2.0,
+   856→   856→      "B-DNA is helical structure with 20Å diameter and the distance between the two base pairs is 3.4Å and there are 10 base pairs in each turn or pitch (one round). Hence, one turn of the helix is approximately 34Å or 3.4 nm (10Å = 1.0 nm). Z-DNA (in comparision to B-DNA) is left handed double helical structure in which double helix winds to left inzig-zag pattern (instead of right, like B-DNA).",
+   857→   857→      "CBSE AIPMT",
+   858→   858→      null,
+   859→   859→      null
+   860→   860→    ]
+   861→   861→  },
+   862→   862→  {
+   863→   863→    "sheet": "Class11",
+   864→   864→    "row": 1983,
+   865→   865→    "data": [
+   866→   866→      "Biology",
+   867→   867→      null,
+   868→   868→      "Biomolecules",
+   869→   869→      "English",
+   870→   870→      "Nucleotides are building blocks of nucleic acids. Each nucleotide is a composite molecule formed by",
+   871→   871→      "base-sugar-phosphate",
+   872→   872→      "base-sugar-OH",
+   873→   873→      "(base-sugar-phosphate) n",
+   874→   874→      "sugar-phosphate",
+   875→   875→      1.0,
+   876→   876→      "Nucleotides are the building blocks of nucleic acids (DNA and RNA). A single nucleotide is composed of a phosphate molecule, a five carbon sugar (either ribose or deoxyribose) and a purine (adenine or guanine) or a pyrimidine (thymine or cytosine or uracil) nitrogenous base. O– O– Guanine Cytosine P HO Pentose sugar O O 1´ CH2 5´ 4´ 3´2´ N N H O H H O N N N 2´ 3´O 4´ 1´O H C25´ Phosphate O– O– P H H N H N H O P O CH3 HO HO O CH2 O 4´ N N N N Hydrogen H N 2´ 3´ O O 2´ O 3´ Adenine H bonds O Thymine 1´ O Nucleotides Chemical structures of base pairs and sugar phosphate chains",
+   877→   877→      "CBSE AIPMT , 1991",
+   878→   878→      null,
+   879→   879→      null
+   880→   880→    ]
+   881→   881→  },
+   882→   882→  {
+   883→   883→    "sheet": "Class11",
+   884→   884→    "row": 1984,
+   885→   885→    "data": [
+   886→   886→      "Biology",
+   887→   887→      null,
+   888→   888→      "Biomolecules",
+   889→   889→      "English",
+   890→   890→      "ATP is a",
+   891→   891→      "nucleotide",
+   892→   892→      "nucleosome",
+   893→   893→      "nucleoside",
+   894→   894→      "purine",
+   895→   895→      1.0,
+   896→   896→      "A nucleotide contains (a) a 5-C sugar (b) a phosphate molecule (c) a nitrogenous base. ATP is also a nucleotide. It also has a 5-C sugar (ribose), 3 phosphate molecules and a nitrogenous base (adenine). Biomolecules 101 N 1 2 H NH| 2 C 6 5 C N 7 8 C H Pyrophosphate C 3 4 N C N9 O|| O|| O|| Adenine O 5'CH O—P—O P—O P—OH 2 ~ ~ 1' H HH 4' | OH | OH | OH H 2' 3' AMP Adenine–Ribose–O–P=AMP ~ OH OH Ribose ADP ATP Adenine–Ribose–O—P—O P=ADP ~ ~ Adenine–Ribose–O—P—O P—O P=ATP The chemical structure of AMP, ADP and ATP Adenine + sugar (ribose) →Adenosine Adenosine + 1 phosphate →Adenosine Monophosphate (AMP) AMP + 1 phosphate →Adenosine Diphosphate (ADP)",
+   897→   897→      "CBSE AIPMT",
+   898→   898→      null,
+   899→   899→      null
+   900→   900→    ]
+   901→   901→  },
+   902→   902→  {
+   903→   903→    "sheet": "Class11",
+   904→   904→    "row": 1985,
+   905→   905→    "data": [
+   906→   906→      "Biology",
+   907→   907→      null,
+   908→   908→      "Biomolecules",
+   909→   909→      "English",
+   910→   910→      "Which one of the following amino acids is an essential part of human diet ?",
+   911→   911→      "Glycine",
+   912→   912→      "Phenylalanine",
+   913→   913→      "Serine",
+   914→   914→      "Aspartic acid",
+   915→   915→      2.0,
+   916→   916→      "For human beings, eight amino acids are essential. These are leucine, isoleucine, lysine, methionine, phenylalanine, threonine, tryptophan and valine.",
+   917→   917→      "CBSE AIPMT",
+   918→   918→      null,
+   919→   919→      null
+   920→   920→    ]
+   921→   921→  },
+   922→   922→  {
+   923→   923→    "sheet": "Class11",
+   924→   924→    "row": 1986,
+   925→   925→    "data": [
+   926→   926→      "Biology",
+   927→   927→      null,
+   928→   928→      "Molecular Basis of Inheritance",
+   929→   929→      "English",
+   930→   930→      "Radioactive thymidine when added to the medium surrounding living mammalian cells gets incorporated into the newly synthesised DNA. Which of the following types of chromatin is expected to become radioactive if cells are exposed radioactive thymidine as soon as they enter the S-phase?",
+   931→   931→      "Heterochromatin",
+   932→   932→      "Euchromatin",
+   933→   933→      "Both (a) and (b)",
+   934→   934→      "Neither (a) nor (b) but only the nucleolus",
+   935→   935→      2.0,
+   936→   936→      "In the beginning of S-phase, DNA replication occurs. DNA replication can occur in diffuse/less tightly coiledeuchromatin. So active DNA stains light in colour when stained with acetocarmin and feulgen reagent in comparison to heterochromatin.",
+   937→   937→      "CBSE AIPMT",
+   938→   938→      null,
+   939→   939→      null
+   940→   940→    ]
+   941→   941→  },
+   942→   942→  {
+   943→   943→    "sheet": "Class11",
+   944→   944→    "row": 1987,
+   945→   945→    "data": [
+   946→   946→      "Biology",
+   947→   947→      null,
+   948→   948→      "Molecular Basis of Inheritance",
+   949→   949→      "English",
+   950→   950→      "DNA synthesis can be specifically measured by estimating the incorporation of radio labelled",
+   951→   951→      "uracil",
+   952→   952→      "adenine",
+   953→   953→      "thymidine",
+   954→   954→      "deoxyribose sugar",
+   955→   955→      3.0,
+   956→   956→      "DNA consists of deoxyribose sugar, phosphate molecules and nitrogenous bases-adenine, guanine, cytosine and thymine, whereas RNA consists of ribose sugar, phosphate molecules and nitrogenous bases-adenine, guanine, cytosine and uracil. Thus, estimating the incorporation of radiolabelled thymine can measure DNA synthesis and radiolabelled uracil can measure RNA synthesis, as all other nitrogenous bases are similar in both DNA and RNA.",
+   957→   957→      "CBSE AIPMT",
+   958→   958→      null,
+   959→   959→      null
+   960→   960→    ]
+   961→   961→  },
+   962→   962→  {
+   963→   963→    "sheet": "Class11",
+   964→   964→    "row": 1988,
+   965→   965→    "data": [
+   966→   966→      "Biology",
+   967→   967→      null,
+   968→   968→      "Biomolecules",
+   969→   969→      "English",
+   970→   970→      "The nitrogenous organic base purine occurring in RNA is",
+   971→   971→      "cytosine",
+   972→   972→      "thymine",
+   973→   973→      "guanine",
+   974→   974→      "uracil",
+   975→   975→      3.0,
+   976→   976→      "Purines are 9-membered double ring nitrogen bases which possess nitrogen at 1, 3, 7 and 9 positions, e.g. adenine (A), guanine (G). These purines are present in both DNA and RNA.",
+   977→   977→      "CBSE AIPMT",
+   978→   978→      null,
+   979→   979→      null
+   980→   980→    ]
+   981→   981→  },
+   982→   982→  {
+   983→   983→    "sheet": "Class11",
+   984→   984→    "row": 1989,
+   985→   985→    "data": [
+   986→   986→      "Biology",
+   987→   987→      null,
+   988→   988→      "Biomolecules",
+   989→   989→      "English",
+   990→   990→      "Two free ribonucleotide units are interlinked with",
+   991→   991→      "peptide bond",
+   992→   992→      "covalent bond",
+   993→   993→      "hydrogen bond",
+   994→   994→      "phosphodiester bond",
+   995→   995→      4.0,
+   996→   996→      "The bonds that exist between the phosphate group of one nucleotide and hydroxyl group of sugar (ribose or deoxyribose) of the adjacent nucleotide is known as phosphodiester bond. 102",
+   997→   997→      "CBSE AIPMT",
+   998→   998→      null,
+   999→   999→      null
+  1000→  1000→    ]
+  1001→  1001→  }
+  1002→  1002→]

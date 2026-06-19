@@ -1,0 +1,81 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Player {
+  id             String   @id @default(cuid())
+  name           String
+  totalXp        Int      @default(0)
+  level          Int      @default(1)
+  currentStreak  Int      @default(0)
+  bestStreak     Int      @default(0)
+  totalQuestions Int      @default(0)
+  correctAnswers Int      @default(0)
+  bestCombo      Int      @default(0)
+  gamesPlayed    Int      @default(0)
+  fastestCorrect Float?   // seconds
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  scores         Score[]
+  achievements   Achievement[]
+  dailyActivity  DailyActivity[]
+}
+
+model Score {
+  id           String   @id @default(cuid())
+  playerId     String
+  player       Player   @relation(fields: [playerId], references: [id])
+  category     String?   // Physics, Chemistry, etc.
+  difficulty   String?   // easy, medium, hard
+  xpEarned     Int
+  correctCount Int
+  totalCount   Int
+  comboMax     Int
+  timeTaken    Float    // seconds
+  mode         String   // battle, practice
+  createdAt    DateTime @default(now())
+}
+
+model Achievement {
+  id          String   @id @default(cuid())
+  playerId    String
+  player      Player   @relation(fields: [playerId], references: [id])
+  type        String   @unique // first_perfect, streak_7, speed_demon, etc.
+  name        String
+  description String
+  icon        String
+  unlockedAt  DateTime @default(now())
+}
+
+model DailyActivity {
+  id        String   @id @default(cuid())
+  playerId  String
+  player    Player   @relation(fields: [playerId], references: [id])
+  date      String   // YYYY-MM-DD
+  questions Int      @default(0)
+  xp        Int      @default(0)
+  games     Int      @default(0)
+  createdAt DateTime @default(now())
+  
+  @@unique([playerId, date])
+}
+
+model Question {
+  id          String   @id @default(cuid())
+  text        String
+  optionA     String
+  optionB     String
+  optionC     String
+  optionD     String
+  correct     Int      // 1-4
+  explanation String?
+  subject     String?  // Physics, Chemistry, Biology, Maths
+  chapter     String?
+  difficulty  String?  // easy, medium, hard
+  spell       String?  // spell number
+}

@@ -1,0 +1,1002 @@
+     1→     1→[
+     2→     2→  {
+     3→     3→    "sheet": "Class11",
+     4→     4→    "row": 2190,
+     5→     5→    "data": [
+     6→     6→      "Biology",
+     7→     7→      null,
+     8→     8→      "Photosynthesis in Higher Plants",
+     9→     9→      "English",
+    10→    10→      "At a temperature above 35°C",
+    11→    11→      "rate of photosynthesis will decline earlier than that of respiration",
+    12→    12→      "rate of respiration will decline earlier than that of photosynthesis",
+    13→    13→      "there is no fixed pattern",
+    14→    14→      "both decline simultaneously",
+    15→    15→      1.0,
+    16→    16→      "Optimum temperature for photosynthesis is 10°-25°C for C3-plants and 30°-45°C for C4-plants. Optimum temperature for respiration is 20°C–30°C, i.e. respiration has a higher temperature optimum than photosynthesis and thus declines later.",
+    17→    17→      "CBSE AIPMT",
+    18→    18→      null,
+    19→    19→      null
+    20→    20→    ]
+    21→    21→  },
+    22→    22→  {
+    23→    23→    "sheet": "Class11",
+    24→    24→    "row": 2191,
+    25→    25→    "data": [
+    26→    26→      "Biology",
+    27→    27→      null,
+    28→    28→      "Photosynthesis in Higher Plants",
+    29→    29→      "English",
+    30→    30→      "During monsoon, the rice crop of Eastern states of India shows lesser yield due to limiting factor of",
+    31→    31→      "CO2",
+    32→    32→      "light",
+    33→    33→      "temperature",
+    34→    34→      "water",
+    35→    35→      2.0,
+    36→    36→      "According to the principle of limiting factor, the rate of the process is limited by the pace of the slowest factor. Light intensity varies with latitude, altitude, season, topography, presence or absence of interceptors like cloud, dust, fog, humidity, etc. In Eastern states, low light intensity during monsoon results in low photosynthesis and hence, lesser yield. 14 Respiration in Plants TOPIC 1 Glycolysis",
+    37→    37→      "CBSE AIPMT",
+    38→    38→      null,
+    39→    39→      null
+    40→    40→    ]
+    41→    41→  },
+    42→    42→  {
+    43→    43→    "sheet": "Class11",
+    44→    44→    "row": 2192,
+    45→    45→    "data": [
+    46→    46→      "Biology",
+    47→    47→      null,
+    48→    48→      "Respiration in Plants",
+    49→    49→      "English",
+    50→    50→      "Conversion of glucose to glucose-6-phosphate, the first irreversible reaction of glycolysis, is catalysed by",
+    51→    51→      "hexokinase",
+    52→    52→      "enolase",
+    53→    53→      "phosphofructokinase",
+    54→    54→      "aldolase",
+    55→    55→      1.0,
+    56→    56→      "Conversion of glucose to glucose-6-phosphate during glycolysis is catalysed by the enzyme hexokinase. During this step, glucose is phosphorylated to glucose-6-phosphate by ATP. It is the first step of activation phase of glycolysis.",
+    57→    57→      "NEET (National)",
+    58→    58→      null,
+    59→    59→      null
+    60→    60→    ]
+    61→    61→  },
+    62→    62→  {
+    63→    63→    "sheet": "Class11",
+    64→    64→    "row": 2193,
+    65→    65→    "data": [
+    66→    66→      "Biology",
+    67→    67→      null,
+    68→    68→      "Respiration in Plants",
+    69→    69→      "English",
+    70→    70→      "Which of the following biomolecules is common to respiration-mediated breakdown of fats, carbohydrates and proteins?",
+    71→    71→      "Glucose-6-phosphate",
+    72→    72→      "Fructose 1,6-bisphosphate",
+    73→    73→      "Pyruvic acid",
+    74→    74→      "Acetyl Co-A",
+    75→    75→      4.0,
+    76→    76→      "Carbohydrates, fats and proteins, all can be used as a substrate in cellular respiration. All of them first get converted to acetyl Co-A to enter into Krebs’ cycle of aerobic cellular respiration. Thus, it is the common factor of respiration entering Krebs’ cycle after breakdown of carbohydrates, fats and proteins.",
+    77→    77→      "NEET , Phase II",
+    78→    78→      null,
+    79→    79→      null
+    80→    80→    ]
+    81→    81→  },
+    82→    82→  {
+    83→    83→    "sheet": "Class11",
+    84→    84→    "row": 2194,
+    85→    85→    "data": [
+    86→    86→      "Biology",
+    87→    87→      null,
+    88→    88→      "Respiration in Plants",
+    89→    89→      "English",
+    90→    90→      "In glycolysis, during oxidation electrons are removed by",
+    91→    91→      "ATP",
+    92→    92→      "glyceraldehyde-3-phosphate",
+    93→    93→      "NAD+",
+    94→    94→      "molecular oxygen",
+    95→    95→      3.0,
+    96→    96→      "When 3-phosphoglyceraldehyde is converted into 1,3 diphosphoglyceric acid, two electrons and two protons are released which are utilised to convert NAD + to NADH and one H +. NAD + 2H + 2e NADH + H ++ + − → .",
+    97→    97→      "CBSE AIPMT",
+    98→    98→      null,
+    99→    99→      null
+   100→   100→    ]
+   101→   101→  },
+   102→   102→  {
+   103→   103→    "sheet": "Class11",
+   104→   104→    "row": 2195,
+   105→   105→    "data": [
+   106→   106→      "Biology",
+   107→   107→      null,
+   108→   108→      "Respiration in Plants",
+   109→   109→      "English",
+   110→   110→      "In animal cells, the first stage of glucose breakdown is",
+   111→   111→      "Krebs’ cycle",
+   112→   112→      "glycolysis",
+   113→   113→      "oxidative phosphorylation",
+   114→   114→      "ETC",
+   115→   115→      2.0,
+   116→   116→      "Glycolysis refers to the sequence of reactions by which glucose is degraded anaerobically into pyruvic acid inside cytoplasm. The net gain of molecules of ATP during glycolysis is 2.",
+   117→   117→      "CBSE AIPMT",
+   118→   118→      null,
+   119→   119→      null
+   120→   120→    ]
+   121→   121→  },
+   122→   122→  {
+   123→   123→    "sheet": "Class11",
+   124→   124→    "row": 2196,
+   125→   125→    "data": [
+   126→   126→      "Biology",
+   127→   127→      null,
+   128→   128→      "Respiration in Plants",
+   129→   129→      "English",
+   130→   130→      "End product of glycolysis is",
+   131→   131→      "acetyl Co-A",
+   132→   132→      "pyruvic acid",
+   133→   133→      "glucose 1-phosphate",
+   134→   134→      "fructose 1-phosphate",
+   135→   135→      2.0,
+   136→   136→      "During glycolysis one molecule of glucose is broken down into two molecules of pyruvic acid in the cytoplasm. Glycolysis is the common path of aerobic and anaerobic respiration.",
+   137→   137→      "CBSE AIPMT",
+   138→   138→      null,
+   139→   139→      null
+   140→   140→    ]
+   141→   141→  },
+   142→   142→  {
+   143→   143→    "sheet": "Class11",
+   144→   144→    "row": 2197,
+   145→   145→    "data": [
+   146→   146→      "Biology",
+   147→   147→      null,
+   148→   148→      "Respiration in Plants",
+   149→   149→      "English",
+   150→   150→      "EMP can produce a total of",
+   151→   151→      "6 ATP",
+   152→   152→      "8 ATP",
+   153→   153→      "24 ATP",
+   154→   154→      "38 ATP",
+   155→   155→      2.0,
+   156→   156→      "EMP (Embden-Meyerhof Paranas Pathway) refers to glycolysis, in which one molecule of glucose is broken down to two molecules of pyruvic acid. In this process there is a gain of 2NADH (2 ⋅ 3 ATP) and 2 ATP, i.e. total 8 ATP.",
+   157→   157→      "CBSE AIPMT",
+   158→   158→      null,
+   159→   159→      null
+   160→   160→    ]
+   161→   161→  },
+   162→   162→  {
+   163→   163→    "sheet": "Class11",
+   164→   164→    "row": 2198,
+   165→   165→    "data": [
+   166→   166→      "Biology",
+   167→   167→      null,
+   168→   168→      "Respiration in Plants",
+   169→   169→      "English",
+   170→   170→      "Incomplete oxidation of glucose into pyruvic acid with several intermediate steps is known as",
+   171→   171→      "TCA-pathway",
+   172→   172→      "glycolysis",
+   173→   173→      "HMS-pathway",
+   174→   174→      "Krebs’ cycle",
+   175→   175→      2.0,
+   176→   176→      "Glycolysis is the sequence of enzyme mediated reactions by which glucose is degraded anaerobically into pyruvic acid in cell cytoplasm. The net gain of molecules of ATP during glycolysis is two. TOPIC 2 Krebs Cycle and Electron Transport Chain",
+   177→   177→      "CBSE AIPMT",
+   178→   178→      null,
+   179→   179→      null
+   180→   180→    ]
+   181→   181→  },
+   182→   182→  {
+   183→   183→    "sheet": "Class11",
+   184→   184→    "row": 2199,
+   185→   185→    "data": [
+   186→   186→      "Biology",
+   187→   187→      null,
+   188→   188→      "Respiration in Plants",
+   189→   189→      "English",
+   190→   190→      "Which of the following statement is incorrect?",
+   191→   191→      "During aerobic respiration, role of oxygen is limited to the terminal stage",
+   192→   192→      "In ETC (Electron Transport Chain), one molecule of NADH + H + gives rise to 2 ATP molecules and one FADH2 gives rise to 3 ATPmolecules",
+   193→   193→      "ATP is synthesised through complex V",
+   194→   194→      "Oxidation-reduction reactions produce proton gradient in respiration",
+   195→   195→      2.0,
+   196→   196→      "Oxidation of one molecule of NADH gives rise to 3 molecules of ATP and one molecule of FADH2 produces 2 molecules of ATP. Respiration in Plants 137 NADH and FADH2 are two different types of electron donors. They differ in the ways they feed electron during electron transport chain. NADH feeds its electrons into the electron transport chain at the beginning (Complex I). FADH2 feeds into the electron transport chain at Complex II (at a lower energy level down the chain). The high energy electrons from NADH have sufficient energy to result in 3 ATP whereas the lower energy electrons in FADH2 have energy for 2 ATP production.",
+   197→   197→      "NEET",
+   198→   198→      null,
+   199→   199→      null
+   200→   200→    ]
+   201→   201→  },
+   202→   202→  {
+   203→   203→    "sheet": "Class11",
+   204→   204→    "row": 2200,
+   205→   205→    "data": [
+   206→   206→      "Biology",
+   207→   207→      null,
+   208→   208→      "Respiration in Plants",
+   209→   209→      "English",
+   210→   210→      "Pyruvate dehydrogenase activity during aerobic respiration requires",
+   211→   211→      "calcium",
+   212→   212→      "iron",
+   213→   213→      "cobalt",
+   214→   214→      "magnesium",
+   215→   215→      4.0,
+   216→   216→      "Pyruvate dehydrogenase enzyme is involved in the conversion of pyruvate to acetyl Co-A, after the completion of glycolysis and before the start of Krebs’ cycle. This enzyme is made up of decarboxylase, lipoic acid, tr a cetylase andMg2 + ion. The reaction occur in following way Pyruvate+ + ⎯→ ⎯⎯ + NAD Co- A + Pyruvate dehydrogenase, Mg 2 Acetyl Co- A NADH H CO2 + +++ In this reactionMg2 + acts as a cofactor.",
+   217→   217→      "NEET (Oct.)",
+   218→   218→      null,
+   219→   219→      null
+   220→   220→    ]
+   221→   221→  },
+   222→   222→  {
+   223→   223→    "sheet": "Class11",
+   224→   224→    "row": 2201,
+   225→   225→    "data": [
+   226→   226→      "Biology",
+   227→   227→      null,
+   228→   228→      "Respiration in Plants",
+   229→   229→      "English",
+   230→   230→      "The number of substrate level phosphorylation in one turn of citric acid cycle is",
+   231→   231→      "one",
+   232→   232→      "two",
+   233→   233→      "three",
+   234→   234→      "zero",
+   235→   235→      1.0,
+   236→   236→      "The number of substrate level phosphorylation in one turn of citric acid cycle is 1. During Krebs’ or citric acid cycle, succinyl-Co-A is acted upon by enzyme succinyl-Co-A synthetase to form succinate (a 4C compound). The reaction releases sufficient energy to form ATP (in plants) or GTP (in animals) by substrate-level phosphorylation. GTP can form ATP through a coupled reaction. Succinyl Co-A+GDP/ADP+H3 PO4 synthetase. Succinyl Co-A Succinate +Co-A+GTP/ATP.",
+   237→   237→      "NEET (Sep.)",
+   238→   238→      null,
+   239→   239→      null
+   240→   240→    ]
+   241→   241→  },
+   242→   242→  {
+   243→   243→    "sheet": "Class11",
+   244→   244→    "row": 2202,
+   245→   245→    "data": [
+   246→   246→      "Biology",
+   247→   247→      null,
+   248→   248→      "Respiration in Plants",
+   249→   249→      "English",
+   250→   250→      "Where is respiratory Electron Transport System (ETS) located in plants?",
+   251→   251→      "Mitochondrial matrix",
+   252→   252→      "Outer mitochondrial membrane",
+   253→   253→      "Inner mitochondrial membrane",
+   254→   254→      "Intermembrane space",
+   255→   255→      3.0,
+   256→   256→      "Respiratory Electron Transport System (ETS) in plants is located in inner mitochondrial membrane. It serves as the site of oxidative phosphorylation through the action of ATP synthase.",
+   257→   257→      "NEET (Odisha)",
+   258→   258→      null,
+   259→   259→      null
+   260→   260→    ]
+   261→   261→  },
+   262→   262→  {
+   263→   263→    "sheet": "Class11",
+   264→   264→    "row": 2203,
+   265→   265→    "data": [
+   266→   266→      "Biology",
+   267→   267→      null,
+   268→   268→      "Respiration in Plants",
+   269→   269→      "English",
+   270→   270→      "Which one of these statements is incorrect?",
+   271→   271→      "Glycolysis operates as long as it is supplied with NAD that can pick up hydrogen atoms.",
+   272→   272→      "Glycolysis occurs in cytosol",
+   273→   273→      "Enzymes of TCA cycle are present in mitochondrial matrix",
+   274→   274→      "Oxidative phosphorylation takes place in outer mitochondrial membrane",
+   275→   275→      4.0,
+   276→   276→      "Oxidative phosphorylation is the process of ATP formation due to the transfer of electrons from NADH or FADH2 to oxygen molecule (O ) 2 by a series of electron carriers. This process occurs in the inner mitochondrial membrane because of its less permeability, presence of ETC proteins and ATP synthase. The rest three statements are correct. 13 What is the role of NAD+ in cellular respiration? [NEET 2018] (a) It is a nucleotide source of ATP synthesis (b) It functions as an electron carrier (c) It functions as an enzyme (d) It is the final electron acceptor for anaerobic respiration  b  NAD+ functions as an electron carrier in cellular respiration. NAD is an oxidising agent which accept electrons and then transfer them to the Electron Transport System (ETS). As a result, 3ATP molecules are formed.",
+   277→   277→      "NEET",
+   278→   278→      null,
+   279→   279→      null
+   280→   280→    ]
+   281→   281→  },
+   282→   282→  {
+   283→   283→    "sheet": "Class11",
+   284→   284→    "row": 2204,
+   285→   285→    "data": [
+   286→   286→      "Biology",
+   287→   287→      null,
+   288→   288→      "Respiration in Plants",
+   289→   289→      "English",
+   290→   290→      "Which statement is wrong for Krebs’ cycle?",
+   291→   291→      "There are three points in the cycle whereNAD+ is reduced to NADH + + H",
+   292→   292→      "There is one point in the cycle where FAD + is reduced toFADH2",
+   293→   293→      "During conversion of succinyl Co-A to succinic acid, a molecule of GTP is synthesised",
+   294→   294→      "The cycle starts with condensation of acetyl group (acetyl Co-A) with pyruvic acid to yield citric acid",
+   295→   295→      4.0,
+   296→   296→      "Option (d) is incorrect, which can be corrected as Krebs’ cycle starts with the condensation of acetyl group with oxaloacetic acid and water to yield citric acid. During conversion of succinic acid to fumaric acid FAD + is reduced toFADH2 . During conversion of pyruvic acid to acetyl Co- A, isocitrate to oxalosuccinic acid andα-ketoglutaric acid to succinyl Co-ANAD+ is reduced toNADPH+H+.",
+   297→   297→      "NEET",
+   298→   298→      null,
+   299→   299→      null
+   300→   300→    ]
+   301→   301→  },
+   302→   302→  {
+   303→   303→    "sheet": "Class11",
+   304→   304→    "row": 2205,
+   305→   305→    "data": [
+   306→   306→      "Biology",
+   307→   307→      null,
+   308→   308→      "Respiration in Plants",
+   309→   309→      "English",
+   310→   310→      "Oxidative phosphorylation is",
+   311→   311→      "formation of ATP by transfer of phosphate group from a substrate to ADP",
+   312→   312→      "oxidation of phosphate group in ATP",
+   313→   313→      "addition of phosphate group to ATP",
+   314→   314→      "formation of ATP by energy released from electrons removed during substrate oxidation",
+   315→   315→      1.0,
+   316→   316→      "Oxidative phosphorylation is the process of formation of ATP from ADP and inorganic phosphate (P)i in the presence of oxygen. It occurs mainly in the Electron Transport Chain (ETC) of cellular respiration.",
+   317→   317→      "NEET , Phase II",
+   318→   318→      null,
+   319→   319→      null
+   320→   320→    ]
+   321→   321→  },
+   322→   322→  {
+   323→   323→    "sheet": "Class11",
+   324→   324→    "row": 2206,
+   325→   325→    "data": [
+   326→   326→      "Biology",
+   327→   327→      null,
+   328→   328→      "Respiration in Plants",
+   329→   329→      "English",
+   330→   330→      "Which of the metabolites is common to respiration mediated breakdown of fats, carbohydrates and proteins?",
+   331→   331→      "Glucose-6-phosphate",
+   332→   332→      "Fructose 1, 6-bisphosphate",
+   333→   333→      "Pyruvic acid",
+   334→   334→      "Acetyl Co-A",
+   335→   335→      4.0,
+   336→   336→      "Acetyl Co-A is common to respiration mediated breakdown of fats, carbohydrates and proteins. Glucose and fructose are phosphorylated to give rise to glucose-6-phosphate by the activity of the enzyme hexokinase. Glucose-6-phosphate is then converted into fructose-6-phosphate and further to fructose 1-6-bisphosphate. Pyruvic acid is the end product of glycolysis.",
+   337→   337→      "NEET",
+   338→   338→      null,
+   339→   339→      null
+   340→   340→    ]
+   341→   341→  },
+   342→   342→  {
+   343→   343→    "sheet": "Class11",
+   344→   344→    "row": 2207,
+   345→   345→    "data": [
+   346→   346→      "Biology",
+   347→   347→      null,
+   348→   348→      "Respiration in Plants",
+   349→   349→      "English",
+   350→   350→      "Aerobic respiratory pathway is appropriately termed",
+   351→   351→      "catabolic",
+   352→   352→      "parabolic",
+   353→   353→      "amphibolic",
+   354→   354→      "anabolic",
+   355→   355→      3.0,
+   356→   356→      "An amphibolic pathway is a biochemical pathway that serves both anabolic and catabolic processes. An important example of an amphibolic pathway is the Krebs’ cycle, which involves both the catabolism of carbohydrates and fatty acid and the synthesis of anabolic precursors for amino acid synthesis, eg, α-ketogluturate and oxalo acetate.",
+   357→   357→      "CBSE AIPMT",
+   358→   358→      null,
+   359→   359→      null
+   360→   360→    ]
+   361→   361→  },
+   362→   362→  {
+   363→   363→    "sheet": "Class11",
+   364→   364→    "row": 2208,
+   365→   365→    "data": [
+   366→   366→      "Biology",
+   367→   367→      null,
+   368→   368→      "Respiration in Plants",
+   369→   369→      "English",
+   370→   370→      "The overall goal of glycolysis, Krebs’ cycle and the electron transport system is the formation of",
+   371→   371→      "ATP in small stepwise units",
+   372→   372→      "ATP in one large oxidation reaction",
+   373→   373→      "sugars",
+   374→   374→      "nucleic acids",
+   375→   375→      1.0,
+   376→   376→      "Glycolysis, Krebs’ cycle and electron transport system are meant for ATP synthesis in different steps. ATP is the energy currency of cell.",
+   377→   377→      "CBSE AIPMT",
+   378→   378→      null,
+   379→   379→      null
+   380→   380→    ]
+   381→   381→  },
+   382→   382→  {
+   383→   383→    "sheet": "Class11",
+   384→   384→    "row": 2209,
+   385→   385→    "data": [
+   386→   386→      "Biology",
+   387→   387→      null,
+   388→   388→      "Respiration in Plants",
+   389→   389→      "English",
+   390→   390→      "All enzymes of TCA cycle are located in the mitochondrial matrix except one which is located in inner mitochondrial membranes in eukaryotes and in cytosol in prokaryotes. This enzyme is",
+   391→   391→      "lactate dehydrogenase",
+   392→   392→      "isocitrate dehydrogenase",
+   393→   393→      "malate dehydrogenase",
+   394→   394→      "succinate dehydrogenase",
+   395→   395→      4.0,
+   396→   396→      "Succinate dehydrogenase enzyme is present on inner membrane of mitochondria and catalyses the oxidation of succinate to fumarate.",
+   397→   397→      "CBSE AIPMT",
+   398→   398→      null,
+   399→   399→      null
+   400→   400→    ]
+   401→   401→  },
+   402→   402→  {
+   403→   403→    "sheet": "Class11",
+   404→   404→    "row": 2210,
+   405→   405→    "data": [
+   406→   406→      "Biology",
+   407→   407→      null,
+   408→   408→      "Photosynthesis in Higher Plants",
+   409→   409→      "English",
+   410→   410→      "Chemiosmotic theory of ATP synthesis in the chloroplast and mitochondria is based on",
+   411→   411→      "membrane potential",
+   412→   412→      "accumulation ofNa + ions",
+   413→   413→      "accumulation ofK + ions",
+   414→   414→      "proton gradient",
+   415→   415→      4.0,
+   416→   416→      "Chemiosmotic hypothesis for oxidative phosphorylation (ATP synthesis) was proposed by Peter Mitchell in 1961, for this he was awarded Nobel Prize in 1978. This theory is based on proton gradient.",
+   417→   417→      "CBSE AIPMT",
+   418→   418→      null,
+   419→   419→      null
+   420→   420→    ]
+   421→   421→  },
+   422→   422→  {
+   423→   423→    "sheet": "Class11",
+   424→   424→    "row": 2211,
+   425→   425→    "data": [
+   426→   426→      "Biology",
+   427→   427→      null,
+   428→   428→      "Photosynthesis in Higher Plants",
+   429→   429→      "English",
+   430→   430→      "Which one of the following concerns photophosphorylation?",
+   431→   431→      "AMP + inorganicPO4 Light energy ATP ⎯⎯⎯⎯⎯→ Light energy ATP",
+   432→   432→      "ADP + AMP ⎯⎯⎯⎯⎯→",
+   433→   433→      "ADP + inorganicPO4 Light energy ATP ⎯⎯⎯⎯⎯→",
+   434→   434→      "ADP + inorganicPO ATP 4 ⎯→",
+   435→   435→      3.0,
+   436→   436→      "Phosphorylation refers to the process in which ATP is made when energy is used to bind another phosphate to ADP. Photophosphorylation reactions are part of both respiration and photosynthesis. Respiration in Plants 139",
+   437→   437→      "CBSE AIPMT",
+   438→   438→      null,
+   439→   439→      null
+   440→   440→    ]
+   441→   441→  },
+   442→   442→  {
+   443→   443→    "sheet": "Class11",
+   444→   444→    "row": 2212,
+   445→   445→    "data": [
+   446→   446→      "Biology",
+   447→   447→      null,
+   448→   448→      "Respiration in Plants",
+   449→   449→      "English",
+   450→   450→      "In which one of the following do the two names refer to one and the same thing?",
+   451→   451→      "Tricarboxylic acid cycle and urea cycle",
+   452→   452→      "Krebs’ cycle and Calvin cycle",
+   453→   453→      "Tricarboxylic acid cycle and citric acid cycle",
+   454→   454→      "Citric acid cycle and Calvin cycle",
+   455→   455→      3.0,
+   456→   456→      "Tricarboxylic acid cycle is also known as citric acid cycle. This is an aerobic process, that takes place in the matrix of mitochondria. Kreb that discovered this cycle in 1937. So, this is also known as Krebs’ cycle.",
+   457→   457→      "CBSE AIPMT",
+   458→   458→      null,
+   459→   459→      null
+   460→   460→    ]
+   461→   461→  },
+   462→   462→  {
+   463→   463→    "sheet": "Class11",
+   464→   464→    "row": 2213,
+   465→   465→    "data": [
+   466→   466→      "Biology",
+   467→   467→      null,
+   468→   468→      "Photosynthesis in Higher Plants",
+   469→   469→      "English",
+   470→   470→      "The mechanism of ATP formation both in chloroplast and mitochondria is explained by",
+   471→   471→      "relay pump theory of Godlewski",
+   472→   472→      "Munch’s pressure/mass flow model",
+   473→   473→      "chemiosmotic theory of Mitchell",
+   474→   474→      "Cholondy-Went’s model",
+   475→   475→      3.0,
+   476→   476→      "In chemiosmotic- coupling hypothesis, outward pumping of protons across the inner chloroplast or mitochondrial membrane results in accumulation of protons between outer membrane and inner membrane. A proton gradient is thus established. As protons now flow back passively down the gradient, the proton motive force is utilised to synthesise ATP.",
+   477→   477→      "CBSE AIPMT",
+   478→   478→      null,
+   479→   479→      null
+   480→   480→    ]
+   481→   481→  },
+   482→   482→  {
+   483→   483→    "sheet": "Class11",
+   484→   484→    "row": 2214,
+   485→   485→    "data": [
+   486→   486→      "Biology",
+   487→   487→      null,
+   488→   488→      "Respiration in Plants",
+   489→   489→      "English",
+   490→   490→      "In Krebs’ cycle FAD participates as electron acceptor during the conversion of",
+   491→   491→      "succinyl Co-A to succinic acid",
+   492→   492→      "α-ketoglutarate to succinyl Co-A",
+   493→   493→      "succinic acid to fumaric acid",
+   494→   494→      "fumaric acid to malic acid",
+   495→   495→      3.0,
+   496→   496→      "Electrons and H-ions during oxidation of succinic acid to fumaric acid, are taken up by FAD which gets reduced to FADH2 .",
+   497→   497→      "CBSE AIPMT",
+   498→   498→      null,
+   499→   499→      null
+   500→   500→    ]
+   501→   501→  },
+   502→   502→  {
+   503→   503→    "sheet": "Class11",
+   504→   504→    "row": 2215,
+   505→   505→    "data": [
+   506→   506→      "Biology",
+   507→   507→      null,
+   508→   508→      "Respiration in Plants",
+   509→   509→      "English",
+   510→   510→      "Oxidative phosphorylation involves simultaneous oxidation and phosphorylation to finally form",
+   511→   511→      "pyruvate",
+   512→   512→      "NADP",
+   513→   513→      "DPN",
+   514→   514→      "ATP",
+   515→   515→      4.0,
+   516→   516→      "In oxidative phosphorylation ATP is formed as the electrons are transferred from NADH or FADH2 toO2 by a series of electron carriers, located in the inner membrane of mitochondria.",
+   517→   517→      "CBSE AIPMT",
+   518→   518→      null,
+   519→   519→      null
+   520→   520→    ]
+   521→   521→  },
+   522→   522→  {
+   523→   523→    "sheet": "Class11",
+   524→   524→    "row": 2216,
+   525→   525→    "data": [
+   526→   526→      "Biology",
+   527→   527→      null,
+   528→   528→      "Respiration in Plants",
+   529→   529→      "English",
+   530→   530→      "Krebs’ cycle occurs in",
+   531→   531→      "mitochondria",
+   532→   532→      "cytoplasm",
+   533→   533→      "chloroplast",
+   534→   534→      "ribosomes",
+   535→   535→      1.0,
+   536→   536→      "Krebs’ cycle occurs inside the matrix of mitochondria. The cycle is also named as citric acid cylce or tricarboxylic acid cycle. It includes stepwise oxidative and cyclic degradation of activated acetate derived from pyruvic acid.",
+   537→   537→      "CBSE AIPMT",
+   538→   538→      null,
+   539→   539→      null
+   540→   540→    ]
+   541→   541→  },
+   542→   542→  {
+   543→   543→    "sheet": "Class11",
+   544→   544→    "row": 2217,
+   545→   545→    "data": [
+   546→   546→      "Biology",
+   547→   547→      null,
+   548→   548→      "Respiration in Plants",
+   549→   549→      "English",
+   550→   550→      "Which of the following is essential for conversion of pyruvic acid into acetyl Co-A?",
+   551→   551→      "LAA",
+   552→   552→      "NAD +",
+   553→   553→      "TPP",
+   554→   554→      "All of these",
+   555→   555→      4.0,
+   556→   556→      "The oxidative decarboxylation of pyruvate into acetyl Co-A involves the presence of atleast five essential co-factors and an enzyme complex. The co-factors involved are Mg ions, Thiamine Pyrophosphate (TPP), NAD+, Coenzyme-A (Co-A) and lipoic acid.",
+   557→   557→      "CBSE AIPMT",
+   558→   558→      null,
+   559→   559→      null
+   560→   560→    ]
+   561→   561→  },
+   562→   562→  {
+   563→   563→    "sheet": "Class11",
+   564→   564→    "row": 2218,
+   565→   565→    "data": [
+   566→   566→      "Biology",
+   567→   567→      null,
+   568→   568→      "Respiration in Plants",
+   569→   569→      "English",
+   570→   570→      "Out of 38 ATP molecules produced per glucose, 32 ATP molecules are formed fromNADH / FADH2 in",
+   571→   571→      "respiratory chain",
+   572→   572→      "Krebs’ cycle",
+   573→   573→      "oxidative decarboxylation",
+   574→   574→      "EMP",
+   575→   575→      1.0,
+   576→   576→      "Respiratory chain helps in forming 32 ATP molecules from NADH/FADH2 molecules. In which Oxidative phosphorylation is the synthesis of energy rich ATP molecules with the help of energy liberated during oxidation of reduced coenzymes (NADH2 , FADH2 ). produced in glycolysis and Krebs’ cycle. A total of10NADH2 and2FADH2 molecules are formed in aerobic respiration. They help in formation of 32 or 34ATP molecules.",
+   577→   577→      "CBSE AIPMT",
+   578→   578→      null,
+   579→   579→      null
+   580→   580→    ]
+   581→   581→  },
+   582→   582→  {
+   583→   583→    "sheet": "Class11",
+   584→   584→    "row": 2219,
+   585→   585→    "data": [
+   586→   586→      "Biology",
+   587→   587→      null,
+   588→   588→      "Respiration in Plants",
+   589→   589→      "English",
+   590→   590→      "End product of citric acid/Krebs’ cycle is",
+   591→   591→      "citric acid",
+   592→   592→      "lactic acid",
+   593→   593→      "pyruvic acid",
+   594→   594→      "CO H O 2 2 +",
+   595→   595→      4.0,
+   596→   596→      "Krebs’ cycle or citric acid cycle that takes place in the matrix of mitochondrion begins by linking acetyl Co-A to oxaloacetic acid forming citric acid. In the presence of various enzymes, cycle continues through the formation of various intermediates and release of CO2 andH O2 as end-products.",
+   597→   597→      "CBSE AIPMT",
+   598→   598→      null,
+   599→   599→      null
+   600→   600→    ]
+   601→   601→  },
+   602→   602→  {
+   603→   603→    "sheet": "Class11",
+   604→   604→    "row": 2220,
+   605→   605→    "data": [
+   606→   606→      "Biology",
+   607→   607→      null,
+   608→   608→      "Respiration in Plants",
+   609→   609→      "English",
+   610→   610→      "Link between glycolysis, Krebs’ cycle and β-oxidation of fatty acid or carbohydrate and fat metabolism is",
+   611→   611→      "oxaloacetic acid",
+   612→   612→      "succinic acid",
+   613→   613→      "citric acid",
+   614→   614→      "acetyl Co-A",
+   615→   615→      4.0,
+   616→   616→      "The pyruvic acid synthesised from glycolysis enters into mitochondria and undergoes oxidative decarboxylation to produce CO2 andNADH2 . The product combines with coenzyme-A to form acetyl Co-A. It is O –O H|C— C— |H H|C—C |H O – O Succinate dehydrogenase + FAD2+ (d) ATP breaks down cyanide  a  Cyanide is a deadly poison. It stops the connecting link between glycolysis, Krebs’ cycle and fat oxidation.",
+   617→   617→      "CBSE AIPMT , 90",
+   618→   618→      null,
+   619→   619→      null
+   620→   620→    ]
+   621→   621→  },
+   622→   622→  {
+   623→   623→    "sheet": "Class11",
+   624→   624→    "row": 2221,
+   625→   625→    "data": [
+   626→   626→      "Biology",
+   627→   627→      null,
+   628→   628→      "Respiration in Plants",
+   629→   629→      "English",
+   630→   630→      "Oxidative phosphorylation is Succinic acid respiration by inhibiting electron flow production of  O –O H| C— C—C H|C Fumaric acid O – O + FADH2 from cyt.-b tocyt.-c1. ATP is the energy currency of cell is injected in cyanide poisoning because, it is necessary for cellular functions.",
+   631→   631→      "ATP in photosynthesis",
+   632→   632→      "NADPH in photosynthesis",
+   633→   633→      "ATP in respiration",
+   634→   634→      "NADH in respiration 140",
+   635→   635→      3.0,
+   636→   636→      "Oxidative phosphorylation is the synthesis of ATP from ADP and inorganic phosphate which occurs with the help of energy obtained from oxidation of reduced coenzymes formed in cellular respiration.",
+   637→   637→      "CBSE AIPMT",
+   638→   638→      null,
+   639→   639→      null
+   640→   640→    ]
+   641→   641→  },
+   642→   642→  {
+   643→   643→    "sheet": "Class11",
+   644→   644→    "row": 2222,
+   645→   645→    "data": [
+   646→   646→      "Biology",
+   647→   647→      null,
+   648→   648→      "Respiration in Plants",
+   649→   649→      "English",
+   650→   650→      "Terminal cytochrome of respiratory chain which donates electrons to oxygen is",
+   651→   651→      "cyt-b",
+   652→   652→      "cyt-c",
+   653→   653→      "cyt-a1",
+   654→   654→      "cyt-a3",
+   655→   655→      4.0,
+   656→   656→      "The ETS system contains various electron carriers such as cytochromes. The correct sequence of electron carrier/acceptor in ATP synthesis is cyt-b, cyt-c1, cyt-c, cyt ( and cyt - 3 a a ). Cyt-a3 is the terminal cytochrome, it possess two copper centers, which help in transfer of electron to oxygen.",
+   657→   657→      "CBSE AIPMT",
+   658→   658→      null,
+   659→   659→      null
+   660→   660→    ]
+   661→   661→  },
+   662→   662→  {
+   663→   663→    "sheet": "Class11",
+   664→   664→    "row": 2223,
+   665→   665→    "data": [
+   666→   666→      "Biology",
+   667→   667→      null,
+   668→   668→      "Respiration in Plants",
+   669→   669→      "English",
+   670→   670→      "NADP+ is reduced to NADPH in",
+   671→   671→      "HMP",
+   672→   672→      "Calvin cycle",
+   673→   673→      "glycolysis",
+   674→   674→      "EMP",
+   675→   675→      1.0,
+   676→   676→      "Pentose Phosphate Pathway (PPP) or Hexose Monophosphate Shunt (HMP) or phosphogluconate pathway occurs in the cytosol of mammalian cells. It involves oxidation of glucose toCO2 and water through a series of reactions in which NADP is reduced to NADPH. Complete breakdown of one molecule of glucose forms 12 NADPH equal to 36 ATP molecules. TOPIC 3 Respiratory Quotient and Respiratory Balance Sheet",
+   677→   677→      "CBSE AIPMT",
+   678→   678→      null,
+   679→   679→      null
+   680→   680→    ]
+   681→   681→  },
+   682→   682→  {
+   683→   683→    "sheet": "Class11",
+   684→   684→    "row": 2224,
+   685→   685→    "data": [
+   686→   686→      "Biology",
+   687→   687→      null,
+   688→   688→      "Respiration in Plants",
+   689→   689→      "English",
+   690→   690→      "Respiratory Quotient (RQ) value of tripalmitin is",
+   691→   691→      0.7,
+   692→   692→      0.07,
+   693→   693→      0.09,
+   694→   694→      0.9,
+   695→   695→      1.0,
+   696→   696→      "The RQ value of tripalmitin is 0.7. It can be calculated as follows Respiratory Quotient (RQ) = Amount of CO released 2 Amount of O Consumed 2 2 (C H O ) 145 O 102CO 98 H O 51 98 6 2 2 2 +→ + Tripalmitin RQ = = 102 CO 1450 O0.7 22 It is to note that RQ of common fats is usually less than 1 under aerobic conditions.",
+   697→   697→      "NEET (National)",
+   698→   698→      null,
+   699→   699→      null
+   700→   700→    ]
+   701→   701→  },
+   702→   702→  {
+   703→   703→    "sheet": "Class11",
+   704→   704→    "row": 2225,
+   705→   705→    "data": [
+   706→   706→      "Biology",
+   707→   707→      null,
+   708→   708→      "Respiration in Plants",
+   709→   709→      "English",
+   710→   710→      "How many ATP molecules could maximally be generated from one molecule of glucose, if the complete oxidation of one mole of glucose toCO2 and H O2 yields 686 kcal and the useful chemical energy available in the high energy phosphate bond of one mole of ATP is 12 kcal?",
+   711→   711→      30.0,
+   712→   712→      57.0,
+   713→   713→      1.0,
+   714→   714→      2.0,
+   715→   715→      2.0,
+   716→   716→      "One mole of ATP liberates 12 kcal of energy. so 686 kcal will be liberated by 686 12 57 1 / . = ATP molecules.",
+   717→   717→      "CBSE AIPMT",
+   718→   718→      null,
+   719→   719→      null
+   720→   720→    ]
+   721→   721→  },
+   722→   722→  {
+   723→   723→    "sheet": "Class11",
+   724→   724→    "row": 2226,
+   725→   725→    "data": [
+   726→   726→      "Biology",
+   727→   727→      null,
+   728→   728→      "Respiration in Plants",
+   729→   729→      "English",
+   730→   730→      "How many ATP molecules are produced by aerobic oxidation of one molecule of glucose?",
+   731→   731→      2.0,
+   732→   732→      4.0,
+   733→   733→      38.0,
+   734→   734→      34.0,
+   735→   735→      3.0,
+   736→   736→      "A total of 38 molecules of ATP are produced during aerobic respiration of one molecule of glucose Summary of ATP synthesis 8 ATP from glycolysis. 6 ATP from acetyl Co-A. 24 ATP from Krebs’ cycle. Total = 38ATP from aerobic oxidation of one molecule of glucose.",
+   737→   737→      "CBSE AIPMT",
+   738→   738→      null,
+   739→   739→      null
+   740→   740→    ]
+   741→   741→  },
+   742→   742→  {
+   743→   743→    "sheet": "Class11",
+   744→   744→    "row": 2227,
+   745→   745→    "data": [
+   746→   746→      "Biology",
+   747→   747→      null,
+   748→   748→      "Respiration in Plants",
+   749→   749→      "English",
+   750→   750→      "Net gain of ATP molecules during aerobic respiration is",
+   751→   751→      "36 molecules",
+   752→   752→      "38 molecules",
+   753→   753→      "40 molecules",
+   754→   754→      "48 molecules",
+   755→   755→      2.0,
+   756→   756→      "During aerobic respiration, 38 ATP molecules are gained. If specifically aerobic respiration in eukaryote is asked, then the answer would be 36 ATP because 2 ATP molecules are produced byFADH2 which accepts theH+ from 2 NADH molecules produced in glycolysis.",
+   757→   757→      "CBSE AIPMT",
+   758→   758→      null,
+   759→   759→      null
+   760→   760→    ]
+   761→   761→  },
+   762→   762→  {
+   763→   763→    "sheet": "Class11",
+   764→   764→    "row": 2228,
+   765→   765→    "data": [
+   766→   766→      "Biology",
+   767→   767→      null,
+   768→   768→      "Respiration in Plants",
+   769→   769→      "English",
+   770→   770→      "Respiratory quotient (RQ) for fatty acid is",
+   771→   771→      "> 1",
+   772→   772→      "< 1",
+   773→   773→      1.0,
+   774→   774→      0.0,
+   775→   775→      2.0,
+   776→   776→      "Respiratory Quotient (RQ) = Volume of CO formed 2 Volume of O utilised 2 In fats, large amount ofO2 is used to combine withH , 2 so output of CO2 is less and RQ is only 0.70, i.e., less than unity.",
+   777→   777→      "CBSE AIPMT",
+   778→   778→      null,
+   779→   779→      null
+   780→   780→    ]
+   781→   781→  },
+   782→   782→  {
+   783→   783→    "sheet": "Class11",
+   784→   784→    "row": 2229,
+   785→   785→    "data": [
+   786→   786→      "Biology",
+   787→   787→      null,
+   788→   788→      "Respiration in Plants",
+   789→   789→      "English",
+   790→   790→      "Respiratory substrate yielding maximum number of ATP molecule is",
+   791→   791→      "ketogenic amino acids",
+   792→   792→      "glucose",
+   793→   793→      "amylose",
+   794→   794→      "glycogen",
+   795→   795→      2.0,
+   796→   796→      "Respiratory substrate yielding maximum number of ATP molecules is glucose. One glucose molecule on aerobic respiration yields 36 ATP molecules.",
+   797→   797→      "CBSE AIPMT",
+   798→   798→      null,
+   799→   799→      null
+   800→   800→    ]
+   801→   801→  },
+   802→   802→  {
+   803→   803→    "sheet": "Class11",
+   804→   804→    "row": 2230,
+   805→   805→    "data": [
+   806→   806→      "Biology",
+   807→   807→      null,
+   808→   808→      "Biomolecules",
+   809→   809→      "English",
+   810→   810→      "Maximum amount of energy/ATP is liberated on oxidation of",
+   811→   811→      "fats",
+   812→   812→      "proteins",
+   813→   813→      "starch",
+   814→   814→      "vitamins",
+   815→   815→      1.0,
+   816→   816→      "Fats or lipids are second to carbohydrates as a source of energy. By weight, each gram mol of fat yields about 9.3 kcal of energy, i.e. more than double of that yielded by glucose.",
+   817→   817→      "CBSE AIPMT",
+   818→   818→      null,
+   819→   819→      null
+   820→   820→    ]
+   821→   821→  },
+   822→   822→  {
+   823→   823→    "sheet": "Class11",
+   824→   824→    "row": 2231,
+   825→   825→    "data": [
+   826→   826→      "Biology",
+   827→   827→      null,
+   828→   828→      "Respiration in Plants",
+   829→   829→      "English",
+   830→   830→      "Apparatus to measure rate of respiration and RQ is",
+   831→   831→      "auxanometer",
+   832→   832→      "potometer",
+   833→   833→      "respirometer",
+   834→   834→      "manometer",
+   835→   835→      3.0,
+   836→   836→      "Respirometer is an instrument used to measure the rate of respiration and also Respiratory Quotient (RQ). The most common respirometer is Ganong’s respirometer.",
+   837→   837→      "CBSE AIPMT",
+   838→   838→      null,
+   839→   839→      null
+   840→   840→    ]
+   841→   841→  },
+   842→   842→  {
+   843→   843→    "sheet": "Class11",
+   844→   844→    "row": 2232,
+   845→   845→    "data": [
+   846→   846→      "Biology",
+   847→   847→      null,
+   848→   848→      "Respiration in Plants",
+   849→   849→      "English",
+   850→   850→      "When one glucose molecule is completely oxidised, it changes",
+   851→   851→      "36 ADP molecules into 36 ATP molecules",
+   852→   852→      "38 ADP molecules into 38 ATP molecules",
+   853→   853→      "30 ADP molecules into 30 ATP molecules",
+   854→   854→      "32 ADP molecules into 32 ATP molecules",
+   855→   855→      2.0,
+   856→   856→      "In aerobic respiration or biological oxidation of one glucose molecule, 38 Respiration in Plants 141 ADP molecules change into 38 ATP molecules, where donor phosphate is inorganic phosphate. ATP molecules are the energy currency of the cell, i.e. the common immediate source of energy in cellular activity.",
+   857→   857→      "CBSE AIPMT",
+   858→   858→      null,
+   859→   859→      null
+   860→   860→    ]
+   861→   861→  },
+   862→   862→  {
+   863→   863→    "sheet": "Class11",
+   864→   864→    "row": 2233,
+   865→   865→    "data": [
+   866→   866→      "Biology",
+   867→   867→      null,
+   868→   868→      "Respiration in Plants",
+   869→   869→      "English",
+   870→   870→      "Which one of the following statements about cytochrome 450 is wrong?",
+   871→   871→      "It contains iron",
+   872→   872→      "It is a coloured cell",
+   873→   873→      "It has an important role in metabolism",
+   874→   874→      "It is an enzyme involved in oxidation reactions",
+   875→   875→      2.0,
+   876→   876→      "Cytochrome is not a coloured cell, instead this is a respiratory pigment-mixture of iron and protein which are electron acceptors. Cytochrome are membrane bound hemeproteins contains heme groups and are primarily responsible for the generation of ATP via electron transport.",
+   877→   877→      "CBSE AIPMT",
+   878→   878→      null,
+   879→   879→      null
+   880→   880→    ]
+   881→   881→  },
+   882→   882→  {
+   883→   883→    "sheet": "Class11",
+   884→   884→    "row": 2234,
+   885→   885→    "data": [
+   886→   886→      "Biology",
+   887→   887→      null,
+   888→   888→      "Respiration in Plants",
+   889→   889→      "English",
+   890→   890→      "RQ is",
+   891→   891→      "C/N",
+   892→   892→      "N/C",
+   893→   893→      "CO2 /O2",
+   894→   894→      "O2 /CO2",
+   895→   895→      3.0,
+   896→   896→      "Respiratory Quotient (RQ) is the ratio of volume of CO2 evolved to the volume of oxygen consumed per unit time per unit weight. Therefore, RQ = CO2 /O2 . It is useful in knowing the type of respiration, major transformations and respiratory substrate. TOPIC 4 Fermentation",
+   897→   897→      "CBSE AIPMT",
+   898→   898→      null,
+   899→   899→      null
+   900→   900→    ]
+   901→   901→  },
+   902→   902→  {
+   903→   903→    "sheet": "Class11",
+   904→   904→    "row": 2235,
+   905→   905→    "data": [
+   906→   906→      "Biology",
+   907→   907→      null,
+   908→   908→      "Respiration in Plants",
+   909→   909→      "English",
+   910→   910→      "The energy-releasing metabolic process in which substrate is oxidised without an external electron acceptor is called",
+   911→   911→      "glycolysis",
+   912→   912→      "fermentation",
+   913→   913→      "aerobic respiration",
+   914→   914→      "photorespiration",
+   915→   915→      2.0,
+   916→   916→      "Fermentation takes place in the lack of oxygen (when the electron transport chain is unusable) and becomes the cell’s primary means of ATP (energy) production. It turns NADH and pyruvate in the glycolysis intoNAD+ and various small molecules depending on the type of fermentation. In the presence ofO2 , NADH and pyruvate are used to generate ATP in respiration. It is called oxidative respiration.",
+   917→   917→      "CBSE AIPMT , 08",
+   918→   918→      null,
+   919→   919→      null
+   920→   920→    ]
+   921→   921→  },
+   922→   922→  {
+   923→   923→    "sheet": "Class11",
+   924→   924→    "row": 2236,
+   925→   925→    "data": [
+   926→   926→      "Biology",
+   927→   927→      null,
+   928→   928→      "Respiration in Plants",
+   929→   929→      "English",
+   930→   930→      "In alcoholic fermentation",
+   931→   931→      "oxygen is the electron acceptor",
+   932→   932→      "triose phosphate is the electron donor while acetaldehyde is the electron acceptor",
+   933→   933→      "triose phosphate is the electron donor while pyruvic acid is the electron acceptor",
+   934→   934→      "there is no electron donor",
+   935→   935→      2.0,
+   936→   936→      "In alcoholic fermentation, (a) NADH (formed during conversion of triose-3 phosphate to 3 phosphoglycerate) is oxidised to NAD+ (b) electrons are accepted by acetaldehyde formed by decarboxylation of pyruvate.",
+   937→   937→      "CBSE AIPMT",
+   938→   938→      null,
+   939→   939→      null
+   940→   940→    ]
+   941→   941→  },
+   942→   942→  {
+   943→   943→    "sheet": "Class11",
+   944→   944→    "row": 2237,
+   945→   945→    "data": [
+   946→   946→      "Biology",
+   947→   947→      null,
+   948→   948→      "Respiration in Plants",
+   949→   949→      "English",
+   950→   950→      "Fermentation products of yeast are",
+   951→   951→      "H O + CO 2 2",
+   952→   952→      "methyl alcohol +CO2",
+   953→   953→      "methyl alcohol + H2O",
+   954→   954→      "ethyl alcohol + CO2",
+   955→   955→      4.0,
+   956→   956→      "Yeast cells undergo alcoholic fermentation in which glucose is first converted into pyruvic acid. In the presence of pyruvic decarboxylase, it is changed into acetaldehyde. Alcohol dehydrogenase changes it to ethyl alcohol and CO2 .",
+   957→   957→      "CBSE AIPMT",
+   958→   958→      null,
+   959→   959→      null
+   960→   960→    ]
+   961→   961→  },
+   962→   962→  {
+   963→   963→    "sheet": "Class11",
+   964→   964→    "row": 2238,
+   965→   965→    "data": [
+   966→   966→      "Biology",
+   967→   967→      null,
+   968→   968→      "Evolution",
+   969→   969→      "English",
+   970→   970→      "Life without air would be",
+   971→   971→      "reductional",
+   972→   972→      "free from oxidative damage",
+   973→   973→      "impossible",
+   974→   974→      "anaerobic",
+   975→   975→      4.0,
+   976→   976→      "Anaerobic means ‘in the absence of molecular oxygen’, so life without air would be anaerobic. The atmosphere of earth at the time of origin of life was without free oxygen atoms, so the primitive atmosphere was reducing.",
+   977→   977→      "CBSE AIPMT",
+   978→   978→      null,
+   979→   979→      null
+   980→   980→    ]
+   981→   981→  },
+   982→   982→  {
+   983→   983→    "sheet": "Class11",
+   984→   984→    "row": 2239,
+   985→   985→    "data": [
+   986→   986→      "Biology",
+   987→   987→      null,
+   988→   988→      "Respiration in Plants",
+   989→   989→      "English",
+   990→   990→      "Out of 36 ATP molecules produced per glucose molecule during respiration",
+   991→   991→      "2 are produced outside glycolysis and 34 during respiratory chain",
+   992→   992→      "2 are produced outside mitochondria and 34 inside mitochondria",
+   993→   993→      "2 during glycolysis and 34 during Krebs’ cycle",
+   994→   994→      "all are formed inside mitochondria",
+   995→   995→      2.0,
+   996→   996→      "A total of 38 ATP molecules are produced per glucose molecule during respiration. Out of which, 2 ATP are produced outside mitochondria  d  P +ADP+2P + ATP + P P P Glucose Glycolysis 2 pyruvate 2 lactate NAD 2NADH+ +2H+ production of [CBSE AIPMT 1996] (a) Protein and acetic acid (b) alcohol, lactic acid or similar compounds (c) ethers and acetones (d) alcohol and lipoproteins (i.e. glycolysis in cytoplasm) and 36 ATP inside mitochondria (i.e. 2 ATP through Krebs’ cycle and 34 ATP from NADH/FADH2 through respiratory chain). In contrast, in some cells the number of ATP produced inside mitochondria equals to 34 and thus, Lactic acid fermentation is process by which glucose, fructose and sucrose  b  there is a net synthesis of 36 ATP molecules. 15 Plant Growth and Development TOPIC 1 Plant Growth and Plant Hormones",
+   997→   997→      "CBSE AIPMT",
+   998→   998→      null,
+   999→   999→      null
+  1000→  1000→    ]
+  1001→  1001→  }
+  1002→  1002→]

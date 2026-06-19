@@ -1,0 +1,1002 @@
+     1→     1→[
+     2→     2→  {
+     3→     3→    "sheet": "Class11",
+     4→     4→    "row": 2240,
+     5→     5→    "data": [
+     6→     6→      "Biology",
+     7→     7→      null,
+     8→     8→      "Plant Growth and Development",
+     9→     9→      "English",
+    10→    10→      "The plant hormone used to destroy weeds in a field is",
+    11→    11→      "IAA",
+    12→    12→      "NAA",
+    13→    13→      "2,4-D",
+    14→    14→      "IBA",
+    15→    15→      3.0,
+    16→    16→      "2, 4 D hormone is used as a herbicide to destroy weeds. Auxins like IAA and IBA are used to induce parthenocarpy. IAA also stimulate nodule formation. Auxin like NAA is used to increase dwarf shoots.",
+    17→    17→      "NEET",
+    18→    18→      null,
+    19→    19→      null
+    20→    20→    ]
+    21→    21→  },
+    22→    22→  {
+    23→    23→    "sheet": "Class11",
+    24→    24→    "row": 2241,
+    25→    25→    "data": [
+    26→    26→      "Biology",
+    27→    27→      null,
+    28→    28→      "Plant Growth and Development",
+    29→    29→      "English",
+    30→    30→      "Plants follow different pathways in response to environment or phases of life to form different kinds of structures. This ability is called",
+    31→    31→      "elasticity",
+    32→    32→      "flexibility",
+    33→    33→      "plasticity",
+    34→    34→      "maturity",
+    35→    35→      3.0,
+    36→    36→      "Plant plasticity refers to the ability to modify itself by forming different kind of structures to adapt and cope with changes in its environment. It can be intrinsic plasticity or extrinsic plasticity. In both the cases plants shows heterophylly along with other morphological features, e.g. in the leaves Larkspur and buttercup.",
+    37→    37→      "NEET",
+    38→    38→      null,
+    39→    39→      null
+    40→    40→    ]
+    41→    41→  },
+    42→    42→  {
+    43→    43→    "sheet": "Class11",
+    44→    44→    "row": 2242,
+    45→    45→    "data": [
+    46→    46→      "Biology",
+    47→    47→      null,
+    48→    48→      "Plant Growth and Development",
+    49→    49→      "English",
+    50→    50→      "Inhibitory substances in dormant seeds cannot be removed by subjecting seeds to",
+    51→    51→      "gibberellic acid",
+    52→    52→      "nitrate",
+    53→    53→      "ascorbic acid",
+    54→    54→      "chilling conditions",
+    55→    55→      3.0,
+    56→    56→      "Presence of inhibitory substances in dormant seeds can be removed by subjecting seeds to (i) growth hormones like gibberellic acid, cytokinins, (ii) by stratification in which seeds requiring low temperature are first allowed to imbibe water and then exposed to low temperature. (iii) low concentration application of nitrates because it promote seed germination. Ascorbic acid is known to cause seed dormancy as it is a potent chemical inhibitor. Thus, option (c) is incorrect.",
+    57→    57→      "NEET (Oct.)",
+    58→    58→      null,
+    59→    59→      null
+    60→    60→    ]
+    61→    61→  },
+    62→    62→  {
+    63→    63→    "sheet": "Class11",
+    64→    64→    "row": 2243,
+    65→    65→    "data": [
+    66→    66→      "Biology",
+    67→    67→      null,
+    68→    68→      "Plant Growth and Development",
+    69→    69→      "English",
+    70→    70→      "Match the following concerning the activity/ function and the phytohormone involved.  Column I Column II A. Fruit ripener (i) Abscisic acid B. Herbicide (ii) GA3 C. Bolting agent (iii) 2, 4-D D. Stress hormone (iv) Ethephone Select the correct option. A B CD",
+    71→    71→      "(ii), (iii), (iv), (i)",
+    72→    72→      "(iii), (iv), (ii), (i)",
+    73→    73→      "(iv), (iii), (ii), (i)",
+    74→    74→      "(iv), (ii), (i), (iii)",
+    75→    75→      3.0,
+    76→    76→      "Options (c) is the correct match which is as follows The function of different phytohormones include ethephon is a commercial derivative of ethylene and it is used to ripen fruits. 2, 4-D is a synthetic auxin and it is used as herbicide against dicotyledonous weeds. Gibberellic acid induces bolting in plants, i.e. the promotion of internodal elongation just prior to their reproductive phase. Abscisic acid is a stress hormone as it the plants to overcome unfavourable conditions by inhibiting growth.",
+    77→    77→      "NEET (Oct.)",
+    78→    78→      null,
+    79→    79→      null
+    80→    80→    ]
+    81→    81→  },
+    82→    82→  {
+    83→    83→    "sheet": "Class11",
+    84→    84→    "row": 2244,
+    85→    85→    "data": [
+    86→    86→      "Biology",
+    87→    87→      null,
+    88→    88→      "Biodiversity and Conservation",
+    89→    89→      "English",
+    90→    90→      "A species which was introduced for ornamentation but has become a trouble some weed in India",
+    91→    91→      "Parthenium hysterophorus",
+    92→    92→      "Eichhornia crassipes",
+    93→    93→      "Prosopis juliflora",
+    94→    94→      "Trapa spinosa",
+    95→    95→      2.0,
+    96→    96→      "Eichhornia crassipes, (water hyacinth) was introduced in several tropical countries including India for ornamentation but later this exotic species became a trouble-some aquatic weed. Plant Growth and Development 143 This free floating weed clogged rivers and lakes and threatened the survival of many native species to the point of extinction. This species was called ‘Terror of Bengal’ in India.",
+    97→    97→      "NEET (Oct.)",
+    98→    98→      null,
+    99→    99→      null
+   100→   100→    ]
+   101→   101→  },
+   102→   102→  {
+   103→   103→    "sheet": "Class11",
+   104→   104→    "row": 2245,
+   105→   105→    "data": [
+   106→   106→      "Biology",
+   107→   107→      null,
+   108→   108→      "Plant Growth and Development",
+   109→   109→      "English",
+   110→   110→      "Which of the following is not an inhibitory substance governing seed dormancy?",
+   111→   111→      "Abscisic acid",
+   112→   112→      "Phenolic acid",
+   113→   113→      "Para-ascorbic acid",
+   114→   114→      "Gibberellic acid",
+   115→   115→      4.0,
+   116→   116→      "Gibberellic acid is not an inhibitory substance governing seed dormancy because gibberellic acid promotes growth and elongation of cells. It affects decomposition of plants and helps plants grow if used in small amounts, but eventually plants develop tolerance to it. Action of ABA is counteracted by GA, which promotes seed germination at appropriate time. Abscisic acid, phenolic acid and para-ascorbic acid are inhibitory substances that causes seed dormancy as they occur in the seed coats and cotyledons of the embryos, e.g., apple, peach, ash, Cucurbita, iris, Xanthium.",
+   117→   117→      "NEET (Sep.)",
+   118→   118→      null,
+   119→   119→      null
+   120→   120→    ]
+   121→   121→  },
+   122→   122→  {
+   123→   123→    "sheet": "Class11",
+   124→   124→    "row": 2246,
+   125→   125→    "data": [
+   126→   126→      "Biology",
+   127→   127→      null,
+   128→   128→      "Plant Growth and Development",
+   129→   129→      "English",
+   130→   130→      "The process of growth is maximum during",
+   131→   131→      "lag phase",
+   132→   132→      "senescence",
+   133→   133→      "dormancy",
+   134→   134→      "log phase",
+   135→   135→      4.0,
+   136→   136→      "The process of growth is maximum during log phase (exponential phase ) because during log phase the growth rate of the cells gradually increases, at a maximum rate. In exponential growth, the initial growth is slow (lag phase) and thereafter it increases rapidly.",
+   137→   137→      "NEET (Sep.)",
+   138→   138→      null,
+   139→   139→      null
+   140→   140→    ]
+   141→   141→  },
+   142→   142→  {
+   143→   143→    "sheet": "Class11",
+   144→   144→    "row": 2247,
+   145→   145→    "data": [
+   146→   146→      "Biology",
+   147→   147→      null,
+   148→   148→      "Plant Growth and Development",
+   149→   149→      "English",
+   150→   150→      "Name the plant growth regulator which upon spraying on sugarcane crop, increases the length of stem, thus increasing the yield of sugarcane crop.",
+   151→   151→      "Gibberellin",
+   152→   152→      "Ethylene",
+   153→   153→      "Abscisic acid",
+   154→   154→      "Cytokinin",
+   155→   155→      1.0,
+   156→   156→      "The correct option is (a) because spraying on sugarcane crop with gibberellins increases the length of the stem, thus increasing the yield by as much as 20 tonnes per acre.",
+   157→   157→      "NEET (Sep.)",
+   158→   158→      null,
+   159→   159→      null
+   160→   160→    ]
+   161→   161→  },
+   162→   162→  {
+   163→   163→    "sheet": "Class11",
+   164→   164→    "row": 2248,
+   165→   165→    "data": [
+   166→   166→      "Biology",
+   167→   167→      null,
+   168→   168→      "Plant Growth and Development",
+   169→   169→      "English",
+   170→   170→      "Removal of shoot tips is very useful technique to boost the production of tea leaves. This is because",
+   171→   171→      "gibberellins prevent bolting and are inactivated",
+   172→   172→      "auxins prevent leaf drop at early stages",
+   173→   173→      "effect of auxins is removed and growth of lateral buds is enhanced",
+   174→   174→      "gibberellins delay senescence of leaves",
+   175→   175→      3.0,
+   176→   176→      "Removal of shoot tips is a very useful technique to boost the production of tea leaves. This is because effect of auxin is removed and growth of lateral bud is enhanced. This phenomenon in most higher plants in which growing apical buds (shoot tips) inhibit growth of lateral buds due to effects of auxin is called apical dominance.",
+   177→   177→      "NEET (Odisha)",
+   178→   178→      null,
+   179→   179→      null
+   180→   180→    ]
+   181→   181→  },
+   182→   182→  {
+   183→   183→    "sheet": "Class11",
+   184→   184→    "row": 2249,
+   185→   185→    "data": [
+   186→   186→      "Biology",
+   187→   187→      null,
+   188→   188→      "Plant Growth and Development",
+   189→   189→      "English",
+   190→   190→      "In order to increase the yield of sugarcane crop, which of the following plant growth regulators should be sprayed?",
+   191→   191→      "Ethylene",
+   192→   192→      "Auxins",
+   193→   193→      "Gibberellins",
+   194→   194→      "Cytokinins",
+   195→   195→      3.0,
+   196→   196→      "In order to increase the yield of sugarcane crop, gibberellins should be sprayed.Sugarcane stores carbohydrates as sugar in their stems. Spraying sugarcane crop with gibberellins increases the length of the stem, thus increasing the yield by as much as 20 tonnes per acre.",
+   197→   197→      "NEET (Odisha)",
+   198→   198→      null,
+   199→   199→      null
+   200→   200→    ]
+   201→   201→  },
+   202→   202→  {
+   203→   203→    "sheet": "Class11",
+   204→   204→    "row": 2250,
+   205→   205→    "data": [
+   206→   206→      "Biology",
+   207→   207→      null,
+   208→   208→      "Plant Growth and Development",
+   209→   209→      "English",
+   210→   210→      "It takes very long time for pineapple plants to produce flowers. Which combination of hormones can be applied to artificially induce flowering in pineapple plants throughout the year to increase yield?",
+   211→   211→      "Gibberellin and Cytokinin",
+   212→   212→      "Gibberellin and Abscisic acid",
+   213→   213→      "Cytokinin and Abscisic acid",
+   214→   214→      "Auxin and Ethylene",
+   215→   215→      4.0,
+   216→   216→      "Auxin and ethylene can be applied to artificially induce flowering in pineapple plants throughout the year to increase yield. Auxin induces flowering in pineapple and ethylene helps to synchronise flower and fruit growth in this plant. Though in other cases, ethylene causes fading of flowers.",
+   217→   217→      "NEET (National)",
+   218→   218→      null,
+   219→   219→      null
+   220→   220→    ]
+   221→   221→  },
+   222→   222→  {
+   223→   223→    "sheet": "Class11",
+   224→   224→    "row": 2251,
+   225→   225→    "data": [
+   226→   226→      "Biology",
+   227→   227→      null,
+   228→   228→      "Plant Growth and Development",
+   229→   229→      "English",
+   230→   230→      "Fruit and leaf drop at early stages can be prevented by the application of",
+   231→   231→      "cytokinins",
+   232→   232→      "ethylene",
+   233→   233→      "auxins",
+   234→   234→      "gibberellic acid",
+   235→   235→      3.0,
+   236→   236→      "Auxin delay abscission of leaves and fruits at early stages. Whenever leaf or fruit fall occurs, the organ concerned stops producing auxin. However, it promotes abscission of older, mature leaves and fruits.",
+   237→   237→      "NEET",
+   238→   238→      null,
+   239→   239→      null
+   240→   240→    ]
+   241→   241→  },
+   242→   242→  {
+   243→   243→    "sheet": "Class11",
+   244→   244→    "row": 2252,
+   245→   245→    "data": [
+   246→   246→      "Biology",
+   247→   247→      null,
+   248→   248→      "Plant Growth and Development",
+   249→   249→      "English",
+   250→   250→      "The Avena curvature is used for bioassay of",
+   251→   251→      "GA3",
+   252→   252→      "IAA",
+   253→   253→      "Ethylene",
+   254→   254→      "ABA",
+   255→   255→      2.0,
+   256→   256→      "Bioassay is a quantitative and qualitative test used to determine the nature and function of a biochemical by using living material, e.g. Avena curvature test is used as bioassay usually for auxins (Indole Acetic Acid).",
+   257→   257→      "NEET , Phase I",
+   258→   258→      null,
+   259→   259→      null
+   260→   260→    ]
+   261→   261→  },
+   262→   262→  {
+   263→   263→    "sheet": "Class11",
+   264→   264→    "row": 2253,
+   265→   265→    "data": [
+   266→   266→      "Biology",
+   267→   267→      null,
+   268→   268→      "Plant Growth and Development",
+   269→   269→      "English",
+   270→   270→      "You are given a tissue with its potential for differentiation in an artificial culture. Which of the following pairs of hormones would you add to the medium to secure shoots as well as roots?",
+   271→   271→      "IAA and gibberellin",
+   272→   272→      "Auxin and cytokinin",
+   273→   273→      "Auxin and abscisic acid",
+   274→   274→      "Gibberellin and abscisic acid",
+   275→   275→      2.0,
+   276→   276→      "When a tissue with a potential of differentiation is grown in an artificial medium containing auxin and cytokinin in a specific ratio, it starts differentiating. Thus, root and shoot differentiation occurs. Auxin initiate root formation while cytokinin starts shoot formation.",
+   277→   277→      "NEET , Phase II",
+   278→   278→      null,
+   279→   279→      null
+   280→   280→    ]
+   281→   281→  },
+   282→   282→  {
+   283→   283→    "sheet": "Class11",
+   284→   284→    "row": 2254,
+   285→   285→    "data": [
+   286→   286→      "Biology",
+   287→   287→      null,
+   288→   288→      "Plant Growth and Development",
+   289→   289→      "English",
+   290→   290→      "Auxin can be bioassayed by",
+   291→   291→      "Avena coleoptile curvature",
+   292→   292→      "hydroponics",
+   293→   293→      "potometer",
+   294→   294→      "lettuce hypocotyl elongation 144",
+   295→   295→      1.0,
+   296→   296→      "Auxin is a phytohormone that is often bioassayed by Avena coleoptile curvature test. The angle of curvature of a decapitated oat coleoptile is measured after placing an agar block containing auxin on one side. The ability of auxin to stimulate shoot growth is then measured.",
+   297→   297→      "CBSE AIPMT",
+   298→   298→      null,
+   299→   299→      null
+   300→   300→    ]
+   301→   301→  },
+   302→   302→  {
+   303→   303→    "sheet": "Class11",
+   304→   304→    "row": 2255,
+   305→   305→    "data": [
+   306→   306→      "Biology",
+   307→   307→      null,
+   308→   308→      "Plant Growth and Development",
+   309→   309→      "English",
+   310→   310→      "Dr. F Went noted that if coleoptile tips were removed and placed on agar for one hour, the agar would produce a bending when placed on one side of freshly cut coleoptile stumps. Of what significance is this experiment?",
+   311→   311→      "It made possible the isolation and exact identification of auxin",
+   312→   312→      "It is the basis for quantitative determination of small amounts of growth-promoting substances",
+   313→   313→      "It supports the hypothesis that IAA is auxin",
+   314→   314→      "It demonstrated polar movement of auxins",
+   315→   315→      2.0,
+   316→   316→      "Dr. F Went isolated auxin from Avena coleoptile tip. His experiment demonstrated the polar movement of auxins, i.e. it showed that the plants grow towards light in response to a signal generated in the tip of coleoptile by a plant hormone auxin.",
+   317→   317→      "CBSE AIPMT",
+   318→   318→      null,
+   319→   319→      null
+   320→   320→    ]
+   321→   321→  },
+   322→   322→  {
+   323→   323→    "sheet": "Class11",
+   324→   324→    "row": 2256,
+   325→   325→    "data": [
+   326→   326→      "Biology",
+   327→   327→      null,
+   328→   328→      "Plant Growth and Development",
+   329→   329→      "English",
+   330→   330→      "Senescence as an active developmental cellular process in the growth and functioning of a flowering plant, is indicated in",
+   331→   331→      "vessels and tracheid differentiation",
+   332→   332→      "leaf abscission",
+   333→   333→      "annual plants",
+   334→   334→      "floral parts",
+   335→   335→      2.0,
+   336→   336→      "Abscission is natural shedding of leaves, foliage branches, fruits, floral parts, etc. According to Leopold (1967) abscission is a senescence phenomenon. Senescence is known as ‘the sum of deteriorative processes which naturally terminate the functional life of an organism. Senescence is not confined only to whole plant, it may be limited to a particular plant organ such as leaf and flower or cells such as phloem and xylem. Senescence as an active developmental cellular process in the growth and functioning of a flowering plant, is indicated in leaf abscission. Whole plant senescence also known as all senescence occurs in annuals, (e.g., rice, wheat, gram, mustard), biennials (e.g. henbane) or perennials.",
+   337→   337→      "CBSE AIPMT",
+   338→   338→      null,
+   339→   339→      null
+   340→   340→    ]
+   341→   341→  },
+   342→   342→  {
+   343→   343→    "sheet": "Class11",
+   344→   344→    "row": 2257,
+   345→   345→    "data": [
+   346→   346→      "Biology",
+   347→   347→      null,
+   348→   348→      "Plant Growth and Development",
+   349→   349→      "English",
+   350→   350→      "Some of the growth regulators affect stomatal opening. Closure of stomata is brought about by",
+   351→   351→      "indole butyric acid",
+   352→   352→      "abscisic acid",
+   353→   353→      "kinetin",
+   354→   354→      "gibberellic acid",
+   355→   355→      2.0,
+   356→   356→      "Abscisic acid promotes reversal of H K + +   pump and increasing availability ofH+ inside the guard cell cytoplasm. Loss ofK+ decreases osmotic concentration of guard cells as compared to adjacent epidermal cells. Due to the exosmosis the turgidity of guard cells decreases and it closes the pore of stoma.",
+   357→   357→      "CBSE AIPMT",
+   358→   358→      null,
+   359→   359→      null
+   360→   360→    ]
+   361→   361→  },
+   362→   362→  {
+   363→   363→    "sheet": "Class11",
+   364→   364→    "row": 2258,
+   365→   365→    "data": [
+   366→   366→      "Biology",
+   367→   367→      null,
+   368→   368→      "Plant Growth and Development",
+   369→   369→      "English",
+   370→   370→      "Which one of the following growth regulators is known as ‘stress hormone’?",
+   371→   371→      "abscsic acid",
+   372→   372→      "Ethylene",
+   373→   373→      "GA3",
+   374→   374→      "Indole acetic acid",
+   375→   375→      1.0,
+   376→   376→      "Abscisic Acid (ABA) is also known as ‘stress hormone’ or dormin because it is produced in much higher amounts, when plants are subjected to various kinds of stresses. It often gives plant org a  signal that they are undergoing physiological stresses such as lack of water, saline soil, cold temperature and frost. ABA often cause responses that help plants and protect against these stresses.",
+   377→   377→      "CBSE AIPMT , 1993",
+   378→   378→      null,
+   379→   379→      null
+   380→   380→    ]
+   381→   381→  },
+   382→   382→  {
+   383→   383→    "sheet": "Class11",
+   384→   384→    "row": 2259,
+   385→   385→    "data": [
+   386→   386→      "Biology",
+   387→   387→      null,
+   388→   388→      "Plant Growth and Development",
+   389→   389→      "English",
+   390→   390→      "During seed germination its stored food is mobilised by",
+   391→   391→      "ethylene",
+   392→   392→      "cytokinin",
+   393→   393→      "ABA",
+   394→   394→      "gibberellin",
+   395→   395→      4.0,
+   396→   396→      "Gibberellin induces aleurone cells to secrete enzyme that break stored food in seed. Cytokinines promote nutrient mobilisation which helps in the delay of leaf senescence. ABA plays an important role in seed development, maturation and dormancy. Ethylene induces fruit ripening, breaks seed dormancy.",
+   397→   397→      "NEET",
+   398→   398→      null,
+   399→   399→      null
+   400→   400→    ]
+   401→   401→  },
+   402→   402→  {
+   403→   403→    "sheet": "Class11",
+   404→   404→    "row": 2260,
+   405→   405→    "data": [
+   406→   406→      "Biology",
+   407→   407→      null,
+   408→   408→      "Something went wrong. Try again.",
+   409→   409→      "English",
+   410→   410→      "Phototropic curvature is the result of uneven distribution of",
+   411→   411→      "gibberellin",
+   412→   412→      "phytochrome",
+   413→   413→      "cytokinins",
+   414→   414→      "auxin",
+   415→   415→      4.0,
+   416→   416→      "Darwin and his son Francis used germinating oat (Avena sativa) and canary grass (Phalaris canariensis) seedling in their experiments and hypothesised that when shoots were illuminated from one side, they bent forward the light in response to an ‘influence’, that was transmitted downward from its source at the tip of the shoot. Paal concluded that the tip secretes a substance which promotes the growth of part below it. In 1926, F Went discovered that some unidentified compound probably caused curvature of oat coleoptile towards light, i.e., phototropism. The compound (auxin) found by Went is relatively abundant in coleoptile tips.",
+   417→   417→      "CBSE AIPMT",
+   418→   418→      null,
+   419→   419→      null
+   420→   420→    ]
+   421→   421→  },
+   422→   422→  {
+   423→   423→    "sheet": "Class11",
+   424→   424→    "row": 2261,
+   425→   425→    "data": [
+   426→   426→      "Biology",
+   427→   427→      null,
+   428→   428→      "Plant Growth and Development",
+   429→   429→      "English",
+   430→   430→      "Coiling of graden pea tendrils around any support is an example of",
+   431→   431→      "thigmotaxis",
+   432→   432→      "thigmonasty",
+   433→   433→      "thigmotropism",
+   434→   434→      "thermotaxis",
+   435→   435→      3.0,
+   436→   436→      "Thigmotropism movements are due to the contact with a foreign body. In twiners and lianas, there is less growth on the idea of contact and more growth on the side of branch away from the contact. Coiling of garden pea tendrils arround any support is an example of thigmotropism.",
+   437→   437→      "CBSE AIPMT , 1995, 91",
+   438→   438→      null,
+   439→   439→      null
+   440→   440→    ]
+   441→   441→  },
+   442→   442→  {
+   443→   443→    "sheet": "Class11",
+   444→   444→    "row": 2262,
+   445→   445→    "data": [
+   446→   446→      "Biology",
+   447→   447→      null,
+   448→   448→      "Plant Growth and Development",
+   449→   449→      "English",
+   450→   450→      "One of the synthetic auxin is",
+   451→   451→      "NAA",
+   452→   452→      "IAA",
+   453→   453→      "GA",
+   454→   454→      "IBA",
+   455→   455→      1.0,
+   456→   456→      "NAA (Naphthalene Acetic Acid) and 2,4-D (2,4-dichlorophenoxy acetic acid) are synthetic auxins. The term auxin is applied to the indole-3-acetic acid (IAA) and to other natural and synthetic compounds having certain growth regulating properties. Plant Growth and Development 145 IAA and IBA (Indole Butyric Acid) have been isolated from plants. All these auxins have been used extensively in agricultural and horticultural practices.",
+   457→   457→      "CBSE AIPMT",
+   458→   458→      null,
+   459→   459→      null
+   460→   460→    ]
+   461→   461→  },
+   462→   462→  {
+   463→   463→    "sheet": "Class11",
+   464→   464→    "row": 2263,
+   465→   465→    "data": [
+   466→   466→      "Biology",
+   467→   467→      null,
+   468→   468→      "Plant Growth and Development",
+   469→   469→      "English",
+   470→   470→      "Which one of the following acids is a derivative of carotenoids?",
+   471→   471→      "Indole-butyric acid",
+   472→   472→      "Indole-3-acetic acid",
+   473→   473→      "Gibberellic acid",
+   474→   474→      "Abscisic acid",
+   475→   475→      4.0,
+   476→   476→      "Abscisic acid is a terpenoid, which is a derivative of steroid (carotenoid). Indole butyric acid and indole-3-acetic acid are auxins which are weak organic acids. Gibberellic acid (gibberellin) is a terpene.",
+   477→   477→      "CBSE AIPMT",
+   478→   478→      null,
+   479→   479→      null
+   480→   480→    ]
+   481→   481→  },
+   482→   482→  {
+   483→   483→    "sheet": "Class11",
+   484→   484→    "row": 2264,
+   485→   485→    "data": [
+   486→   486→      "Biology",
+   487→   487→      null,
+   488→   488→      "Plant Growth and Development",
+   489→   489→      "English",
+   490→   490→      "Opening of floral buds into flowers, is a type of",
+   491→   491→      "autonomic movement of locomotion",
+   492→   492→      "autonomic movement of variation",
+   493→   493→      "paratonic movement of growth",
+   494→   494→      "autonomic movement of growth",
+   495→   495→      4.0,
+   496→   496→      "Opening of floral buds into flower is a type of autonomic movement of growth (nastic movement). This is non-directional movement in which the response is determined by the structure of the responsive organ and not to the direction of stimulus. Greater growth on one side causes the organ to bend to the opposite side.",
+   497→   497→      "CBSE AIPMT",
+   498→   498→      null,
+   499→   499→      null
+   500→   500→    ]
+   501→   501→  },
+   502→   502→  {
+   503→   503→    "sheet": "Class11",
+   504→   504→    "row": 2265,
+   505→   505→    "data": [
+   506→   506→      "Biology",
+   507→   507→      null,
+   508→   508→      "Plant Growth and Development",
+   509→   509→      "English",
+   510→   510→      "‘Foolish seedling’ disease of rice led to the discovery of",
+   511→   511→      "GA",
+   512→   512→      "ABA",
+   513→   513→      "2, 4 D",
+   514→   514→      "IAA",
+   515→   515→      1.0,
+   516→   516→      "Gibberellins (GA) were first observed from the fungus Gibberella fujikuroi, the causal organism of foolish seedling disease of rice plants in Japan by Kurasawa in 1926.",
+   517→   517→      "CBSE AIPMT",
+   518→   518→      null,
+   519→   519→      null
+   520→   520→    ]
+   521→   521→  },
+   522→   522→  {
+   523→   523→    "sheet": "Class11",
+   524→   524→    "row": 2266,
+   525→   525→    "data": [
+   526→   526→      "Biology",
+   527→   527→      null,
+   528→   528→      "Plant Growth and Development",
+   529→   529→      "English",
+   530→   530→      "Which one of the following pairs, is not correctly matched ?",
+   531→   531→      "Abscisic acid —Stomatal closure",
+   532→   532→      "Gibberellic acid —Leaf fall",
+   533→   533→      "Cytokinin —Cell division",
+   534→   534→      "IAA — Cell wall elongation",
+   535→   535→      2.0,
+   536→   536→      "Gibberellins help in cell growth of stem, leaves and other aerial parts.",
+   537→   537→      "CBSE AIPMT",
+   538→   538→      null,
+   539→   539→      null
+   540→   540→    ]
+   541→   541→  },
+   542→   542→  {
+   543→   543→    "sheet": "Class11",
+   544→   544→    "row": 2267,
+   545→   545→    "data": [
+   546→   546→      "Biology",
+   547→   547→      null,
+   548→   548→      "Plant Growth and Development",
+   549→   549→      "English",
+   550→   550→      "How does pruning help in making the hedge dense?",
+   551→   551→      "It frees axillary buds from apical dominance",
+   552→   552→      "The apical shoot grows faster after pruning",
+   553→   553→      "It releases wound hormones",
+   554→   554→      "It induces the differentiation of new shoots from the rootstock",
+   555→   555→      1.0,
+   556→   556→      "Pruning helps in making the hedge dense as it frees the axillary buds from apical dominance. In fact, the apices of the plant axis, (e.g. shoot apex) has the highest concentration of auxin which suppresses the axillary buds while promotes the growth of apical bud. When the shoot apex is cut down through pruning, the axillary buds grow and the hedge becomes dense.",
+   557→   557→      "CBSE AIPMT",
+   558→   558→      null,
+   559→   559→      null
+   560→   560→    ]
+   561→   561→  },
+   562→   562→  {
+   563→   563→    "sheet": "Class11",
+   564→   564→    "row": 2268,
+   565→   565→    "data": [
+   566→   566→      "Biology",
+   567→   567→      null,
+   568→   568→      "Plant Growth and Development",
+   569→   569→      "English",
+   570→   570→      "An enzyme that can stimulate germination of barley seeds is",
+   571→   571→      "lipase",
+   572→   572→      "protease",
+   573→   573→      "invertase",
+   574→   574→      "α-amylase",
+   575→   575→      4.0,
+   576→   576→      "Barley seeds are rich in carbohydrate (starch). The starch is hydrolysed by α-amylase to monosaccharides unit at the time of germination of seeds.",
+   577→   577→      "CBSE AIPMT",
+   578→   578→      null,
+   579→   579→      null
+   580→   580→    ]
+   581→   581→  },
+   582→   582→  {
+   583→   583→    "sheet": "Class11",
+   584→   584→    "row": 2269,
+   585→   585→    "data": [
+   586→   586→      "Biology",
+   587→   587→      null,
+   588→   588→      "Plant Growth and Development",
+   589→   589→      "English",
+   590→   590→      "Treatment of seed at low temperature under moist conditions to break its dormancy is called",
+   591→   591→      "vernalisation",
+   592→   592→      "chelation",
+   593→   593→      "stratification",
+   594→   594→      "scarification",
+   595→   595→      3.0,
+   596→   596→      "Stratification involves the treatment of seed at low temperature (5–10°C) under sufficiently moist conditions to break its dormancy and to induce germination. Scarification involves any damage or breakage of seed coat by physical methods, (e.g. use of scalpel, wooden hammer, etc.) or chemical methods (use of mild acids) to break seed dormancy. Vernalisation and Chelation are the chill treatment of plant in its early stages of life history to stimulate or induce early flowering.",
+   597→   597→      "CBSE AIPMT",
+   598→   598→      null,
+   599→   599→      null
+   600→   600→    ]
+   601→   601→  },
+   602→   602→  {
+   603→   603→    "sheet": "Class11",
+   604→   604→    "row": 2270,
+   605→   605→    "data": [
+   606→   606→      "Biology",
+   607→   607→      null,
+   608→   608→      "Plant Growth and Development",
+   609→   609→      "English",
+   610→   610→      "Cell elongation in internodal regions of the green plants takes place due to",
+   611→   611→      "indole acetic acid",
+   612→   612→      "cytokinins",
+   613→   613→      "gibberellins",
+   614→   614→      "ethylene",
+   615→   615→      3.0,
+   616→   616→      "Gibberellin (GA ) 3 promotes internodal elongation in a wide range of species. This internodal elongation phenomenon is known as bolting. Gibberellin is a plant growth hormone which was first time obtained from a fungus Gibberella fujikuroi (Fusarium moniliformi).",
+   617→   617→      "CBSE AIPMT",
+   618→   618→      null,
+   619→   619→      null
+   620→   620→    ]
+   621→   621→  },
+   622→   622→  {
+   623→   623→    "sheet": "Class11",
+   624→   624→    "row": 2271,
+   625→   625→    "data": [
+   626→   626→      "Biology",
+   627→   627→      null,
+   628→   628→      "Plant Growth and Development",
+   629→   629→      "English",
+   630→   630→      "Differentiation of shoot is controlled by",
+   631→   631→      "high gibberellin—cytokinin ratio",
+   632→   632→      "high auxin—cytokinin ratio",
+   633→   633→      "high cytokinin—auxin ratio",
+   634→   634→      "high gibberellin—auxin ratio",
+   635→   635→      3.0,
+   636→   636→      "Ratio of cytokinins to auxins controls differentiation. If both of these are present in equal quantities, the cells divide but fail to differentiate. If there is more cytokinin than auxin, shoot buds develop. If there is more auxin than cytokinin, roots develop.",
+   637→   637→      "CBSE AIPMT",
+   638→   638→      null,
+   639→   639→      null
+   640→   640→    ]
+   641→   641→  },
+   642→   642→  {
+   643→   643→    "sheet": "Class11",
+   644→   644→    "row": 2272,
+   645→   645→    "data": [
+   646→   646→      "Biology",
+   647→   647→      null,
+   648→   648→      "Mineral Nutrition",
+   649→   649→      "English",
+   650→   650→      "Plants deficient of element zinc, show its effect on the biosynthesis of plant growth hormone",
+   651→   651→      "abscisic acid",
+   652→   652→      "auxin",
+   653→   653→      "cytokinin",
+   654→   654→      "ethylene",
+   655→   655→      2.0,
+   656→   656→      "Deficiency of zinc effects biosynthesis of auxin. It is characterised by a reduction in internodal growth due to which plant develops in rosette habit. The leaves may also be small and distorted. These results are due to loss of capacity to produce Indole Acetic Acid (IAA).",
+   657→   657→      "CBSE AIPMT",
+   658→   658→      null,
+   659→   659→      null
+   660→   660→    ]
+   661→   661→  },
+   662→   662→  {
+   663→   663→    "sheet": "Class11",
+   664→   664→    "row": 2273,
+   665→   665→    "data": [
+   666→   666→      "Biology",
+   667→   667→      null,
+   668→   668→      "Plant Growth and Development",
+   669→   669→      "English",
+   670→   670→      "Hormone responsible for senescence is",
+   671→   671→      "ABA",
+   672→   672→      "auxin",
+   673→   673→      "GA",
+   674→   674→      "cytokinin 146",
+   675→   675→      1.0,
+   676→   676→      "Senescence is an active genetically controlled developmental process in which cellular structure and macromolecules are broken down and translocated away from the senescing organ (typical leaves) to actively growing region that serve as nutrient sinks. Senescence is initiated by environmental cues and is regulated by the hormones, e.g. ABA (Abscisic Acid). Higher amount of ABA stops protein and RNA synthesis thus accelerating the senescence.",
+   677→   677→      "CBSE AIPMT",
+   678→   678→      null,
+   679→   679→      null
+   680→   680→    ]
+   681→   681→  },
+   682→   682→  {
+   683→   683→    "sheet": "Class11",
+   684→   684→    "row": 2274,
+   685→   685→    "data": [
+   686→   686→      "Biology",
+   687→   687→      null,
+   688→   688→      "Plant Growth and Development",
+   689→   689→      "English",
+   690→   690→      "Which of the following prevents fall of fruits?",
+   691→   691→      "GA3",
+   692→   692→      "NAA",
+   693→   693→      "Ethylene",
+   694→   694→      "Zeatin",
+   695→   695→      2.0,
+   696→   696→      "NAA (Naphthalene Acetic Acid) is a synthetic auxin hormone which is useful for preventing pre-harvest fruit drop of tomatoes.",
+   697→   697→      "CBSE AIPMT",
+   698→   698→      null,
+   699→   699→      null
+   700→   700→    ]
+   701→   701→  },
+   702→   702→  {
+   703→   703→    "sheet": "Class11",
+   704→   704→    "row": 2275,
+   705→   705→    "data": [
+   706→   706→      "Biology",
+   707→   707→      null,
+   708→   708→      "Plant Growth and Development",
+   709→   709→      "English",
+   710→   710→      "Which breaks bud dormancy of potato tuber?",
+   711→   711→      "Gibberellin",
+   712→   712→      "IAA",
+   713→   713→      "ABA",
+   714→   714→      "Zeatin",
+   715→   715→      1.0,
+   716→   716→      "Gibberellins overcome the natural dormancy of buds, seeds, tubers, etc. In this way, these are antagonistic to ABA. IAA (Indole Acetic Acid) is the principal naturally occurring auxin, found in all plants including fungi. It helps in eradication of weeds, root initiation and production of parthenocarpic fruits. ABA (Abscisic Acid) is the natural growth inhibitor. Zeatin is a naturally occurring cytokinin that stimulates mature plant cells to divide when added to a culture medium along with an auxin.",
+   717→   717→      "CBSE AIPMT",
+   718→   718→      null,
+   719→   719→      null
+   720→   720→    ]
+   721→   721→  },
+   722→   722→  {
+   723→   723→    "sheet": "Class11",
+   724→   724→    "row": 2276,
+   725→   725→    "data": [
+   726→   726→      "Biology",
+   727→   727→      null,
+   728→   728→      "Plant Growth and Development",
+   729→   729→      "English",
+   730→   730→      "What reason will you assign for coconut milk used in tissue culture?",
+   731→   731→      "Gibberellins",
+   732→   732→      "Cytokinins",
+   733→   733→      "Auxins",
+   734→   734→      "Ethylene",
+   735→   735→      2.0,
+   736→   736→      "Skoog (1954-1956) observed that coconut milk contained a substance which stimulated cell division. The substance was later on called cytokinin. The most widely occurring cytokinin in plants is isopentanyladenine (IPA). IPA has been isolated from Pseudomonas tumefaciens.",
+   737→   737→      "CBSE AIPMT , 03",
+   738→   738→      null,
+   739→   739→      null
+   740→   740→    ]
+   741→   741→  },
+   742→   742→  {
+   743→   743→    "sheet": "Class11",
+   744→   744→    "row": 2277,
+   745→   745→    "data": [
+   746→   746→      "Biology",
+   747→   747→      null,
+   748→   748→      "Plant Growth and Development",
+   749→   749→      "English",
+   750→   750→      "The closing and opening of the leaves of Mimosa pudica is due to",
+   751→   751→      "thermonastic movement",
+   752→   752→      "hydrotropic movement",
+   753→   753→      "seismonastic movement",
+   754→   754→      "chemonastic movement",
+   755→   755→      3.0,
+   756→   756→      "Seismonastic movements are nastic movements of turgor in response to stimulus of shock (like touch/mechanical/electrical/thermal/c hemical shock). On touchingMimosa pudica, its leaves droop down and the stimulus travels at the speed of 1 cm/sec.",
+   757→   757→      "CBSE AIPMT",
+   758→   758→      null,
+   759→   759→      null
+   760→   760→    ]
+   761→   761→  },
+   762→   762→  {
+   763→   763→    "sheet": "Class11",
+   764→   764→    "row": 2278,
+   765→   765→    "data": [
+   766→   766→      "Biology",
+   767→   767→      null,
+   768→   768→      "Plant Growth and Development",
+   769→   769→      "English",
+   770→   770→      "Which combination of gases is suitable for fruit ripening?",
+   771→   771→      "80%CO2 and 20%CH2",
+   772→   772→      "80%CH4 and 20%CO2",
+   773→   773→      "80%CO2 and 20% O2",
+   774→   774→      "80%C H2 4 and 20%CO2",
+   775→   775→      4.0,
+   776→   776→      "Ethylene is a gaseous hormone which promotes ripening of fruits. Methionine amino acid is precursor molecule for ethylene synthesis. Ethylene synthesis takes place in all parts of a plant such as roots, stems, leaves, fruits, seeds, etc.",
+   777→   777→      "CBSE AIPMT",
+   778→   778→      null,
+   779→   779→      null
+   780→   780→    ]
+   781→   781→  },
+   782→   782→  {
+   783→   783→    "sheet": "Class11",
+   784→   784→    "row": 2279,
+   785→   785→    "data": [
+   786→   786→      "Biology",
+   787→   787→      null,
+   788→   788→      "Plant Growth and Development",
+   789→   789→      "English",
+   790→   790→      "A plant hormone used for inducing morphogenesis in plant tissue culture is",
+   791→   791→      "gibberellins",
+   792→   792→      "cytokinins",
+   793→   793→      "ethylene",
+   794→   794→      "abscisic acid",
+   795→   795→      2.0,
+   796→   796→      "Ratio of cytokinin to auxin controls cell differentiation. If there is more cytokinin than auxin, shoot buds develop. Relatively more auxin than cytokinins leads to the development of roots. Abscisic Acid (ABA) is known as natural plant growth inhibitor. Gibberellin stimulates stem elongation, leaf expansion, bolting, flowering, etc. Ethylene is a fruit ripening hormone.",
+   797→   797→      "CBSE AIPMT",
+   798→   798→      null,
+   799→   799→      null
+   800→   800→    ]
+   801→   801→  },
+   802→   802→  {
+   803→   803→    "sheet": "Class11",
+   804→   804→    "row": 2280,
+   805→   805→    "data": [
+   806→   806→      "Biology",
+   807→   807→      null,
+   808→   808→      "Plant Growth and Development",
+   809→   809→      "English",
+   810→   810→      "Gibberellins induce",
+   811→   811→      "flowering",
+   812→   812→      "production of hydrolysing enzymes in germinating seeds",
+   813→   813→      "cell division",
+   814→   814→      "hasten leaf senescence",
+   815→   815→      2.0,
+   816→   816→      "During seed germination especially of cereals gibberellins stimulate the production of hydrolytic enzymes like amylases, lipases, ribonucleases. These enzyme solubilise the reserve food of the seed.",
+   817→   817→      "CBSE AIPMT",
+   818→   818→      null,
+   819→   819→      null
+   820→   820→    ]
+   821→   821→  },
+   822→   822→  {
+   823→   823→    "sheet": "Class11",
+   824→   824→    "row": 2281,
+   825→   825→    "data": [
+   826→   826→      "Biology",
+   827→   827→      null,
+   828→   828→      "Plant Growth and Development",
+   829→   829→      "English",
+   830→   830→      "Ethylene gas is used for",
+   831→   831→      "growth of plants",
+   832→   832→      "delaying fruit’s abscission",
+   833→   833→      "ripening of fruits",
+   834→   834→      "stopping the leaf abscission",
+   835→   835→      3.0,
+   836→   836→      "Climacteric fruits are fleshy fruits which show a sudden sharp rise of respiration rate at the time of ripening. Ethylene is used to induce artificial ripening of these fruits, e.g. apple, mango, banana.",
+   837→   837→      "CBSE AIPMT",
+   838→   838→      null,
+   839→   839→      null
+   840→   840→    ]
+   841→   841→  },
+   842→   842→  {
+   843→   843→    "sheet": "Class11",
+   844→   844→    "row": 2282,
+   845→   845→    "data": [
+   846→   846→      "Biology",
+   847→   847→      null,
+   848→   848→      "Plant Growth and Development",
+   849→   849→      "English",
+   850→   850→      "Movement of auxin is",
+   851→   851→      "centripetal",
+   852→   852→      "basipetal",
+   853→   853→      "acropetal",
+   854→   854→      "Both (b) and (c)",
+   855→   855→      4.0,
+   856→   856→      "Went (1928) reported that auxin is transported basipetally, i.e., it moves from apical to basal end. However, McCready and Jacobs (1963) working on petiole segments of Phaseolus vulgaris observed acropetal movement of auxin but such type of movement occurs very little and directly dependent with the presence of oxygen. Thus, recent studies have indicated that the polar movement of auxin is an active transport.",
+   857→   857→      "CBSE AIPMT",
+   858→   858→      null,
+   859→   859→      null
+   860→   860→    ]
+   861→   861→  },
+   862→   862→  {
+   863→   863→    "sheet": "Class11",
+   864→   864→    "row": 2283,
+   865→   865→    "data": [
+   866→   866→      "Biology",
+   867→   867→      null,
+   868→   868→      "Plant Growth and Development",
+   869→   869→      "English",
+   870→   870→      "Removal of apical bud results in",
+   871→   871→      "formation of new apical bud",
+   872→   872→      "elongation of main stem",
+   873→   873→      "death of plant",
+   874→   874→      "formation of lateral branching",
+   875→   875→      4.0,
+   876→   876→      "Apical dominance is the phenomenon in which the presence of apical bud does not allow the nearby lateral buds to grow. When the apical bud is removed the lateral buds sprout.",
+   877→   877→      "CBSE AIPMT , 2000",
+   878→   878→      null,
+   879→   879→      null
+   880→   880→    ]
+   881→   881→  },
+   882→   882→  {
+   883→   883→    "sheet": "Class11",
+   884→   884→    "row": 2284,
+   885→   885→    "data": [
+   886→   886→      "Biology",
+   887→   887→      null,
+   888→   888→      "Plant Growth and Development",
+   889→   889→      "English",
+   890→   890→      "Klinostat is employed in the study of",
+   891→   891→      "osmosis",
+   892→   892→      "growth movements",
+   893→   893→      "photosynthesis",
+   894→   894→      "respiration Plant Growth and Development 147",
+   895→   895→      2.0,
+   896→   896→      "Clinostat/klinostat is an instrument which can nullify the effect of gravity and allow a plant to grow horizontally by slowly rotating it. Rotating clinostat do not show any bending because the gravitation stimulus in this case is not unilateral as it affects all the sides of the rotating organs equally, whereas plant kept in unrotated/fixed clinostat bends downwards showing positive geotropism.",
+   897→   897→      "CBSE AIPMT",
+   898→   898→      null,
+   899→   899→      null
+   900→   900→    ]
+   901→   901→  },
+   902→   902→  {
+   903→   903→    "sheet": "Class11",
+   904→   904→    "row": 2285,
+   905→   905→    "data": [
+   906→   906→      "Biology",
+   907→   907→      null,
+   908→   908→      "Plant Growth and Development",
+   909→   909→      "English",
+   910→   910→      "Cytokinins",
+   911→   911→      "promote abscission",
+   912→   912→      "influence water movement",
+   913→   913→      "help retain chlorophyll",
+   914→   914→      "inhibit protoplasmic streaming",
+   915→   915→      3.0,
+   916→   916→      "Cytokinin retards the process of chlorophyll degradation. Leaf discs are taken in two lots. In one lot cytokinin is provided. After 48–72 hrs the leaf discs are compared for chlorophyll content. The leaf disc of cytokinin containing lot has high chlorophyll content.",
+   917→   917→      "CBSE AIPMT",
+   918→   918→      null,
+   919→   919→      null
+   920→   920→    ]
+   921→   921→  },
+   922→   922→  {
+   923→   923→    "sheet": "Class11",
+   924→   924→    "row": 2286,
+   925→   925→    "data": [
+   926→   926→      "Biology",
+   927→   927→      null,
+   928→   928→      "Plant Growth and Development",
+   929→   929→      "English",
+   930→   930→      "Which is employed for artificial ripening of banana fruits?",
+   931→   931→      "Auxin",
+   932→   932→      "Cumarin",
+   933→   933→      "Ethylene",
+   934→   934→      "Cytokinin",
+   935→   935→      3.0,
+   936→   936→      "Ethylene is a gaseous hormone that induces ripening and maturity of fruits. When applied as foliar spray ethylene accelerates maturity and induces uniform ripening in banana, pineapple, fig, etc. It also induces fruiting in ornamental plants and causes preharvest defoliation in nursery stock.",
+   937→   937→      "CBSE AIPMT",
+   938→   938→      null,
+   939→   939→      null
+   940→   940→    ]
+   941→   941→  },
+   942→   942→  {
+   943→   943→    "sheet": "Class11",
+   944→   944→    "row": 2287,
+   945→   945→    "data": [
+   946→   946→      "Biology",
+   947→   947→      null,
+   948→   948→      "Plant Growth and Development",
+   949→   949→      "English",
+   950→   950→      "Bananas can be prevented from over-ripening by",
+   951→   951→      "maintaining them at room temperature",
+   952→   952→      "refrigeration",
+   953→   953→      "dipping in ascorbic acid solution",
+   954→   954→      "storing in a freezer",
+   955→   955→      3.0,
+   956→   956→      "Ascorbic acid (vitamin-C) prevents over ripening of banana and other fruits because it is an antioxidant.",
+   957→   957→      "CBSE AIPMT",
+   958→   958→      null,
+   959→   959→      null
+   960→   960→    ]
+   961→   961→  },
+   962→   962→  {
+   963→   963→    "sheet": "Class11",
+   964→   964→    "row": 2288,
+   965→   965→    "data": [
+   966→   966→      "Biology",
+   967→   967→      null,
+   968→   968→      "Plant Growth and Development",
+   969→   969→      "English",
+   970→   970→      "Dwarfness can be controlled by treating the plant with",
+   971→   971→      "cytokinin",
+   972→   972→      "gibberellic acid",
+   973→   973→      "auxin",
+   974→   974→      "antigibberellin",
+   975→   975→      2.0,
+   976→   976→      "The most important effect of GA is the stem elongation, in which GA induces internodal elongation or sub-apical elongation. It has been confirmed on several plants such as pea, bean, tomato, cabbage, etc. where a significant elongation of internodes is reported. Genetically dwarf plants like pea and maize show normal size in the presence of gibberellins.",
+   977→   977→      "CBSE AIPMT , 2002",
+   978→   978→      null,
+   979→   979→      null
+   980→   980→    ]
+   981→   981→  },
+   982→   982→  {
+   983→   983→    "sheet": "Class11",
+   984→   984→    "row": 2289,
+   985→   985→    "data": [
+   986→   986→      "Biology",
+   987→   987→      null,
+   988→   988→      "Plant Growth and Development",
+   989→   989→      "English",
+   990→   990→      "A chemical believed to be involved in flowering is",
+   991→   991→      "gibberellin",
+   992→   992→      "kinetin",
+   993→   993→      "florigen",
+   994→   994→      "IBA",
+   995→   995→      3.0,
+   996→   996→      "Chailakhyan (1936) proposed that photoperiodic induction produces a chemical complex ‘florigen’ for flowering. It is synthesised in the older leaves and then transferred to the growing region where it initiates the floral bud initiation. However, florigen has not been extracted, nor identified till now.",
+   997→   997→      "CBSE AIPMT , 95",
+   998→   998→      null,
+   999→   999→      null
+  1000→  1000→    ]
+  1001→  1001→  }
+  1002→  1002→]

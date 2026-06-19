@@ -1,0 +1,16 @@
+node_modules
+.next
+.git
+db/
+*.log
+.tool-results/
+upload/
+download/
+scripts/
+spell1/
+spell2/
+spell3/
+spell4/
+spell5/
+tool-results/
+.zscripts/

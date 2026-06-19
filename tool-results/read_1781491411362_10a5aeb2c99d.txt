@@ -1,0 +1,1002 @@
+     1→     1→[
+     2→     2→  {
+     3→     3→    "sheet": "Class11",
+     4→     4→    "row": 1204,
+     5→     5→    "data": [
+     6→     6→      "Biology",
+     7→     7→      2.0,
+     8→     8→      "जीव जगत का वर्गीकरण",
+     9→     9→      "Hindi",
+    10→    10→      "बैक्टीरिया में श्वसन (respiration) का स्थल है",
+    11→    11→      "(a) episome",
+    12→    12→      "(b) mesosome",
+    13→    13→      "(c) ribosome",
+    14→    14→      "(d) microsome",
+    15→    15→      2.0,
+    16→    16→      "Mesosomes बैक्टीरिया में प्लाज्मा झिल्ली (plasma membrane) के अंतर्वलन (infoldings) हैं जिनमें श्वसन एंजाइम होते हैं।",
+    17→    17→      "CBSE AIPMT",
+    18→    18→      1997.0,
+    19→    19→      null
+    20→    20→    ]
+    21→    21→  },
+    22→    22→  {
+    23→    23→    "sheet": "Class11",
+    24→    24→    "row": 1205,
+    25→    25→    "data": [
+    26→    26→      "Biology",
+    27→    27→      2.0,
+    28→    28→      "जीव जगत का वर्गीकरण",
+    29→    29→      "Hindi",
+    30→    30→      "बैक्टीरियल गुणसूत्रों (bacterial chromosomes) में, न्यूक्लिक एसिड पॉलिमर होते हैं",
+    31→    31→      "(a) रैखिक DNA अणु",
+    32→    32→      "(b) गोलाकार DNA अणु",
+    33→    33→      "(c) दो प्रकार के - DNA और RNA",
+    34→    34→      "(d) रैखिक RNA अणु",
+    35→    35→      2.0,
+    36→    36→      "बैक्टीरियल न्यूक्लियॉइड (nucleoid) में एक एकल गोलाकार DNA अणु होता है।",
+    37→    37→      "CBSE AIPMT",
+    38→    38→      1996.0,
+    39→    39→      null
+    40→    40→    ]
+    41→    41→  },
+    42→    42→  {
+    43→    43→    "sheet": "Class11",
+    44→    44→    "row": 1206,
+    45→    45→    "data": [
+    46→    46→      "Biology",
+    47→    47→      2.0,
+    48→    48→      "जीव जगत का वर्गीकरण",
+    49→    49→      "Hindi",
+    50→    50→      "बैक्टीरिया में सेक्स फैक्टर (Sex factor) है",
+    51→    51→      "(a) chromosomal replicon",
+    52→    52→      "(b) F-replicon",
+    53→    53→      "(c) RNA",
+    54→    54→      "(d) sex-pilus",
+    55→    55→      2.0,
+    56→    56→      "F-factor (fertility factor) एक प्लाज्मिड (F-replicon) है जो सेक्स पाइलस (sex pilus) के निर्माण के लिए कोड करता है।",
+    57→    57→      "CBSE AIPMT",
+    58→    58→      1996.0,
+    59→    59→      null
+    60→    60→    ]
+    61→    61→  },
+    62→    62→  {
+    63→    63→    "sheet": "Class11",
+    64→    64→    "row": 1208,
+    65→    65→    "data": [
+    66→    66→      "Biology",
+    67→    67→      2.0,
+    68→    68→      "Biological Classification",
+    69→    69→      "English",
+    70→    70→      "The plasmid",
+    71→    71→      "(a) helps in respiration",
+    72→    72→      "(b) genes found inside nucleus",
+    73→    73→      "(c) is a component of cell wall of bacteria",
+    74→    74→      "(d) is the genetic part in addition to DNA in microorganisms",
+    75→    75→      4.0,
+    76→    76→      "Plasmids are small, self-replicating, extrachromosomal, non-essential genetic elements in bacteria. Each plasmid has a ring of circular, supercoiled, double stranded DNA.",
+    77→    77→      "CBSE AIPMT",
+    78→    78→      1995.0,
+    79→    79→      null
+    80→    80→    ]
+    81→    81→  },
+    82→    82→  {
+    83→    83→    "sheet": "Class11",
+    84→    84→    "row": 1209,
+    85→    85→    "data": [
+    86→    86→      "Biology",
+    87→    87→      2.0,
+    88→    88→      "Biological Classification",
+    89→    89→      "English",
+    90→    90→      "Temperature tolerance of thermal blue-green algae is due to",
+    91→    91→      "(a) cell wall structure",
+    92→    92→      "(b) cell organisation",
+    93→    93→      "(c) mitochondrial structure",
+    94→    94→      "(d) homopolar bonds in their proteins",
+    95→    95→      1.0,
+    96→    96→      "Cyanobacteria provide a good example of the adaptability of life to extremes of environment. It is due to their gelatinous sheath that can withstand long periods of desiccation.",
+    97→    97→      "CBSE AIPMT",
+    98→    98→      1994.0,
+    99→    99→      null
+   100→   100→    ]
+   101→   101→  },
+   102→   102→  {
+   103→   103→    "sheet": "Class11",
+   104→   104→    "row": 1210,
+   105→   105→    "data": [
+   106→   106→      "Biology",
+   107→   107→      2.0,
+   108→   108→      "Biological Classification",
+   109→   109→      "English",
+   110→   110→      "Escherichia coli is used extensively in biological research as it is",
+   111→   111→      "(a) easily cultured",
+   112→   112→      "(b) easily available",
+   113→   113→      "(c) easy to handle",
+   114→   114→      "(d) easily multiplied in host",
+   115→   115→      1.0,
+   116→   116→      "Escherichia coli is the most studied bacterium and widely used in research because it is easily cultured on minimal medium and has a fast rate of multiplication.",
+   117→   117→      "CBSE AIPMT",
+   118→   118→      1993.0,
+   119→   119→      null
+   120→   120→    ]
+   121→   121→  },
+   122→   122→  {
+   123→   123→    "sheet": "Class11",
+   124→   124→    "row": 1211,
+   125→   125→    "data": [
+   126→   126→      "Biology",
+   127→   127→      2.0,
+   128→   128→      "Biological Classification",
+   129→   129→      "English",
+   130→   130→      "Genophore bacterial genome or nucleoid is made of",
+   131→   131→      "(a) histones and non-histones",
+   132→   132→      "(b) RNA and histones",
+   133→   133→      "(c) a single double stranded DNA",
+   134→   134→      "(d) a single stranded DNA",
+   135→   135→      3.0,
+   136→   136→      "In bacteria nucleoid or genophore is haploid and consists of single, naked, double stranded, circular ring like highly folded supercoiled DNA with no free ends, no histone proteins.",
+   137→   137→      "CBSE AIPMT",
+   138→   138→      1993.0,
+   139→   139→      null
+   140→   140→    ]
+   141→   141→  },
+   142→   142→  {
+   143→   143→    "sheet": "Class11",
+   144→   144→    "row": 1212,
+   145→   145→    "data": [
+   146→   146→      "Biology",
+   147→   147→      2.0,
+   148→   148→      "Biological Classification",
+   149→   149→      "English",
+   150→   150→      "Bacteria lack alternation of generation because there is",
+   151→   151→      "(a) neither syngamy nor reduction division",
+   152→   152→      "(b) distinct chromosomes are absent",
+   153→   153→      "(c) no conjugation",
+   154→   154→      "(d) no exchange of genetic material",
+   155→   155→      1.0,
+   156→   156→      "No true sexual reproduction (involving formation of gametes, their fusion and meiosis) is known to occur in bacteria.",
+   157→   157→      "CBSE AIPMT",
+   158→   158→      1992.0,
+   159→   159→      null
+   160→   160→    ]
+   161→   161→  },
+   162→   162→  {
+   163→   163→    "sheet": "Class11",
+   164→   164→    "row": 1213,
+   165→   165→    "data": [
+   166→   166→      "Biology",
+   167→   167→      2.0,
+   168→   168→      "Biological Classification",
+   169→   169→      "English",
+   170→   170→      "Which one belongs to the Monera?",
+   171→   171→      "(a) Amoeba",
+   172→   172→      "(b) Escherichia",
+   173→   173→      "(c) Gelidium",
+   174→   174→      "(d) Spirogyra",
+   175→   175→      2.0,
+   176→   176→      "The kingdom-Monera includes simple, prokaryotic primitive organisms like bacteria. Escherichia coli is a bacterium.",
+   177→   177→      "CBSE AIPMT",
+   178→   178→      1990.0,
+   179→   179→      null
+   180→   180→    ]
+   181→   181→  },
+   182→   182→  {
+   183→   183→    "sheet": "Class11",
+   184→   184→    "row": 1214,
+   185→   185→    "data": [
+   186→   186→      "Biology",
+   187→   187→      2.0,
+   188→   188→      "Biological Classification",
+   189→   189→      "English",
+   190→   190→      "Ciliates differ from all other protozoans in",
+   191→   191→      "(a) using pseudopodia for capturing prey",
+   192→   192→      "(b) having a contractile vacuole for removing excess water",
+   193→   193→      "(c) using flagella for locomotion",
+   194→   194→      "(d) having two types of nuclei",
+   195→   195→      4.0,
+   196→   196→      "Ciliates differ from all other protozoans in having two types of nuclei (meganucleus and micronucleus).",
+   197→   197→      "NEET",
+   198→   198→      2018.0,
+   199→   199→      null
+   200→   200→    ]
+   201→   201→  },
+   202→   202→  {
+   203→   203→    "sheet": "Class11",
+   204→   204→    "row": 1215,
+   205→   205→    "data": [
+   206→   206→      "Biology",
+   207→   207→      2.0,
+   208→   208→      "Biological Classification",
+   209→   209→      "English",
+   210→   210→      "Chrysophytes, euglenoids, dinoflagellates and slime moulds are included in the kingdom",
+   211→   211→      "(a) Protista",
+   212→   212→      "(b) Fungi",
+   213→   213→      "(c) Animalia",
+   214→   214→      "(d) Monera",
+   215→   215→      1.0,
+   216→   216→      "All single celled eukaryotic organisms like chrysophytes, euglenoids, dinoflagellates and slime moulds are included in kingdom-Protista.",
+   217→   217→      "NEET",
+   218→   218→      2016.0,
+   219→   219→      null
+   220→   220→    ]
+   221→   221→  },
+   222→   222→  {
+   223→   223→    "sheet": "Class11",
+   224→   224→    "row": 1216,
+   225→   225→    "data": [
+   226→   226→      "Biology",
+   227→   227→      2.0,
+   228→   228→      "Biological Classification",
+   229→   229→      "English",
+   230→   230→      "Select the wrong statement.",
+   231→   231→      "(a) The walls of diatoms are easily destructible",
+   232→   232→      "(b) 'Diatomaceous earth' is formed by the cell walls of diatoms",
+   233→   233→      "(c) Diatoms are chief producers in the oceans",
+   234→   234→      "(d) Diatoms are microscopic and float passively in water",
+   235→   235→      1.0,
+   236→   236→      "Diatoms produce intricately structured cell walls made of silica (SiO2), making them indestructible.",
+   237→   237→      "NEET",
+   238→   238→      2016.0,
+   239→   239→      null
+   240→   240→    ]
+   241→   241→  },
+   242→   242→  {
+   243→   243→    "sheet": "Class11",
+   244→   244→    "row": 1217,
+   245→   245→    "data": [
+   246→   246→      "Biology",
+   247→   247→      2.0,
+   248→   248→      "Biological Classification",
+   249→   249→      "English",
+   250→   250→      "Pick up the wrong statement.",
+   251→   251→      "(a) Cell wall is absent in Animalia",
+   252→   252→      "(b) Protista have photosynthetic and heterotrophic modes of nutrition",
+   253→   253→      "(c) Some fungi are edible",
+   254→   254→      "(d) Nuclear membrane is present in Monera",
+   255→   255→      4.0,
+   256→   256→      "Monera contains unicellular organisms with a prokaryotic cell organisation which lacks nuclear membrane.",
+   257→   257→      "CBSE AIPMT",
+   258→   258→      2015.0,
+   259→   259→      null
+   260→   260→    ]
+   261→   261→  },
+   262→   262→  {
+   263→   263→    "sheet": "Class11",
+   264→   264→    "row": 1218,
+   265→   265→    "data": [
+   266→   266→      "Biology",
+   267→   267→      2.0,
+   268→   268→      "Biological Classification",
+   269→   269→      "English",
+   270→   270→      "In which group of organisms the cell walls form two thin overlapping shells which fit together?",
+   271→   271→      "(a) Chrysophytes",
+   272→   272→      "(b) Euglenoids",
+   273→   273→      "(c) Dinoflagellates",
+   274→   274→      "(d) Slime moulds",
+   275→   275→      1.0,
+   276→   276→      "In diatoms (Chrysophytes), the cell walls form two thin overlapping cells, which fit together as in a soap box.",
+   277→   277→      "CBSE AIPMT",
+   278→   278→      2015.0,
+   279→   279→      null
+   280→   280→    ]
+   281→   281→  },
+   282→   282→  {
+   283→   283→    "sheet": "Class11",
+   284→   284→    "row": 1219,
+   285→   285→    "data": [
+   286→   286→      "Biology",
+   287→   287→      2.0,
+   288→   288→      "Biological Classification",
+   289→   289→      "English",
+   290→   290→      "What is common about Trypanosoma, Noctiluca, Monocystis and Giardia?",
+   291→   291→      "(a) These are all unicellular protists",
+   292→   292→      "(b) They have flagella",
+   293→   293→      "(c) They produce spores",
+   294→   294→      "(d) These are all parasites",
+   295→   295→      1.0,
+   296→   296→      "Trypanosoma, Noctiluca, Monocystis and Giardia are all unicellular protists.",
+   297→   297→      "CBSE AIPMT",
+   298→   298→      2006.0,
+   299→   299→      null
+   300→   300→    ]
+   301→   301→  },
+   302→   302→  {
+   303→   303→    "sheet": "Class11",
+   304→   304→    "row": 1220,
+   305→   305→    "data": [
+   306→   306→      "Biology",
+   307→   307→      2.0,
+   308→   308→      "Biological Classification",
+   309→   309→      "English",
+   310→   310→      "Auxospores and hormocysts are formed respectively by",
+   311→   311→      "(a) several diatoms and a few cyanobacteria",
+   312→   312→      "(b) several cyanobacteria and several diatoms",
+   313→   313→      "(c) some diatoms and several cyanobacteria",
+   314→   314→      "(d) some cyanobacteria and many diatoms",
+   315→   315→      1.0,
+   316→   316→      "Auxospores are formed by diatoms and hormocysts are formed by some cyanobacteria.",
+   317→   317→      "CBSE AIPMT",
+   318→   318→      2005.0,
+   319→   319→      null
+   320→   320→    ]
+   321→   321→  },
+   322→   322→  {
+   323→   323→    "sheet": "Class11",
+   324→   324→    "row": 1221,
+   325→   325→    "data": [
+   326→   326→      "Biology",
+   327→   327→      2.0,
+   328→   328→      "Biological Classification",
+   329→   329→      "English",
+   330→   330→      "Which of the following unicellular organism has a macro-nucleus for trophic function and one or more micro-nuclei for reproduction?",
+   331→   331→      "(a) Euglena",
+   332→   332→      "(b) Amoeba",
+   333→   333→      "(c) Paramecium",
+   334→   334→      "(d) Trypanosoma",
+   335→   335→      3.0,
+   336→   336→      "Paramecium is heterokaryotic, having a macronucleus for vegetative functions and a micronucleus for reproduction.",
+   337→   337→      "CBSE AIPMT",
+   338→   338→      2005.0,
+   339→   339→      null
+   340→   340→    ]
+   341→   341→  },
+   342→   342→  {
+   343→   343→    "sheet": "Class11",
+   344→   344→    "row": 1222,
+   345→   345→    "data": [
+   346→   346→      "Biology",
+   347→   347→      2.0,
+   348→   348→      "Biological Classification",
+   349→   349→      "English",
+   350→   350→      "When a freshwater protozoan possessing a contractile vacuole is placed in a glass containing marine water, the vacuole will",
+   351→   351→      "(a) increase in number",
+   352→   352→      "(b) disappear",
+   353→   353→      "(c) increase in size",
+   354→   354→      "(d) decrease in size",
+   355→   355→      2.0,
+   356→   356→      "In hypertonic marine water, endosmosis does not occur, so the contractile vacuole (used for osmoregulation) disappears.",
+   357→   357→      "CBSE AIPMT",
+   358→   358→      2004.0,
+   359→   359→      null
+   360→   360→    ]
+   361→   361→  },
+   362→   362→  {
+   363→   363→    "sheet": "Class11",
+   364→   364→    "row": 1223,
+   365→   365→    "data": [
+   366→   366→      "Biology",
+   367→   367→      2.0,
+   368→   368→      "Biological Classification",
+   369→   369→      "English",
+   370→   370→      "The chief advantage of encystment to an Amoeba is",
+   371→   371→      "(a) the chance to get rid of accumulated waste products",
+   372→   372→      "(b) the ability to survive during adverse physical conditions",
+   373→   373→      "(c) the ability to live for some time without ingesting food",
+   374→   374→      "(d) protection from parasites and predators",
+   375→   375→      2.0,
+   376→   376→      "Encystment helps Amoeba to tide over unfavourable conditions like drought and extreme temperature.",
+   377→   377→      "CBSE AIPMT",
+   378→   378→      2003.0,
+   379→   379→      null
+   380→   380→    ]
+   381→   381→  },
+   382→   382→  {
+   383→   383→    "sheet": "Class11",
+   384→   384→    "row": 1224,
+   385→   385→    "data": [
+   386→   386→      "Biology",
+   387→   387→      2.0,
+   388→   388→      "Biological Classification",
+   389→   389→      "English",
+   390→   390→      "In which animal, dimorphic nucleus is found?",
+   391→   391→      "(a) Amoeba",
+   392→   392→      "(b) Trypanosoma gambiense",
+   393→   393→      "(c) Plasmodium vivax",
+   394→   394→      "(d) Paramecium caudatum",
+   395→   395→      4.0,
+   396→   396→      "Paramecium possesses a dimorphic nuclear apparatus (macronucleus and micronucleus).",
+   397→   397→      "CBSE AIPMT",
+   398→   398→      2002.0,
+   399→   399→      null
+   400→   400→    ]
+   401→   401→  },
+   402→   402→  {
+   403→   403→    "sheet": "Class11",
+   404→   404→    "row": 1225,
+   405→   405→    "data": [
+   406→   406→      "Biology",
+   407→   407→      2.0,
+   408→   408→      "Biological Classification",
+   409→   409→      "English",
+   410→   410→      "Extranuclear inheritance occurs in",
+   411→   411→      "(a) killer strain in Paramecium",
+   412→   412→      "(b) colour blindness",
+   413→   413→      "(c) phenylketonuria",
+   414→   414→      "(d) Tay Sachs disease",
+   415→   415→      1.0,
+   416→   416→      "Paramecium exhibits cytoplasmic inheritance due to the presence of Kappa particles.",
+   417→   417→      "CBSE AIPMT",
+   418→   418→      2001.0,
+   419→   419→      null
+   420→   420→    ]
+   421→   421→  },
+   422→   422→  {
+   423→   423→    "sheet": "Class11",
+   424→   424→    "row": 1226,
+   425→   425→    "data": [
+   426→   426→      "Biology",
+   427→   427→      2.0,
+   428→   428→      "Biological Classification",
+   429→   429→      "English",
+   430→   430→      "Which of the following organisms possesses characteristics of both a plant and an animal?",
+   431→   431→      "(a) Bacteria",
+   432→   432→      "(b) Mycoplasma",
+   433→   433→      "(c) Euglena",
+   434→   434→      "(d) Paramecium",
+   435→   435→      3.0,
+   436→   436→      "Euglena contains chlorophyll (plant-like) but feeds like animals in the absence of sunlight (animal-like).",
+   437→   437→      "CBSE AIPMT",
+   438→   438→      1995.0,
+   439→   439→      null
+   440→   440→    ]
+   441→   441→  },
+   442→   442→  {
+   443→   443→    "sheet": "Class11",
+   444→   444→    "row": 1227,
+   445→   445→    "data": [
+   446→   446→      "Biology",
+   447→   447→      2.0,
+   448→   448→      "Biological Classification",
+   449→   449→      "English",
+   450→   450→      "Macro and micronucleus are the characteristic feature of",
+   451→   451→      "(a) Paramecium and Vorticella",
+   452→   452→      "(b) Opeling and Nictothirus",
+   453→   453→      "(c) Hydra and Ballantidium",
+   454→   454→      "(d) Vorticella and Nictothirus",
+   455→   455→      1.0,
+   456→   456→      "Paramecium and Vorticella have dimorphic nuclei (heterokaryotic).",
+   457→   457→      "CBSE AIPMT",
+   458→   458→      1995.0,
+   459→   459→      null
+   460→   460→    ]
+   461→   461→  },
+   462→   462→  {
+   463→   463→    "sheet": "Class11",
+   464→   464→    "row": 1229,
+   465→   465→    "data": [
+   466→   466→      "Biology",
+   467→   467→      2.0,
+   468→   468→      "जीव जगत का वर्गीकरण",
+   469→   469→      "Hindi",
+   470→   470→      "The plasmid (प्लाज्मिड)",
+   471→   471→      "(a) श्वसन में मदद करता है",
+   472→   472→      "(b) जीन जो केंद्रक (nucleus) के अंदर पाए जाते हैं",
+   473→   473→      "(c) बैक्टीरिया की कोशिका भित्ति (cell wall) का एक घटक है",
+   474→   474→      "(d) सूक्ष्मजीवों में DNA के अतिरिक्त आनुवंशिक भाग है",
+   475→   475→      4.0,
+   476→   476→      "प्लाज्मिड बैक्टीरिया में छोटे, स्व-प्रतिकृति (self-replicating), अतिरिक्त-गुणसूत्र (extrachromosomal), गैर-आवश्यक आनुवंशिक तत्व हैं। प्रत्येक प्लाज्मिड में गोलाकार, सुपरकोल्ड, डबल स्ट्रैंडेड DNA का एक वलय होता है।",
+   477→   477→      "CBSE AIPMT",
+   478→   478→      1995.0,
+   479→   479→      null
+   480→   480→    ]
+   481→   481→  },
+   482→   482→  {
+   483→   483→    "sheet": "Class11",
+   484→   484→    "row": 1230,
+   485→   485→    "data": [
+   486→   486→      "Biology",
+   487→   487→      2.0,
+   488→   488→      "जीव जगत का वर्गीकरण",
+   489→   489→      "Hindi",
+   490→   490→      "थर्मल ब्लू-ग्रीन शैवाल (thermal blue-green algae) की तापमान सहिष्णुता (Temperature tolerance) किसके कारण होती है?",
+   491→   491→      "(a) कोशिका भित्ति संरचना (cell wall structure)",
+   492→   492→      "(b) कोशिका संगठन (cell organisation)",
+   493→   493→      "(c) माइटोकॉन्ड्रियल संरचना (mitochondrial structure)",
+   494→   494→      "(d) उनके प्रोटीन में होमोपोलर बॉन्ड (homopolar bonds)",
+   495→   495→      1.0,
+   496→   496→      "सायनोबैक्टीरिया (Cyanobacteria) का वातावरण की चरम सीमाओं के प्रति अनुकूलनशीलता का एक अच्छा उदाहरण है। यह उनके जिलेटिनस आवरण (gelatinous sheath) के कारण है जो सूखने (desiccation) की लंबी अवधि का सामना कर सकता है।",
+   497→   497→      "CBSE AIPMT",
+   498→   498→      1994.0,
+   499→   499→      null
+   500→   500→    ]
+   501→   501→  },
+   502→   502→  {
+   503→   503→    "sheet": "Class11",
+   504→   504→    "row": 1231,
+   505→   505→    "data": [
+   506→   506→      "Biology",
+   507→   507→      2.0,
+   508→   508→      "जीव जगत का वर्गीकरण",
+   509→   509→      "Hindi",
+   510→   510→      "Escherichia coli का उपयोग जैविक अनुसंधान में बड़े पैमाने पर किया जाता है क्योंकि यह",
+   511→   511→      "(a) आसानी से कल्चर (cultured) किया जा सकता है",
+   512→   512→      "(b) आसानी से उपलब्ध है",
+   513→   513→      "(c) संभालना आसान है",
+   514→   514→      "(d) मेजबान (host) में आसानी से गुणा (multiplied) हो जाता है",
+   515→   515→      1.0,
+   516→   516→      "Escherichia coli सबसे अधिक अध्ययन किया जाने वाला बैक्टीरिया है और अनुसंधान में व्यापक रूप से उपयोग किया जाता है क्योंकि इसे न्यूनतम माध्यम (minimal medium) पर आसानी से कल्चर किया जाता है और इसमें गुणन की तीव्र दर होती है।",
+   517→   517→      "CBSE AIPMT",
+   518→   518→      1993.0,
+   519→   519→      null
+   520→   520→    ]
+   521→   521→  },
+   522→   522→  {
+   523→   523→    "sheet": "Class11",
+   524→   524→    "row": 1232,
+   525→   525→    "data": [
+   526→   526→      "Biology",
+   527→   527→      2.0,
+   528→   528→      "जीव जगत का वर्गीकरण",
+   529→   529→      "Hindi",
+   530→   530→      "जेनोफोर (Genophore) बैक्टीरिया जीनोम या न्यूक्लियॉइड (nucleoid) किसका बना होता है?",
+   531→   531→      "(a) हिस्टोन (histones) और गैर-हिस्टोन",
+   532→   532→      "(b) RNA और हिस्टोन",
+   533→   533→      "(c) एक एकल डबल स्ट्रैंडेड DNA",
+   534→   534→      "(d) एक एकल स्ट्रैंडेड DNA",
+   535→   535→      3.0,
+   536→   536→      "बैक्टीरिया में न्यूक्लियॉइड या जेनोफोर अगुणित (haploid) होता है और इसमें एकल, नग्न, डबल स्ट्रैंडेड, गोलाकार वलय जैसा अत्यधिक मुड़ा हुआ सुपरकोल्ड DNA होता है जिसमें कोई मुक्त सिरा नहीं होता है, और कोई हिस्टोन प्रोटीन नहीं होता है।",
+   537→   537→      "CBSE AIPMT",
+   538→   538→      1993.0,
+   539→   539→      null
+   540→   540→    ]
+   541→   541→  },
+   542→   542→  {
+   543→   543→    "sheet": "Class11",
+   544→   544→    "row": 1233,
+   545→   545→    "data": [
+   546→   546→      "Biology",
+   547→   547→      2.0,
+   548→   548→      "जीव जगत का वर्गीकरण",
+   549→   549→      "Hindi",
+   550→   550→      "बैक्टीरिया में पीढ़ी के एकांतरण (alternation of generation) की कमी होती है क्योंकि वहाँ",
+   551→   551→      "(a) न तो syngamy है और न ही reduction division",
+   552→   552→      "(b) स्पष्ट गुणसूत्र अनुपस्थित हैं",
+   553→   553→      "(c) कोई संयुग्मन (conjugation) नहीं है",
+   554→   554→      "(d) आनुवंशिक सामग्री का कोई आदान-प्रदान नहीं है",
+   555→   555→      1.0,
+   556→   556→      "बैक्टीरिया में कोई वास्तविक यौन प्रजनन (जिसमें युग्मकों का निर्माण, उनका संलयन और अर्धसूत्रीविभाजन शामिल हो) नहीं होता है।",
+   557→   557→      "CBSE AIPMT",
+   558→   558→      1992.0,
+   559→   559→      null
+   560→   560→    ]
+   561→   561→  },
+   562→   562→  {
+   563→   563→    "sheet": "Class11",
+   564→   564→    "row": 1234,
+   565→   565→    "data": [
+   566→   566→      "Biology",
+   567→   567→      2.0,
+   568→   568→      "जीव जगत का वर्गीकरण",
+   569→   569→      "Hindi",
+   570→   570→      "कौन सा Monera से संबंधित है?",
+   571→   571→      "(a) Amoeba",
+   572→   572→      "(b) Escherichia",
+   573→   573→      "(c) Gelidium",
+   574→   574→      "(d) Spirogyra",
+   575→   575→      2.0,
+   576→   576→      "किंगडम-Monera में सरल, प्रोकैरियोटिक आदिम जीव जैसे बैक्टीरिया शामिल हैं। Escherichia coli एक बैक्टीरिया है।",
+   577→   577→      "CBSE AIPMT",
+   578→   578→      1990.0,
+   579→   579→      null
+   580→   580→    ]
+   581→   581→  },
+   582→   582→  {
+   583→   583→    "sheet": "Class11",
+   584→   584→    "row": 1235,
+   585→   585→    "data": [
+   586→   586→      "Biology",
+   587→   587→      2.0,
+   588→   588→      "जीव जगत का वर्गीकरण",
+   589→   589→      "Hindi",
+   590→   590→      "Ciliates अन्य सभी प्रोटोजोआ से किसमें भिन्न हैं?",
+   591→   591→      "(a) शिकार को पकड़ने के लिए स्यूडोपोडिया (pseudopodia) का उपयोग करना",
+   592→   592→      "(b) अतिरिक्त पानी को हटाने के लिए एक संकुचनशील रिक्तिका (contractile vacuole) होना",
+   593→   593→      "(c) हरकत (locomotion) के लिए फ्लैगेला (flagella) का उपयोग करना",
+   594→   594→      "(d) दो प्रकार के केंद्रक (nuclei) होना",
+   595→   595→      4.0,
+   596→   596→      "Ciliates अन्य सभी प्रोटोजोआ से दो प्रकार के केंद्रक (meganucleus और micronucleus) होने में भिन्न होते हैं।",
+   597→   597→      "NEET",
+   598→   598→      2018.0,
+   599→   599→      null
+   600→   600→    ]
+   601→   601→  },
+   602→   602→  {
+   603→   603→    "sheet": "Class11",
+   604→   604→    "row": 1236,
+   605→   605→    "data": [
+   606→   606→      "Biology",
+   607→   607→      2.0,
+   608→   608→      "जीव जगत का वर्गीकरण",
+   609→   609→      "Hindi",
+   610→   610→      "Chrysophytes, euglenoids, dinoflagellates और slime moulds को किस जगत (kingdom) में शामिल किया गया है?",
+   611→   611→      "(a) Protista",
+   612→   612→      "(b) Fungi",
+   613→   613→      "(c) Animalia",
+   614→   614→      "(d) Monera",
+   615→   615→      1.0,
+   616→   616→      "सभी एकल कोशिकीय यूकेरियोटिक जीव जैसे chrysophytes, euglenoids, dinoflagellates और slime moulds को किंगडम-Protista में शामिल किया गया है।",
+   617→   617→      "NEET",
+   618→   618→      2016.0,
+   619→   619→      null
+   620→   620→    ]
+   621→   621→  },
+   622→   622→  {
+   623→   623→    "sheet": "Class11",
+   624→   624→    "row": 1237,
+   625→   625→    "data": [
+   626→   626→      "Biology",
+   627→   627→      2.0,
+   628→   628→      "जीव जगत का वर्गीकरण",
+   629→   629→      "Hindi",
+   630→   630→      "गलत कथन का चयन करें।",
+   631→   631→      "(a) डायटम (diatoms) की दीवारें आसानी से नष्ट हो जाती हैं",
+   632→   632→      "(b) 'Diatomaceous earth' डायटम की कोशिका भित्ति से बनती है",
+   633→   633→      "(c) डायटम महासागरों में मुख्य उत्पादक (chief producers) हैं",
+   634→   634→      "(d) डायटम सूक्ष्म होते हैं और पानी में निष्क्रिय रूप से तैरते हैं",
+   635→   635→      1.0,
+   636→   636→      "डायटम जटिल संरचना वाली कोशिका भित्ति का निर्माण करते हैं जो सिलिका (SiO2) से बनी होती है, जिससे वे अविनाशी (indestructible) हो जाते हैं।",
+   637→   637→      "NEET",
+   638→   638→      2016.0,
+   639→   639→      null
+   640→   640→    ]
+   641→   641→  },
+   642→   642→  {
+   643→   643→    "sheet": "Class11",
+   644→   644→    "row": 1238,
+   645→   645→    "data": [
+   646→   646→      "Biology",
+   647→   647→      2.0,
+   648→   648→      "जीव जगत का वर्गीकरण",
+   649→   649→      "Hindi",
+   650→   650→      "गलत कथन चुनें।",
+   651→   651→      "(a) Animalia में कोशिका भित्ति (Cell wall) अनुपस्थित होती है",
+   652→   652→      "(b) Protista में पोषण के प्रकाश संश्लेषक और हेटरोट्रॉफिक तरीके होते हैं",
+   653→   653→      "(c) कुछ कवक (fungi) खाने योग्य होते हैं",
+   654→   654→      "(d) Monera में परमाणु झिल्ली (Nuclear membrane) मौजूद होती है",
+   655→   655→      4.0,
+   656→   656→      "Monera में प्रोकैरियोटिक कोशिका संगठन वाले एककोशिकीय जीव होते हैं जिनमें परमाणु झिल्ली (nuclear membrane) की कमी होती है।",
+   657→   657→      "CBSE AIPMT",
+   658→   658→      2015.0,
+   659→   659→      null
+   660→   660→    ]
+   661→   661→  },
+   662→   662→  {
+   663→   663→    "sheet": "Class11",
+   664→   664→    "row": 1239,
+   665→   665→    "data": [
+   666→   666→      "Biology",
+   667→   667→      2.0,
+   668→   668→      "जीव जगत का वर्गीकरण",
+   669→   669→      "Hindi",
+   670→   670→      "जीवों के किस समूह में कोशिका भित्ति दो पतले अतिव्यापी कवच (overlapping shells) बनाती है जो एक साथ फिट होते हैं?",
+   671→   671→      "(a) Chrysophytes",
+   672→   672→      "(b) Euglenoids",
+   673→   673→      "(c) Dinoflagellates",
+   674→   674→      "(d) Slime moulds",
+   675→   675→      1.0,
+   676→   676→      "डायटम (Chrysophytes) में, कोशिका भित्ति दो पतली अतिव्यापी कोशिकाओं का निर्माण करती है, जो साबुन के डिब्बे की तरह एक साथ फिट होती हैं।",
+   677→   677→      "CBSE AIPMT",
+   678→   678→      2015.0,
+   679→   679→      null
+   680→   680→    ]
+   681→   681→  },
+   682→   682→  {
+   683→   683→    "sheet": "Class11",
+   684→   684→    "row": 1240,
+   685→   685→    "data": [
+   686→   686→      "Biology",
+   687→   687→      2.0,
+   688→   688→      "जीव जगत का वर्गीकरण",
+   689→   689→      "Hindi",
+   690→   690→      "Trypanosoma, Noctiluca, Monocystis और Giardia में क्या सामान्य है?",
+   691→   691→      "(a) ये सभी एककोशिकीय प्रोटिस्ट (unicellular protists) हैं",
+   692→   692→      "(b) उनके पास फ्लैगेला (flagella) हैं",
+   693→   693→      "(c) वे बीजाणु (spores) पैदा करते हैं",
+   694→   694→      "(d) ये सभी परजीवी (parasites) हैं",
+   695→   695→      1.0,
+   696→   696→      "Trypanosoma, Noctiluca, Monocystis और Giardia सभी एककोशिकीय प्रोटिस्ट हैं।",
+   697→   697→      "CBSE AIPMT",
+   698→   698→      2006.0,
+   699→   699→      null
+   700→   700→    ]
+   701→   701→  },
+   702→   702→  {
+   703→   703→    "sheet": "Class11",
+   704→   704→    "row": 1241,
+   705→   705→    "data": [
+   706→   706→      "Biology",
+   707→   707→      2.0,
+   708→   708→      "जीव जगत का वर्गीकरण",
+   709→   709→      "Hindi",
+   710→   710→      "Auxospores और hormocysts क्रमशः किसके द्वारा बनते हैं?",
+   711→   711→      "(a) कई diatoms और कुछ cyanobacteria",
+   712→   712→      "(b) कई cyanobacteria और कई diatoms",
+   713→   713→      "(c) कुछ diatoms और कई cyanobacteria",
+   714→   714→      "(d) कुछ cyanobacteria और कई diatoms",
+   715→   715→      1.0,
+   716→   716→      "Auxospores डायटम द्वारा बनते हैं और hormocysts कुछ सायनोबैक्टीरिया द्वारा बनते हैं।",
+   717→   717→      "CBSE AIPMT",
+   718→   718→      2005.0,
+   719→   719→      null
+   720→   720→    ]
+   721→   721→  },
+   722→   722→  {
+   723→   723→    "sheet": "Class11",
+   724→   724→    "row": 1242,
+   725→   725→    "data": [
+   726→   726→      "Biology",
+   727→   727→      2.0,
+   728→   728→      "जीव जगत का वर्गीकरण",
+   729→   729→      "Hindi",
+   730→   730→      "निम्नलिखित में से किस एककोशिकीय जीव में ट्रॉफिक (trophic) कार्य के लिए एक मैक्रो-न्यूक्लियस (macro-nucleus) और प्रजनन के लिए एक या अधिक माइक्रो-न्यूक्लिआई (micro-nuclei) होते हैं?",
+   731→   731→      "(a) Euglena",
+   732→   732→      "(b) Amoeba",
+   733→   733→      "(c) Paramecium",
+   734→   734→      "(d) Trypanosoma",
+   735→   735→      3.0,
+   736→   736→      "Paramecium हेटेरोकैरियोटिक (heterokaryotic) है, जिसमें वनस्पति कार्यों के लिए एक मैक्रोन्यूक्लियस और प्रजनन के लिए एक माइक्रोन्यूक्लियस होता है।",
+   737→   737→      "CBSE AIPMT",
+   738→   738→      2005.0,
+   739→   739→      null
+   740→   740→    ]
+   741→   741→  },
+   742→   742→  {
+   743→   743→    "sheet": "Class11",
+   744→   744→    "row": 1243,
+   745→   745→    "data": [
+   746→   746→      "Biology",
+   747→   747→      2.0,
+   748→   748→      "जीव जगत का वर्गीकरण",
+   749→   749→      "Hindi",
+   750→   750→      "जब एक संकुचनशील रिक्तिका (contractile vacuole) रखने वाले मीठे पानी के प्रोटोजोआ को समुद्री पानी वाले गिलास में रखा जाता है, तो रिक्तिका",
+   751→   751→      "(a) संख्या में वृद्धि होगी",
+   752→   752→      "(b) गायब हो जाएगी",
+   753→   753→      "(c) आकार में वृद्धि होगी",
+   754→   754→      "(d) आकार में कमी आएगी",
+   755→   755→      2.0,
+   756→   756→      "हाइपरटोनिक समुद्री जल में, एंडोस्मोसिस (endosmosis) नहीं होता है, इसलिए ओस्मोरेगुलेशन (osmoregulation) के लिए उपयोग की जाने वाली संकुचनशील रिक्तिका गायब हो जाती है।",
+   757→   757→      "CBSE AIPMT",
+   758→   758→      2004.0,
+   759→   759→      null
+   760→   760→    ]
+   761→   761→  },
+   762→   762→  {
+   763→   763→    "sheet": "Class11",
+   764→   764→    "row": 1244,
+   765→   765→    "data": [
+   766→   766→      "Biology",
+   767→   767→      2.0,
+   768→   768→      "जीव जगत का वर्गीकरण",
+   769→   769→      "Hindi",
+   770→   770→      "एक Amoeba के लिए encystment का मुख्य लाभ है",
+   771→   771→      "(a) संचित अपशिष्ट उत्पादों से छुटकारा पाने का मौका",
+   772→   772→      "(b) प्रतिकूल भौतिक परिस्थितियों के दौरान जीवित रहने की क्षमता",
+   773→   773→      "(c) भोजन किए बिना कुछ समय तक जीवित रहने की क्षमता",
+   774→   774→      "(d) परजीवियों और शिकारियों से सुरक्षा",
+   775→   775→      2.0,
+   776→   776→      "Encystment अमीबा को सूखे और अत्यधिक तापमान जैसी प्रतिकूल परिस्थितियों से उबरने में मदद करता है।",
+   777→   777→      "CBSE AIPMT",
+   778→   778→      2003.0,
+   779→   779→      null
+   780→   780→    ]
+   781→   781→  },
+   782→   782→  {
+   783→   783→    "sheet": "Class11",
+   784→   784→    "row": 1245,
+   785→   785→    "data": [
+   786→   786→      "Biology",
+   787→   787→      2.0,
+   788→   788→      "जीव जगत का वर्गीकरण",
+   789→   789→      "Hindi",
+   790→   790→      "किस जानवर में द्विरूपी केंद्रक (dimorphic nucleus) पाया जाता है?",
+   791→   791→      "(a) Amoeba",
+   792→   792→      "(b) Trypanosoma gambiense",
+   793→   793→      "(c) Plasmodium vivax",
+   794→   794→      "(d) Paramecium caudatum",
+   795→   795→      4.0,
+   796→   796→      "Paramecium में एक द्विरूपी परमाणु तंत्र (dimorphic nuclear apparatus) (मैक्रोन्यूक्लियस और माइक्रोन्यूक्लियस) होता है।",
+   797→   797→      "CBSE AIPMT",
+   798→   798→      2002.0,
+   799→   799→      null
+   800→   800→    ]
+   801→   801→  },
+   802→   802→  {
+   803→   803→    "sheet": "Class11",
+   804→   804→    "row": 1246,
+   805→   805→    "data": [
+   806→   806→      "Biology",
+   807→   807→      2.0,
+   808→   808→      "जीव जगत का वर्गीकरण",
+   809→   809→      "Hindi",
+   810→   810→      "एक्स्ट्रा-न्यूक्लियर इनहेरिटेंस (Extranuclear inheritance) किसमें होता है?",
+   811→   811→      "(a) Paramecium में killer strain",
+   812→   812→      "(b) वर्णांधता (colour blindness)",
+   813→   813→      "(c) फिनाइलकेटोनुरिया (phenylketonuria)",
+   814→   814→      "(d) Tay Sachs रोग",
+   815→   815→      1.0,
+   816→   816→      "Paramecium कापा कणों (Kappa particles) की उपस्थिति के कारण साइटोप्लाज्मिक वंशानुक्रम (cytoplasmic inheritance) प्रदर्शित करता है।",
+   817→   817→      "CBSE AIPMT",
+   818→   818→      2001.0,
+   819→   819→      null
+   820→   820→    ]
+   821→   821→  },
+   822→   822→  {
+   823→   823→    "sheet": "Class11",
+   824→   824→    "row": 1247,
+   825→   825→    "data": [
+   826→   826→      "Biology",
+   827→   827→      2.0,
+   828→   828→      "जीव जगत का वर्गीकरण",
+   829→   829→      "Hindi",
+   830→   830→      "निम्नलिखित में से किस जीव में पौधे और जानवर दोनों की विशेषताएं होती हैं?",
+   831→   831→      "(a) Bacteria",
+   832→   832→      "(b) Mycoplasma",
+   833→   833→      "(c) Euglena",
+   834→   834→      "(d) Paramecium",
+   835→   835→      3.0,
+   836→   836→      "Euglena में क्लोरोफिल (पौधे जैसा) होता है लेकिन सूर्य के प्रकाश की अनुपस्थिति में यह जानवरों की तरह भोजन करता है (जानवर जैसा)।",
+   837→   837→      "CBSE AIPMT",
+   838→   838→      1995.0,
+   839→   839→      null
+   840→   840→    ]
+   841→   841→  },
+   842→   842→  {
+   843→   843→    "sheet": "Class11",
+   844→   844→    "row": 1248,
+   845→   845→    "data": [
+   846→   846→      "Biology",
+   847→   847→      2.0,
+   848→   848→      "जीव जगत का वर्गीकरण",
+   849→   849→      "Hindi",
+   850→   850→      "Macro और micronucleus किसकी विशेषता है?",
+   851→   851→      "(a) Paramecium और Vorticella",
+   852→   852→      "(b) Opelina और Nictothirus",
+   853→   853→      "(c) Hydra और Ballantidium",
+   854→   854→      "(d) Vorticella और Nictothirus",
+   855→   855→      1.0,
+   856→   856→      "Paramecium और Vorticella में द्विरूपी केंद्रक (heterokaryotic) होते हैं।",
+   857→   857→      "CBSE AIPMT",
+   858→   858→      1995.0,
+   859→   859→      null
+   860→   860→    ]
+   861→   861→  },
+   862→   862→  {
+   863→   863→    "sheet": "Class11",
+   864→   864→    "row": 1250,
+   865→   865→    "data": [
+   866→   866→      "Biology",
+   867→   867→      2.0,
+   868→   868→      "Biological Classification",
+   869→   869→      "English",
+   870→   870→      "When a freshwater protozoan possessing a contractile vacuole, is placed in a glass containing marine water, the vacuole will",
+   871→   871→      "(a) increase in number",
+   872→   872→      "(b) disappear",
+   873→   873→      "(c) increase in size",
+   874→   874→      "(d) decrease in size",
+   875→   875→      2.0,
+   876→   876→      "Freshwater protozoans live in hypotonic solution so, for regulation of excess of water which comes in the protoplasm through the process of endosmosis, contractile vacuoles have developed. When these protozoans are placed in marine water, i.e. hypertonic water, the contractile vacuoles disappear because the process of endosmosis does not happen and thus, water does not come in the protoplasm.",
+   877→   877→      "CBSE AIPMT",
+   878→   878→      2004.0,
+   879→   879→      null
+   880→   880→    ]
+   881→   881→  },
+   882→   882→  {
+   883→   883→    "sheet": "Class11",
+   884→   884→    "row": 1251,
+   885→   885→    "data": [
+   886→   886→      "Biology",
+   887→   887→      2.0,
+   888→   888→      "Biological Classification",
+   889→   889→      "English",
+   890→   890→      "In Protozoa like Amoeba and Paramecium ,an organelle is found for osmoregulation which is",
+   891→   891→      "(a) contractile vacuole",
+   892→   892→      "(b) mitochondria",
+   893→   893→      "(c) nucleus",
+   894→   894→      "(d) food vacuole",
+   895→   895→      1.0,
+   896→   896→      "Unicellular organisms such as Amoeba, Paramecium have some organelles called contractile vacuole for excretion. These are freshwater animals, i.e. they live in hypotonic solution. Therefore, water flows from outside to inside of the body of the organism. The contractile vacuoles in these organisms collect this excess water and gradually increase in size. When the vacuoles reach a critical size they contract, squeezing out their contents through the process of simple diffusion.",
+   897→   897→      "CBSE AIPMT",
+   898→   898→      2002.0,
+   899→   899→      null
+   900→   900→    ]
+   901→   901→  },
+   902→   902→  {
+   903→   903→    "sheet": "Class11",
+   904→   904→    "row": 1252,
+   905→   905→    "data": [
+   906→   906→      "Biology",
+   907→   907→      2.0,
+   908→   908→      "Biological Classification",
+   909→   909→      "English",
+   910→   910→      "Excretion in Amoeba occurs through",
+   911→   911→      "(a) lobopodia",
+   912→   912→      "(b) uroid portion",
+   913→   913→      "(c) plasma membrane",
+   914→   914→      "(d) contractile vacuole",
+   915→   915→      4.0,
+   916→   916→      "Endoplasm of Amoeba in the posterior part contains a single clear rounded and pulsating contractile vacuole. Contractile vacuole is analogous to uriniferous tubules of frog, it functions in excretion and osmoregulation.",
+   917→   917→      "CBSE AIPMT",
+   918→   918→      1995.0,
+   919→   919→      null
+   920→   920→    ]
+   921→   921→  },
+   922→   922→  {
+   923→   923→    "sheet": "Class11",
+   924→   924→    "row": 1253,
+   925→   925→    "data": [
+   926→   926→      "Biology",
+   927→   927→      2.0,
+   928→   928→      "Biological Classification",
+   929→   929→      "English",
+   930→   930→      "Protistan genome has",
+   931→   931→      "(a) membrane bound nucleoproteins embedded in cytoplasm",
+   932→   932→      "(b) free nucleic acid aggregates",
+   933→   933→      "(c) gene containing nucleoproteins condensed together in loose mass",
+   934→   934→      "(d) nucleoprotein in direct contact with cell substance",
+   935→   935→      1.0,
+   936→   936→      "Eukaryotic (e.g. protistan) genome is organised in the form of nucleus. It is differentiated into nuclear envelope, chromatin, one or more nucleoli and nucleoplasm. Nuclear DNA is linear, associated with histone proteins. A small quantity of DNA is also found in the plastids and mitochondria. In contrast, prokaryotic (bacterial) DNA is circular and lies freely in the cytoplasm.",
+   937→   937→      "CBSE AIPMT",
+   938→   938→      1994.0,
+   939→   939→      null
+   940→   940→    ]
+   941→   941→  },
+   942→   942→  {
+   943→   943→    "sheet": "Class11",
+   944→   944→    "row": 1254,
+   945→   945→    "data": [
+   946→   946→      "Biology",
+   947→   947→      2.0,
+   948→   948→      "Biological Classification",
+   949→   949→      "English",
+   950→   950→      "Entamoeba coli causes",
+   951→   951→      "(a) pyorrhoea",
+   952→   952→      "(b) diarrhoea",
+   953→   953→      "(c) dysentery",
+   954→   954→      "(d) None of these",
+   955→   955→      4.0,
+   956→   956→      "Entamoeba coli is the common parasitic genera of phylum—Protozoa. It harbours the upper part of large intestine (colon) and very often in the liver, brain and testes and causes constipation.",
+   957→   957→      "CBSE AIPMT",
+   958→   958→      1994.0,
+   959→   959→      null
+   960→   960→    ]
+   961→   961→  },
+   962→   962→  {
+   963→   963→    "sheet": "Class11",
+   964→   964→    "row": 1255,
+   965→   965→    "data": [
+   966→   966→      "Biology",
+   967→   967→      2.0,
+   968→   968→      "Biological Classification",
+   969→   969→      "English",
+   970→   970→      "Protists obtain food as",
+   971→   971→      "(a) photosynthesisers, symbionts and holotrophs",
+   972→   972→      "(b) photosynthesisers",
+   973→   973→      "(c) chemosynthesisers",
+   974→   974→      "(d) holotrophs",
+   975→   975→      1.0,
+   976→   976→      "Protistans have variable modes of nutrition. They are photosynthetic heterotrophic, i.e. saprophytic, parasitic and ingestive.",
+   977→   977→      "CBSE AIPMT",
+   978→   978→      1994.0,
+   979→   979→      null
+   980→   980→    ]
+   981→   981→  },
+   982→   982→  {
+   983→   983→    "sheet": "Class11",
+   984→   984→    "row": 1256,
+   985→   985→    "data": [
+   986→   986→      "Biology",
+   987→   987→      2.0,
+   988→   988→      "Biological Classification",
+   989→   989→      "English",
+   990→   990→      "African sleeping sickness is due to",
+   991→   991→      "(a) Plasmodium vivax transmitted by tse-tse fly",
+   992→   992→      "(b) Trypanosoma lewsii transmitted by bed bug",
+   993→   993→      "(c) Trypanosoma gambiense transmitted by Glossina palpalis",
+   994→   994→      "(d) Entamoeba gingivalis spread by house fly",
+   995→   995→      3.0,
+   996→   996→      "The disease African sleeping sickness is caused by Trypanosoma gambiense and this is transmitted by tse-tse fly (Glossina palpalis ).",
+   997→   997→      "CBSE AIPMT",
+   998→   998→      1991.0,
+   999→   999→      null
+  1000→  1000→    ]
+  1001→  1001→  }
+  1002→  1002→]

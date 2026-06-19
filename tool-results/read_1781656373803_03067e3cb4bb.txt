@@ -1,0 +1,504 @@
+  1000→  1499→  4999→R1056 | BioCh35.0 | B | Phenomenon when organisms resembling others for escaping from enemies is
+  1001→  1500→  5000→     A: adaptation
+  1002→  1501→  5001→     B: mimicry
+  1003→  1502→  5002→     C: homology
+  1004→  1503→  5003→     D: analogy
+  1005→  1504→  5004→R1057 | BioCh35.0 | A | Association between sucker fish (Remora) and shark is
+  1006→  1505→  5005→     A: commensalism
+  1007→  1506→  5006→     B: symbiosis
+  1008→  1507→  5007→     C: predation
+  1009→  1508→  5008→     D: parasitism
+  1010→  1509→  5009→R1058 | BioCh35.0 | B | An orchid resembling the female of an insect, so as to be able to get pollinated is due to the phenomenon of
+  1011→  1510→  5010→     A: mimicry
+  1012→  1511→  5011→     B: pseudocopulation
+  1013→  1512→  5012→     C: pseudopollination
+  1014→  1513→  5013→     D: pseudoparthenocarpy
+  1015→  1514→  5014→R1059 | BioCh35.0 | B | Analgesic drugs
+  1016→  1515→  5015→     A: form tissues
+  1017→  1516→  5016→     B: relieve pain
+  1018→  1517→  5017→     C: relieve fatigue
+  1019→  1518→  5018→     D: cause pain
+  1020→  1519→  5019→R1060 | BioCh36.0 | B | Which of the following is a producer in an ecosystem?
+  1021→  1520→  5020→     A: Lion
+  1022→  1521→  5021→     B: Grass
+  1023→  1522→  5022→     C: Fungi
+  1024→  1523→  5023→     D: Bacteria
+  1025→  1524→  5024→R1061 | BioCh36.0 | B | The pyramid of energy is always:
+  1026→  1525→  5025→     A: Inverted
+  1027→  1526→  5026→     B: Upright
+  1028→  1527→  5027→     C: Spindle-shaped
+  1029→  1528→  5028→     D: Irregular
+  1030→  1529→  5029→R1062 | BioCh36.0 | B | Which of the following is a decomposer?
+  1031→  1530→  5030→     A: Algae
+  1032→  1531→  5031→     B: Fungi
+  1033→  1532→  5032→     C: Grasses
+  1034→  1533→  5033→     D: Trees
+  1035→  1534→  5034→R1063 | BioCh36.0 | D | The rate of photosynthesis is limited by:
+  1036→  1535→  5035→     A: Carbon dioxide concentration
+  1037→  1536→  5036→     B: Temperature
+  1038→  1537→  5037→     C: Light intensity
+  1039→  1538→  5038→     D: All of the above
+  1040→  1539→  5039→R1064 | BioCh36.0 | B | Nine-tenth of all photosynthesis of world (85-90%) is carried out by
+  1041→  1540→  5040→     A: large trees with millions of branches and leaves
+  1042→  1541→  5041→     B: algae of the ocean
+  1043→  1542→  5042→     C: chlorophyll containing ferns of the forest
+  1044→  1543→  5043→     D: scientists in the laboratories
+  1045→  1544→  5044→R1065 | BioCh36.0 | D | Maximum solar energy is trapped by
+  1046→  1545→  5045→     A: planting trees
+  1047→  1546→  5046→     B: cultivating crops
+  1048→  1547→  5047→     C: growing algae in tanks
+  1049→  1548→  5048→     D: growing grasses
+  1050→  1549→  5049→R1066 | BioCh36.0 | A | Which one of the following processes during decomposition is correctly described?
+  1051→  1550→  5050→     A: Fragmentation-Carried out by organisms such as earthworm
+  1052→  1551→  5051→     B: Humification-Leads to the accumulation of a dark coloured substance humus, which
+  1053→  1552→  5052→     C: Catabolism-Last step in the decomposition under fully anaerobic condition
+  1054→  1553→  5053→     D: Leaching-Water soluble inorganic nutrients rise to the top layers of soil
+  1055→  1554→  5054→R1067 | BioCh36.0 | A | Which ecosystem has the maximum biomass?
+  1056→  1555→  5055→     A: Forest ecosystem
+  1057→  1556→  5056→     B: Grassland ecosystem
+  1058→  1557→  5057→     C: Pond ecosystem
+  1059→  1558→  5058→     D: Lake ecosystem
+  1060→  1559→  5059→R1068 | BioCh36.0 | B | Presence of plants arranged into well defined vertical layers depending on their height can best seen best in
+  1061→  1560→  5060→     A: tropical savannah
+  1062→  1561→  5061→     B: tropical rain forest
+  1063→  1562→  5062→     C: grassland
+  1064→  1563→  5063→     D: temperate forest
+  1065→  1564→  5064→R1069 | BioCh36.0 | A | The term ecosystem was coined by
+  1066→  1565→  5065→     A: AG Tansley
+  1067→  1566→  5066→     B: E Haeckel
+  1068→  1567→  5067→     C: E Warming
+  1069→  1568→  5068→     D: EP Odum
+  1070→  1569→  5069→R1070 | BioCh36.0 | A | Which one of the following is a characteristic feature of cropland ecosystem?
+  1071→  1570→  5070→     A: Least genetic diversity
+  1072→  1571→  5071→     B: The absence of weeds
+  1073→  1572→  5072→     C: Ecological succession
+  1074→  1573→  5073→     D: The absence of soil organisms
+  1075→  1574→  5074→R1071 | BioCh36.0 | B | The primary producers of the deep-sea hydrothermal vent ecosystem are
+  1076→  1575→  5075→     A: green algae
+  1077→  1576→  5076→     B: chemosynthetic bacteria
+  1078→  1577→  5077→     C: blue-green algae
+  1079→  1578→  5078→     D: coral reefs
+  1080→  1579→  5079→R1072 | BioCh36.0 | D | Which one of the following is not a functional unit of an ecosystem?
+  1081→  1580→  5080→     A: Energy flow
+  1082→  1581→  5081→     B: Decomposition
+  1083→  1582→  5082→     C: Productivity
+  1084→  1583→  5083→     D: Stratification
+  1085→  1584→  5084→R1073 | BioCh36.0 | A | Quercus species are the dominant component in
+  1086→  1585→  5085→     A: temperature deciduous forests
+  1087→  1586→  5086→     B: alpine forests
+  1088→  1587→  5087→     C: scrub forests
+  1089→  1588→  5088→     D: tropical rain forests
+  1090→  1589→  5089→R1074 | BioCh36.0 | A | The slow rate of decomposition of fallen logs in nature is due to their
+  1091→  1590→  5090→     A: low moisture content
+  1092→  1591→  5091→     B: poor nitrogen content
+  1093→  1592→  5092→     C: anaerobic environment around them
+  1094→  1593→  5093→     D: low cellulose content
+  1095→  1594→  5094→R1075 | BioCh36.0 | A | An ecosystem which can be easily damaged but can recover after some time if damaging effect stops, will be hav
+  1096→  1595→  5095→     A: low stability and high resilience
+  1097→  1596→  5096→     B: high stability and low resilience
+  1098→  1597→  5097→     C: low stability and low resilience
+  1099→  1598→  5098→     D: high stability and high resilience
+  1100→  1599→  5099→R1076 | BioCh36.0 | D | Which of the following is the most stable ecosystem?
+  1101→  1600→  5100→     A: Forest
+  1102→  1601→  5101→     B: Desert
+  1103→  1602→  5102→     C: Mountain
+  1104→  1603→  5103→     D: Ocean
+  1105→  1604→  5104→R1077 | BioCh36.0 | C | What is true of ecosystem?
+  1106→  1605→  5105→     A: Primary consumers are least dependent upon producers
+  1107→  1606→  5106→     B: Primary consumers out-number producers
+  1108→  1607→  5107→     C: Producers are more than primary consumers
+  1109→  1608→  5108→     D: Secondary consumers are the lar
+  1110→  1609→  5109→R1078 | BioCh36.0 | A | In an ecosystem, which one shows one-way passage
+  1111→  1610→  5110→     A: free energy
+  1112→  1611→  5111→     B: carbon
+  1113→  1612→  5112→     C: nitrogen
+  1114→  1613→  5113→     D: potassium
+  1115→  1614→  5114→R1079 | BioCh36.0 | D | Decomposers are organisms that
+  1116→  1615→  5115→     A: Elaborate chemical substances, causing death of tissues
+  1117→  1616→  5116→     B: operate in living body and simplifying organic substances of cells step by step
+  1118→  1617→  5117→     C: attack and kill plants as well as animals
+  1119→  1618→  5118→     D: operate in relay terms, simplifying step by step the organic constituents of dea
+  1120→  1619→  5119→R1080 | BioCh36.0 | D | In the equation GPP − R = NPP, R represents
+  1121→  1620→  5120→     A: radiant energy
+  1122→  1621→  5121→     B: retardation factor
+  1123→  1622→  5122→     C: environment factor
+  1124→  1623→  5123→     D: respiration losses
+  1125→  1624→  5124→R1081 | BioCh36.0 | D | The rate of decomposition is faster in the ecosystem due to following factors except
+  1126→  1625→  5125→     A: detritus rich in sugars
+  1127→  1626→  5126→     B: warm and moist environment
+  1128→  1627→  5127→     C: presence of aerobic soil microbes
+  1129→  1628→  5128→     D: detritus richer in lignin and chitin
+  1130→  1629→  5129→R1082 | BioCh36.0 | B | Which of the following statements is incorrect?
+  1131→  1630→  5130→     A: Biomass decreases from first to fourth trophic level
+  1132→  1631→  5131→     B: Energy content gradually increases from first to fourth trophic level
+  1133→  1632→  5132→     C: Number of individuals decreases from first trophic level to fourth trophic level
+  1134→  1633→  5133→     D: Energy content gradually decreases from first to fourth trophic level
+  1135→  1634→  5134→R1083 | BioCh36.0 | D | Match the trophic levels with their correct species examples in grassland ecosystem.
+  1136→  1635→  5135→     A: A. Fourth trophic level 1. Crow B. Second trophic level 2. Vulture C. First trop
+  1137→  1636→  5136→     B: 
+  1138→  1637→  5137→     C: 
+  1139→  1638→  5138→     D: 
+  1140→  1639→  5139→R1084 | BioCh36.0 | A | In relation to gross primary productivity and net primary productivity of an ecosystem, which one of the follo
+  1141→  1640→  5140→     A: Gross primary productivity is always more than net primary productivity
+  1142→  1641→  5141→     B: Gross primary productivity and net primary productivity are one and same
+  1143→  1642→  5142→     C: There is no relationship between gross primary productivity and net primary prod
+  1144→  1643→  5143→     D: Gross primary productivity is always less than net primary productivity
+  1145→  1644→  5144→R1085 | BioCh36.0 | D | Most animals that in deep oceanic water are
+  1146→  1645→  5145→     A: primary consumers
+  1147→  1646→  5146→     B: secondary consumers
+  1148→  1647→  5147→     C: tertiary consumers
+  1149→  1648→  5148→     D: detritivores
+  1150→  1649→  5149→R1086 | BioCh36.0 | C | If 20 J of energy is trapped at producer level, then how much energy will be available to peacock as food in t
+  1151→  1650→  5150→     A: 0.02 J
+  1152→  1651→  5151→     B: 0.002 J
+  1153→  1652→  5152→     C: 0.2 J
+  1154→  1653→  5153→     D: 0.0002 J
+  1155→  1654→  5154→R1087 | BioCh36.0 | C | Secondary productivity is rate of formation of new organic matter by
+  1156→  1655→  5155→     A: producer
+  1157→  1656→  5156→     B: parasite
+  1158→  1657→  5157→     C: consumer
+  1159→  1658→  5158→     D: decomposer
+  1160→  1659→  5159→R1088 | BioCh36.0 | A | Identify the likely orgnaisms I, II, III and IV in the food web shown below. Hawks Lion Snake (I) (II) (III) (
+  1161→  1660→  5160→     A: 
+  1162→  1661→  5161→     B: 
+  1163→  1662→  5162→     C: 
+  1164→  1663→  5163→     D: 
+  1165→  1664→  5164→R1089 | BioCh36.0 | C | Identify the possible link ‘A’ in the following food chain Plant→ Insect→ Frog→ ‘A’→ Eagle
+  1166→  1665→  5165→     A: Rabbit
+  1167→  1666→  5166→     B: Wolf
+  1168→  1667→  5167→     C: Cobra
+  1169→  1668→  5168→     D: Parrot
+  1170→  1669→  5169→R1090 | BioCh36.0 | A | Mass of living matter at a trophic level in an area at any time is called
+  1171→  1670→  5170→     A: standing crop
+  1172→  1671→  5171→     B: detritus
+  1173→  1672→  5172→     C: humus
+  1174→  1673→  5173→     D: standing state
+  1175→  1674→  5174→R1091 | BioCh36.0 | C | Of the total incident solar radiation the proportion of PAR is
+  1176→  1675→  5175→     A: about 70%
+  1177→  1676→  5176→     B: about 60%
+  1178→  1677→  5177→     C: less than 50%
+  1179→  1678→  5178→     D: more than 80%
+  1180→  1679→  5179→R1092 | BioCh36.0 | A | The biomass available for consumption by the herbivores and the decomposers is called
+  1181→  1680→  5180→     A: net primary productivity
+  1182→  1681→  5181→     B: secondary productivity
+  1183→  1682→  5182→     C: standing crop
+  1184→  1683→  5183→     D: gross primary productivity
+  1185→  1684→  5184→R1093 | BioCh36.0 | B | The correct sequence of plants in a hydrosere is
+  1186→  1685→  5185→     A: Oak→ Lantana→ Scirpus→ Pistia → Hydrilla→ Volvox
+  1187→  1686→  5186→     B: Volvox→ Hydrilla→ Pistia→ Scirpus→ Lantana→ Oak
+  1188→  1687→  5187→     C: Pistia→ Volvox→ Scirpus→ Hydrilla→ Oak→ Lantana
+  1189→  1688→  5188→     D: Oak→ Lantana→ Volvox→ Hydrilla→ Pistia→ Scirpus
+  1190→  1689→  5189→R1094 | BioCh36.0 | B | Which one of the following types of organisms occupy more than one trophic level in a pond ecosystem?
+  1191→  1690→  5190→     A: Phytoplankton
+  1192→  1691→  5191→     B: Fish
+  1193→  1692→  5192→     C: Zooplankton
+  1194→  1693→  5193→     D: Frog
+  1195→  1694→  5194→R1095 | BioCh36.0 | B | Consider the following statements concerning food chains. I. Removal of 80% tigers from an area resulted in gr
+  1196→  1695→  5195→     A: I and II
+  1197→  1696→  5196→     B: II and III
+  1198→  1697→  5197→     C: III and IV
+  1199→  1698→  5198→     D: I and IV
+  1200→  1699→  5199→R1096 | BioCh36.0 | A | Which of the following ecosystem types has the highest annual net primary productivity?
+  1201→  1700→  5200→     A: Tropical rain forest
+  1202→  1701→  5201→     B: Tropical deciduous forest
+  1203→  1702→  5202→     C: Temperate evergreen forest
+  1204→  1703→  5203→     D: Temperate deciduous forest
+  1205→  1704→  5204→R1097 | BioCh36.0 | C | Which of the following is expected to have the highest value (gm/m²/yr) in a grassland ecosystem?
+  1206→  1705→  5205→     A: Secondary Production (SP)
+  1207→  1706→  5206→     B: Tertiary Production (TP)
+  1208→  1707→  5207→     C: Gross Production (GP)
+  1209→  1708→  5208→     D: Net Production (NP)
+  1210→  1709→  5209→R1098 | BioCh36.0 | A | Bamboo plant is growing in a far forest then what will be the trophic level of it?
+  1211→  1710→  5210→     A: First trophic level (T1)
+  1212→  1711→  5211→     B: Second trophic level (T2)
+  1213→  1712→  5212→     C: Third trophic level (T3)
+  1214→  1713→  5213→     D: Fourth trophic level (T4)
+  1215→  1714→  5214→R1099 | BioCh36.0 | B | The transfer of energy from one trophic level to another is governed by the 2nd law of thermodynamics. The ave
+  1216→  1715→  5215→     A: 0.05
+  1217→  1716→  5216→     B: 0.1
+  1218→  1717→  5217→     C: 0.25
+  1219→  1718→  5218→     D: 0.5
+  1220→  1719→  5219→R1100 | BioCh36.0 | D | The rate at which light energy is converted into chemical energy of organic molecules is the ecosystem’s
+  1221→  1720→  5220→     A: net primary productivity
+  1222→  1721→  5221→     B: gross secondary productivity
+  1223→  1722→  5222→     C: net secondary productivity
+  1224→  1723→  5223→     D: gross primary productivity
+  1225→  1724→  5224→R1101 | BioCh36.0 | A | Upper part of sea/aquatic ecosystem contains
+  1226→  1725→  5225→     A: plankton
+  1227→  1726→  5226→     B: nekton
+  1228→  1727→  5227→     C: Both (a) and (b)
+  1229→  1728→  5228→     D: benthos
+  1230→  1729→  5229→R1102 | BioCh36.0 | B | Which of the following ecosystem has the highest gross primary productivity?
+  1231→  1730→  5230→     A: Grasslands
+  1232→  1731→  5231→     B: Coral reefs
+  1233→  1732→  5232→     C: Mangroves
+  1234→  1733→  5233→     D: Equatorial rain forest
+  1235→  1734→  5234→R1103 | BioCh36.0 | D | In a biotic community, the primary consumers are
+  1236→  1735→  5235→     A: carnivores
+  1237→  1736→  5236→     B: omnivores
+  1238→  1737→  5237→     C: detritivores
+  1239→  1738→  5238→     D: herbivores
+  1240→  1739→  5239→R1104 | BioCh36.0 | C | If we completely remove the decomposers from an ecosystem, its functioning will be adversely affected, because
+  1241→  1740→  5240→     A: energy flow will be blocked
+  1242→  1741→  5241→     B: herbivores will not receive solar energy
+  1243→  1742→  5242→     C: mineral movement will be blocked
+  1244→  1743→  5243→     D: rate of decomposition will be very high
+  1245→  1744→  5244→R1105 | BioCh36.0 | B | In grass-deer-tiger food chain, grass biomass is one tonne. The tiger biomass shall be
+  1246→  1745→  5245→     A: 100 kg
+  1247→  1746→  5246→     B: 10 kg
+  1248→  1747→  5247→     C: 200 kg
+  1249→  1748→  5248→     D: 1 kg
+  1250→  1749→  5249→R1106 | BioCh36.0 | A | Second most important trophic level in a lake is
+  1251→  1750→  5250→     A: zooplankton
+  1252→  1751→  5251→     B: phytoplankton
+  1253→  1752→  5252→     C: benthos
+  1254→  1753→  5253→     D: neuston
+  1255→  1754→  5254→R1107 | BioCh36.0 | B | Food chain in which microorganisms breakdown the food formed by primary producers are
+  1256→  1755→  5255→     A: parasitic food chain
+  1257→  1756→  5256→     B: detritus food chain
+  1258→  1757→  5257→     C: consumer food chain
+  1259→  1758→  5258→     D: predator food chain
+  1260→  1759→  5259→R1108 | BioCh36.0 | C | Pick up the correct food chain.
+  1261→  1760→  5260→     A: Grass→ Chameleon→ Insect → Bird
+  1262→  1761→  5261→     B: Grass→ Fox→ Rabbit→ Bird
+  1263→  1762→  5262→     C: Phytoplankton→ Zooplankton → Fish
+  1264→  1763→  5263→     D: Fallen leaves→ Bacteria→ Insect larvae
+  1265→  1764→  5264→R1109 | BioCh36.0 | D | Which of the following statement is not correct?
+  1266→  1765→  5265→     A: Pyramid of biomass in sea is generally inverted
+  1267→  1766→  5266→     B: Pyramid of energy is always upright
+  1268→  1767→  5267→     C: Pyramid of biomass in terrestrial ecosystem is usually upright
+  1269→  1768→  5268→     D: The height of the pyramid of biomass depends upon the reproductive potential and
+  1270→  1769→  5269→R1110 | BioCh36.0 | B | What type of ecological pyramid would be obtained with the following data? Secondary consumer : 120 g Primary 
+  1271→  1770→  5270→     A: Upright pyramid of numbers
+  1272→  1771→  5271→     B: Inverted pyramid of biomass
+  1273→  1772→  5272→     C: Upright pyramid of biomass
+  1274→  1773→  5273→     D: Spindle-shaped pyramid of biomass
+  1275→  1774→  5274→R1111 | BioCh36.0 | B | What type of ecological pyramid would be obtained with the following data? Secondary consumer : 120 g Primary 
+  1276→  1775→  5275→     A: Upright pyramid of numbers
+  1277→  1776→  5276→     B: Inverted pyramid of biomass
+  1278→  1777→  5277→     C: Upright pyramid of biomass
+  1279→  1778→  5278→     D: Spindle-shaped pyramid of biomass
+  1280→  1779→  5279→R1112 | BioCh36.0 | C | Which of the following ecological pyramids is generally inverted?
+  1281→  1780→  5280→     A: Pyramid of energy
+  1282→  1781→  5281→     B: Pyramid of biomass in a forest
+  1283→  1782→  5282→     C: Pyramid of biomass in a sea
+  1284→  1783→  5283→     D: Pyramid of numbers in grassland
+  1285→  1784→  5284→R1113 | BioCh36.0 | A | During ecological succession
+  1286→  1785→  5285→     A: the gradual and predictable change in species composition occurs in a given area
+  1287→  1786→  5286→     B: the establishment of a new biotic community is very fast in its primary phase
+  1288→  1787→  5287→     C: the numbers and types of animals remain constant
+  1289→  1788→  5288→     D: the changes lead to a community that is in near equilibrium with the environment
+  1290→  1789→  5289→R1114 | BioCh36.0 | D | Match the following and select the correct option. Column I Column II A. Earthworm 1. Pioneer species B. Succe
+  1291→  1790→  5290→     A: A-1, B-2, C-3, D-4
+  1292→  1791→  5291→     B: A-4, B-1, C-3, D-2
+  1293→  1792→  5292→     C: A-3, B-2, C-4, D-1
+  1294→  1793→  5293→     D: A-2, B-1, C-4, D-3
+  1295→  1794→  5294→R1115 | BioCh36.0 | A | Given below is an imaginary pyramid of numbers. What could be one of the possibilities about certain organisms
+  1296→  1795→  5295→     A: Level PC is insects and level SC is small insectivorous birds
+  1297→  1796→  5296→     B: Level PP is phytoplanktons in sea and Whale on top level TC
+  1298→  1797→  5297→     C: Level one PP is pipal trees and the level SC is sheep
+  1299→  1798→  5298→     D: Level PC is rats and level SC is cats
+  1300→  1799→  5299→R1116 | BioCh36.0 | B | The upright pyramid of number is absent in
+  1301→  1800→  5300→     A: pond
+  1302→  1801→  5301→     B: forest
+  1303→  1802→  5302→     C: lake
+  1304→  1803→  5303→     D: grassland
+  1305→  1804→  5304→R1117 | BioCh36.0 | D | The second stage of hydrosere is occupied by plants like
+  1306→  1805→  5305→     A: Azolla
+  1307→  1806→  5306→     B: Typha
+  1308→  1807→  5307→     C: Salix
+  1309→  1808→  5308→     D: Vallisneria
+  1310→  1809→  5309→R1118 | BioCh36.0 | A | Which one of the following statements is correct for secondary succession?
+  1311→  1810→  5310→     A: It occurs on a deforested site
+  1312→  1811→  5311→     B: It follows primary succession
+  1313→  1812→  5312→     C: It is similar to primary succession except that it has a relatively fast pace
+  1314→  1813→  5313→     D: It begins on a bare rock
+  1315→  1814→  5314→R1119 | BioCh36.0 | B | Which one of the following statements for pyramid of energy is incorrect whereas the remaining three are corre
+  1316→  1815→  5315→     A: It show energy content of different trophic level of organisms
+  1317→  1816→  5316→     B: It is inverted in shape
+  1318→  1817→  5317→     C: It is upright in shape
+  1319→  1818→  5318→     D: Its base is broad
+  1320→  1819→  5319→R1120 | BioCh36.0 | D | Which one of the following is not used for constructing of ecological pyramids?
+  1321→  1820→  5320→     A: Dry weight
+  1322→  1821→  5321→     B: Number of individuals
+  1323→  1822→  5322→     C: Rate of energy flow
+  1324→  1823→  5323→     D: Fresh weight
+  1325→  1824→  5324→R1121 | BioCh36.0 | D | The greatest biomass of autotrophs in the world’s oceans is that of
+  1326→  1825→  5325→     A: benthic brown algae, coastal red algae and dephnids
+  1327→  1826→  5326→     B: benthic diatoms and marine viruses
+  1328→  1827→  5327→     C: sea grasses and slime molds
+  1329→  1828→  5328→     D: free-floating micro-algae, cyanobaceria and nanoplankton
+  1330→  1829→  5329→R1122 | BioCh36.0 | A | In a terrestrial ecosystem such as forest, maximum energy is in which trophic level?
+  1331→  1830→  5330→     A: T1
+  1332→  1831→  5331→     B: T2
+  1333→  1832→  5332→     C: T3
+  1334→  1833→  5333→     D: T4
+  1335→  1834→  5334→R1123 | BioCh36.0 | B | In a food chain, the largest population is that of
+  1336→  1835→  5335→     A: decomposers
+  1337→  1836→  5336→     B: producers
+  1338→  1837→  5337→     C: primary consumers
+  1339→  1838→  5338→     D: tertiary consumers
+  1340→  1839→  5339→R1124 | BioCh36.0 | A | The nature of climax community ultimately depends on
+  1341→  1840→  5340→     A: climate
+  1342→  1841→  5341→     B: bed rock
+  1343→  1842→  5342→     C: soil organisms
+  1344→  1843→  5343→     D: pool of available nutrients
+  1345→  1844→  5344→R1125 | BioCh36.0 | D | The primary succession refers to the development of communities on a
+  1346→  1845→  5345→     A: fleshly cleared crop field
+  1347→  1846→  5346→     B: forest clearing after devastating fire
+  1348→  1847→  5347→     C: pond, freshly filled with water after a dry phase
+  1349→  1848→  5348→     D: newly-exposed habitat with no record of earlier vegetation
+  1350→  1849→  5349→R1126 | BioCh36.0 | C | The amount of nutrients, such as carbon, nitrogen, phosphorus and calcium present in the soil at any given tim
+  1351→  1850→  5350→     A: climax
+  1352→  1851→  5351→     B: Climax community
+  1353→  1852→  5352→     C: standing state
+  1354→  1853→  5353→     D: standing crop
+  1355→  1854→  5354→R1127 | BioCh36.0 | C | The pyramid which cannot be inverted in a stable ecosystem is that of
+  1356→  1855→  5355→     A: biomass
+  1357→  1856→  5356→     B: number
+  1358→  1857→  5357→     C: energy
+  1359→  1858→  5358→     D: All of these
+  1360→  1859→  5359→R1128 | BioCh36.0 | C | Pyramid of number deals with number of
+  1361→  1860→  5360→     A: species in an area
+  1362→  1861→  5361→     B: individuals in a community
+  1363→  1862→  5362→     C: individuals in a trophic level
+  1364→  1863→  5363→     D: sub-species in a community
+  1365→  1864→  5364→R1129 | BioCh36.0 | C | Pyramid of number in a pond ecosystem is
+  1366→  1865→  5365→     A: irregular
+  1367→  1866→  5366→     B: inverted
+  1368→  1867→  5367→     C: upright
+  1369→  1868→  5368→     D: spindle-shaped
+  1370→  1869→  5369→R1130 | BioCh36.0 | B | Which of the following pair is a sedimentary type of biogeochemical cycle?
+  1371→  1870→  5370→     A: Oxygen and nitrogen
+  1372→  1871→  5371→     B: Phosphorous and sulphur
+  1373→  1872→  5372→     C: Phosphorous and nitrogen
+  1374→  1873→  5373→     D: Phosphorus and carbon dioxide
+  1375→  1874→  5374→R1131 | BioCh36.0 | A | Natural reservoir of phosphorus is
+  1376→  1875→  5375→     A: rock
+  1377→  1876→  5376→     B: fossils
+  1378→  1877→  5377→     C: sea water
+  1379→  1878→  5378→     D: animal bones
+  1380→  1879→  5379→R1132 | BioCh36.0 | B | Which one of the following is not a gaseous biogeochemical cycle in ecosystem?
+  1381→  1880→  5380→     A: Sulphur cycle
+  1382→  1881→  5381→     B: Phosphorus cycle
+  1383→  1882→  5382→     C: Nitrogen cycle
+  1384→  1883→  5383→     D: Carbon cycle
+  1385→  1884→  5384→R1133 | BioCh36.0 | C | About 70% of total global carbon is found in
+  1386→  1885→  5385→     A: grasslands
+  1387→  1886→  5386→     B: agroecosystems
+  1388→  1887→  5387→     C: oceans
+  1389→  1888→  5388→     D: forests
+  1390→  1889→  5389→R1134 | BioCh36.0 | D | Solar energy – Green house effect
+  1391→  1890→  5390→     A: Biomass burning– Release ofCO2
+  1392→  1891→  5391→     B: Fossil fuel burning – Release of CO2
+  1393→  1892→  5392→     C: Nuclear power – Radioactive wastes
+  1394→  1893→  5393→     D: Solar energy – Green house effect
+  1395→  1894→  5394→R1135 | BioCh36.0 | B | If by radiation all nitrogenase enzymes are inactivated, then there will be no
+  1396→  1895→  5395→     A: fixation of nitrogen in legumes
+  1397→  1896→  5396→     B: fixation of atmospheric nitrogen
+  1398→  1897→  5397→     C: conversion from nitrate to nitrite in legumes
+  1399→  1898→  5398→     D: conversion from ammonium to nitrate in soil
+  1400→  1899→  5399→R1136 | BioCh36.0 | C | The main role of bacteria in the carbon cycle involves
+  1401→  1900→  5400→     A: photosynthesis
+  1402→  1901→  5401→     B: chemosynthesis
+  1403→  1902→  5402→     C: digestion or breakdown of organic compounds
+  1404→  1903→  5403→     D: assimilation of nitrogenous compounds
+  1405→  1904→  5404→R1137 | BioCh36.0 | B | Bulk CO2 -fixation occurs in
+  1406→  1905→  5405→     A: crop plants
+  1407→  1906→  5406→     B: oceans
+  1408→  1907→  5407→     C: tropical rain forests
+  1409→  1908→  5408→     D: temperature forests
+  1410→  1909→  5409→R1138 | BioCh36.0 | C | A number of natural reserves have been created to conserve specific wildlife species. Identify the correct com
+  1411→  1910→  5410→     A: Gir forest — Tiger
+  1412→  1911→  5411→     B: Kaziranga — Elephants
+  1413→  1912→  5412→     C: Rann of Kutch — Wild ass
+  1414→  1913→  5413→     D: Manas Wildlife Sanctuary — Musk deer
+  1415→  1914→  5414→R1139 | BioCh36.0 | A | Which of the following is the correct matching pair of a sanctuary and its main protected wild animal?
+  1416→  1915→  5415→     A: Gir — Lion
+  1417→  1916→  5416→     B: Sariska — Tiger
+  1418→  1917→  5417→     C: Sunderban — Rhino
+  1419→  1918→  5418→     D: Kaziranga — Musk deer
+  1420→  1919→  5419→R1140 | BioCh36.0 | A | National Park associated with rhinoceros is
+  1421→  1920→  5420→     A: Kaziranga
+  1422→  1921→  5421→     B: Ranthambore
+  1423→  1922→  5422→     C: Corbett
+  1424→  1923→  5423→     D: Valley of flowers
+  1425→  1924→  5424→R1141 | BioCh36.0 | B | Ranthambore National Park is situated in
+  1426→  1925→  5425→     A: Maharashtra
+  1427→  1926→  5426→     B: Rajasthan
+  1428→  1927→  5427→     C: Gujarat
+  1429→  1928→  5428→     D: UP
+  1430→  1929→  5429→R1142 | BioCh37.0 | D | Which of the following is a type of biodiversity?
+  1431→  1930→  5430→     A: Genetic diversity
+  1432→  1931→  5431→     B: Species diversity
+  1433→  1932→  5432→     C: Ecological diversity
+  1434→  1933→  5433→     D: All of the above
+  1435→  1934→  5434→R1143 | BioCh37.0 | B | The region of biosphere reserves which is legally protected and where no human activity is allowed is called:
+  1436→  1935→  5435→     A: Buffer zone
+  1437→  1936→  5436→     B: Core zone
+  1438→  1937→  5437→     C: Manipulation zone
+  1439→  1938→  5438→     D: Transition zone
+  1440→  1939→  5439→R1144 | BioCh37.0 | C | Which of the following is an example of ex-situ conservation?
+  1441→  1940→  5440→     A: National park
+  1442→  1941→  5441→     B: Wildlife sanctuary
+  1443→  1942→  5442→     C: Botanical garden
+  1444→  1943→  5443→     D: Biosphere reserve
+  1445→  1944→  5444→R1145 | BioCh37.0 | B | Which of the following is a hotspot of biodiversity in India?
+  1446→  1945→  5445→     A: Eastern Himalayas
+  1447→  1946→  5446→     B: Western Ghats
+  1448→  1947→  5447→     C: Indo-Gangetic Plain
+  1449→  1948→  5448→     D: Thar Desert
+  1450→  1949→  5449→R1146 | BioCh37.0 | B | A species which was introduced for ornamentation but has become a trouble some weed in India
+  1451→  1950→  5450→     A: Parthenium hysterophorus
+  1452→  1951→  5451→     B: Eichhornia crassipes
+  1453→  1952→  5452→     C: Prosopis juliflora
+  1454→  1953→  5453→     D: Trapa spinosa
+  1455→  1954→  5454→R1147 | BioCh37.0 | C | Which of the following regions of the globe exhibits highest species diversity?
+  1456→  1955→  5455→     A: Madagascar
+  1457→  1956→  5456→     B: Himalayas
+  1458→  1957→  5457→     C: Amazon forests
+  1459→  1958→  5458→     D: Western Ghats of India
+  1460→  1959→  5459→R1148 | BioCh37.0 | D | Decline in the population of Indian native fishes due to introduction of Clarias gariepinus in river Yamuna ca
+  1461→  1960→  5460→     A: co-extinction
+  1462→  1961→  5461→     B: habitat fragmentation
+  1463→  1962→  5462→     C: overexploitation
+  1464→  1963→  5463→     D: alien species invasion
+  1465→  1964→  5464→R1149 | BioCh37.0 | C | Which one of the following expanded forms of the following acronyms is correct?
+  1466→  1965→  5465→     A: UNEP — United Nations Environmental Policy
+  1467→  1966→  5466→     B: EPA — Environmental Pollution Agency
+  1468→  1967→  5467→     C: IUCN — International Union for Conservation of Nature and Natural Resources
+  1469→  1968→  5468→     D: IPCC — International Panel for Climate Change
+  1470→  1969→  5469→R1150 | BioCh37.0 | B | ICBN stands for
+  1471→  1970→  5470→     A: Indian Congress of Biological Names
+  1472→  1971→  5471→     B: International Code of Botanical Nomenclature
+  1473→  1972→  5472→     C: International Congress of Biological Names
+  1474→  1973→  5473→     D: Indian Code of Botanical Nomenaclature
+  1475→  1974→  5474→R1151 | BioCh37.0 | C | Which one of the following pairs of organisms are exotic species introduced in India?
+  1476→  1975→  5475→     A: Ficus religiosa, Lantana camara
+  1477→  1976→  5476→     B: Lantana camara, water hyacinth
+  1478→  1977→  5477→     C: Water hyacinth, Prosopis cineraria
+  1479→  1978→  5478→     D: Nile perch, Ficus religiosa
+  1480→  1979→  5479→R1152 | BioCh37.0 | A | Which of the following pairs of an animal and a plant represents endangered organisms in India?
+  1481→  1980→  5480→     A: Bentinckia nicobarica and red panda
+  1482→  1981→  5481→     B: Tamarind and rhesus monkey
+  1483→  1982→  5482→     C: Cinchona and leopard
+  1484→  1983→  5483→     D: Banyan and black buck
+  1485→  1984→  5484→R1153 | BioCh37.0 | A | What is a keystone species?
+  1486→  1985→  5485→     A: A species which makes up only a small proportion of the total biomass of a commu
+  1487→  1986→  5486→     B: A common species that has plenty of biomass, yet has a fairly low impact on the 
+  1488→  1987→  5487→     C: A rare species that has minimal impact on the biomass and on other species in th
+  1489→  1988→  5488→     D: A dominant species that constitutes a large proportion of the biomass and which 
+  1490→  1989→  5489→R1154 | BioCh37.0 | D | According to IUCN Red List, what is the status of red panda (Athurus fulgens)?
+  1491→  1990→  5490→     A: Vulnerable species
+  1492→  1991→  5491→     B: Critically endangered species
+  1493→  1992→  5492→     C: Extinct species
+  1494→  1993→  5493→     D: Endangered species
+  1495→  1994→  5494→R1155 | BioCh37.0 | C | Biodiversity act of India was passed by the Parliament in the year
+  1496→  1995→  5495→     A: 1996.0
+  1497→  1996→  5496→     B: 1992.0
+  1498→  1997→  5497→     C: 2002.0
+  1499→  1998→  5498→     D: 2000.0
+  1500→  1999→  5499→R1156 | BioCh37.0 | B | Which endangered animal is the source of the world’s finest, lightest, warmest and most expensive wool —the sh
+  1501→  2000→  5500→     A: Kashmiri goat
+  1502→  2001→
+  1503→  2002→[showing lines 3501-5500 of 6214; use offset=5501 with limit to continue reading]

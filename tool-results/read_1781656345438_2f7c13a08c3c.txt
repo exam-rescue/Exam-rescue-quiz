@@ -1,0 +1,504 @@
+  1000→  1499→  2999→     B: 264.0
+  1001→  1500→  3000→     C: 535.0
+  1002→  1501→  3001→     D: 549.0
+  1003→  1502→  3002→R 662 | BioCh28.0 | D | Initiation codon of protein synthesis (in eukaryotes) is
+  1004→  1503→  3003→     A: GUA
+  1005→  1504→  3004→     B: GCA
+  1006→  1505→  3005→     C: CCA
+  1007→  1506→  3006→     D: AUG
+  1008→  1507→  3007→R 663 | BioCh28.0 | B | The process of translation is
+  1009→  1508→  3008→     A: ribosome synthesis
+  1010→  1509→  3009→     B: protein synthesis
+  1011→  1510→  3010→     C: DNA synthesis
+  1012→  1511→  3011→     D: RNA synthesis
+  1013→  1512→  3012→R 664 | BioCh28.0 | C | Because most of the amino acids are represented by more than one codon, the genetic code is
+  1014→  1513→  3013→     A: overlapping
+  1015→  1514→  3014→     B: wobbling
+  1016→  1515→  3015→     C: degenerate
+  1017→  1516→  3016→     D: generate
+  1018→  1517→  3017→R 665 | BioCh28.0 | B | Khorana first deciphered the triplet codons of
+  1019→  1518→  3018→     A: serine and isoleucine
+  1020→  1519→  3019→     B: threonine and histidine
+  1021→  1520→  3020→     C: tyrosine and tryptophan
+  1022→  1521→  3021→     D: phenylalanine and methionine
+  1023→  1522→  3022→R 666 | BioCh28.0 | D | In the genetic dictionary, there are 64 codons as
+  1024→  1523→  3023→     A: 64 amino acids are to be coded
+  1025→  1524→  3024→     B: 64 types of tRNAs are present
+  1026→  1525→  3025→     C: there are 44 non-sense codons and 20 sense codons
+  1027→  1526→  3026→     D: genetic code is triplet
+  1028→  1527→  3027→R 667 | BioCh28.0 | D | Genetic code consists of
+  1029→  1528→  3028→     A: adenine and guanine
+  1030→  1529→  3029→     B: cytosine and uracil
+  1031→  1530→  3030→     C: cytosine and guanine
+  1032→  1531→  3031→     D: All of the above
+  1033→  1532→  3032→R 668 | BioCh28.0 | B | Which of the following is required as inducer(s) for the expression of lac operon?
+  1034→  1533→  3033→     A: galactose
+  1035→  1534→  3034→     B: lactose
+  1036→  1535→  3035→     C: lactose and galactose
+  1037→  1536→  3036→     D: glucose
+  1038→  1537→  3037→R 669 | BioCh28.0 | A | Which one of the following is wrongly matched?
+  1039→  1538→  3038→     A: Transcription–Writing information from DNA to tRNA
+  1040→  1539→  3039→     B: Translation–Using information in mRNA to make protein
+  1041→  1540→  3040→     C: Repressor protein –Binds to operator to stop enzyme synthesis
+  1042→  1541→  3041→     D: Operon – Structural genes, operator and promoter
+  1043→  1542→  3042→R 670 | BioCh28.0 | C | In the process of transcription in eukaryotes, the RNA polymerase I transcribes
+  1044→  1543→  3043→     A: mRNA with additional processing, capping and tailing
+  1045→  1544→  3044→     B: tRNA, 5 srRNA and snRNAs
+  1046→  1545→  3045→     C: rRNAs-28 S, 18 S and 5.8 S
+  1047→  1546→  3046→     D: precursor of mRNA, hnRNA
+  1048→  1547→  3047→R 671 | BioCh28.0 | B | Match the following genes of the Lac operon with their respective products A. i gene (i) β-galactosidase B. z 
+  1049→  1548→  3048→     A: A-(iii) B-(i) C-(ii) D-(iv)
+  1050→  1549→  3049→     B: A-(iii) B-(i) C-(iv) D-(ii)
+  1051→  1550→  3050→     C: A-(iii) B-(iv) C-(i) D-(ii)
+  1052→  1551→  3051→     D: A-(i) B-(iii) C-(ii) D-(iv)
+  1053→  1552→  3052→R 672 | BioCh28.0 | A | All of the following are parts of an operon except
+  1054→  1553→  3053→     A: an enhancer
+  1055→  1554→  3054→     B: structural genes
+  1056→  1555→  3055→     C: an operator
+  1057→  1556→  3056→     D: a promoter
+  1058→  1557→  3057→R 673 | BioCh28.0 | D | Which of the following is wrongly matched?
+  1059→  1558→  3058→     A: Matthew Meselson and F. Stahl – Pisum sativum
+  1060→  1559→  3059→     B: Alfred Hershey and Martha Chase – TMV
+  1061→  1560→  3060→     C: Alec Jeffreys – Streptococcus pneumoniae
+  1062→  1561→  3061→     D: Francois Jacob and Jacques Monod – Lac operon
+  1063→  1562→  3062→R 674 | BioCh28.0 | A | Which enzyme/s will be produced in a cell in which there is a non-sense mutation in the lac Y-gene?
+  1064→  1563→  3063→     A: β-galactosidase
+  1065→  1564→  3064→     B: Lactose permease
+  1066→  1565→  3065→     C: Transacetylase
+  1067→  1566→  3066→     D: Lactose permease and transacetylase
+  1068→  1567→  3067→R 675 | BioCh28.0 | C | Select the two statements out of the four (I-IV) given below about lac operon. I. Glucose or galactose may bin
+  1069→  1568→  3068→     A: I and III
+  1070→  1569→  3069→     B: I and III
+  1071→  1570→  3070→     C: II and IV
+  1072→  1571→  3071→     D: I and II
+  1073→  1572→  3072→R 676 | BioCh28.0 | B | Differentiation of organs and tissues in a developing organism is associated with
+  1074→  1573→  3073→     A: developmental mutations
+  1075→  1574→  3074→     B: differential expression of genes
+  1076→  1575→  3075→     C: lethal mutations
+  1077→  1576→  3076→     D: deletion of genes
+  1078→  1577→  3077→R 677 | BioCh28.0 | C | What does ‘lac’ refer to in what we call the lac operon?
+  1079→  1578→  3078→     A: Lac insect
+  1080→  1579→  3079→     B: The number, 1,00,000
+  1081→  1580→  3080→     C: Lactose
+  1082→  1581→  3081→     D: Lactase
+  1083→  1582→  3082→R 678 | BioCh28.0 | B | In E. coli, during lactose metabolism repressor binds to
+  1084→  1583→  3083→     A: regulator gene
+  1085→  1584→  3084→     B: operator gene
+  1086→  1585→  3085→     C: structural gene
+  1087→  1586→  3086→     D: promoter gene
+  1088→  1587→  3087→R 679 | BioCh28.0 | B | Jacob and Monod studied lactose metabolism in E. coli and proposed Operon concept. Operon concept applicable f
+  1089→  1588→  3088→     A: all prokaryotes
+  1090→  1589→  3089→     B: all prokaryotes and some eukaryotes
+  1091→  1590→  3090→     C: all prokaryotes and all eukaryotes
+  1092→  1591→  3091→     D: all prokaryotes and some protozoans
+  1093→  1592→  3092→R 680 | BioCh28.0 | A | In negative operon
+  1094→  1593→  3093→     A: co-repressor binds with repressor
+  1095→  1594→  3094→     B: co-repressor does not bind with repressor
+  1096→  1595→  3095→     C: co-repressor binds with inducer
+  1097→  1596→  3096→     D: cAMP has negative effect on lac operon
+  1098→  1597→  3097→R 681 | BioCh28.0 | D | Genes that are involved in turning on or off the transcription of a set of structural genes are called
+  1099→  1598→  3098→     A: polymorphic genes
+  1100→  1599→  3099→     B: operator genes
+  1101→  1600→  3100→     C: reductant genes
+  1102→  1601→  3101→     D: regulatory genes
+  1103→  1602→  3102→R 682 | BioCh28.0 | C | The wild type E. coli cells are growing in normal medium with glucose. They are transferred to a medium contai
+  1104→  1603→  3103→     A: The lac operon is repressed
+  1105→  1604→  3104→     B: All operons are induced
+  1106→  1605→  3105→     C: The lac operon is induced
+  1107→  1606→  3106→     D: E. coli cells stop dividing
+  1108→  1607→  3107→R 683 | BioCh28.0 | A | In Escherichia coli lac Operon is induced by
+  1109→  1608→  3108→     A: lactose
+  1110→  1609→  3109→     B: promoter gene
+  1111→  1610→  3110→     C: β-galactosidase
+  1112→  1611→  3111→     D: I-gene
+  1113→  1612→  3112→R 684 | BioCh28.0 | D | Binding of specific protein on regulatory DNA sequence can be studied by means of
+  1114→  1613→  3113→     A: ultra centrifugation
+  1115→  1614→  3114→     B: electron microscope
+  1116→  1615→  3115→     C: light microscope
+  1117→  1616→  3116→     D: X-rays crystallography
+  1118→  1617→  3117→R 685 | BioCh28.0 | B | DNA fingerprinting involves identifying differences in some specific regions in DNA sequence, called as
+  1119→  1618→  3118→     A: satellite DNA
+  1120→  1619→  3119→     B: repetitive DNA
+  1121→  1620→  3120→     C: single nucleotides
+  1122→  1621→  3121→     D: polymorphic DNA
+  1123→  1622→  3122→R 686 | BioCh28.0 | B | DNA strands on a gel stained with ethidium bromide when viewed under UV radiation, appear as
+  1124→  1623→  3123→     A: yellow bands
+  1125→  1624→  3124→     B: bright orange bands
+  1126→  1625→  3125→     C: dark red bands
+  1127→  1626→  3126→     D: bright blue bands
+  1128→  1627→  3127→R 687 | BioCh28.0 | A | Which is the basis of genetic mapping of human genome as well as DNA fingerprinting?
+  1129→  1628→  3128→     A: Polymorphism in DNA sequence
+  1130→  1629→  3129→     B: Single nucleotide polymorphism
+  1131→  1630→  3130→     C: Polymorphism in hnRNA sequence
+  1132→  1631→  3131→     D: Polymorphism in RNA sequence
+  1133→  1632→  3132→R 688 | BioCh28.0 | A | Which of the following is not required for any of the techniques of DNA fingerprinting available at present?
+  1134→  1633→  3133→     A: Zinc finger analysis
+  1135→  1634→  3134→     B: Restriction enzymes
+  1136→  1635→  3135→     C: DNA-DNA hybridisation
+  1137→  1636→  3136→     D: Polymerase chain reaction
+  1138→  1637→  3137→R 689 | BioCh28.0 | B | Satellite DNA is important because it
+  1139→  1638→  3138→     A: codes for proteins needed in cell cycle
+  1140→  1639→  3139→     B: shows high degree of polymorphism in population and also the same degree of poly
+  1141→  1640→  3140→     C: does not code for proteins and is same in all members of the population
+  1142→  1641→  3141→     D: codes for enzymes needed for DNA replication
+  1143→  1642→  3142→R 690 | BioCh28.0 | A | DNA fingerprinting refers to
+  1144→  1643→  3143→     A: molecular analysis or profiles of DNA samples
+  1145→  1644→  3144→     B: analysis of DNA samples using imprinting device
+  1146→  1645→  3145→     C: techniques used for molecular analysis of different specimens of DNA
+  1147→  1646→  3146→     D: techniques used for identification of finger-prints of individuals
+  1148→  1647→  3147→R 691 | BioCh28.0 | B | Nucleus of a donor embryonal cell/somatic cell is transferred to an enucleated egg cell. Then after the format
+  1149→  1648→  3148→     A: Organism will have extra-nuclear genes of the donor cell
+  1150→  1649→  3149→     B: Organism will have extra-nuclear genes of recipient cell
+  1151→  1650→  3150→     C: Organism will have extra-nuclear genes of both donor and recipient cell
+  1152→  1651→  3151→     D: Organism will have nuclear genes of recipient cell
+  1153→  1652→  3152→R 692 | BioCh28.0 | A | The basis for DNA fingerprinting is
+  1154→  1653→  3153→     A: occurrence of Restriction Fragment Length Polymorphism (RFLP)
+  1155→  1654→  3154→     B: phenotypic differences between individuals
+  1156→  1655→  3155→     C: availability of cloned DNA
+  1157→  1656→  3156→     D: knowledge of human karyotype
+  1158→  1657→  3157→R 693 | BioCh29.0 | A | The process of evolution of different species in a given geographical area starting from an ancestral point an
+  1159→  1658→  3158→     A: Adaptive radiation
+  1160→  1659→  3159→     B: Natural selection
+  1161→  1660→  3160→     C: Convergent evolution
+  1162→  1661→  3161→     D: Artificial selection
+  1163→  1662→  3162→R 694 | BioCh29.0 | C | Which of the following is a vestigial organ in humans?
+  1164→  1663→  3163→     A: Heart
+  1165→  1664→  3164→     B: Brain
+  1166→  1665→  3165→     C: Vermiform appendix
+  1167→  1666→  3166→     D: Lungs
+  1168→  1667→  3167→R 695 | BioCh29.0 | D | The Hardy-Weinberg principle states that allele frequencies in a population will remain constant from generati
+  1169→  1668→  3168→     A: Genetic drift
+  1170→  1669→  3169→     B: Gene flow
+  1171→  1670→  3170→     C: Mutation
+  1172→  1671→  3171→     D: All of the above
+  1173→  1672→  3172→R 696 | BioCh29.0 | B | Which of the following is an example of analogous organs?
+  1174→  1673→  3173→     A: Forelimbs of humans and bats
+  1175→  1674→  3174→     B: Wings of birds and insects
+  1176→  1675→  3175→     C: Flippers of seals and whales
+  1177→  1676→  3176→     D: Bones of forelimbs of vertebrates
+  1178→  1677→  3177→R 697 | BioCh29.0 | C | After about how many years of formation of earth, life appeared on this planet?
+  1179→  1678→  3178→     A: 500 billion years
+  1180→  1679→  3179→     B: 50 million years
+  1181→  1680→  3180→     C: 500 million years
+  1182→  1681→  3181→     D: 50 billion years
+  1183→  1682→  3182→R 698 | BioCh29.0 | D | From his experiments, SL Miller produced amino acids by mixing the following in a closed flask.
+  1184→  1683→  3183→     A: CH4, H2, NH3 and water vapour at 800°C
+  1185→  1684→  3184→     B: CH4, H2, NH4 and water vapour at 600°C
+  1186→  1685→  3185→     C: CH4, H2, NH3 and water vapour at 600°C
+  1187→  1686→  3186→     D: CH4, H2, NH3 and water vapour at 800°C
+  1188→  1687→  3187→R 699 | BioCh29.0 | A | Variations caused by mutation, as proposed by Hugo de Vries are
+  1189→  1688→  3188→     A: random and directionless
+  1190→  1689→  3189→     B: small and directional
+  1191→  1690→  3190→     C: small and directionless
+  1192→  1691→  3191→     D: random and directional
+  1193→  1692→  3192→R 700 | BioCh29.0 | B | According to Hugo de Vries, the mechanism of evolution is
+  1194→  1693→  3193→     A: phenotypic variations
+  1195→  1694→  3194→     B: saltation
+  1196→  1695→  3195→     C: multiple step mutations
+  1197→  1696→  3196→     D: minor mutations
+  1198→  1697→  3197→R 701 | BioCh29.0 | B | Following are the two statements regarding the origin of life
+  1199→  1698→  3198→I. The earliest organisms that appeared on the e
+  1200→  1699→  3199→     A: II is correct but I is false
+  1201→  1700→  3200→     B: Both I and II are correct
+  1202→  1701→  3201→     C: Both I and II are false
+  1203→  1702→  3202→     D: I is correct but II is false
+  1204→  1703→  3203→R 702 | BioCh29.0 | C | Which of the following is the correct sequence of events in the origin of life?
+  1205→  1704→  3204→     A: I, II, III, IV
+  1206→  1705→  3205→     B: I, III, II, IV
+  1207→  1706→  3206→     C: II, III, I, IV
+  1208→  1707→  3207→     D: II, III, IV, I
+  1209→  1708→  3208→R 703 | BioCh29.0 | A | Which one of the following is incorrect about the characteristics of protobionts (coacervates and microspheres
+  1210→  1709→  3209→     A: They were able to reproduce
+  1211→  1710→  3210→     B: They could separate combinations of molecules fro
+  1212→  1711→  3211→     C: 
+  1213→  1712→  3212→     D: 
+  1214→  1713→  3213→R 704 | BioCh29.0 | A | Embryological support for evolution was proposed by
+  1215→  1714→  3214→     A: Ernst Heckel
+  1216→  1715→  3215→     B: Karl Ernst von Baer
+  1217→  1716→  3216→     C: Charles Darwin
+  1218→  1717→  3217→     D: Alfred Wallace
+  1219→  1718→  3218→R 705 | BioCh29.0 | D | The phenomenon of evolution of different species in a given geographical area starting from a point and spread
+  1220→  1719→  3219→     A: saltation
+  1221→  1720→  3220→     B: co-evolution
+  1222→  1721→  3221→     C: natural selection
+  1223→  1722→  3222→     D: adaptive radiation
+  1224→  1723→  3223→R 706 | BioCh29.0 | B | Which of the following refer to correct example(s) of organisms which have evolved due to changes in environme
+  1225→  1724→  3224→     A: I and III
+  1226→  1725→  3225→     B: II, III and IV
+  1227→  1726→  3226→     C: Only IV
+  1228→  1727→  3227→     D: Only I
+  1229→  1728→  3228→R 707 | BioCh29.0 | A | Flippers of penguins and dolphins are examples of
+  1230→  1729→  3229→     A: convergent evolution
+  1231→  1730→  3230→     B: industrial melanism
+  1232→  1731→  3231→     C: natural selection
+  1233→  1732→  3232→     D: adaptive radiation
+  1234→  1733→  3233→R 708 | BioCh29.0 | D | In Australia, marsupials and placental mammals have evolved to share many similar characteristics. This type o
+  1235→  1734→  3234→     A: adaptive radiation
+  1236→  1735→  3235→     B: divergent evolution
+  1237→  1736→  3236→     C: cyclical evolution
+  1238→  1737→  3237→     D: convergent evolution
+  1239→  1738→  3238→R 709 | BioCh29.0 | A | In a species, the weight of newborn ranges from 2 to 5 kg. 97% of the newborn with an average weight between 3
+  1240→  1739→  3239→     A: Stabilising selection
+  1241→  1740→  3240→     B: Disruptive selection
+  1242→  1741→  3241→     C: Cyclical selection
+  1243→  1742→  3242→     D: Directional selection
+  1244→  1743→  3243→R 710 | BioCh29.0 | D | Among the following sets of examples for divergent evolution, select the incorrect option. :
+  1245→  1744→  3244→     A: Brain of bat, man and cheetah
+  1246→  1745→  3245→     B: Heart of bat, man and cheetah
+  1247→  1746→  3246→     C: Forelimbs of man, bat and cheetah
+  1248→  1747→  3247→     D: Eye of Octopus, bat and man
+  1249→  1748→  3248→R 711 | BioCh29.0 | C | The similarity of bone structure in the forelimbs of many vertebrates is an example of
+  1250→  1749→  3249→     A: convergent evolution
+  1251→  1750→  3250→     B: analogy
+  1252→  1751→  3251→     C: homology
+  1253→  1752→  3252→     D: adaptive radiation
+  1254→  1753→  3253→R 712 | BioCh29.0 | A | Analogous structures are a result of
+  1255→  1754→  3254→     A: convergent evolution
+  1256→  1755→  3255→     B: shared ancestry
+  1257→  1756→  3256→     C: stabilising selection
+  1258→  1757→  3257→     D: divergent evolution
+  1259→  1758→  3258→R 713 | BioCh29.0 | C | Which of the following structures is homologous to the wing of a bird?
+  1260→  1759→  3259→     A: Wing of a moth
+  1261→  1760→  3260→     B: Hind limb of rabbit
+  1262→  1761→  3261→     C: Flipper of whale
+  1263→  1762→  3262→     D: Dorsal fin of a shark
+  1264→  1763→  3263→R 714 | BioCh29.0 | B | The wings of a bird and the wings of an insect are
+  1265→  1764→  3264→     A: homologous structures and represent divergent evolution
+  1266→  1765→  3265→     B: analogous structures and represent convergent evolution
+  1267→  1766→  3266→     C: phylogenetic structures and represent divergent evolution
+  1268→  1767→  3267→     D: homologous structures and represent convergent evolution
+  1269→  1768→  3268→R 715 | BioCh29.0 | C | Forelimbs of cat, lizard used in walking forelimbs of whale used in swimming and forelimbs of bats used in fly
+  1270→  1769→  3269→     A: analogous organs
+  1271→  1770→  3270→     B: adaptive radiation
+  1272→  1771→  3271→     C: homologous organs
+  1273→  1772→  3272→     D: heterologous organs
+  1274→  1773→  3273→R 716 | BioCh29.0 | C | The eyes of Octopus and eyes of cat show different patterns of structure, yet they perform similar function. T
+  1275→  1774→  3274→     A: homologous organs that have evolved due to convergent evolution
+  1276→  1775→  3275→     B: homologous organs that have evolved due to divergent evolution
+  1277→  1776→  3276→     C: analogous organs that have evolved due to convergent evolution
+  1278→  1777→  3277→     D: analogous organs that have evolved due to divergent evolution
+  1279→  1778→  3278→R 717 | BioCh29.0 | A | Evolution of different species in a given area starting from a point and spreading to other geographical areas
+  1280→  1779→  3279→     A: adaptive radiation
+  1281→  1780→  3280→     B: natural selection
+  1282→  1781→  3281→     C: migration
+  1283→  1782→  3282→     D: divergent evolution
+  1284→  1783→  3283→R 718 | BioCh29.0 | C | Which one of the following options gives one correct example each of convergent evolution and divergent evolut
+  1285→  1784→  3284→     A: Eyes of Octopus and mammals | Bones of forelimbs of vertebrates
+  1286→  1785→  3285→     B: Thorns of Bougainvillea and tendrils of Cucurbita | Wings of butterflies and bir
+  1287→  1786→  3286→     C: Wings of butterflies and birds | Bones of forelimbs of vertebrates
+  1288→  1787→  3287→     D: Eyes of Octopus and mammals | Wings of butterflies and birds
+  1289→  1788→  3288→R 719 | BioCh29.0 | B | The process by which organisms with different evolutionary history evolve similar phenotypic adaptations in re
+  1290→  1789→  3289→     A: natural selection
+  1291→  1790→  3290→     B: convergent evolution
+  1292→  1791→  3291→     C: non-random evolution
+  1293→  1792→  3292→     D: adaptive radiation
+  1294→  1793→  3293→R 720 | BioCh29.0 | A | Which one of the following are analogous structures?
+  1295→  1794→  3294→     A: Wings of bat and wings of pigeon
+  1296→  1795→  3295→     B: Gills of prawn and lungs of man
+  1297→  1796→  3296→     C: Thorns of Bougainvillea and tendrils of Cucurbita
+  1298→  1797→  3297→     D: Flippers of dolphin and legs of horse
+  1299→  1798→  3298→R 721 | BioCh29.0 | C | Peripatus is a connecting link between
+  1300→  1799→  3299→     A: Ctenophora and Platyhelminthes
+  1301→  1800→  3300→     B: Mollusca and Echinodermata
+  1302→  1801→  3301→     C: Annelida and Arthropoda
+  1303→  1802→  3302→     D: Coelenterata and Porifera
+  1304→  1803→  3303→R 722 | BioCh29.0 | A | Darwin’s finches are an excellent example of
+  1305→  1804→  3304→     A: adaptive radiation
+  1306→  1805→  3305→     B: seasonal migration
+  1307→  1806→  3306→     C: brood parasitism
+  1308→  1807→  3307→     D: connecting links
+  1309→  1808→  3308→R 723 | BioCh29.0 | B | Thorn of Bougainvillea and tendril of Cucurbita are examples of
+  1310→  1809→  3309→     A: analogous organs
+  1311→  1810→  3310→     B: homologous organs
+  1312→  1811→  3311→     C: vestigial organs
+  1313→  1812→  3312→     D: retrogressive evolution
+  1314→  1813→  3313→R 724 | BioCh29.0 | D | Which one of the following statements is correct?
+  1315→  1814→  3314→     A: Stem cells are specialised cells
+  1316→  1815→  3315→     B: There is no evidence of the existence of gills during embryogenesis of mammals
+  1317→  1816→  3316→     C: All plant and animal cells are totipotent
+  1318→  1817→  3317→     D: Ontogeny repeats phylogeny
+  1319→  1818→  3318→R 725 | BioCh29.0 | C | What is common to whale, seal and shark?
+  1320→  1819→  3319→     A: Seasonal migration
+  1321→  1820→  3320→     B: Thick subcutaneous fat
+  1322→  1821→  3321→     C: Convergent evolution
+  1323→  1822→  3322→     D: Homeothermy
+  1324→  1823→  3323→R 726 | BioCh29.0 | D | When two species of different geneology come to resemble each other as a result of adaptation, the phenomenon 
+  1325→  1824→  3324→     A: divergent evolution
+  1326→  1825→  3325→     B: micro-evolution
+  1327→  1826→  3326→     C: co-evolution
+  1328→  1827→  3327→     D: convergent evolution
+  1329→  1828→  3328→R 727 | BioCh29.0 | D | The finches of Galapagos islands provide an evidence in favour of
+  1330→  1829→  3329→     A: special creation
+  1331→  1830→  3330→     B: evolution due to mutation
+  1332→  1831→  3331→     C: retrogressive evolution
+  1333→  1832→  3332→     D: biogeographical evolution
+  1334→  1833→  3333→R 728 | BioCh29.0 | D | An important evidence in favour of organic evolution is the occurrence of
+  1335→  1834→  3334→     A: analogous and vestigial organs
+  1336→  1835→  3335→     B: homologous organs only
+  1337→  1836→  3336→     C: homologous and analogous organs
+  1338→  1837→  3337→     D: homologous and vestigial organs
+  1339→  1838→  3338→R 729 | BioCh29.0 | C | Using imprints from a plate with complete medium and carrying bacterial colonies, you can select streptomycin 
+  1340→  1839→  3339→     A: on plates with and without streptomycin
+  1341→  1840→  3340→     B: on plates with minimal medium
+  1342→  1841→  3341→     C: only on plates with streptomycin
+  1343→  1842→  3342→     D: only on plates without streptomycin
+  1344→  1843→  3343→R 730 | BioCh29.0 | C | Electron spin resonance method is the most accurate method for dating of fossils. It measures number of charge
+  1345→  1844→  3344→     A: Radio-carbon method
+  1346→  1845→  3345→     B: Potassium-argon method
+  1347→  1846→  3346→     C: Electron-spin resonance method
+  1348→  1847→  3347→     D: Uranium-lead method
+  1349→  1848→  3348→R 731 | BioCh29.0 | D | Presence of gills in the tadpole of frog indicates that
+  1350→  1849→  3349→     A: fishes were amphibian in the past
+  1351→  1850→  3350→     B: fishes evolved from frog-like ancestors
+  1352→  1851→  3351→     C: frogs will have gills in future
+  1353→  1852→  3352→     D: frogs evolved from gilled ancestors
+  1354→  1853→  3353→R 732 | BioCh29.0 | D | What kind of evidence suggested that man is more closely related with chimpanzee than with other hominoid apes
+  1355→  1854→  3354→     A: Evidence from DNA from sex chromosomes only
+  1356→  1855→  3355→     B: Comparison of chromosomes morphology only
+  1357→  1856→  3356→     C: Evidence from fossil remains and the fossil mitochondrial DNA alone
+  1358→  1857→  3357→     D: Evidence from DNA extracted from sex chromosomes, autosomes and mitochondria
+  1359→  1858→  3358→R 733 | BioCh29.0 | C | Age of fossils in the past was generally determined by radio-carbon method and other methods involving radioac
+  1360→  1859→  3359→     A: study of carbohydrates/proteins in fossils
+  1361→  1860→  3360→     B: study of the conditions of fossilisation
+  1362→  1861→  3361→     C: Electron Spin Resonance (ESR) and fossil DNA
+  1363→  1862→  3362→     D: study of carbohydrates/proteins in rocks
+  1364→  1863→  3363→R 734 | BioCh29.0 | A | Convergent evolution is illustrated by
+  1365→  1864→  3364→     A: dogfish and whale
+  1366→  1865→  3365→     B: rat and dog
+  1367→  1866→  3366→     C: bacterium and protozoan
+  1368→  1867→  3367→     D: starfish and cuttle fish
+  1369→  1868→  3368→R 735 | BioCh29.0 | B | Which one of the following describes correctly the homologous structures?
+  1370→  1869→  3369→     A: Organs appearing only in embryonic stage and disappearing later in the adult
+  1371→  1870→  3370→     B: Organs with anatomical similarities, but performing different functions
+  1372→  1871→  3371→     C: Organs with anatomical dissimilarity, but performing same functions
+  1373→  1872→  3372→     D: Organs that have no function now, but had an important function in ancestors
+  1374→  1873→  3373→R 736 | BioCh29.0 | B | Which of the following pair is homologous organ?
+  1375→  1874→  3374→     A: Wings of birds and locust
+  1376→  1875→  3375→     B: Wings of birds (sparrow) and pectoral fins of fish
+  1377→  1876→  3376→     C: Wings of bat and butterfly
+  1378→  1877→  3377→     D: Legs of frog and cockroach
+  1379→  1878→  3378→R 737 | BioCh29.0 | C | According to fossils discovered up to present time origin and evolution of man was started from
+  1380→  1879→  3379→     A: France
+  1381→  1880→  3380→     B: Java
+  1382→  1881→  3381→     C: Africa
+  1383→  1882→  3382→     D: China
+  1384→  1883→  3383→R 738 | BioCh29.0 | B | Sequence of which of the following is used to know the phylogeny?
+  1385→  1884→  3384→     A: mRNA
+  1386→  1885→  3385→     B: rRNA
+  1387→  1886→  3386→     C: tRNA
+  1388→  1887→  3387→     D: DNA
+  1389→  1888→  3388→R 739 | BioCh29.0 | C | Reason of diversity in living being is
+  1390→  1889→  3389→     A: mutation
+  1391→  1890→  3390→     B: gradual change
+  1392→  1891→  3391→     C: long term evolutionary change
+  1393→  1892→  3392→     D: short term evolutionary change
+  1394→  1893→  3393→R 740 | BioCh29.0 | C | Similarities in organisms with different genotype indicates
+  1395→  1894→  3394→     A: micro-evolution
+  1396→  1895→  3395→     B: macro-evolution
+  1397→  1896→  3396→     C: convergent evolution
+  1398→  1897→  3397→     D: divergent evolution
+  1399→  1898→  3398→R 741 | BioCh29.0 | B | Half-life period of C14 is about
+  1400→  1899→  3399→     A: 500 yr
+  1401→  1900→  3400→     B: 5730 yr
+  1402→  1901→  3401→     C: 50 yr
+  1403→  1902→  3402→     D: 5 × 104 yr
+  1404→  1903→  3403→R 742 | BioCh29.0 | A | Darwin’s finches provide an excellent evidence in favour of evolution. This evidence comes from the field of
+  1405→  1904→  3404→     A: Biogeography
+  1406→  1905→  3405→     B: Anatomy
+  1407→  1906→  3406→     C: Embryology
+  1408→  1907→  3407→     D: Palaeontology
+  1409→  1908→  3408→R 743 | BioCh29.0 | A | Which one of the following pair has homologous organs?
+  1410→  1909→  3409→     A: Pectoral fins of a fish and forelimbs of a horse
+  1411→  1910→  3410→     B: Wings of a bat and wings of cockroach
+  1412→  1911→  3411→     C: Air sac of fish and lungs of frog
+  1413→  1912→  3412→     D: Wings of a bird and wings of a butterfly
+  1414→  1913→  3413→R 744 | BioCh29.0 | B | The age of the fossil of Dryopithecus on the geological time scale is
+  1415→  1914→  3414→     A: 5 × 106 yr back
+  1416→  1915→  3415→     B: 25 × 106 yr back
+  1417→  1916→  3416→     C: 50 × 106 yr back
+  1418→  1917→  3417→     D: 75 × 106 yr back
+  1419→  1918→  3418→R 745 | BioCh29.0 | D | Which one of the following is a living fossil?
+  1420→  1919→  3419→     A: Pinus longifolia
+  1421→  1920→  3420→     B: Dalbergia sissoo
+  1422→  1921→  3421→     C: Mirabilis jalapa
+  1423→  1922→  3422→     D: Ginkgo biloba
+  1424→  1923→  3423→R 746 | BioCh29.0 | B | The homologous organs are those that show similarity in
+  1425→  1924→  3424→     A: size
+  1426→  1925→  3425→     B: origin
+  1427→  1926→  3426→     C: function
+  1428→  1927→  3427→     D: appearance
+  1429→  1928→  3428→R 747 | BioCh29.0 | C | Homologous organs are
+  1430→  1929→  3429→     A: wings of insects and bat
+  1431→  1930→  3430→     B: gills of fish and lungs of rabbit
+  1432→  1931→  3431→     C: pectoral fins of fish and fore limbs of horse
+  1433→  1932→  3432→     D: wings of grasshopper and crow
+  1434→  1933→  3433→R 748 | BioCh29.0 | A | Evolutionary convergence is development of
+  1435→  1934→  3434→     A: common set of characters in group of different ancestry
+  1436→  1935→  3435→     B: dissimilar characters in closely related groups
+  1437→  1936→  3436→     C: common set of characters in closely related groups
+  1438→  1937→  3437→     D: random mating
+  1439→  1938→  3438→R 749 | BioCh29.0 | B | Homologous organs are those that have:
+  1440→  1939→  3439→     A: Similar function, different origin
+  1441→  1940→  3440→     B: Different function, similar origin
+  1442→  1941→  3441→     C: Different function, different origin
+  1443→  1942→  3442→     D: Similar function, similar origin
+  1444→  1943→  3443→R 750 | BioCh29.0 | A | Evolutionary convergence is the development of:
+  1445→  1944→  3444→     A: Common set of characters in groups of different ancestry
+  1446→  1945→  3445→     B: Dissimilar characters in closely related groups
+  1447→  1946→  3446→     C: Common set of characters in closely related groups
+  1448→  1947→  3447→     D: Random mating
+  1449→  1948→  3448→R 751 | BioCh29.0 | A | The study of fossils is called:
+  1450→  1949→  3449→     A: Palaeontology
+  1451→  1950→  3450→     B: Herpetology
+  1452→  1951→  3451→     C: Saurology
+  1453→  1952→  3452→     D: Organic evolution
+  1454→  1953→  3453→R 752 | BioCh29.0 | C | Humming birds and hawk illustrate:
+  1455→  1954→  3454→     A: Convergent evolution
+  1456→  1955→  3455→     B: Homology
+  1457→  1956→  3456→     C: Adaptive radiation
+  1458→  1957→  3457→     D: Parallel evolution
+  1459→  1958→  3458→R 753 | BioCh29.0 | A | Genetic drift operates in:
+  1460→  1959→  3459→     A: Small isolated population
+  1461→  1960→  3460→     B: Large isolated population
+  1462→  1961→  3461→     C: Non-reproductive population
+  1463→  1962→  3462→     D: Slow reproductive population
+  1464→  1963→  3463→R 754 | BioCh29.0 | B | Industrial melanism is an example of:
+  1465→  1964→  3464→     A: Neo Darwinism
+  1466→  1965→  3465→     B: Natural selection
+  1467→  1966→  3466→     C: Mutation
+  1468→  1967→  3467→     D: Neo Lamarckism
+  1469→  1968→  3468→R 755 | BioCh29.0 | B | Variation in gene frequencies within populations can occur by chance rather than by natural selection. This is
+  1470→  1969→  3469→     A: Genetic flow
+  1471→  1970→  3470→     B: Genetic drift
+  1472→  1971→  3471→     C: Random mating
+  1473→  1972→  3472→     D: Genetic load
+  1474→  1973→  3473→R 756 | BioCh29.0 | A | In the case of peppered moth (Biston betularia), the black-coloured form became dominant over the light-colour
+  1475→  1974→  3474→     A: Natural selection whereby the darker forms were selected
+  1476→  1975→  3475→     B: Appearance of the darker coloured individuals due to very poor sunlight
+  1477→  1976→  3476→     C: Protective mimicry
+  1478→  1977→  3477→     D: Inheritance of darker colour character acquired due to the darker environment
+  1479→  1978→  3478→R 757 | BioCh29.0 | A | Which one of the following scientists' name is correctly matched with the theory put forth by him?
+  1480→  1979→  3479→     A: Weismann–Theory of continuity of germplasm
+  1481→  1980→  3480→     B: Pasteur–Inheritance of acquired characters
+  1482→  1981→  3481→     C: De vries–Natural selection
+  1483→  1982→  3482→     D: Mendel–Theory of pangenesis
+  1484→  1983→  3483→R 758 | BioCh29.0 | B | Select the correct statement from the following given options.
+  1485→  1984→  3484→     A: Darwinian variations are small and directionless
+  1486→  1985→  3485→     B: Fitness is the end result of the ability to adapt and gets selected by nature
+  1487→  1986→  3486→     C: All mammals except whales and camels have seven cervical vertebrae
+  1488→  1987→  3487→     D: Mutations are random and directional
+  1489→  1988→  3488→R 759 | BioCh29.0 | C | De Vries gave his mutation theory on organic evolution while working on:
+  1490→  1989→  3489→     A: Pisum sativum
+  1491→  1990→  3490→     B: Drosophila melanogaster
+  1492→  1991→  3491→     C: Oenothera lamarckiana
+  1493→  1992→  3492→     D: Althea rosea
+  1494→  1993→  3493→R 760 | BioCh29.0 | C | Which one of the following phenomena supports Darwin’s concept of natural selection in organic evolution?
+  1495→  1994→  3494→     A: Development of transgenic animals
+  1496→  1995→  3495→     B: Production of ‘Dolly’, the sheep by cloning
+  1497→  1996→  3496→     C: Prevalence of pesticide resistant insects
+  1498→  1997→  3497→     D: Development of organs from ‘stem cells’ for organ transplantation
+  1499→  1998→  3498→R 761 | BioCh29.0 | A | Darwin in his ‘Natural Selection Theory’ did not believe in any role of which one of the following in organic 
+  1500→  1999→  3499→     A: Discontinuous variations
+  1501→  2000→  3500→     B: Parasites and predators as natural enemies
+  1502→  2001→
+  1503→  2002→[showing lines 1501-3500 of 6214; use offset=3501 with limit to continue reading]

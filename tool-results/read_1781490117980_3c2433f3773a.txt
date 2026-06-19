@@ -1,0 +1,1002 @@
+     1→     1→[
+     2→     2→  {
+     3→     3→    "sheet": "Class10",
+     4→     4→    "row": 1102,
+     5→     5→    "data": [
+     6→     6→      "SST",
+     7→     7→      2.0,
+     8→     8→      "Nationalism in India",
+     9→     9→      "English",
+    10→    10→      "What was the main reason for calling off the Non-Cooperation Movement?",
+    11→    11→      "Pressure from the British",
+    12→    12→      "The Chauri Chaura incident",
+    13→    13→      "Internal conflicts in Congress",
+    14→    14→      "Gandhi's arrest",
+    15→    15→      2.0,
+    16→    16→      "In February 1922, Mahatma Gandhi decided to withdraw the movement after a peaceful demonstration at Chauri Chaura turned into a violent clash with the police.",
+    17→    17→      "CBSE",
+    18→    18→      2021.0,
+    19→    19→      null
+    20→    20→    ]
+    21→    21→  },
+    22→    22→  {
+    23→    23→    "sheet": "Class10",
+    24→    24→    "row": 1103,
+    25→    25→    "data": [
+    26→    26→      "SST",
+    27→    27→      2.0,
+    28→    28→      "Nationalism in India",
+    29→    29→      "English",
+    30→    30→      "Who formed the 'Swaraj Party' within the Congress?",
+    31→    31→      "Mahatma Gandhi and Nehru",
+    32→    32→      "C.R. Das and Motilal Nehru",
+    33→    33→      "Subhas Chandra Bose",
+    34→    34→      "B.R. Ambedkar",
+    35→    35→      2.0,
+    36→    36→      "C.R. Das and Motilal Nehru formed the Swaraj Party within the Congress to argue for a return to council politics.",
+    37→    37→      "CBSE",
+    38→    38→      2018.0,
+    39→    39→      null
+    40→    40→    ]
+    41→    41→  },
+    42→    42→  {
+    43→    43→    "sheet": "Class10",
+    44→    44→    "row": 1104,
+    45→    45→    "data": [
+    46→    46→      "SST",
+    47→    47→      2.0,
+    48→    48→      "Nationalism in India",
+    49→    49→      "English",
+    50→    50→      "What was the significance of the 1929 Lahore Congress Session?",
+    51→    51→      "Adoption of Non-Cooperation",
+    52→    52→      "Demand for 'Purna Swaraj'",
+    53→    53→      "Starting of the Salt March",
+    54→    54→      "Formation of Khilafat Committee",
+    55→    55→      2.0,
+    56→    56→      "Presided over by Jawaharlal Nehru, the Lahore Congress formalized the demand for 'Purna Swaraj' or full independence for India.",
+    57→    57→      "CBSE",
+    58→    58→      2022.0,
+    59→    59→      null
+    60→    60→    ]
+    61→    61→  },
+    62→    62→  {
+    63→    63→    "sheet": "Class10",
+    64→    64→    "row": 1105,
+    65→    65→    "data": [
+    66→    66→      "SST",
+    67→    67→      2.0,
+    68→    68→      "Nationalism in India",
+    69→    69→      "English",
+    70→    70→      "Why did Mahatma Gandhi choose 'Salt' as a symbol of protest?",
+    71→    71→      "It was used only by the rich",
+    72→    72→      "It was an essential food item used by both rich and poor",
+    73→    73→      "It was easy to manufacture",
+    74→    74→      "It was a religious symbol",
+    75→    75→      2.0,
+    76→    76→      "Gandhi found in salt a powerful symbol that could unite the nation because it was something consumed by everyone, regardless of class.",
+    77→    77→      "CBSE",
+    78→    78→      2021.0,
+    79→    79→      null
+    80→    80→    ]
+    81→    81→  },
+    82→    82→  {
+    83→    83→    "sheet": "Class10",
+    84→    84→    "row": 1106,
+    85→    85→    "data": [
+    86→    86→      "SST",
+    87→    87→      2.0,
+    88→    88→      "Nationalism in India",
+    89→    89→      "English",
+    90→    90→      "On which date did the Dandi March begin?",
+    91→    91→      "1930-03-12T00:00:00",
+    92→    92→      "1930-04-06T00:00:00",
+    93→    93→      "1930-08-15T00:00:00",
+    94→    94→      "1930-01-26T00:00:00",
+    95→    95→      1.0,
+    96→    96→      "Mahatma Gandhi started his famous Salt March accompanied by 78 of his trusted volunteers on 12 March 1930.",
+    97→    97→      "CBSE",
+    98→    98→      2019.0,
+    99→    99→      null
+   100→   100→    ]
+   101→   101→  },
+   102→   102→  {
+   103→   103→    "sheet": "Class10",
+   104→   104→    "row": 1107,
+   105→   105→    "data": [
+   106→   106→      "SST",
+   107→   107→      2.0,
+   108→   108→      "Nationalism in India",
+   109→   109→      "English",
+   110→   110→      "Who led the Depressed Classes Association formed in 1930?",
+   111→   111→      "Mahatma Gandhi",
+   112→   112→      "Jyotirao Phule",
+   113→   113→      "B.R. Ambedkar",
+   114→   114→      "E.V. Ramaswamy Naicker",
+   115→   115→      3.0,
+   116→   116→      "Dr. B.R. Ambedkar organized the dalits into the Depressed Classes Association in 1930 to demand separate electorates.",
+   117→   117→      "CBSE",
+   118→   118→      2023.0,
+   119→   119→      null
+   120→   120→    ]
+   121→   121→  },
+   122→   122→  {
+   123→   123→    "sheet": "Class10",
+   124→   124→    "row": 1108,
+   125→   125→    "data": [
+   126→   126→      "SST",
+   127→   127→      2.0,
+   128→   128→      "Nationalism in India",
+   129→   129→      "English",
+   130→   130→      "The 'Poona Pact' of 1932 was signed between:",
+   131→   131→      "Gandhi and Lord Irwin",
+   132→   132→      "Gandhi and Ambedkar",
+   133→   133→      "Nehru and Jinnah",
+   134→   134→      "British and Congress",
+   135→   135→      2.0,
+   136→   136→      "The Poona Pact gave reserved seats in provincial and central legislative councils to the Depressed Classes, while maintaining joint electorates.",
+   137→   137→      "CBSE",
+   138→   138→      2020.0,
+   139→   139→      null
+   140→   140→    ]
+   141→   141→  },
+   142→   142→  {
+   143→   143→    "sheet": "Class10",
+   144→   144→    "row": 1109,
+   145→   145→    "data": [
+   146→   146→      "SST",
+   147→   147→      2.0,
+   148→   148→      "Nationalism in India",
+   149→   149→      "English",
+   150→   150→      "Who painted the famous image of 'Bharat Mata' in 1905?",
+   151→   151→      "Rabindranath Tagore",
+   152→   152→      "Abanindranath Tagore",
+   153→   153→      "Bankim Chandra Chattopadhyay",
+   154→   154→      "Raja Ravi Varma",
+   155→   155→      2.0,
+   156→   156→      "Abanindranath Tagore painted the iconic image of Bharat Mata, portraying her as an ascetic figure who is calm, composed, divine, and spiritual.",
+   157→   157→      "CBSE",
+   158→   158→      2022.0,
+   159→   159→      null
+   160→   160→    ]
+   161→   161→  },
+   162→   162→  {
+   163→   163→    "sheet": "Class10",
+   164→   164→    "row": 1110,
+   165→   165→    "data": [
+   166→   166→      "SST",
+   167→   167→      2.0,
+   168→   168→      "Nationalism in India",
+   169→   169→      "English",
+   170→   170→      "What did 'Swaraj' mean for the plantation workers in Assam?",
+   171→   171→      "Right to vote",
+   172→   172→      "Freedom to move in and out of the confined space",
+   173→   173→      "Right to own land in the city",
+   174→   174→      "End of all taxes",
+   175→   175→      2.0,
+   176→   176→      "For plantation workers in Assam, freedom meant the right to move freely and retaining a link with the village from which they had come.",
+   177→   177→      "CBSE",
+   178→   178→      2018.0,
+   179→   179→      null
+   180→   180→    ]
+   181→   181→  },
+   182→   182→  {
+   183→   183→    "sheet": "Class10",
+   184→   184→    "row": 1111,
+   185→   185→    "data": [
+   186→   186→      "SST",
+   187→   187→      2.0,
+   188→   188→      "Nationalism in India",
+   189→   189→      "English",
+   190→   190→      "Who wrote the famous book 'Hind Swaraj' in 1909?",
+   191→   191→      "Jawaharlal Nehru",
+   192→   192→      "Subhas Chandra Bose",
+   193→   193→      "Mahatma Gandhi",
+   194→   194→      "Motilal Nehru",
+   195→   195→      3.0,
+   196→   196→      "In his famous book Hind Swaraj, Mahatma Gandhi declared that British rule was established in India with the cooperation of Indians.",
+   197→   197→      "CBSE",
+   198→   198→      2017.0,
+   199→   199→      null
+   200→   200→    ]
+   201→   201→  },
+   202→   202→  {
+   203→   203→    "sheet": "Class10",
+   204→   204→    "row": 1112,
+   205→   205→    "data": [
+   206→   206→      "SST",
+   207→   207→      2.0,
+   208→   208→      "Nationalism in India",
+   209→   209→      "English",
+   210→   210→      "What was the purpose of the Simon Commission (1928)?",
+   211→   211→      "To look into the functioning of the constitutional system in India",
+   212→   212→      "To grant immediate independence",
+   213→   213→      "To divide India and Pakistan",
+   214→   214→      "To increase salt taxes",
+   215→   215→      1.0,
+   216→   216→      "The commission was sent to India to suggest changes to the constitutional system, but it was boycotted because it did not have a single Indian member.",
+   217→   217→      "CBSE",
+   218→   218→      2019.0,
+   219→   219→      null
+   220→   220→    ]
+   221→   221→  },
+   222→   222→  {
+   223→   223→    "sheet": "Class10",
+   224→   224→    "row": 1113,
+   225→   225→    "data": [
+   226→   226→      "SST",
+   227→   227→      2.0,
+   228→   228→      "Nationalism in India",
+   229→   229→      "English",
+   230→   230→      "The 'Inland Emigration Act' of 1859 was related to:",
+   231→   231→      "The Rowlatt Act",
+   232→   232→      "Plantation workers",
+   233→   233→      "The Salt March",
+   234→   234→      "The Khilafat movement",
+   235→   235→      2.0,
+   236→   236→      "Under this Act, plantation workers were not permitted to leave the tea gardens without permission, and such permission was rarely given.",
+   237→   237→      "CBSE",
+   238→   238→      2020.0,
+   239→   239→      null
+   240→   240→    ]
+   241→   241→  },
+   242→   242→  {
+   243→   243→    "sheet": "Class10",
+   244→   244→    "row": 1114,
+   245→   245→    "data": [
+   246→   246→      "SST",
+   247→   247→      2.0,
+   248→   248→      "Nationalism in India",
+   249→   249→      "English",
+   250→   250→      "Who composed the song 'Vande Mataram'?",
+   251→   251→      "Rabindranath Tagore",
+   252→   252→      "Bankim Chandra Chattopadhyay",
+   253→   253→      "Abanindranath Tagore",
+   254→   254→      "Satyendranath Tagore",
+   255→   255→      2.0,
+   256→   256→      "Bankim Chandra Chattopadhyay wrote 'Vande Mataram' in the 1870s as a hymn to the motherland; it was later included in his novel Anandamath.",
+   257→   257→      "CBSE",
+   258→   258→      2021.0,
+   259→   259→      null
+   260→   260→    ]
+   261→   261→  },
+   262→   262→  {
+   263→   263→    "sheet": "Class10",
+   264→   264→    "row": 1115,
+   265→   265→    "data": [
+   266→   266→      "SST",
+   267→   267→      2.0,
+   268→   268→      "भारत में राष्ट्रवाद",
+   269→   269→      "Hindi",
+   270→   270→      "महात्मा गांधी दक्षिण अफ्रीका से भारत किस वर्ष लौटे थे?",
+   271→   271→      1913.0,
+   272→   272→      1915.0,
+   273→   273→      1917.0,
+   274→   274→      1919.0,
+   275→   275→      2.0,
+   276→   276→      "महात्मा गांधी दक्षिण अफ्रीका में सत्याग्रह आंदोलन का सफलतापूर्वक नेतृत्व करने के बाद जनवरी 1915 में भारत लौटे।",
+   277→   277→      "CBSE",
+   278→   278→      2022.0,
+   279→   279→      null
+   280→   280→    ]
+   281→   281→  },
+   282→   282→  {
+   283→   283→    "sheet": "Class10",
+   284→   284→    "row": 1116,
+   285→   285→    "data": [
+   286→   286→      "SST",
+   287→   287→      2.0,
+   288→   288→      "भारत में राष्ट्रवाद",
+   289→   289→      "Hindi",
+   290→   290→      "सत्याग्रह के विचार ने किस शक्ति पर जोर दिया?",
+   291→   291→      "शारीरिक बल",
+   292→   292→      "सत्य की शक्ति",
+   293→   293→      "हिंसा",
+   294→   294→      "धन",
+   295→   295→      2.0,
+   296→   296→      "सत्याग्रह जन आंदोलन की एक नई पद्धति थी जो सत्य की शक्ति और शारीरिक बल का उपयोग किए बिना सत्य की खोज की आवश्यकता पर आधारित थी।",
+   297→   297→      "CBSE",
+   298→   298→      2023.0,
+   299→   299→      null
+   300→   300→    ]
+   301→   301→  },
+   302→   302→  {
+   303→   303→    "sheet": "Class10",
+   304→   304→    "row": 1117,
+   305→   305→    "data": [
+   306→   306→      "SST",
+   307→   307→      2.0,
+   308→   308→      "भारत में राष्ट्रवाद",
+   309→   309→      "Hindi",
+   310→   310→      "भारत में महात्मा गांधी द्वारा आयोजित पहला सत्याग्रह आंदोलन कहाँ था?",
+   311→   311→      "खेड़ा",
+   312→   312→      "अहमदाबाद",
+   313→   313→      "चंपारण",
+   314→   314→      "बारदोली",
+   315→   315→      3.0,
+   316→   316→      "1917 में, गांधीजी ने बिहार के चंपारण की यात्रा की ताकि किसानों को दमनकारी नील बागान प्रणाली के खिलाफ संघर्ष करने के लिए प्रेरित किया जा सके।",
+   317→   317→      "CBSE",
+   318→   318→      2021.0,
+   319→   319→      null
+   320→   320→    ]
+   321→   321→  },
+   322→   322→  {
+   323→   323→    "sheet": "Class10",
+   324→   324→    "row": 1118,
+   325→   325→    "data": [
+   326→   326→      "SST",
+   327→   327→      2.0,
+   328→   328→      "भारत में राष्ट्रवाद",
+   329→   329→      "Hindi",
+   330→   330→      "रौलेट एक्ट (1919) को 'दमनकारी अधिनियम' क्यों कहा गया?",
+   331→   331→      "इसने बिना मुकदमे के दो साल तक राजनीतिक कैदियों को हिरासत में रखने की अनुमति दी",
+   332→   332→      "इसने सभी धार्मिक सभाओं पर प्रतिबंध लगा दिया",
+   333→   333→      "इसने भोजन पर कर बढ़ा दिया",
+   334→   334→      "इसने भारतीयों को ब्रिटिश सेना में शामिल होने के लिए मजबूर किया",
+   335→   335→      1.0,
+   336→   336→      "रौलेट एक्ट ने सरकार को राजनीतिक गतिविधियों को दबाने के लिए भारी शक्तियां दीं और बिना मुकदमे के दो साल तक राजनीतिक कैदियों को हिरासत में रखने की अनुमति दी।",
+   337→   337→      "CBSE",
+   338→   338→      2019.0,
+   339→   339→      null
+   340→   340→    ]
+   341→   341→  },
+   342→   342→  {
+   343→   343→    "sheet": "Class10",
+   344→   344→    "row": 1119,
+   345→   345→    "data": [
+   346→   346→      "SST",
+   347→   347→      2.0,
+   348→   348→      "भारत में राष्ट्रवाद",
+   349→   349→      "Hindi",
+   350→   350→      "जलियांवाला बाग की घटना किस तिथि को हुई थी?",
+   351→   351→      "13 अप्रैल 1919",
+   352→   352→      "10 मार्च 1919",
+   353→   353→      "15 अगस्त 1919",
+   354→   354→      "26 जनवरी 1919",
+   355→   355→      1.0,
+   356→   356→      "13 अप्रैल 1919 को, जनरल डायर ने अमृतसर के जलियांवाला बाग के बंद मैदान में एकत्र हुई एक बड़ी, शांतिपूर्ण भीड़ पर गोलियां चलवा दीं।",
+   357→   357→      "CBSE",
+   358→   358→      2022.0,
+   359→   359→      null
+   360→   360→    ]
+   361→   361→  },
+   362→   362→  {
+   363→   363→    "sheet": "Class10",
+   364→   364→    "row": 1120,
+   365→   365→    "data": [
+   366→   366→      "SST",
+   367→   367→      2.0,
+   368→   368→      "भारत में राष्ट्रवाद",
+   369→   369→      "Hindi",
+   370→   370→      "अली बंधुओं, मुहम्मद अली और शौकत अली ने कौन सा आंदोलन शुरू किया था?",
+   371→   371→      "असहयोग आंदोलन",
+   372→   372→      "खिलाफत आंदोलन",
+   373→   373→      "भारत छोड़ो आंदोलन",
+   374→   374→      "सविनय अवज्ञा आंदोलन",
+   375→   375→      2.0,
+   376→   376→      "प्रथम विश्व युद्ध के बाद खलीफा (ओटोमन सम्राट) की सांसारिक शक्तियों की रक्षा के लिए खिलाफत आंदोलन शुरू किया गया था।",
+   377→   377→      "CBSE",
+   378→   378→      2020.0,
+   379→   379→      null
+   380→   380→    ]
+   381→   381→  },
+   382→   382→  {
+   383→   383→    "sheet": "Class10",
+   384→   384→    "row": 1121,
+   385→   385→    "data": [
+   386→   386→      "SST",
+   387→   387→      2.0,
+   388→   388→      "भारत में राष्ट्रवाद",
+   389→   389→      "Hindi",
+   390→   390→      "कांग्रेस के किस अधिवेशन में असहयोग कार्यक्रम को अपनाया गया था?",
+   391→   391→      "कलकत्ता (सितंबर 1920)",
+   392→   392→      "नागपुर (दिसंबर 1920)",
+   393→   393→      "मद्रास (1927)",
+   394→   394→      "लाहौर (1929)",
+   395→   395→      2.0,
+   396→   396→      "दिसंबर 1920 में नागपुर अधिवेशन में, एक समझौता हुआ और कांग्रेस द्वारा औपचारिक रूप से असहयोग कार्यक्रम को अपनाया गया।",
+   397→   397→      "CBSE",
+   398→   398→      2023.0,
+   399→   399→      null
+   400→   400→    ]
+   401→   401→  },
+   402→   402→  {
+   403→   403→    "sheet": "Class10",
+   404→   404→    "row": 1122,
+   405→   405→    "data": [
+   406→   406→      "SST",
+   407→   407→      2.0,
+   408→   408→      "भारत में राष्ट्रवाद",
+   409→   409→      "Hindi",
+   410→   410→      "असहयोग आंदोलन को वापस लेने का मुख्य कारण क्या था?",
+   411→   411→      "अंग्रेजों का दबाव",
+   412→   412→      "चौरी-चौरा की घटना",
+   413→   413→      "कांग्रेस में आंतरिक संघर्ष",
+   414→   414→      "गांधीजी की गिरफ्तारी",
+   415→   415→      2.0,
+   416→   416→      "फरवरी 1922 में, चौरी-चौरा में एक शांतिपूर्ण प्रदर्शन के पुलिस के साथ हिंसक संघर्ष में बदल जाने के बाद महात्मा गांधी ने आंदोलन वापस लेने का फैसला किया।",
+   417→   417→      "CBSE",
+   418→   418→      2021.0,
+   419→   419→      null
+   420→   420→    ]
+   421→   421→  },
+   422→   422→  {
+   423→   423→    "sheet": "Class10",
+   424→   424→    "row": 1123,
+   425→   425→    "data": [
+   426→   426→      "SST",
+   427→   427→      2.0,
+   428→   428→      "भारत में राष्ट्रवाद",
+   429→   429→      "Hindi",
+   430→   430→      "कांग्रेस के भीतर 'स्वराज पार्टी' का गठन किसने किया था?",
+   431→   431→      "महात्मा गांधी और नेहरू",
+   432→   432→      "सी.आर. दास और मोतीलाल नेहरू",
+   433→   433→      "सुभाष चंद्र बोस",
+   434→   434→      "बी.आर. अंबेडकर",
+   435→   435→      2.0,
+   436→   436→      "सी.आर. दास और मोतीलाल नेहरू ने परिषद की राजनीति में वापसी की वकालत करने के लिए कांग्रेस के भीतर स्वराज पार्टी का गठन किया।",
+   437→   437→      "CBSE",
+   438→   438→      2018.0,
+   439→   439→      null
+   440→   440→    ]
+   441→   441→  },
+   442→   442→  {
+   443→   443→    "sheet": "Class10",
+   444→   444→    "row": 1124,
+   445→   445→    "data": [
+   446→   446→      "SST",
+   447→   447→      2.0,
+   448→   448→      "भारत में राष्ट्रवाद",
+   449→   449→      "Hindi",
+   450→   450→      "1929 के लाहौर कांग्रेस अधिवेशन का क्या महत्व था?",
+   451→   451→      "असहयोग को अपनाना",
+   452→   452→      "पूर्ण स्वराज' की मांग",
+   453→   453→      "नमक यात्रा की शुरुआत",
+   454→   454→      "खिलाफत समिति का गठन",
+   455→   455→      2.0,
+   456→   456→      "जवाहरलाल नेहरू की अध्यक्षता में, लाहौर कांग्रेस ने भारत के लिए 'पूर्ण स्वराज' या पूर्ण स्वतंत्रता की मांग को औपचारिक रूप दिया।",
+   457→   457→      "CBSE",
+   458→   458→      2022.0,
+   459→   459→      null
+   460→   460→    ]
+   461→   461→  },
+   462→   462→  {
+   463→   463→    "sheet": "Class10",
+   464→   464→    "row": 1125,
+   465→   465→    "data": [
+   466→   466→      "SST",
+   467→   467→      2.0,
+   468→   468→      "भारत में राष्ट्रवाद",
+   469→   469→      "Hindi",
+   470→   470→      "महात्मा गांधी ने विरोध के प्रतीक के रूप में 'नमक' को क्यों चुना?",
+   471→   471→      "इसका उपयोग केवल अमीरों द्वारा किया जाता था",
+   472→   472→      "यह एक आवश्यक खाद्य पदार्थ था जिसका उपयोग अमीर और गरीब दोनों करते थे",
+   473→   473→      "इसे बनाना आसान था",
+   474→   474→      "यह एक धार्मिक प्रतीक था",
+   475→   475→      2.0,
+   476→   476→      "गांधीजी को नमक में एक शक्तिशाली प्रतीक मिला जो राष्ट्र को एकजुट कर सकता था क्योंकि यह वर्ग की परवाह किए बिना सभी द्वारा उपभोग किया जाता था।",
+   477→   477→      "CBSE",
+   478→   478→      2021.0,
+   479→   479→      null
+   480→   480→    ]
+   481→   481→  },
+   482→   482→  {
+   483→   483→    "sheet": "Class10",
+   484→   484→    "row": 1126,
+   485→   485→    "data": [
+   486→   486→      "SST",
+   487→   487→      2.0,
+   488→   488→      "भारत में राष्ट्रवाद",
+   489→   489→      "Hindi",
+   490→   490→      "दांडी मार्च किस तारीख को शुरू हुआ था?",
+   491→   491→      "12 मार्च 1930",
+   492→   492→      "6 अप्रैल 1930",
+   493→   493→      "15 अगस्त 1930",
+   494→   494→      "26 जनवरी 1930",
+   495→   495→      1.0,
+   496→   496→      "महात्मा गांधी ने 12 मार्च 1930 को अपने 78 भरोसेमंद स्वयंसेवकों के साथ अपनी प्रसिद्ध नमक यात्रा शुरू की थी।",
+   497→   497→      "CBSE",
+   498→   498→      2019.0,
+   499→   499→      null
+   500→   500→    ]
+   501→   501→  },
+   502→   502→  {
+   503→   503→    "sheet": "Class10",
+   504→   504→    "row": 1127,
+   505→   505→    "data": [
+   506→   506→      "SST",
+   507→   507→      2.0,
+   508→   508→      "भारत में राष्ट्रवाद",
+   509→   509→      "Hindi",
+   510→   510→      "1930 में गठित दमित वर्ग संघ (Depressed Classes Association) का नेतृत्व किसने किया?",
+   511→   511→      "महात्मा गांधी",
+   512→   512→      "ज्योतिराव फुले",
+   513→   513→      "बी.आर. अंबेडकर",
+   514→   514→      "ई.वी. रामास्वामी नायकर",
+   515→   515→      3.0,
+   516→   516→      "डॉ. बी.आर. अंबेडकर ने अलग निर्वाचन क्षेत्र की मांग के लिए 1930 में दलितों को दमित वर्ग संघ में संगठित किया था।",
+   517→   517→      "CBSE",
+   518→   518→      2023.0,
+   519→   519→      null
+   520→   520→    ]
+   521→   521→  },
+   522→   522→  {
+   523→   523→    "sheet": "Class10",
+   524→   524→    "row": 1128,
+   525→   525→    "data": [
+   526→   526→      "SST",
+   527→   527→      2.0,
+   528→   528→      "भारत में राष्ट्रवाद",
+   529→   529→      "Hindi",
+   530→   530→      "1932 के 'पूना पैक्ट' पर किसके बीच हस्ताक्षर किए गए थे?",
+   531→   531→      "गांधी और लॉर्ड इरविन",
+   532→   532→      "गांधी और अंबेडकर",
+   533→   533→      "नेहरू और जिन्ना",
+   534→   534→      "ब्रिटिश और कांग्रेस",
+   535→   535→      2.0,
+   536→   536→      "पूना पैक्ट ने दमित वर्गों को प्रांतीय और केंद्रीय विधायी परिषदों में आरक्षित सीटें दीं, जबकि संयुक्त निर्वाचन क्षेत्र को बनाए रखा गया।",
+   537→   537→      "CBSE",
+   538→   538→      2020.0,
+   539→   539→      null
+   540→   540→    ]
+   541→   541→  },
+   542→   542→  {
+   543→   543→    "sheet": "Class10",
+   544→   544→    "row": 1129,
+   545→   545→    "data": [
+   546→   546→      "SST",
+   547→   547→      2.0,
+   548→   548→      "भारत में राष्ट्रवाद",
+   549→   549→      "Hindi",
+   550→   550→      "1905 में 'भारत माता' की प्रसिद्ध छवि किसने चित्रित की थी?",
+   551→   551→      "रवींद्रनाथ टैगोर",
+   552→   552→      "अवनिंद्रनाथ टैगोर",
+   553→   553→      "बंकिम चंद्र चट्टोपाध्याय",
+   554→   554→      "राजा रवि वर्मा",
+   555→   555→      2.0,
+   556→   556→      "अवनिंद्रनाथ टैगोर ने भारत माता की प्रतिष्ठित छवि चित्रित की, जिसमें उन्हें एक तपस्विनी के रूप में दिखाया गया जो शांत, संयमित, दिव्य और आध्यात्मिक हैं।",
+   557→   557→      "CBSE",
+   558→   558→      2022.0,
+   559→   559→      null
+   560→   560→    ]
+   561→   561→  },
+   562→   562→  {
+   563→   563→    "sheet": "Class10",
+   564→   564→    "row": 1130,
+   565→   565→    "data": [
+   566→   566→      "SST",
+   567→   567→      2.0,
+   568→   568→      "भारत में राष्ट्रवाद",
+   569→   569→      "Hindi",
+   570→   570→      "असम के बागान श्रमिकों के लिए 'स्वराज' का क्या अर्थ था?",
+   571→   571→      "वोट देने का अधिकार",
+   572→   572→      "सीमित स्थान से अंदर-बाहर जाने की आजादी",
+   573→   573→      "शहर में जमीन के मालिक होने का अधिकार",
+   574→   574→      "सभी करों का अंत",
+   575→   575→      2.0,
+   576→   576→      "असम के बागान श्रमिकों के लिए, स्वतंत्रता का अर्थ स्वतंत्र रूप से घूमने का अधिकार और उस गाँव के साथ संपर्क बनाए रखना था जहाँ से वे आए थे।",
+   577→   577→      "CBSE",
+   578→   578→      2018.0,
+   579→   579→      null
+   580→   580→    ]
+   581→   581→  },
+   582→   582→  {
+   583→   583→    "sheet": "Class10",
+   584→   584→    "row": 1131,
+   585→   585→    "data": [
+   586→   586→      "SST",
+   587→   587→      2.0,
+   588→   588→      "भारत में राष्ट्रवाद",
+   589→   589→      "Hindi",
+   590→   590→      "1909 में प्रसिद्ध पुस्तक 'हिंद स्वराज' किसने लिखी थी?",
+   591→   591→      "जवाहरलाल नेहरू",
+   592→   592→      "सुभाष चंद्र बोस",
+   593→   593→      "महात्मा गांधी",
+   594→   594→      "मोतीलाल नेहरू",
+   595→   595→      3.0,
+   596→   596→      "अपनी प्रसिद्ध पुस्तक हिंद स्वराज में, महात्मा गांधी ने घोषणा की कि भारत में ब्रिटिश शासन भारतीयों के सहयोग से स्थापित हुआ था।",
+   597→   597→      "CBSE",
+   598→   598→      2017.0,
+   599→   599→      null
+   600→   600→    ]
+   601→   601→  },
+   602→   602→  {
+   603→   603→    "sheet": "Class10",
+   604→   604→    "row": 1132,
+   605→   605→    "data": [
+   606→   606→      "SST",
+   607→   607→      2.0,
+   608→   608→      "भारत में राष्ट्रवाद",
+   609→   609→      "Hindi",
+   610→   610→      "साइमन कमीशन (1928) का उद्देश्य क्या था?",
+   611→   611→      "भारत में संवैधानिक व्यवस्था के कामकाज की जांच करना",
+   612→   612→      "तत्काल स्वतंत्रता प्रदान करना",
+   613→   613→      "भारत और पाकिस्तान को विभाजित करना",
+   614→   614→      "नमक कर बढ़ाना",
+   615→   615→      1.0,
+   616→   616→      "कमीशन को संवैधानिक व्यवस्था में बदलाव का सुझाव देने के लिए भारत भेजा गया था, लेकिन इसका बहिष्कार किया गया क्योंकि इसमें एक भी भारतीय सदस्य नहीं था।",
+   617→   617→      "CBSE",
+   618→   618→      2019.0,
+   619→   619→      null
+   620→   620→    ]
+   621→   621→  },
+   622→   622→  {
+   623→   623→    "sheet": "Class10",
+   624→   624→    "row": 1133,
+   625→   625→    "data": [
+   626→   626→      "SST",
+   627→   627→      2.0,
+   628→   628→      "भारत में राष्ट्रवाद",
+   629→   629→      "Hindi",
+   630→   630→      "1859 का 'इनलैंड इमिग्रेशन एक्ट' किससे संबंधित था?",
+   631→   631→      "रौलेट एक्ट",
+   632→   632→      "बागान श्रमिक",
+   633→   633→      "नमक यात्रा",
+   634→   634→      "खिलाफत आंदोलन",
+   635→   635→      2.0,
+   636→   636→      "इस अधिनियम के तहत, बागान श्रमिकों को बिना अनुमति के चाय बागानों को छोड़ने की अनुमति नहीं थी, और ऐसी अनुमति शायद ही कभी दी जाती थी।",
+   637→   637→      "CBSE",
+   638→   638→      2020.0,
+   639→   639→      null
+   640→   640→    ]
+   641→   641→  },
+   642→   642→  {
+   643→   643→    "sheet": "Class10",
+   644→   644→    "row": 1134,
+   645→   645→    "data": [
+   646→   646→      "SST",
+   647→   647→      2.0,
+   648→   648→      "भारत में राष्ट्रवाद",
+   649→   649→      "Hindi",
+   650→   650→      "वंदे मातरम' गीत की रचना किसने की थी?",
+   651→   651→      "रवींद्रनाथ टैगोर",
+   652→   652→      "बंकिम चंद्र चट्टोपाध्याय",
+   653→   653→      "अवनिंद्रनाथ टैगोर",
+   654→   654→      "सत्येंद्रनाथ टैगोर",
+   655→   655→      2.0,
+   656→   656→      "बंकिम चंद्र चट्टोपाध्याय ने 1870 के दशक में मातृभूमि की स्तुति के रूप में 'वंदे मातरम' लिखा था; बाद में इसे उनके उपन्यास आनंदमठ में शामिल किया गया।",
+   657→   657→      "CBSE",
+   658→   658→      2021.0,
+   659→   659→      null
+   660→   660→    ]
+   661→   661→  },
+   662→   662→  {
+   663→   663→    "sheet": "Class10",
+   664→   664→    "row": 1135,
+   665→   665→    "data": [
+   666→   666→      "SST",
+   667→   667→      2.0,
+   668→   668→      "Nationalism in India",
+   669→   669→      "English",
+   670→   670→      "Why was the Khilafat Committee formed in Mumbai in March 1919?",
+   671→   671→      "To demand Purna Swaraj",
+   672→   672→      "To defend the Khalifa's temporal powers",
+   673→   673→      "To oppose the Rowlatt Act",
+   674→   674→      "To support the Salt March",
+   675→   675→      2.0,
+   676→   676→      "After World War I, rumors spread that a harsh peace treaty would be imposed on the Ottoman Emperor (the Khalifa). The Khilafat Committee was formed by leaders like Muhammad Ali and Shaukat Ali to protest against this and protect the spiritual head of the Islamic world.",
+   677→   677→      "CBSE",
+   678→   678→      2020.0,
+   679→   679→      null
+   680→   680→    ]
+   681→   681→  },
+   682→   682→  {
+   683→   683→    "sheet": "Class10",
+   684→   684→    "row": 1136,
+   685→   685→    "data": [
+   686→   686→      "SST",
+   687→   687→      2.0,
+   688→   688→      "Nationalism in India",
+   689→   689→      "English",
+   690→   690→      "What was the main purpose of the 'Inland Emigration Act' of 1859 for plantation workers?",
+   691→   691→      "To give them higher wages",
+   692→   692→      "To prevent them from leaving tea gardens without permission",
+   693→   693→      "To encourage migration to cities",
+   694→   694→      "To provide medical facilities",
+   695→   695→      2.0,
+   696→   696→      "Under this repressive law, plantation workers in Assam were legally barred from leaving the tea estates without a permit. In practice, such permissions were almost never granted, effectively turning the plantations into prisons for the labor force.",
+   697→   697→      "CBSE",
+   698→   698→      2019.0,
+   699→   699→      null
+   700→   700→    ]
+   701→   701→  },
+   702→   702→  {
+   703→   703→    "sheet": "Class10",
+   704→   704→    "row": 1137,
+   705→   705→    "data": [
+   706→   706→      "SST",
+   707→   707→      2.0,
+   708→   708→      "Nationalism in India",
+   709→   709→      "English",
+   710→   710→      "Which event led to the formal beginning of the Civil Disobedience Movement?",
+   711→   711→      "The Jallianwala Bagh Massacre",
+   712→   712→      "The Chauri Chaura incident",
+   713→   713→      "Gandhi breaking the salt law at Dandi",
+   714→   714→      "The arrival of Simon Commission",
+   715→   715→      3.0,
+   716→   716→      "On 6 April 1930, Mahatma Gandhi reached Dandi and ceremonially violated the law by manufacturing salt from seawater. This act signaled the start of the Civil Disobedience Movement, encouraging people to not only refuse cooperation but also break colonial laws.",
+   717→   717→      "CBSE",
+   718→   718→      2022.0,
+   719→   719→      null
+   720→   720→    ]
+   721→   721→  },
+   722→   722→  {
+   723→   723→    "sheet": "Class10",
+   724→   724→    "row": 1138,
+   725→   725→    "data": [
+   726→   726→      "SST",
+   727→   727→      2.0,
+   728→   728→      "Nationalism in India",
+   729→   729→      "English",
+   730→   730→      "Who organized the 'Dalits' into the Depressed Classes Association in 1930?",
+   731→   731→      "Mahatma Gandhi",
+   732→   732→      "B.R. Ambedkar",
+   733→   733→      "Jawaharlal Nehru",
+   734→   734→      "Kaiser William",
+   735→   735→      2.0,
+   736→   736→      "Dr. B.R. Ambedkar organized the Dalits to fight for their political rights. His demand for separate electorates for Dalits led to a clash with Mahatma Gandhi at the Second Round Table Conference, eventually resulting in the Poona Pact.",
+   737→   737→      "CBSE",
+   738→   738→      2023.0,
+   739→   739→      null
+   740→   740→    ]
+   741→   741→  },
+   742→   742→  {
+   743→   743→    "sheet": "Class10",
+   744→   744→    "row": 1139,
+   745→   745→    "data": [
+   746→   746→      "SST",
+   747→   747→      2.0,
+   748→   748→      "Nationalism in India",
+   749→   749→      "English",
+   750→   750→      "What did the 'Council Boycott' mean during the Non-Cooperation Movement?",
+   751→   751→      "Boycotting foreign clothes",
+   752→   752→      "Refusing to participate in legislative elections",
+   753→   753→      "Resigning from government jobs",
+   754→   754→      "Closing down of schools",
+   755→   755→      2.0,
+   756→   756→      "The Non-Cooperation program suggested boycotting the elections to the legislative councils. Many Congress members initially hesitated, fearing it would lead to violence, but the program was finally adopted at the Nagpur session in 1920.",
+   757→   757→      "CBSE",
+   758→   758→      2018.0,
+   759→   759→      null
+   760→   760→    ]
+   761→   761→  },
+   762→   762→  {
+   763→   763→    "sheet": "Class10",
+   764→   764→    "row": 1140,
+   765→   765→    "data": [
+   766→   766→      "SST",
+   767→   767→      2.0,
+   768→   768→      "Nationalism in India",
+   769→   769→      "English",
+   770→   770→      "Why did the Indian industrialist class support the Civil Disobedience Movement?",
+   771→   771→      "To get higher taxes on poor",
+   772→   772→      "To protect against imports of foreign goods",
+   773→   773→      "To support the British Raj",
+   774→   774→      "To close down Indian factories",
+   775→   775→      2.0,
+   776→   776→      "Indian merchants and industrialists had made huge profits during WWI and now wanted protection against the import of foreign goods. They formed organizations like FICCI to lobby for their interests and saw Swaraj as a time when colonial trade restrictions would end.",
+   777→   777→      "CBSE",
+   778→   778→      2021.0,
+   779→   779→      null
+   780→   780→    ]
+   781→   781→  },
+   782→   782→  {
+   783→   783→    "sheet": "Class10",
+   784→   784→    "row": 1141,
+   785→   785→    "data": [
+   786→   786→      "SST",
+   787→   787→      2.0,
+   788→   788→      "Nationalism in India",
+   789→   789→      "English",
+   790→   790→      "What was the 'Oudh Kisan Sabha' and who headed it?",
+   791→   791→      "A group of British landlords",
+   792→   792→      "A peasant organization headed by Jawaharlal Nehru and Baba Ramchandra",
+   793→   793→      "A religious committee",
+   794→   794→      "A military wing of Congress",
+   795→   795→      2.0,
+   796→   796→      "Formed in October 1920, the Oudh Kisan Sabha was set up to address the grievances of peasants in Awadh who were struggling against high rents and 'begar' (forced labor) imposed by talukdars and landlords.",
+   797→   797→      "CBSE",
+   798→   798→      2020.0,
+   799→   799→      null
+   800→   800→    ]
+   801→   801→  },
+   802→   802→  {
+   803→   803→    "sheet": "Class10",
+   804→   804→    "row": 1142,
+   805→   805→    "data": [
+   806→   806→      "SST",
+   807→   807→      2.0,
+   808→   808→      "Nationalism in India",
+   809→   809→      "English",
+   810→   810→      "Why did the Simon Commission face slogans like 'Simon Go Back' upon its arrival?",
+   811→   811→      "It was late in arriving",
+   812→   812→      "It did not include any Indian members",
+   813→   813→      "It wanted to increase salt tax",
+   814→   814→      "It supported the Rowlatt Act",
+   815→   815→      2.0,
+   816→   816→      "The Simon Commission was sent by the British government to review the constitutional system in India. However, the fact that all its members were British and no Indian was included was seen as a major insult to Indian self-respect and political rights.",
+   817→   817→      "CBSE",
+   818→   818→      2022.0,
+   819→   819→      null
+   820→   820→    ]
+   821→   821→  },
+   822→   822→  {
+   823→   823→    "sheet": "Class10",
+   824→   824→    "row": 1143,
+   825→   825→    "data": [
+   826→   826→      "SST",
+   827→   827→      2.0,
+   828→   828→      "Nationalism in India",
+   829→   829→      "English",
+   830→   830→      "Who were the 'Sanatanis' mentioned in the context of the Civil Disobedience Movement?",
+   831→   831→      "Revolutionary leaders",
+   832→   832→      "Conservative high-caste Hindus",
+   833→   833→      "Dalit activists",
+   834→   834→      "British officials",
+   835→   835→      2.0,
+   836→   836→      "Sanatanis were the conservative, orthodox high-caste Hindus. For a long time, the Congress had ignored the Dalits for fear of offending the Sanatanis, which led to a delay in including Dalit issues in the mainstream nationalist agenda.",
+   837→   837→      "CBSE",
+   838→   838→      2019.0,
+   839→   839→      null
+   840→   840→    ]
+   841→   841→  },
+   842→   842→  {
+   843→   843→    "sheet": "Class10",
+   844→   844→    "row": 1144,
+   845→   845→    "data": [
+   846→   846→      "SST",
+   847→   847→      2.0,
+   848→   848→      "Nationalism in India",
+   849→   849→      "English",
+   850→   850→      "What was the significance of the 1929 Lahore session presided by Nehru?",
+   851→   851→      "Start of Khilafat movement",
+   852→   852→      "Proclamation of Purna Swaraj (Full Independence)",
+   853→   853→      "Adoption of the Tricolour as the National Flag",
+   854→   854→      "The withdrawal of Non-Cooperation",
+   855→   855→      2.0,
+   856→   856→      "The Lahore Congress of December 1929 was historic because it formalized the demand for 'Purna Swaraj' or full independence. It was also decided that 26 January 1930 would be celebrated as Independence Day.",
+   857→   857→      "CBSE",
+   858→   858→      2023.0,
+   859→   859→      null
+   860→   860→    ]
+   861→   861→  },
+   862→   862→  {
+   863→   863→    "sheet": "Class10",
+   864→   864→    "row": 1145,
+   865→   865→    "data": [
+   866→   866→      "SST",
+   867→   867→      2.0,
+   868→   868→      "Nationalism in India",
+   869→   869→      "English",
+   870→   870→      "Who authored the famous novel 'Anandamath'?",
+   871→   871→      "Rabindranath Tagore",
+   872→   872→      "Bankim Chandra Chattopadhyay",
+   873→   873→      "Abanindranath Tagore",
+   874→   874→      "Premchand",
+   875→   875→      2.0,
+   876→   876→      "Bankim Chandra Chattopadhyay wrote 'Anandamath' in the 1870s. The novel included the hymn 'Vande Mataram', which became a popular anthem during the Swadeshi movement and later the entire freedom struggle.",
+   877→   877→      "CBSE",
+   878→   878→      2021.0,
+   879→   879→      null
+   880→   880→    ]
+   881→   881→  },
+   882→   882→  {
+   883→   883→    "sheet": "Class10",
+   884→   884→    "row": 1146,
+   885→   885→    "data": [
+   886→   886→      "SST",
+   887→   887→      2.0,
+   888→   888→      "Nationalism in India",
+   889→   889→      "English",
+   890→   890→      "What was the 'Gudem Rebellion' in Andhra Pradesh?",
+   891→   891→      "A peaceful protest by students",
+   892→   892→      "A militant guerrilla movement led by Alluri Sitaram Raju",
+   893→   893→      "A strike by factory workers",
+   894→   894→      "A salt march",
+   895→   895→      2.0,
+   896→   896→      "In the Gudem Hills of Andhra Pradesh, a militant guerrilla movement spread in the early 1920s. Tribal people protested against forest laws that prevented them from entering forests to graze cattle or collect fuelwood.",
+   897→   897→      "CBSE",
+   898→   898→      2022.0,
+   899→   899→      null
+   900→   900→    ]
+   901→   901→  },
+   902→   902→  {
+   903→   903→    "sheet": "Class10",
+   904→   904→    "row": 1147,
+   905→   905→    "data": [
+   906→   906→      "SST",
+   907→   907→      2.0,
+   908→   908→      "Nationalism in India",
+   909→   909→      "English",
+   910→   910→      "Who was Alluri Sitaram Raju?",
+   911→   911→      "A British officer",
+   912→   912→      "A tribal leader who claimed special powers",
+   913→   913→      "A Congress Secretary",
+   914→   914→      "A businessman from Mumbai",
+   915→   915→      2.0,
+   916→   916→      "Alluri Sitaram Raju was a folk hero in Andhra Pradesh who led the Gudem rebels. He claimed he had special powers like making correct astrological predictions and surviving bullet shots, and he was inspired by Gandhi's Non-Cooperation Movement.",
+   917→   917→      "CBSE",
+   918→   918→      2021.0,
+   919→   919→      null
+   920→   920→    ]
+   921→   921→  },
+   922→   922→  {
+   923→   923→    "sheet": "Class10",
+   924→   924→    "row": 1148,
+   925→   925→    "data": [
+   926→   926→      "SST",
+   927→   927→      2.0,
+   928→   928→      "Nationalism in India",
+   929→   929→      "English",
+   930→   930→      "What did 'Begar' mean in the context of the peasant movement in Awadh?",
+   931→   931→      "A religious ritual",
+   932→   932→      "Forced labor without payment",
+   933→   933→      "A type of land tax",
+   934→   934→      "A gift given to landlords",
+   935→   935→      2.0,
+   936→   936→      "Begar was a system where peasants were forced to work at the landlords' farms without any wages. Abolition of begar was one of the primary demands of the peasant movement led by Baba Ramchandra.",
+   937→   937→      "CBSE",
+   938→   938→      2018.0,
+   939→   939→      null
+   940→   940→    ]
+   941→   941→  },
+   942→   942→  {
+   943→   943→    "sheet": "Class10",
+   944→   944→    "row": 1149,
+   945→   945→    "data": [
+   946→   946→      "SST",
+   947→   947→      2.0,
+   948→   948→      "Nationalism in India",
+   949→   949→      "English",
+   950→   950→      "Why did the rich peasant communities like the Patidars and Jats drop out of the Civil Disobedience Movement?",
+   951→   951→      "They became pro-British",
+   952→   952→      "The movement was called off in 1931 without tax reductions",
+   953→   953→      "They were arrested",
+   954→   954→      "They achieved all their goals",
+   955→   955→      2.0,
+   956→   956→      "Rich peasants were hard hit by the trade depression and falling prices. They participated in 1930 expecting a reduction in land revenue, but when the movement was called off in 1931 without any revenue revision, they were deeply disappointed and refused to rejoin in 1932.",
+   957→   957→      "CBSE",
+   958→   958→      2019.0,
+   959→   959→      null
+   960→   960→    ]
+   961→   961→  },
+   962→   962→  {
+   963→   963→    "sheet": "Class10",
+   964→   964→    "row": 1150,
+   965→   965→    "data": [
+   966→   966→      "SST",
+   967→   967→      2.0,
+   968→   968→      "Nationalism in India",
+   969→   969→      "English",
+   970→   970→      "What was the 'Gandhi-Irwin Pact' of March 1931?",
+   971→   971→      "A military alliance",
+   972→   972→      "An agreement where Gandhi agreed to attend the Round Table Conference",
+   973→   973→      "A treaty to end World War I",
+   974→   974→      "An agreement to divide India",
+   975→   975→      2.0,
+   976→   976→      "Under this pact, Mahatma Gandhi consented to participate in a Round Table Conference in London, and the British government agreed to release political prisoners who had not been involved in violence.",
+   977→   977→      "CBSE",
+   978→   978→      2020.0,
+   979→   979→      null
+   980→   980→    ]
+   981→   981→  },
+   982→   982→  {
+   983→   983→    "sheet": "Class10",
+   984→   984→    "row": 1151,
+   985→   985→    "data": [
+   986→   986→      "SST",
+   987→   987→      2.0,
+   988→   988→      "Nationalism in India",
+   989→   989→      "English",
+   990→   990→      "Who was Sir Muhammad Iqbal?",
+   991→   991→      "A British Governor",
+   992→   992→      "President of the Muslim League (1930)",
+   993→   993→      "A Congress leader",
+   994→   994→      "A revolutionary from Punjab",
+   995→   995→      2.0,
+   996→   996→      "Sir Muhammad Iqbal was the President of the Muslim League in 1930. He is known for articulating the importance of separate electorates for Muslims as a safeguard for their minority political interests.",
+   997→   997→      "CBSE",
+   998→   998→      2022.0,
+   999→   999→      null
+  1000→  1000→    ]
+  1001→  1001→  }
+  1002→  1002→]

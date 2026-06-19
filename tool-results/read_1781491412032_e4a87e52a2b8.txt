@@ -1,0 +1,1002 @@
+     1→     1→[
+     2→     2→  {
+     3→     3→    "sheet": "Class11",
+     4→     4→    "row": 1783,
+     5→     5→    "data": [
+     6→     6→      "Biology",
+     7→     7→      4.0,
+     8→     8→      "Animal Kingdom",
+     9→     9→      "English",
+    10→    10→      "The animal with bilateral symmetry in young stage and radial pentamerous symmetry in the adult stage belong to the phylum",
+    11→    11→      "(a) Annelida",
+    12→    12→      "(b) Mollusca",
+    13→    13→      "(c) Cnidaria",
+    14→    14→      "(d) Echinodermata",
+    15→    15→      4.0,
+    16→    16→      "Echinoderms are triploblastic animals with organ system level of organisation. Larval forms possess bilateral symmetry while adults have radial symmetry.",
+    17→    17→      "CBSE AIPMT",
+    18→    18→      2004.0,
+    19→    19→      null
+    20→    20→    ]
+    21→    21→  },
+    22→    22→  {
+    23→    23→    "sheet": "Class11",
+    24→    24→    "row": 1784,
+    25→    25→    "data": [
+    26→    26→      "Biology",
+    27→    27→      4.0,
+    28→    28→      "Animal Kingdom",
+    29→    29→      "English",
+    30→    30→      "Radial symmetry is usually associated with",
+    31→    31→      "(a) aquatic mode of life",
+    32→    32→      "(b) lower grade of organisation",
+    33→    33→      "(c) creeping mode of locomotion",
+    34→    34→      "(d) sedentary mode of life",
+    35→    35→      2.0,
+    36→    36→      "In radial symmetry body is in the form of flat or tall cylinder and can be divided into similar halves by more than two planes passing through one main axis.",
+    37→    37→      "CBSE AIPMT",
+    38→    38→      1996.0,
+    39→    39→      null
+    40→    40→    ]
+    41→    41→  },
+    42→    42→  {
+    43→    43→    "sheet": "Class11",
+    44→    44→    "row": 1785,
+    45→    45→    "data": [
+    46→    46→      "Biology",
+    47→    47→      4.0,
+    48→    48→      "Animal Kingdom",
+    49→    49→      "English",
+    50→    50→      "The organisms attached to the substratum generally, possess",
+    51→    51→      "(a) radial symmetry",
+    52→    52→      "(b) one single opening of digestive canal",
+    53→    53→      "(c) asymmetrical body",
+    54→    54→      "(d) cilia on surface to create water current",
+    55→    55→      1.0,
+    56→    56→      "The organisms attached to the substratum, generally possess radial symmetry.",
+    57→    57→      "CBSE AIPMT",
+    58→    58→      1995.0,
+    59→    59→      null
+    60→    60→    ]
+    61→    61→  },
+    62→    62→  {
+    63→    63→    "sheet": "Class11",
+    64→    64→    "row": 1786,
+    65→    65→    "data": [
+    66→    66→      "Biology",
+    67→    67→      4.0,
+    68→    68→      "Animal Kingdom",
+    69→    69→      "English",
+    70→    70→      "Radial symmetry is often exhibited by animals having",
+    71→    71→      "(a) one opening of alimentary canal",
+    72→    72→      "(b) aquatic mode of living",
+    73→    73→      "(c) benthos/sedentary",
+    74→    74→      "(d) ciliary mode of feeding",
+    75→    75→      2.0,
+    76→    76→      "Radial animals are usually sessile, freely floating or weakly swimming.",
+    77→    77→      "CBSE AIPMT",
+    78→    78→      1994.0,
+    79→    79→      null
+    80→    80→    ]
+    81→    81→  },
+    82→    82→  {
+    83→    83→    "sheet": "Class11",
+    84→    84→    "row": 1787,
+    85→    85→    "data": [
+    86→    86→      "Biology",
+    87→    87→      4.0,
+    88→    88→      "Animal Kingdom",
+    89→    89→      "English",
+    90→    90→      "Tube feet occur in",
+    91→    91→      "(a) cockroach",
+    92→    92→      "(b) starfish",
+    93→    93→      "(c) cuttle fish",
+    94→    94→      "(d) cat fish",
+    95→    95→      2.0,
+    96→    96→      "In starfish locomotion takes place by external tube feet, connected with water vascular system.",
+    97→    97→      "CBSE AIPMT",
+    98→    98→      1994.0,
+    99→    99→      null
+   100→   100→    ]
+   101→   101→  },
+   102→   102→  {
+   103→   103→    "sheet": "Class11",
+   104→   104→    "row": 1788,
+   105→   105→    "data": [
+   106→   106→      "Biology",
+   107→   107→      4.0,
+   108→   108→      "Animal Kingdom",
+   109→   109→      "English",
+   110→   110→      "Aristotle’s lantern occurs in class",
+   111→   111→      "(a) Echinoidea",
+   112→   112→      "(b) Asteroidea",
+   113→   113→      "(c) Holothuroidea",
+   114→   114→      "(d) Ophiuroidea",
+   115→   115→      1.0,
+   116→   116→      "A biting or masticatory apparatus or Aristotle’s lantern’ is present in the members of class— Echinoidea.",
+   117→   117→      "CBSE AIPMT",
+   118→   118→      1992.0,
+   119→   119→      null
+   120→   120→    ]
+   121→   121→  },
+   122→   122→  {
+   123→   123→    "sheet": "Class11",
+   124→   124→    "row": 1789,
+   125→   125→    "data": [
+   126→   126→      "Biology",
+   127→   127→      4.0,
+   128→   128→      "Animal Kingdom",
+   129→   129→      "English",
+   130→   130→      "Star fish belongs to",
+   131→   131→      "(a) Asteriodea",
+   132→   132→      "(b) Ophiuroidea",
+   133→   133→      "(c) Holothuroidea",
+   134→   134→      "(d) Crinoidea",
+   135→   135→      1.0,
+   136→   136→      "Starfish belongs to class—Asteroidea.",
+   137→   137→      "CBSE AIPMT",
+   138→   138→      1992.0,
+   139→   139→      null
+   140→   140→    ]
+   141→   141→  },
+   142→   142→  {
+   143→   143→    "sheet": "Class11",
+   144→   144→    "row": 1790,
+   145→   145→    "data": [
+   146→   146→      "Biology",
+   147→   147→      4.0,
+   148→   148→      "Animal Kingdom",
+   149→   149→      "English",
+   150→   150→      "Which one occurs in Echinodermata?",
+   151→   151→      "(a) Bilateral symmetry",
+   152→   152→      "(b) Radial symmetry",
+   153→   153→      "(c) Porous body",
+   154→   154→      "(d) Soft skin",
+   155→   155→      2.0,
+   156→   156→      "Echinoderms are triploblastic and radially symmetrical but their larvae are bilaterally symmetrical.",
+   157→   157→      "CBSE AIPMT",
+   158→   158→      1991.0,
+   159→   159→      null
+   160→   160→    ]
+   161→   161→  },
+   162→   162→  {
+   163→   163→    "sheet": "Class11",
+   164→   164→    "row": 1791,
+   165→   165→    "data": [
+   166→   166→      "Biology",
+   167→   167→      4.0,
+   168→   168→      "Animal Kingdom",
+   169→   169→      "English",
+   170→   170→      "All vertebrates are chordates, but all chordates are not vertebrates, why?",
+   171→   171→      "(a) Notochord is replaced by vertebral column in adult of some chordates",
+   172→   172→      "(b) Ventral hollow nerve cord remains throughout life in some chordates",
+   173→   173→      "(c) All chordates possess vertebral column",
+   174→   174→      "(d) All chordates possess notochord throughout their life",
+   175→   175→      1.0,
+   176→   176→      "The members of subphylum–Vertebrata possess notochord during the embryonic period. The notochord is replaced by a cartilaginous or bony vertebral column in the adult.",
+   177→   177→      "NEET",
+   178→   178→      2020.0,
+   179→   179→      null
+   180→   180→    ]
+   181→   181→  },
+   182→   182→  {
+   183→   183→    "sheet": "Class11",
+   184→   184→    "row": 1793,
+   185→   185→    "data": [
+   186→   186→      "Biology",
+   187→   187→      4.0,
+   188→   188→      "प्राणी जगत",
+   189→   189→      "Hindi",
+   190→   190→      "मैल्पिघियन नलिकाएं (Malpighian tubules) हैं:",
+   191→   191→      "(a) कीड़ों के उत्सर्जी अंग",
+   192→   192→      "(b) एनेलिड्स के उत्सर्जी अंग",
+   193→   193→      "(c) कीड़ों के श्वसन अंग",
+   194→   194→      "(d) एनेलिड्स के श्वसन अंग",
+   195→   195→      1.0,
+   196→   196→      "मैल्पिघियन नलिकाएं कीड़ों के उत्सर्जी अंग हैं। ये अशाखित नलिकाएं होती हैं जो हेमोसील (haemocoel) में लगभग स्वतंत्र रूप से स्थित होती हैं और आहार नाल में खुलती हैं।",
+   197→   197→      "CBSE AIPMT",
+   198→   198→      1990.0,
+   199→   199→      null
+   200→   200→    ]
+   201→   201→  },
+   202→   202→  {
+   203→   203→    "sheet": "Class11",
+   204→   204→    "row": 1794,
+   205→   205→    "data": [
+   206→   206→      "Biology",
+   207→   207→      4.0,
+   208→   208→      "प्राणी जगत",
+   209→   209→      "Hindi",
+   210→   210→      "काला अजार (Kala-azar) और ओरिएंटल सोर (oriental sore) किसके द्वारा फैलते हैं?",
+   211→   211→      "(a) घरेलू मक्खी",
+   212→   212→      "(b) खटमल (bed bug)",
+   213→   213→      "(c) सैंड फ्लाई (sand fly)",
+   214→   214→      "(d) फल मक्खी (fruit fly)",
+   215→   215→      3.0,
+   216→   216→      "काला अजार और ओरिएंटल सोर दोनों ही Leishmania के कारण होते हैं। यह द्विपोषदी (digenetic) है और इसका मध्यवर्ती मेजबान Phlebotomus वंश की सैंड फ्लाई है।",
+   217→   217→      "CBSE AIPMT",
+   218→   218→      1990.0,
+   219→   219→      null
+   220→   220→    ]
+   221→   221→  },
+   222→   222→  {
+   223→   223→    "sheet": "Class11",
+   224→   224→    "row": 1795,
+   225→   225→    "data": [
+   226→   226→      "Biology",
+   227→   227→      4.0,
+   228→   228→      "प्राणी जगत",
+   229→   229→      "Hindi",
+   230→   230→      "रेशम कीट (silk moth) से रेशम का धागा किसके दौरान प्राप्त किया जाता है?",
+   231→   231→      "(a) प्यूपा अवस्था (pupal stage)",
+   232→   232→      "(b) लार्वा अवस्था (larval stage)",
+   233→   233→      "(c) निम्फ अवस्था (nymph stage)",
+   234→   234→      "(d) वयस्क अवस्था (adult stage)",
+   235→   235→      1.0,
+   236→   236→      "कैटरपिलर शहतूत की पत्तियों को खाता है। इसकी लार ग्रंथि तरल रेशम स्रावित करती है। रेशम (प्यूपा, क्राइसालिस) से प्राप्त होता है।",
+   237→   237→      "CBSE AIPMT",
+   238→   238→      1988.0,
+   239→   239→      null
+   240→   240→    ]
+   241→   241→  },
+   242→   242→  {
+   243→   243→    "sheet": "Class11",
+   244→   244→    "row": 1796,
+   245→   245→    "data": [
+   246→   246→      "Biology",
+   247→   247→      4.0,
+   248→   248→      "प्राणी जगत",
+   249→   249→      "Hindi",
+   250→   250→      "निम्नलिखित को सुमेलित करें। List-I: A. Physalia, B. Limulus, C. Ancylostoma, D. Pinctada. List-II: 1. Pearl oyster, 2. Portuguese Man of War, 3. Living fossil, 4. Hookworm. नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+   251→   251→      "(a) 2 3 1 4",
+   252→   252→      "(b) 4 1 3 2",
+   253→   253→      "(c) 2 3 4 1",
+   254→   254→      "(d) 1 4 3 2",
+   255→   255→      3.0,
+   256→   256→      "Physalia संघ-Coelenterata (Cnidaria) से संबंधित है और इसे आमतौर पर पुर्तगाली मैन-ऑफ-वार (Portuguese man-of-war) के रूप में जाना जाता है। Limulus संघ-Arthropoda (जीवित जीवाश्म) से संबंधित है। Ancylostoma हुकवर्म है। Pinctada पर्ल ऑयस्टर है।",
+   257→   257→      "NEET",
+   258→   258→      2021.0,
+   259→   259→      null
+   260→   260→    ]
+   261→   261→  },
+   262→   262→  {
+   263→   263→    "sheet": "Class11",
+   264→   264→    "row": 1797,
+   265→   265→    "data": [
+   266→   266→      "Biology",
+   267→   267→      4.0,
+   268→   268→      "प्राणी जगत",
+   269→   269→      "Hindi",
+   270→   270→      "निम्नलिखित में से किसमें, वंश का नाम, उसके दो लक्षण और उसका संघ (phylum) सही सुमेलित नहीं है, जबकि शेष तीन सही हैं?",
+   271→   271→      "(a) Pila (i) शरीर खंडित Mollusca (ii) रेडुला (Radula) के साथ मुंह",
+   272→   272→      "(b) Asterias (i) कांटेदार त्वचा Echinodermata (ii) जल संवहनी तंत्र",
+   273→   273→      "(c) Sycon (i) छिद्र युक्त Porifera (ii) नाल तंत्र (Canal system)",
+   274→   274→      "(d) Periplaneta (i) संयुक्त उपांग Arthropoda (ii) काइटिनस बहिःकंकाल",
+   275→   275→      1.0,
+   276→   276→      "विकल्प (a) गलत है क्योंकि मोलस्क द्विपार्श्व सममित, त्रिकोरकी, प्रगुहीय, कोमल शरीर वाले जानवर हैं। उनका कोमल शरीर अखंडित (unsegmented) होता है।",
+   277→   277→      "CBSE AIPMT",
+   278→   278→      2012.0,
+   279→   279→      null
+   280→   280→    ]
+   281→   281→  },
+   282→   282→  {
+   283→   283→    "sheet": "Class11",
+   284→   284→    "row": 1798,
+   285→   285→    "data": [
+   286→   286→      "Biology",
+   287→   287→      4.0,
+   288→   288→      "प्राणी जगत",
+   289→   289→      "Hindi",
+   290→   290→      "निम्नलिखित में से कौन सा संघ (phylum) और उसके तीन उदाहरणों का एक सुमेलित सेट है?",
+   291→   291→      "(a) Cnidaria — Bonellia, Physalia, Aurelia",
+   292→   292→      "(b) Platyhelminthes — Planaria, Schistosoma, Enterobius",
+   293→   293→      "(c) Mollusca — Loligo, Teredo, Octopus",
+   294→   294→      "(d) Porifera— Spongilla, Euplectella, Pennatula",
+   295→   295→      3.0,
+   296→   296→      "Loligo, Teredo और Octopus संघ-Mollusca के सदस्य हैं।",
+   297→   297→      "CBSE AIPMT",
+   298→   298→      2006.0,
+   299→   299→      null
+   300→   300→    ]
+   301→   301→  },
+   302→   302→  {
+   303→   303→    "sheet": "Class11",
+   304→   304→    "row": 1799,
+   305→   305→    "data": [
+   306→   306→      "Biology",
+   307→   307→      4.0,
+   308→   308→      "प्राणी जगत",
+   309→   309→      "Hindi",
+   310→   310→      "बंद परिसंचरण तंत्र (Closed circulatory system) किसमें होता है?",
+   311→   311→      "(a) घोंघा (snail)",
+   312→   312→      "(b) तिलचट्टा (cockroach)",
+   313→   313→      "(c) कटल फिश (cuttle fish)",
+   314→   314→      "(d) ये सभी",
+   315→   315→      3.0,
+   316→   316→      "बंद परिसंचरण तंत्र कटल फिश, यानी Sepia में होता है, सेफेलोपोड्स एकमात्र मोलस्क हैं जिनमें बंद परिसंचरण तंत्र होता है।",
+   317→   317→      "CBSE AIPMT",
+   318→   318→      1994.0,
+   319→   319→      null
+   320→   320→    ]
+   321→   321→  },
+   322→   322→  {
+   323→   323→    "sheet": "Class11",
+   324→   324→    "row": 1800,
+   325→   325→    "data": [
+   326→   326→      "Biology",
+   327→   327→      4.0,
+   328→   328→      "प्राणी जगत",
+   329→   329→      "Hindi",
+   330→   330→      "मोलस्क समूह की आंख जो कशेरुकी (vertebrate) आंख से मिलती जुलती है, वह है:",
+   331→   331→      "(a) Bivalvia",
+   332→   332→      "(b) Gastropoda",
+   333→   333→      "(c) Pelecypoda",
+   334→   334→      "(d) Cephalopoda",
+   335→   335→      4.0,
+   336→   336→      "Cephalopoda में स्क्विड, ऑक्टोपस, कटल फिश सहित सबसे विशिष्ट मोलस्क शामिल हैं। इन जानवरों में अच्छी तरह से विकसित आंखें मौजूद होती हैं जो कशेरुकी आंखों से मिलती जुलती हैं।",
+   337→   337→      "CBSE AIPMT",
+   338→   338→      1992.0,
+   339→   339→      null
+   340→   340→    ]
+   341→   341→  },
+   342→   342→  {
+   343→   343→    "sheet": "Class11",
+   344→   344→    "row": 1801,
+   345→   345→    "data": [
+   346→   346→      "Biology",
+   347→   347→      4.0,
+   348→   348→      "प्राणी जगत",
+   349→   349→      "Hindi",
+   350→   350→      "लकड़ी में छेद करने वाला मोलस्क/शिपवर्म (shipworm) है:",
+   351→   351→      "(a) Chiton",
+   352→   352→      "(b) Teredo",
+   353→   353→      "(c) Limax",
+   354→   354→      "(d) Patella",
+   355→   355→      2.0,
+   356→   356→      "Teredo वर्ग-Pelecypoda (bivalvia) के अंतर्गत आता है। इसे आमतौर पर 'शिपवर्म' के रूप में जाना जाता है। यह समुद्री जल में लकड़ी के लिए विनाशकारी है।",
+   357→   357→      "CBSE AIPMT",
+   358→   358→      1988.0,
+   359→   359→      null
+   360→   360→    ]
+   361→   361→  },
+   362→   362→  {
+   363→   363→    "sheet": "Class11",
+   364→   364→    "row": 1802,
+   365→   365→    "data": [
+   366→   366→      "Biology",
+   367→   367→      4.0,
+   368→   368→      "प्राणी जगत",
+   369→   369→      "Hindi",
+   370→   370→      "निम्नलिखित कथनों को पढ़ें। I. Helminths में मेटाजेनेसिस (Metagenesis) देखा जाता है। II. Echinoderms त्रिकोरकी और प्रगुहीय जानवर हैं। III. गोल कृमि (Round worms) में शरीर संगठन का अंग-तंत्र स्तर होता है। IV. Ctenophores में मौजूद कंकत पट्टिकाएं (Comb plates) पाचन में मदद करती हैं। V. जल संवहनी तंत्र (Water vascular system) एकाइनोडर्म्स की विशेषता है। नीचे दिए गए विकल्पों में से सही उत्तर चुनें।",
+   371→   371→      "(a) III, IV और V सही हैं",
+   372→   372→      "(b) I, II और III सही हैं",
+   373→   373→      "(c) I, IV और V सही हैं",
+   374→   374→      "(d) II, III और V सही हैं",
+   375→   375→      4.0,
+   376→   376→      "कथन II, III और V सही हैं, जबकि कथन I और IV गलत हैं। कंकत पट्टिकाएं गमन (locomotion) में मदद करती हैं। Helminths में मेटाजेनेसिस नहीं देखा जाता है।",
+   377→   377→      "NEET",
+   378→   378→      2021.0,
+   379→   379→      null
+   380→   380→    ]
+   381→   381→  },
+   382→   382→  {
+   383→   383→    "sheet": "Class11",
+   384→   384→    "row": 1803,
+   385→   385→    "data": [
+   386→   386→      "Biology",
+   387→   387→      4.0,
+   388→   388→      "प्राणी जगत",
+   389→   389→      "Hindi",
+   390→   390→      "निम्नलिखित वंशों को उनके संबंधित संघ (phylum) के साथ सुमेलित करें। Column I: 1. Ophiura, 2. Physalia, 3. Pinctada, 4. Planaria. Column II: (i) Mollusca, (ii) Platyhelminthes, (iii) Echinodermata, (iv) Coelenterata. निम्नलिखित में से सही विकल्प चुनें।",
+   391→   391→      "(a) (iv) (i) (iii) (ii)",
+   392→   392→      "(b) (iii) (iv) (i) (ii)",
+   393→   393→      "(c) (i) (iii) (iv) (ii)",
+   394→   394→      "(d) (iii) (iv) (ii) (i)",
+   395→   395→      2.0,
+   396→   396→      "सही मिलान हैं: 1. Ophiura (Brittle star) (iii) Echinodermata; 2. Physalia (iv) Coelenterata; 3. Pinctada (ii) Mollusca; 4. Planaria (ii) Platyhelminthes.",
+   397→   397→      "NEET (Odisha)",
+   398→   398→      2019.0,
+   399→   399→      null
+   400→   400→    ]
+   401→   401→  },
+   402→   402→  {
+   403→   403→    "sheet": "Class11",
+   404→   404→    "row": 1804,
+   405→   405→    "data": [
+   406→   406→      "Biology",
+   407→   407→      4.0,
+   408→   408→      "प्राणी जगत",
+   409→   409→      "Hindi",
+   410→   410→      "युवा अवस्था में द्विपार्श्व सममिति (bilateral symmetry) और वयस्क अवस्था में अरीय पंचतयी सममिति (radial pentamerous symmetry) वाला जानवर किस संघ से संबंधित है?",
+   411→   411→      "(a) Annelida",
+   412→   412→      "(b) Mollusca",
+   413→   413→      "(c) Cnidaria",
+   414→   414→      "(d) Echinodermata",
+   415→   415→      4.0,
+   416→   416→      "Echinoderms अंग तंत्र स्तर के संगठन वाले त्रिकोरकी जानवर हैं। लार्वा रूपों में द्विपार्श्व सममिति होती है जबकि वयस्कों में अरीय सममिति होती है।",
+   417→   417→      "CBSE AIPMT",
+   418→   418→      2004.0,
+   419→   419→      null
+   420→   420→    ]
+   421→   421→  },
+   422→   422→  {
+   423→   423→    "sheet": "Class11",
+   424→   424→    "row": 1805,
+   425→   425→    "data": [
+   426→   426→      "Biology",
+   427→   427→      4.0,
+   428→   428→      "प्राणी जगत",
+   429→   429→      "Hindi",
+   430→   430→      "अरीय सममिति (Radial symmetry) आमतौर पर किसके साथ जुड़ी होती है?",
+   431→   431→      "(a) जीवन का जलीय तरीका",
+   432→   432→      "(b) संगठन का निचला स्तर",
+   433→   433→      "(c) गमन का रेंगने वाला तरीका",
+   434→   434→      "(d) जीवन का स्थानबद्ध (sedentary) तरीका",
+   435→   435→      2.0,
+   436→   436→      "अरीय सममिति में शरीर सपाट या लंबे सिलेंडर के रूप में होता है और इसे एक मुख्य अक्ष से गुजरने वाले दो से अधिक विमानों द्वारा समान हिस्सों में विभाजित किया जा सकता है।",
+   437→   437→      "CBSE AIPMT",
+   438→   438→      1996.0,
+   439→   439→      null
+   440→   440→    ]
+   441→   441→  },
+   442→   442→  {
+   443→   443→    "sheet": "Class11",
+   444→   444→    "row": 1806,
+   445→   445→    "data": [
+   446→   446→      "Biology",
+   447→   447→      4.0,
+   448→   448→      "प्राणी जगत",
+   449→   449→      "Hindi",
+   450→   450→      "आधार (substratum) से जुड़े जीवों में आम तौर पर होती है:",
+   451→   451→      "(a) अरीय सममिति (radial symmetry)",
+   452→   452→      "(b) पाचन नहर का एक ही उद्घाटन",
+   453→   453→      "(c) असममित शरीर",
+   454→   454→      "(d) पानी की धारा बनाने के लिए सतह पर सिलिया",
+   455→   455→      1.0,
+   456→   456→      "आधार (substratum) से जुड़े जीवों में आम तौर पर अरीय सममिति होती है।",
+   457→   457→      "CBSE AIPMT",
+   458→   458→      1995.0,
+   459→   459→      null
+   460→   460→    ]
+   461→   461→  },
+   462→   462→  {
+   463→   463→    "sheet": "Class11",
+   464→   464→    "row": 1807,
+   465→   465→    "data": [
+   466→   466→      "Biology",
+   467→   467→      4.0,
+   468→   468→      "प्राणी जगत",
+   469→   469→      "Hindi",
+   470→   470→      "अरीय सममिति (Radial symmetry) अक्सर उन जानवरों द्वारा प्रदर्शित की जाती है जिनमें होता है:",
+   471→   471→      "(a) आहार नाल का एक उद्घाटन",
+   472→   472→      "(b) जीने का जलीय तरीका",
+   473→   473→      "(c) बेन्थोस/स्थानबद्ध (sedentary)",
+   474→   474→      "(d) भोजन का सिलियरी तरीका",
+   475→   475→      2.0,
+   476→   476→      "अरीय जानवर आमतौर पर स्थानबद्ध (sessile), स्वतंत्र रूप से तैरने वाले या कमजोर तैरने वाले होते हैं।",
+   477→   477→      "CBSE AIPMT",
+   478→   478→      1994.0,
+   479→   479→      null
+   480→   480→    ]
+   481→   481→  },
+   482→   482→  {
+   483→   483→    "sheet": "Class11",
+   484→   484→    "row": 1808,
+   485→   485→    "data": [
+   486→   486→      "Biology",
+   487→   487→      4.0,
+   488→   488→      "प्राणी जगत",
+   489→   489→      "Hindi",
+   490→   490→      "नाल पाद (Tube feet) किसमें पाए जाते हैं?",
+   491→   491→      "(a) तिलचट्टा",
+   492→   492→      "(b) स्टारफिश",
+   493→   493→      "(c) कटल फिश",
+   494→   494→      "(d) कैट फिश",
+   495→   495→      2.0,
+   496→   496→      "स्टारफिश में गमन बाहरी नाल पाद (tube feet) द्वारा होता है, जो जल संवहनी तंत्र से जुड़े होते हैं।",
+   497→   497→      "CBSE AIPMT",
+   498→   498→      1994.0,
+   499→   499→      null
+   500→   500→    ]
+   501→   501→  },
+   502→   502→  {
+   503→   503→    "sheet": "Class11",
+   504→   504→    "row": 1809,
+   505→   505→    "data": [
+   506→   506→      "Biology",
+   507→   507→      4.0,
+   508→   508→      "प्राणी जगत",
+   509→   509→      "Hindi",
+   510→   510→      "अरस्तू की लालटेन (Aristotle’s lantern) किस वर्ग में होती है?",
+   511→   511→      "(a) Echinoidea",
+   512→   512→      "(b) Asteroidea",
+   513→   513→      "(c) Holothuroidea",
+   514→   514→      "(d) Ophiuroidea",
+   515→   515→      1.0,
+   516→   516→      "एक काटने या चबाने वाला उपकरण या 'अरस्तू की लालटेन' वर्ग-Echinoidea के सदस्यों में मौजूद होता है।",
+   517→   517→      "CBSE AIPMT",
+   518→   518→      1992.0,
+   519→   519→      null
+   520→   520→    ]
+   521→   521→  },
+   522→   522→  {
+   523→   523→    "sheet": "Class11",
+   524→   524→    "row": 1810,
+   525→   525→    "data": [
+   526→   526→      "Biology",
+   527→   527→      4.0,
+   528→   528→      "प्राणी जगत",
+   529→   529→      "Hindi",
+   530→   530→      "स्टारफिश (Star fish) संबंधित है:",
+   531→   531→      "(a) Asteriodea",
+   532→   532→      "(b) Ophiuroidea",
+   533→   533→      "(c) Holothuroidea",
+   534→   534→      "(d) Crinoidea",
+   535→   535→      1.0,
+   536→   536→      "स्टारफिश वर्ग-Asteroidea से संबंधित है।",
+   537→   537→      "CBSE AIPMT",
+   538→   538→      1992.0,
+   539→   539→      null
+   540→   540→    ]
+   541→   541→  },
+   542→   542→  {
+   543→   543→    "sheet": "Class11",
+   544→   544→    "row": 1811,
+   545→   545→    "data": [
+   546→   546→      "Biology",
+   547→   547→      4.0,
+   548→   548→      "प्राणी जगत",
+   549→   549→      "Hindi",
+   550→   550→      "एकाइनोडर्मेटा (Echinodermata) में कौन सा होता है?",
+   551→   551→      "(a) द्विपार्श्व सममिति",
+   552→   552→      "(b) अरीय सममिति",
+   553→   553→      "(c) छिद्रपूर्ण शरीर",
+   554→   554→      "(d) कोमल त्वचा",
+   555→   555→      2.0,
+   556→   556→      "एकाइनोडर्म्स त्रिकोरकी और अरीय सममित होते हैं लेकिन उनके लार्वा द्विपार्श्व सममित होते हैं।",
+   557→   557→      "CBSE AIPMT",
+   558→   558→      1991.0,
+   559→   559→      null
+   560→   560→    ]
+   561→   561→  },
+   562→   562→  {
+   563→   563→    "sheet": "Class11",
+   564→   564→    "row": 1812,
+   565→   565→    "data": [
+   566→   566→      "Biology",
+   567→   567→      4.0,
+   568→   568→      "प्राणी जगत",
+   569→   569→      "Hindi",
+   570→   570→      "सभी कशेरुकी (vertebrates) कॉर्डेट्स (chordates) हैं, लेकिन सभी कॉर्डेट्स कशेरुकी नहीं हैं, क्यों?",
+   571→   571→      "(a) कुछ कॉर्डेट्स के वयस्क में नोटोकॉर्ड (notochord) को कशेरुक दंड (vertebral column) द्वारा प्रतिस्थापित किया जाता है",
+   572→   572→      "(b) कुछ कॉर्डेट्स में अधर खोखली तंत्रिका रज्जु जीवन भर रहती है",
+   573→   573→      "(c) सभी कॉर्डेट्स में कशेरुक दंड होता है",
+   574→   574→      "(d) सभी कॉर्डेट्स में जीवन भर नोटोकॉर्ड होता है",
+   575→   575→      1.0,
+   576→   576→      "उपसंघ-Vertebrata के सदस्यों में भ्रूण की अवधि के दौरान नोटोकॉर्ड होता है। वयस्क में नोटोकॉर्ड को उपास्थि या अस्थि कशेरुक दंड द्वारा प्रतिस्थापित किया जाता है।",
+   577→   577→      "NEET (Oct.)",
+   578→   578→      2020.0,
+   579→   579→      null
+   580→   580→    ]
+   581→   581→  },
+   582→   582→  {
+   583→   583→    "sheet": "Class11",
+   584→   584→    "row": 1814,
+   585→   585→    "data": [
+   586→   586→      "Biology",
+   587→   587→      4.0,
+   588→   588→      "Animal Kingdom",
+   589→   589→      "English",
+   590→   590→      "Which of the following statements are true for the phylum–Chordata? I. In Urochordata notochord extends from head to tail and it is present throughout their life. II. In Vertebrata, notochord is present during the embryonic period only. III. Central nervous system is dorsal and hollow. IV. Chordata is divided into 3 subphyla, Hemichordata, Tunicata and Cephalochordata.",
+   591→   591→      "(a) III and I",
+   592→   592→      "(b) I and II",
+   593→   593→      "(c) II and III",
+   594→   594→      "(d) IV and III",
+   595→   595→      3.0,
+   596→   596→      "In Urochordata, notochord is present only in larval tail. Phylum Chordata is divided into Urochordata, Cephalochordata and Vertebrata. Hemichordata is a separate phylum.",
+   597→   597→      "NEET",
+   598→   598→      2020.0,
+   599→   599→      null
+   600→   600→    ]
+   601→   601→  },
+   602→   602→  {
+   603→   603→    "sheet": "Class11",
+   604→   604→    "row": 1815,
+   605→   605→    "data": [
+   606→   606→      "Biology",
+   607→   607→      4.0,
+   608→   608→      "Animal Kingdom",
+   609→   609→      "English",
+   610→   610→      "Consider the following features. A. Organ system level of organisation B. Bilateral symmetry C. True coelomates with segmentation of body Select the correct option of animal groups which possess all the above characteristics.",
+   611→   611→      "(a) Annelida, Arthropoda and Mollusca",
+   612→   612→      "(b) Arthropoda, Mollusca and Chordata",
+   613→   613→      "(c) Annelida, Mollusca and Chordata",
+   614→   614→      "(d) Annelida, Arthropoda and Chordata",
+   615→   615→      4.0,
+   616→   616→      "Annelida, Arthropoda and Chordata possess organ system level of organisation, bilateral symmetry and true coelom with segmented body. Molluscs are unsegmented.",
+   617→   617→      "NEET (National)",
+   618→   618→      2019.0,
+   619→   619→      null
+   620→   620→    ]
+   621→   621→  },
+   622→   622→  {
+   623→   623→    "sheet": "Class11",
+   624→   624→    "row": 1816,
+   625→   625→    "data": [
+   626→   626→      "Biology",
+   627→   627→      4.0,
+   628→   628→      "Animal Kingdom",
+   629→   629→      "English",
+   630→   630→      "An important characteristic that hemichordates share with chordates is",
+   631→   631→      "(a) absence of notochord",
+   632→   632→      "(b) ventral tubular nerve cord",
+   633→   633→      "(c) pharynx with gill slits",
+   634→   634→      "(d) pharynx without gill slits",
+   635→   635→      3.0,
+   636→   636→      "The important characteristic that hemichordates share with chordates is pharynx with gill slits.",
+   637→   637→      "NEET",
+   638→   638→      2017.0,
+   639→   639→      null
+   640→   640→    ]
+   641→   641→  },
+   642→   642→  {
+   643→   643→    "sheet": "Class11",
+   644→   644→    "row": 1817,
+   645→   645→    "data": [
+   646→   646→      "Biology",
+   647→   647→      4.0,
+   648→   648→      "Animal Kingdom",
+   649→   649→      "English",
+   650→   650→      "Choose the correct statement.",
+   651→   651→      "(a) All mammals are viviparous",
+   652→   652→      "(b) All cyclostomes do not possess jaws and paired fins",
+   653→   653→      "(c) All reptiles have a three-chambered heart",
+   654→   654→      "(d) All Pisces have gills covered by an operculum",
+   655→   655→      2.0,
+   656→   656→      "Cyclostomes (jawless fishes) lack paired fins and jaws. Prototherian mammals are oviparous. Crocodiles have 4-chambered heart. Chondrichthyes lack operculum.",
+   657→   657→      "NEET, Phase II",
+   658→   658→      " 2016,  ",
+   659→   659→      null
+   660→   660→    ]
+   661→   661→  },
+   662→   662→  {
+   663→   663→    "sheet": "Class11",
+   664→   664→    "row": 1818,
+   665→   665→    "data": [
+   666→   666→      "Biology",
+   667→   667→      4.0,
+   668→   668→      "Animal Kingdom",
+   669→   669→      "English",
+   670→   670→      "In which of the following notochord is present in embryonic stage?",
+   671→   671→      "(a) All chordates",
+   672→   672→      "(b) Some chordates",
+   673→   673→      "(c) Vertebrates",
+   674→   674→      "(d) Non-chordates",
+   675→   675→      1.0,
+   676→   676→      "Notochord is the primary axial supportive structure present in all chordate embryos. In vertebrates, it is replaced by the vertebral column in adults.",
+   677→   677→      "CBSE AIPMT",
+   678→   678→      2002.0,
+   679→   679→      null
+   680→   680→    ]
+   681→   681→  },
+   682→   682→  {
+   683→   683→    "sheet": "Class11",
+   684→   684→    "row": 1819,
+   685→   685→    "data": [
+   686→   686→      "Biology",
+   687→   687→      4.0,
+   688→   688→      "Animal Kingdom",
+   689→   689→      "English",
+   690→   690→      "Besides Annelida and Arthropoda, the metamerism is exhibited by",
+   691→   691→      "(a) Cestoda",
+   692→   692→      "(b) Chordata",
+   693→   693→      "(c) Mollusca",
+   694→   694→      "(d) Acanthocephala",
+   695→   695→      2.0,
+   696→   696→      "Chordates also exhibit metameric segmentation (e.g., in vertebrae, muscles, etc.).",
+   697→   697→      "CBSE AIPMT",
+   698→   698→      1995.0,
+   699→   699→      null
+   700→   700→    ]
+   701→   701→  },
+   702→   702→  {
+   703→   703→    "sheet": "Class11",
+   704→   704→    "row": 1820,
+   705→   705→    "data": [
+   706→   706→      "Biology",
+   707→   707→      4.0,
+   708→   708→      "Animal Kingdom",
+   709→   709→      "English",
+   710→   710→      "A common characteristic of all vertebrates is",
+   711→   711→      "(a) presence of skull",
+   712→   712→      "(b) division of body into head, neck, trunk and tail",
+   713→   713→      "(c) presence of two pairs of functional appendages",
+   714→   714→      "(d) body is covered with an exoskeleton",
+   715→   715→      1.0,
+   716→   716→      "Vertebrates have well developed cranium (skull) hence, they are also called as Craniata.",
+   717→   717→      "CBSE AIPMT",
+   718→   718→      1994.0,
+   719→   719→      null
+   720→   720→    ]
+   721→   721→  },
+   722→   722→  {
+   723→   723→    "sheet": "Class11",
+   724→   724→    "row": 1821,
+   725→   725→    "data": [
+   726→   726→      "Biology",
+   727→   727→      4.0,
+   728→   728→      "Animal Kingdom",
+   729→   729→      "English",
+   730→   730→      "All chordates possess",
+   731→   731→      "(a) exoskeleton",
+   732→   732→      "(b) limbs",
+   733→   733→      "(c) skull",
+   734→   734→      "(d) axial skeletal rod of notochord",
+   735→   735→      4.0,
+   736→   736→      "Chordata refers to the presence of a stiff, supporting rod-like structure along the back called ‘notochord’.",
+   737→   737→      "CBSE AIPMT",
+   738→   738→      1994.0,
+   739→   739→      null
+   740→   740→    ]
+   741→   741→  },
+   742→   742→  {
+   743→   743→    "sheet": "Class11",
+   744→   744→    "row": 1822,
+   745→   745→    "data": [
+   746→   746→      "Biology",
+   747→   747→      4.0,
+   748→   748→      "Animal Kingdom",
+   749→   749→      "English",
+   750→   750→      "All vertebrates possess",
+   751→   751→      "(a) renal portal system",
+   752→   752→      "(b) dorsal, hollow, central nervous system",
+   753→   753→      "(c) four chambered ventral heart",
+   754→   754→      "(d) pharyngeal gill slits",
+   755→   755→      2.0,
+   756→   756→      "Dorsal, hollow, central nervous system is present in all vertebrates.",
+   757→   757→      "CBSE AIPMT",
+   758→   758→      1993.0,
+   759→   759→      null
+   760→   760→    ]
+   761→   761→  },
+   762→   762→  {
+   763→   763→    "sheet": "Class11",
+   764→   764→    "row": 1823,
+   765→   765→    "data": [
+   766→   766→      "Biology",
+   767→   767→      4.0,
+   768→   768→      "Animal Kingdom",
+   769→   769→      "English",
+   770→   770→      "Penguin occurs in",
+   771→   771→      "(a) Australia",
+   772→   772→      "(b) Antarctica",
+   773→   773→      "(c) Africa",
+   774→   774→      "(d) America",
+   775→   775→      2.0,
+   776→   776→      "Penguins are found in Antarctica (South pole). They are flightless marine birds.",
+   777→   777→      "CBSE AIPMT",
+   778→   778→      1990.0,
+   779→   779→      null
+   780→   780→    ]
+   781→   781→  },
+   782→   782→  {
+   783→   783→    "sheet": "Class11",
+   784→   784→    "row": 1824,
+   785→   785→    "data": [
+   786→   786→      "Biology",
+   787→   787→      4.0,
+   788→   788→      "Animal Kingdom",
+   789→   789→      "English",
+   790→   790→      "A chordate character is",
+   791→   791→      "(a) gills",
+   792→   792→      "(b) spiracles",
+   793→   793→      "(c) post-anal tail",
+   794→   794→      "(d) chitinous exoskeleton",
+   795→   795→      3.0,
+   796→   796→      "Presence of post-anal tail is one of the fundamental characters of chordates.",
+   797→   797→      "CBSE AIPMT",
+   798→   798→      1989.0,
+   799→   799→      null
+   800→   800→    ]
+   801→   801→  },
+   802→   802→  {
+   803→   803→    "sheet": "Class11",
+   804→   804→    "row": 1825,
+   805→   805→    "data": [
+   806→   806→      "Biology",
+   807→   807→      4.0,
+   808→   808→      "Animal Kingdom",
+   809→   809→      "English",
+   810→   810→      "Necturus is",
+   811→   811→      "(a) hell bender",
+   812→   812→      "(b) congo eel",
+   813→   813→      "(c) mud puppy",
+   814→   814→      "(d) blind worm",
+   815→   815→      3.0,
+   816→   816→      "Common name of Necturus is mud puppy. This comes under order–Urodela.",
+   817→   817→      "CBSE AIPMT",
+   818→   818→      1988.0,
+   819→   819→      null
+   820→   820→    ]
+   821→   821→  },
+   822→   822→  {
+   823→   823→    "sheet": "Class11",
+   824→   824→    "row": 1826,
+   825→   825→    "data": [
+   826→   826→      "Biology",
+   827→   827→      4.0,
+   828→   828→      "Animal Kingdom",
+   829→   829→      "English",
+   830→   830→      "Typhlos is",
+   831→   831→      "(a) sea snake",
+   832→   832→      "(b) glass snake",
+   833→   833→      "(c) blind snake",
+   834→   834→      "(d) grass snake",
+   835→   835→      3.0,
+   836→   836→      "Typhlops is a blind snake and it is non-poisonous.",
+   837→   837→      "CBSE AIPMT",
+   838→   838→      1988.0,
+   839→   839→      null
+   840→   840→    ]
+   841→   841→  },
+   842→   842→  {
+   843→   843→    "sheet": "Class11",
+   844→   844→    "row": 1827,
+   845→   845→    "data": [
+   846→   846→      "Biology",
+   847→   847→      4.0,
+   848→   848→      "Animal Kingdom",
+   849→   849→      "English",
+   850→   850→      "Match the following columns and select the correct option from the codes given belows. Column I: A. Aptenodytes, B. Pteropus, C. Pterophyllum, D. Petromyzon. Column II: 1. Flying fox, 2. Angel fish, 3. Lamprey, 4. Penguin.",
+   851→   851→      "(a) A-3, B-4, C-2, D-1",
+   852→   852→      "(b) A-3, B-4, C-1, D-2",
+   853→   853→      "(c) A-4, B-1, C-2, D-3",
+   854→   854→      "(d) A-2, B-1, C-4, D-3",
+   855→   855→      3.0,
+   856→   856→      "Aptenodytes is Penguin. Pteropus is Flying fox. Pterophyllum is Angel fish. Petromyzon is Lamprey.",
+   857→   857→      "NEET (Oct.)",
+   858→   858→      2020.0,
+   859→   859→      null
+   860→   860→    ]
+   861→   861→  },
+   862→   862→  {
+   863→   863→    "sheet": "Class11",
+   864→   864→    "row": 1828,
+   865→   865→    "data": [
+   866→   866→      "Biology",
+   867→   867→      4.0,
+   868→   868→      "Animal Kingdom",
+   869→   869→      "English",
+   870→   870→      "Match the following columns and select the correct option. Column I: A. 6-15 pairs of gill slits, B. Heterocercal caudal fin, C. Air bladder, D. Poison sting. Column II: 1. Trygon, 2. Cyclostomes, 3. Chondrichthyes, 4. Osteichthyes.",
+   871→   871→      "(a) A-3, B-4, C-1, D-2",
+   872→   872→      "(b) A-4, B-2, C-3, D-1",
+   873→   873→      "(c) A-1, B-4, C-3, D-2",
+   874→   874→      "(d) A-2, B-3, C-4, D-1",
+   875→   875→      4.0,
+   876→   876→      "Cyclostomes have 6-15 pairs of gill slits. Chondrichthyes have heterocercal caudal fin. Osteichthyes have air bladder. Trygon (Chondrichthyes) has poison sting.",
+   877→   877→      "NEET",
+   878→   878→      2020.0,
+   879→   879→      null
+   880→   880→    ]
+   881→   881→  },
+   882→   882→  {
+   883→   883→    "sheet": "Class11",
+   884→   884→    "row": 1829,
+   885→   885→    "data": [
+   886→   886→      "Biology",
+   887→   887→      4.0,
+   888→   888→      "Animal Kingdom",
+   889→   889→      "English",
+   890→   890→      "Which of the following characteristic features always holds true for the corresponding group of animals?",
+   891→   891→      "(a) Viviparous – Mammalia",
+   892→   892→      "(b) Possess a mouth with an upper and a lower jaw – Chordata",
+   893→   893→      "(c) 3-chambered heart with one incompletely divided ventricle – Reptilia",
+   894→   894→      "(d) Cartilaginous endoskeleton – Chondrichthyes",
+   895→   895→      4.0,
+   896→   896→      "Chondrichthyes always have a cartilaginous endoskeleton. Some reptiles (crocodiles) have 4-chambered heart. Some mammals are oviparous. Agnatha lack jaws.",
+   897→   897→      "NEET, Phase I",
+   898→   898→      " 2016,  ",
+   899→   899→      null
+   900→   900→    ]
+   901→   901→  },
+   902→   902→  {
+   903→   903→    "sheet": "Class11",
+   904→   904→    "row": 1830,
+   905→   905→    "data": [
+   906→   906→      "Biology",
+   907→   907→      4.0,
+   908→   908→      "Animal Kingdom",
+   909→   909→      "English",
+   910→   910→      "A jawless fish, which lays eggs in fresh water and whose ammocoetes larvae after metamorphosis return to the ocean is",
+   911→   911→      "(a) Eptatretus",
+   912→   912→      "(b) Myxine",
+   913→   913→      "(c) Neomyxine",
+   914→   914→      "(d) Petromyzon",
+   915→   915→      4.0,
+   916→   916→      "Petromyzon (lamprey) is anadromous; it migrates to fresh water for spawning. Its larva is Ammocoetes.",
+   917→   917→      "CBSE AIPMT",
+   918→   918→      2015.0,
+   919→   919→      null
+   920→   920→    ]
+   921→   921→  },
+   922→   922→  {
+   923→   923→    "sheet": "Class11",
+   924→   924→    "row": 1831,
+   925→   925→    "data": [
+   926→   926→      "Biology",
+   927→   927→      4.0,
+   928→   928→      "Animal Kingdom",
+   929→   929→      "English",
+   930→   930→      "A marine cartilaginous fish that can produce electric current is",
+   931→   931→      "(a) Pristis",
+   932→   932→      "(b) Torpedo",
+   933→   933→      "(c) Trygon",
+   934→   934→      "(d) Scoliodon",
+   935→   935→      2.0,
+   936→   936→      "Torpedo (Electric ray) is a marine cartilaginous fish capable of producing electric current.",
+   937→   937→      "CBSE AIPMT",
+   938→   938→      2014.0,
+   939→   939→      null
+   940→   940→    ]
+   941→   941→  },
+   942→   942→  {
+   943→   943→    "sheet": "Class11",
+   944→   944→    "row": 1832,
+   945→   945→    "data": [
+   946→   946→      "Biology",
+   947→   947→      4.0,
+   948→   948→      "Animal Kingdom",
+   949→   949→      "English",
+   950→   950→      "Match the name of the animal (column I) with one characteristics (column II) and the phylum/class (column III) to which it belongs",
+   951→   951→      "(a) Petromyzon — Ectoparasite — Cyclostomata",
+   952→   952→      "(b) Ichthyophis — Terrestrial — Reptilia",
+   953→   953→      "(c) Limulus — Body covered by chitinous exoskeleton — Pisces",
+   954→   954→      "(d) Adamsia — Radially symmetrical — Porifera",
+   955→   955→      1.0,
+   956→   956→      "Petromyzon (Lamprey) is an ectoparasite on true fishes and belongs to Class Cyclostomata. Ichthyophis is Amphibia. Limulus is Arthropoda. Adamsia is Cnidaria.",
+   957→   957→      "NEET",
+   958→   958→      2013.0,
+   959→   959→      null
+   960→   960→    ]
+   961→   961→  },
+   962→   962→  {
+   963→   963→    "sheet": "Class11",
+   964→   964→    "row": 1833,
+   965→   965→    "data": [
+   966→   966→      "Biology",
+   967→   967→      4.0,
+   968→   968→      "Animal Kingdom",
+   969→   969→      "English",
+   970→   970→      "Which one of the following groups of animals is correctly matched with its one characteristic feature without even a single exception?",
+   971→   971→      "(a) Chordata – Possess a mouth provided with an upper and a lower jaw",
+   972→   972→      "(b) Chondrichthyes – Possess cartilaginous endoskeleton",
+   973→   973→      "(c) Mammalia – Give birth to young ones",
+   974→   974→      "(d) Reptilia – Possess 3-chambered heart with one incompletely divided ventricle",
+   975→   975→      2.0,
+   976→   976→      "Chondrichthyes possess cartilaginous endoskeleton without exception. Chordata includes Agnatha (jawless). Mammalia includes oviparous forms. Reptilia includes crocodiles (4-chambered).",
+   977→   977→      "CBSE AIPMT",
+   978→   978→      2011.0,
+   979→   979→      null
+   980→   980→    ]
+   981→   981→  },
+   982→   982→  {
+   983→   983→    "sheet": "Class11",
+   984→   984→    "row": 1835,
+   985→   985→    "data": [
+   986→   986→      "Biology",
+   987→   987→      4.0,
+   988→   988→      "प्राणी जगत",
+   989→   989→      "Hindi",
+   990→   990→      "संघ-कॉर्डेटा (Phylum-Chordata) के लिए निम्नलिखित में से कौन सा कथन सत्य है? I. यूरोकॉर्डेटा (Urochordata) में नोटोकॉर्ड सिर से पूंछ तक फैली होती है और यह उनके जीवन भर मौजूद रहती है। II. कशेरुकी (Vertebrata) में, नोटोकॉर्ड केवल भ्रूणीय अवधि के दौरान मौजूद होती है। III. केंद्रीय तंत्रिका तंत्र पृष्ठीय और खोखला होता है। IV. कॉर्डेटा को 3 उपसंघों, हेमीकॉर्डेटा, ट्यूनिकेटा और सेफेलोकॉर्डेटा में विभाजित किया गया है।",
+   991→   991→      "(a) III और I",
+   992→   992→      "(b) I और II",
+   993→   993→      "(c) II और III",
+   994→   994→      "(d) IV और III",
+   995→   995→      3.0,
+   996→   996→      "कथन II और III सही हैं। यूरोकॉर्डेटा में, नोटोकॉर्ड केवल लार्वा पूंछ में मौजूद होती है, जबकि सेफेलोकॉर्डेटा में, यह सिर से पूंछ क्षेत्र तक फैली होती है और जीवन भर बनी रहती है।",
+   997→   997→      "NEET (Sep.)",
+   998→   998→      2020.0,
+   999→   999→      null
+  1000→  1000→    ]
+  1001→  1001→  }
+  1002→  1002→]
