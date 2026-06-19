@@ -5,7 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"
 database_name = "exam-rescue-db"
-database_id = "PLACEHOLDER_REPLACE_WITH_REAL_ID"
+database_id = "4742b3e1-0d31-4f30-8d20-2f2cf4f25b28"
 
 [vars]
 ENVIRONMENT = "production"
