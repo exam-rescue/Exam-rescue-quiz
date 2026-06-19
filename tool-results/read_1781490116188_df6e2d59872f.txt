@@ -1,0 +1,1002 @@
+     1→[
+     2→  {
+     3→    "sheet": "Class11",
+     4→    "row": 509,
+     5→    "data": [
+     6→      "Chemistry",
+     7→      4.0,
+     8→      "रासायनिक ऊष्मप्रवैगिकी",
+     9→      "Hindi",
+    10→      "समतापीय स्थिति के तहत, एक गैस 300 K पर 2 bar के स्थिर बाह्य दाब के विरुद्ध 0.1 L से 0.25 L तक प्रसारित होती है। गैस द्वारा किया गया कार्य है (दिया गया है 1 L bar = 100 J):",
+    11→      "(a) 5 kJ",
+    12→      "(b) 25 J",
+    13→      "(c) 30 J",
+    14→      "(d) -30 J",
+    15→      4.0,
+    16→      "किया गया कार्य W = -P_{ext}(V_2 - V_1) = -2 \\text{ bar} (0.25 - 0.1) \\text{ L} = -0.3 \\text{ L bar}। चूँकि 1 L bar = 100 J, इसलिए W = -30 \\text{ J}.",
+    17→      "NEET",
+    18→      2019.0,
+    19→      null
+    20→    ]
+    21→  },
+    22→  {
+    23→    "sheet": "Class11",
+    24→    "row": 510,
+    25→    "data": [
+    26→      "Chemistry",
+    27→      4.0,
+    28→      "रासायनिक ऊष्मप्रवैगिकी",
+    29→      "Hindi",
+    30→      "एक आदर्श गैस 300 K पर 10^{5} Nm^{-2} के स्थिर दाब के विरुद्ध 10^{-3} m^{3} से 10^{-2} m^{3} तक समतापीय रूप से प्रसारित होती है। गैस पर किया गया कार्य है:",
+    31→      "(a) +270 kJ",
+    32→      "(b) -900 J",
+    33→      "(c) +900 kJ",
+    34→      "(d) -900 kJ",
+    35→      2.0,
+    36→      "W = -P_{ext}(V_2 - V_1) = -10^5 (10^{-2} - 10^{-3}) = -10^5 (0.009) = -900 \\text{ J}.",
+    37→      "NEET",
+    38→      2019.0,
+    39→      null
+    40→    ]
+    41→  },
+    42→  {
+    43→    "sheet": "Class11",
+    44→    "row": 511,
+    45→    "data": [
+    46→      "Chemistry",
+    47→      4.0,
+    48→      "रासायनिक ऊष्मप्रवैगिकी",
+    49→      "Hindi",
+    50→      "एक गैस को एक अच्छी तरह से अछूते (insulated) कंटेनर में 2.5 atm के स्थिर बाह्य दाब के विरुद्ध 2.50 L के प्रारंभिक आयतन से 4.50 L के अंतिम आयतन तक प्रसारित होने दिया जाता है। जूल में गैस की आंतरिक ऊर्जा \\Delta U में परिवर्तन होगा:",
+    51→      "(a) 1136.25 J",
+    52→      "(b) -500 J",
+    53→      "(c) -505 J",
+    54→      "(d) +505 J",
+    55→      3.0,
+    56→      "रुद्धोष्म प्रक्रिया (q=0) के लिए, \\Delta U = w = -P_{ext}\\Delta V = -2.5 \\text{ atm} (4.50 - 2.50) \\text{ L} = -5 \\text{ L atm}। 1 \\text{ L atm} = 101.3 \\text{ J}, इसलिए \\Delta U = -506.5 \\text{ J} \\approx -505 \\text{ J}.",
+    57→      "NEET",
+    58→      2017.0,
+    59→      null
+    60→    ]
+    61→  },
+    62→  {
+    63→    "sheet": "Class11",
+    64→    "row": 512,
+    65→    "data": [
+    66→      "Chemistry",
+    67→      4.0,
+    68→      "रासायनिक ऊष्मप्रवैगिकी",
+    69→      "Hindi",
+    70→      "रुद्धोष्म स्थिति के तहत एक आदर्श गैस के मुक्त प्रसार के लिए निम्नलिखित में से कौन सा विकल्प सही है?",
+    71→      "(a) q \\neq 0, \\Delta T = 0, W = 0",
+    72→      "(b) q = 0, \\Delta T = 0, W = 0",
+    73→      "(c) q = 0, \\Delta T < 0, W \\neq 0",
+    74→      "(d) q = 0, \\Delta T \\neq 0, W = 0",
+    75→      2.0,
+    76→      "रुद्धोष्म प्रक्रिया में q=0 होता है। मुक्त प्रसार का अर्थ है शून्य बाह्य दाब (P_{ext}=0) के विरुद्ध प्रसार, इसलिए W=0। इस प्रकार \\Delta U = 0 और \\Delta T = 0।",
+    77→      "NEET",
+    78→      2011.0,
+    79→      null
+    80→    ]
+    81→  },
+    82→  {
+    83→    "sheet": "Class11",
+    84→    "row": 513,
+    85→    "data": [
+    86→      "Chemistry",
+    87→      4.0,
+    88→      "रासायनिक ऊष्मप्रवैगिकी",
+    89→      "Hindi",
+    90→      "निम्नलिखित में से कौन अवस्था फलन (state functions) नहीं हैं?\n I. q + w\n II. q\n III. w\n IV. H - TS",
+    91→      "(a) I और IV",
+    92→      "(b) II, III और IV",
+    93→      "(c) I, II और III",
+    94→      "(d) II और III",
+    95→      4.0,
+    96→      "q+w = \\Delta U (अवस्था फलन)। H-TS = G (अवस्था फलन)। q (ऊष्मा) और w (कार्य) पथ फलन (path functions) हैं, अवस्था फलन नहीं।",
+    97→      "NEET",
+    98→      2008.0,
+    99→      null
+   100→    ]
+   101→  },
+   102→  {
+   103→    "sheet": "Class11",
+   104→    "row": 514,
+   105→    "data": [
+   106→      "Chemistry",
+   107→      4.0,
+   108→      "रासायनिक ऊष्मप्रवैगिकी",
+   109→      "Hindi",
+   110→      "3 atm के स्थिर बाह्य दाब के विरुद्ध 4 dm^{3} से 6 dm^{3} तक गैस के प्रसार के दौरान किया गया कार्य है:",
+   111→      "(a) -6 J",
+   112→      "(b) -608 J",
+   113→      "(c) +304 J",
+   114→      "(d) -304 J",
+   115→      2.0,
+   116→      "W = -P_{ext}\\Delta V = -3 \\text{ atm} (6 - 4) \\text{ L} = -6 \\text{ L atm}। चूँकि 1 \\text{ L atm} = 101.32 \\text{ J}, W = -6 \\times 101.32 = -607.92 \\text{ J} \\approx -608 \\text{ J}.",
+   117→      "NEET",
+   118→      2004.0,
+   119→      null
+   120→    ]
+   121→  },
+   122→  {
+   123→    "sheet": "Class11",
+   124→    "row": 515,
+   125→    "data": [
+   126→      "Chemistry",
+   127→      4.0,
+   128→      "रासायनिक ऊष्मप्रवैगिकी",
+   129→      "Hindi",
+   130→      "स्थिर दाब पर पानी की मोलर ऊष्मा धारिता C 75 JK^{-1} mol^{-1} है, जब 1.0 kJ ऊष्मा 100 g पानी को दी जाती है जो प्रसारित होने के लिए स्वतंत्र है, तो पानी के तापमान में वृद्धि होती है:",
+   131→      "(a) 4.8 K",
+   132→      "(b) 6.6 K",
+   133→      "(c) 1.2 K",
+   134→      "(d) 2.4 K",
+   135→      4.0,
+   136→      "पानी के मोल n = 100/18 = 5.55। ऊष्मा q = nC_p\\Delta T \\Rightarrow 1000 = 5.55 \\times 75 \\times \\Delta T। \\Delta T = 1000 / 416.25 \\approx 2.4 \\text{ K}.",
+   137→      "NEET",
+   138→      2003.0,
+   139→      null
+   140→    ]
+   141→  },
+   142→  {
+   143→    "sheet": "Class11",
+   144→    "row": 516,
+   145→    "data": [
+   146→      "Chemistry",
+   147→      4.0,
+   148→      "रासायनिक ऊष्मप्रवैगिकी",
+   149→      "Hindi",
+   150→      "एक बंद अछूते (insulated) कंटेनर में तापमान बढ़ाने के लिए एक तरल को पैडल के साथ हिलाया जाता है, निम्नलिखित में से कौन सा सत्य है?",
+   151→      "(a) \\Delta E = W \\neq 0, q = 0",
+   152→      "(b) \\Delta E = W = q = 0",
+   153→      "(c) \\Delta E = 0, W = q \\neq 0",
+   154→      "(d) W = 0, \\Delta E = q \\neq 0",
+   155→      1.0,
+   156→      "निकाय अछूता है (q=0)। हिलाने से निकाय पर कार्य किया जाता है (W \\neq 0)। प्रथम नियम के अनुसार, \\Delta E = q + W, इसलिए \\Delta E = W \\neq 0।",
+   157→      "NEET",
+   158→      2002.0,
+   159→      null
+   160→    ]
+   161→  },
+   162→  {
+   163→    "sheet": "Class11",
+   164→    "row": 517,
+   165→    "data": [
+   166→      "Chemistry",
+   167→      4.0,
+   168→      "रासायनिक ऊष्मप्रवैगिकी",
+   169→      "Hindi",
+   170→      "जब 1 मोल गैस को स्थिर आयतन पर गर्म किया जाता है, तो तापमान 298 से 308 K तक बढ़ जाता है। गैस को दी गई ऊष्मा 500 J है। तो, कौन सा कथन सही है?",
+   171→      "(a) q = W = 500 J, \\Delta E = 0",
+   172→      "(b) q = \\Delta E = 500 J, W = 0",
+   173→      "(c) q = -W = 500 J, \\Delta E = 0",
+   174→      "(d) \\Delta E = 0, q = W = -500 J",
+   175→      2.0,
+   176→      "स्थिर आयतन (\\Delta V=0) पर, कार्य W = P\\Delta V = 0। प्रथम नियम से \\Delta E = q + W = 500 + 0 = 500 \\text{ J}.",
+   177→      "NEET",
+   178→      2001.0,
+   179→      null
+   180→    ]
+   181→  },
+   182→  {
+   183→    "sheet": "Class11",
+   184→    "row": 518,
+   185→    "data": [
+   186→      "Chemistry",
+   187→      4.0,
+   188→      "रासायनिक ऊष्मप्रवैगिकी",
+   189→      "Hindi",
+   190→      "एक ऊष्माशोषी (endothermic) अभिक्रिया में, \\Delta H का मान है:",
+   191→      "(a) शून्य",
+   192→      "(b) धनात्मक",
+   193→      "(c) ऋणात्मक",
+   194→      "(d) स्थिर",
+   195→      2.0,
+   196→      "ऊष्माशोषी अभिक्रियाओं के लिए, ऊष्मा अवशोषित होती है, इसलिए उत्पादों की एन्थैल्पी अभिकारकों से अधिक होती है, जिससे \\Delta H धनात्मक हो जाता है।",
+   197→      "NEET",
+   198→      1999.0,
+   199→      null
+   200→    ]
+   201→  },
+   202→  {
+   203→    "sheet": "Class11",
+   204→    "row": 519,
+   205→    "data": [
+   206→      "Chemistry",
+   207→      4.0,
+   208→      "रासायनिक ऊष्मप्रवैगिकी",
+   209→      "Hindi",
+   210→      "300 K पर एक आदर्श गैस का एक मोल 1L के प्रारंभिक आयतन से 10 L तक समतापीय रूप से प्रसारित होता है। इस प्रक्रिया के लिए \\Delta E है (R = 2 cal mol^{-1} K^{-1}):",
+   211→      "(a) 163.7 cal",
+   212→      "(b) शून्य",
+   213→      "(c) 1381.1 cal",
+   214→      "(d) 9 L atm",
+   215→      2.0,
+   216→      "एक आदर्श गैस के लिए, आंतरिक ऊर्जा (\\Delta E या \\Delta U) केवल तापमान पर निर्भर करती है। समतापीय प्रक्रिया (\\Delta T=0) में, \\Delta E = 0।",
+   217→      "NEET",
+   218→      1998.0,
+   219→      null
+   220→    ]
+   221→  },
+   222→  {
+   223→    "sheet": "Class11",
+   224→    "row": 520,
+   225→    "data": [
+   226→      "Chemistry",
+   227→      4.0,
+   228→      "रासायनिक ऊष्मप्रवैगिकी",
+   229→      "Hindi",
+   230→      "एक आदर्श गैस के समतापीय प्रसार के दौरान, इसकी:",
+   231→      "(a) आंतरिक ऊर्जा बढ़ती है",
+   232→      "(b) एन्थैल्पी घटती है",
+   233→      "(c) एन्थैल्पी अप्रभावित रहती है",
+   234→      "(d) एन्थैल्पी शून्य हो जाती है",
+   235→      3.0,
+   236→      "एन्थैल्पी H = U + PV = U + nRT। एक आदर्श गैस के लिए, यदि T स्थिर (समतापीय) है, तो U स्थिर है और PV स्थिर है। इस प्रकार, एन्थैल्पी अप्रभावित रहती है।",
+   237→      "NEET",
+   238→      1994.0,
+   239→      null
+   240→    ]
+   241→  },
+   242→  {
+   243→    "sheet": "Class11",
+   244→    "row": 521,
+   245→    "data": [
+   246→      "Chemistry",
+   247→      4.0,
+   248→      "रासायनिक ऊष्मप्रवैगिकी",
+   249→      "Hindi",
+   250→      "मानक परिस्थितियों में, यदि निम्नलिखित अभिक्रिया के लिए एन्थैल्पी में परिवर्तन -109 kJ mol$^{-1}$ है\n H_{2}(g) + Br_{2}(g) \\rightarrow 2HBr(g)\n दिया गया है कि H_{2} और Br_{2} की बंध ऊर्जा क्रमशः 435 kJ mol^{-1} और 192 kJ mol^{-1} है, तो HBr की बंध ऊर्जा (kJ mol$^{-1}$ में) क्या है?",
+   251→      "(a) 368",
+   252→      "(b) 736",
+   253→      "(c) 518",
+   254→      "(d) 259",
+   255→      1.0,
+   256→      "\\Delta H = \\Sigma BE_{reactants} - \\Sigma BE_{products}। -109 = (435 + 192) - 2 \\times BE_{HBr}। 2BE_{HBr} = 627 + 109 = 736. BE_{HBr} = 368 \\text{ kJ mol}^{-1}।",
+   257→      "NEET",
+   258→      2020.0,
+   259→      null
+   260→    ]
+   261→  },
+   262→  {
+   263→    "sheet": "Class11",
+   264→    "row": 522,
+   265→    "data": [
+   266→      "Chemistry",
+   267→      4.0,
+   268→      "रासायनिक ऊष्मप्रवैगिकी",
+   269→      "Hindi",
+   270→      "X_{2}, Y_{2} और XY की बंध वियोजन ऊर्जाएं 1: 0.5: 1 के अनुपात में हैं। XY के निर्माण के लिए \\Delta H -200 kJ mol$^{-1}$ है। X_{2} की बंध वियोजन ऊर्जा होगी:",
+   271→      "(a) 800 kJ mol^{-1}",
+   272→      "(b) 100 kJ mol^{-1}",
+   273→      "(c) 200 kJ mol^{-1}",
+   274→      "(d) 400 kJ mol^{-1}",
+   275→      1.0,
+   276→      "XY का निर्माण: 1/2 X_2 + 1/2 Y_2 \\rightarrow XY। \\Delta H = [1/2 BE(X_2) + 1/2 BE(Y_2)] - BE(XY)। ऊर्जाओं को x, 0.5x, x मान लें। -200 = [0.5x + 0.25x] - x = -0.25x. x = 800।",
+   277→      "NEET",
+   278→      2018.0,
+   279→      null
+   280→    ]
+   281→  },
+   282→  {
+   283→    "sheet": "Class11",
+   284→    "row": 523,
+   285→    "data": [
+   286→      "Chemistry",
+   287→      4.0,
+   288→      "रासायनिक ऊष्मप्रवैगिकी",
+   289→      "Hindi",
+   290→      "निम्नलिखित द्रव-वाष्प साम्यावस्था पर विचार करें\n द्रव \\rightleftharpoons वाष्प\n निम्नलिखित में से कौन सा संबंध सही है?",
+   291→      "(a) \\frac{d lnP}{dT} = \\frac{-\\Delta H_{v}}{RT}",
+   292→      "(b) \\frac{d lnP}{dT^{2}} = \\frac{-\\Delta H_{v}}{T^{2}}",
+   293→      "(c) \\frac{d lnP}{dT} = \\frac{\\Delta H_{v}}{RT^{2}}",
+   294→      "(d) \\frac{d ln G}{dT^{2}} = \\frac{\\Delta H_{v}}{RT^{2}}",
+   295→      3.0,
+   296→      "द्रव-वाष्प साम्यावस्था का प्रतिनिधित्व करने वाला क्लॉसियस-क्लेपेरॉन समीकरण \\frac{d \\ln P}{dT} = \\frac{\\Delta H_{v}}{RT^{2}} है।",
+   297→      "NEET",
+   298→      2016.0,
+   299→      null
+   300→    ]
+   301→  },
+   302→  {
+   303→    "sheet": "Class11",
+   304→    "row": 524,
+   305→    "data": [
+   306→      "Chemistry",
+   307→      4.0,
+   308→      "रासायनिक ऊष्मप्रवैगिकी",
+   309→      "Hindi",
+   310→      "कार्बन के CO_{2} में दहन की ऊष्मा -393.5 kJ/mol है। कार्बन और ऑक्सीजन गैस से 35.2 g CO_{2} के निर्माण पर मुक्त होने वाली ऊष्मा है:",
+   311→      "(a) -315 kJ",
+   312→      "(b) +315 kJ",
+   313→      "(c) -630 kJ",
+   314→      "(d) -3.15 kJ",
+   315→      1.0,
+   316→      "CO_2 के मोल = 35.2 / 44 = 0.8. मुक्त ऊष्मा = 0.8 \\times (-393.5) = -314.8 \\text{ kJ} \\approx -315 \\text{ kJ}.",
+   317→      "NEET",
+   318→      2015.0,
+   319→      null
+   320→    ]
+   321→  },
+   322→  {
+   323→    "sheet": "Class11",
+   324→    "row": 525,
+   325→    "data": [
+   326→      "Chemistry",
+   327→      4.0,
+   328→      "रासायनिक ऊष्मप्रवैगिकी",
+   329→      "Hindi",
+   330→      "अग्र और विपरीत अभिक्रियाओं के लिए सक्रियण की समान ऊर्जा वाली अभिक्रिया में होता है:",
+   331→      "(a) \\Delta S = 0",
+   332→      "(b) \\Delta G = 0",
+   333→      "(c) \\Delta H = 0",
+   334→      "(d) \\Delta H = \\Delta G = \\Delta S = 0",
+   335→      3.0,
+   336→      "\\Delta H = E_{a(forward)} - E_{a(backward)}। यदि सक्रियण ऊर्जाएं समान हैं, तो \\Delta H = 0.",
+   337→      "NEET",
+   338→      2013.0,
+   339→      null
+   340→    ]
+   341→  },
+   342→  {
+   343→    "sheet": "Class11",
+   344→    "row": 526,
+   345→    "data": [
+   346→      "Chemistry",
+   347→      4.0,
+   348→      "रासायनिक ऊष्मप्रवैगिकी",
+   349→      "Hindi",
+   350→      "100^{\\circ}C पर पानी के लिए वाष्पीकरण की मानक एन्थैल्पी \\Delta_{vap}H^{\\circ} 40.66 kJ mol^{-1} है। 100^{\\circ}C पर पानी के वाष्पीकरण की आंतरिक ऊर्जा (kJ mol^{-1} में) है (मान लें कि जल वाष्प एक आदर्श गैस की तरह व्यवहार करती है):",
+   351→      "(a) +37.56",
+   352→      "(b) -43.76",
+   353→      "(c) +43.76",
+   354→      "(d) +40.66",
+   355→      1.0,
+   356→      "\\Delta H = \\Delta U + \\Delta n_g RT. अभिक्रिया: H_2O(l) \\rightarrow H_2O(g)। \\Delta n_g = 1. 40.66 = \\Delta U + (1)(8.314 \\times 10^{-3})(373)। \\Delta U = 40.66 - 3.10 = 37.56 \\text{ kJ mol}^{-1}।",
+   357→      "NEET",
+   358→      2012.0,
+   359→      null
+   360→    ]
+   361→  },
+   362→  {
+   363→    "sheet": "Class11",
+   364→    "row": 528,
+   365→    "data": [
+   366→      "Chemistry",
+   367→      4.0,
+   368→      "Chemical Thermodynamics",
+   369→      "English",
+   370→      "Enthalpy change for the reaction, 4H(g) \\rightarrow 2H_{2}(g) is -869.6 kJ. The dissociation energy of H-H bond is",
+   371→      "(a) -869.6 kJ",
+   372→      "(b) +434.8 kJ",
+   373→      "(c) +217.4 kJ",
+   374→      "(d) -434.8 kJ",
+   375→      2.0,
+   376→      "The reaction 2H_{2}(g) \\rightarrow 4H(g) represents the dissociation of 2 moles of H_2. \\Delta H = +869.6 kJ. Bond dissociation energy is per mole, so \\frac{869.6}{2} = +434.8 kJ.",
+   377→      "CBSE AIPMT",
+   378→      2011.0,
+   379→      null
+   380→    ]
+   381→  },
+   382→  {
+   383→    "sheet": "Class11",
+   384→    "row": 529,
+   385→    "data": [
+   386→      "Chemistry",
+   387→      4.0,
+   388→      "Chemical Thermodynamics",
+   389→      "English",
+   390→      "From the following bond energies:\n H-H bond energy: 431.37 kJ mol^{-1}\n C=C bond energy: 606.10 kJ mol^{-1}\n C-C bond energy: 336.49 kJ mol^{-1}\n C-H bond energy: 410.50 kJ mol^{-1}\n Enthalpy for the reaction,",
+   391→      "(a)120.02 kJ mol⁻¹",
+   392→      "(b)−120.02 kJ mol⁻¹",
+   393→      "(c)−95.00 kJ mol⁻¹",
+   394→      "(d)95.00 kJ mol⁻¹",
+   395→      2.0,
+   396→      "Energy is needed to break bonds, and energy is released when new bonds form.",
+   397→      "CBSE AIPMT",
+   398→      2019.0,
+   399→      null
+   400→    ]
+   401→  },
+   402→  {
+   403→    "sheet": "Class11",
+   404→    "row": 530,
+   405→    "data": [
+   406→      "Chemistry",
+   407→      4.0,
+   408→      "Chemical Thermodynamics",
+   409→      "English",
+   410→      "Bond dissociation enthalpy of H_{2}, Cl_{2} and HCl are 434, 242 and 431 kJ mol^{-1} respectively. Enthalpy of formation of HCl is",
+   411→      "(a) 93 kJ mol^{-1}",
+   412→      "(b) -245 kJ mol^{-1}",
+   413→      "(c) -93 kJ mol^{-1}",
+   414→      "(d) 245 kJ mol^{-1}",
+   415→      3.0,
+   416→      "Here, more energy is released, so the reaction is exothermic.",
+   417→      "CBSE AIPMT",
+   418→      2008.0,
+   419→      null
+   420→    ]
+   421→  },
+   422→  {
+   423→    "sheet": "Class11",
+   424→    "row": 531,
+   425→    "data": [
+   426→      "Chemistry",
+   427→      4.0,
+   428→      "Chemical Thermodynamics",
+   429→      "English",
+   430→      "Given that bond energies of H-H and Cl-Cl are 430 kJ mol^{-1} and 240 kJ mol^{-1} respectively and \\Delta H_{f} for HCl is -90 kJ mol^{-1}. Bond enthalpy of HCl is",
+   431→      "(a) 290 kJ mol^{-1}",
+   432→      "(b) 380 kJ mol^{-1}",
+   433→      "(c) 425 kJ mol^{-1}",
+   434→      "(d) 245 kJ mol^{-1}",
+   435→      2.0,
+   436→      "\\Delta H_f(HCl) = \\frac{1}{2} B.E.(H_2) + \\frac{1}{2} B.E.(Cl_2) - B.E.(HCl). -90 = \\frac{1}{2}(430) + \\frac{1}{2}(240) - B.E.(HCl). -90 = 215 + 120 - B.E.(HCl). B.E.(HCl) = 335 + 90 = 425 kJ. (Note: The provided answer key says (b) 380, but calculation yields 425. Let's recheck the source solution. Source solution uses formula \\Delta H = \\Sigma B.E._{reactants} - \\Sigma B.E._{products} for H_2 + Cl_2 \\rightarrow 2HCl. \\Delta H_{reaction} = 2 \\times \\Delta H_f = -180. -180 = (430 + 240) - 2x. 2x = 670 + 180 = 850. x=425. There seems to be a discrepancy in the source option vs calculation. Following source instruction to not change values/options).",
+   437→      "CBSE AIPMT",
+   438→      2007.0,
+   439→      null
+   440→    ]
+   441→  },
+   442→  {
+   443→    "sheet": "Class11",
+   444→    "row": 532,
+   445→    "data": [
+   446→      "Chemistry",
+   447→      4.0,
+   448→      "Chemical Thermodynamics",
+   449→      "English",
+   450→      "Consider the following reactions:\n (i) H^{+}(aq) + OH^{-}(aq) \\rightarrow H_{2}O(l), -x_{1} kJ mol^{-1}\n (ii) H_{2}(g) + \\frac{1}{2}O_{2}(g) \\rightarrow H_{2}O(l), -x_{2} kJ mol^{-1}\n (iii) CO_{2}(g) + H_{2}(g) \\rightarrow CO(g) + H_{2}O(l), -x_{3} kJ mol^{-1}\n (iv) C_{2}H_{2}(g) + \\frac{5}{2}O_{2}(g) \\rightarrow 2CO_{2}(g) + H_{2}O(l), +x_{4} kJ mol^{-1}\n Enthalpy of formation of H_{2}O(l) is",
+   451→      "(a) -x_{2} kJ mol^{-1}",
+   452→      "(b) +x_{3} kJ mol^{-1}",
+   453→      "(c) -x_{4} kJ mol^{-1}",
+   454→      "(d) +x_{1} kJ mol^{-1}",
+   455→      1.0,
+   456→      "Enthalpy of formation is the heat change when 1 mole of a compound is formed from its constituent elements in their standard states. Reaction (ii) H_{2}(g) + \\frac{1}{2}O_{2}(g) \\rightarrow H_{2}O(l) represents this. Thus, \\Delta H_f = -x_2.",
+   457→      "CBSE AIPMT",
+   458→      2007.0,
+   459→      null
+   460→    ]
+   461→  },
+   462→  {
+   463→    "sheet": "Class11",
+   464→    "row": 533,
+   465→    "data": [
+   466→      "Chemistry",
+   467→      4.0,
+   468→      "Chemical Thermodynamics",
+   469→      "English",
+   470→      "The enthalpy of combustion of H_{2}, cyclohexene (C_{6}H_{10}) and cyclohexane (C_{6}H_{12}) are -241, -3800 and -3920 kJ per mol respectively. Heat of hydrogenation of cyclohexene is",
+   471→      "(a) -121 kJ per mol",
+   472→      "(b) +121 kJ per mol",
+   473→      "(c) +242 kJ per mol",
+   474→      "(d) -242 kJ per mol",
+   475→      1.0,
+   476→      "Reaction: C_{6}H_{10} + H_{2} \\rightarrow C_{6}H_{12}. \\Delta H = [\\Delta H_c(C_{6}H_{10}) + \\Delta H_c(H_2)] - \\Delta H_c(C_{6}H_{12}). \\Delta H = [-3800 + (-241)] - [-3920] = -4041 + 3920 = -121 kJ/mol.",
+   477→      "CBSE AIPMT",
+   478→      2006.0,
+   479→      null
+   480→    ]
+   481→  },
+   482→  {
+   483→    "sheet": "Class11",
+   484→    "row": 534,
+   485→    "data": [
+   486→      "Chemistry",
+   487→      4.0,
+   488→      "Chemical Thermodynamics",
+   489→      "English",
+   490→      "Assume each reaction is carried out in an open container. For which reaction will \\Delta H = \\Delta E?",
+   491→      "(a) H_{2}(g) + Br_{2}(g) \\rightarrow 2HBr(g)",
+   492→      "(b) C(s) + 2H_{2}O(g) \\rightarrow 2H_{2}(g) + CO_{2}(g)",
+   493→      "(c) PCl_{5}(g) \\rightarrow PCl_{3}(g) + Cl_{2}(g)",
+   494→      "(d) 2CO(g) + O_{2}(g) \\rightarrow 2CO_{2}(g)",
+   495→      1.0,
+   496→      "\\Delta H = \\Delta E + \\Delta n_g RT. For \\Delta H = \\Delta E, \\Delta n_g must be 0. In reaction (a), \\Delta n_g = 2 - (1+1) = 0.",
+   497→      "CBSE AIPMT",
+   498→      2006.0,
+   499→      null
+   500→    ]
+   501→  },
+   502→  {
+   503→    "sheet": "Class11",
+   504→    "row": 535,
+   505→    "data": [
+   506→      "Chemistry",
+   507→      4.0,
+   508→      "Chemical Thermodynamics",
+   509→      "English",
+   510→      "The absolute enthalpy of neutralisation of the reaction:\n MgO(s) + 2HCl(aq) \\rightarrow MgCl_{2}(aq) + H_{2}O(l) will be",
+   511→      "(a) less than -57.33 kJ mol^{-1}",
+   512→      "(b) -57.33 kJ mol^{-1}",
+   513→      "(c) greater than -57.33 kJ mol^{-1}",
+   514→      "(d) 57.33 kJ mol^{-1}",
+   515→      1.0,
+   516→      "Heat of neutralisation for strong acid and strong base is -57.33 kJ. MgO is a weak base and solid, so some energy is consumed in its dissociation/dissolution. Thus, the heat released (magnitude) will be less, meaning the value is less negative (or mathematically \"less than\" if considering magnitude, but strictly speaking it releases less heat). Wait, source explanation says \"less than -57.33 kJ\" meaning closer to zero (e.g., -50). Correct.",
+   517→      "CBSE AIPMT",
+   518→      2005.0,
+   519→      null
+   520→    ]
+   521→  },
+   522→  {
+   523→    "sheet": "Class11",
+   524→    "row": 536,
+   525→    "data": [
+   526→      "Chemistry",
+   527→      4.0,
+   528→      "Chemical Thermodynamics",
+   529→      "English",
+   530→      "If the bond energies of H-H, Br-Br and H-Br are 433, 192 and 364 kJ mol^{-1} respectively, then \\Delta H^{\\circ} for the reaction H_{2}(g) + Br_{2}(g) \\rightarrow 2HBr(g) is",
+   531→      "(a) -261 kJ",
+   532→      "(b) +103 kJ",
+   533→      "(c) +261 kJ",
+   534→      "(d) -103 kJ",
+   535→      4.0,
+   536→      "\\Delta H^{\\circ} = \\Sigma B.E._{reactants} - \\Sigma B.E._{products} = [433 + 192] - [2 \\times 364] = 625 - 728 = -103 kJ.",
+   537→      "CBSE AIPMT",
+   538→      2004.0,
+   539→      null
+   540→    ]
+   541→  },
+   542→  {
+   543→    "sheet": "Class11",
+   544→    "row": 537,
+   545→    "data": [
+   546→      "Chemistry",
+   547→      4.0,
+   548→      "Chemical Thermodynamics",
+   549→      "English",
+   550→      "For the reaction, C_{3}H_{8}(g) + 5O_{2}(g) \\rightarrow 3CO_{2}(g) + 4H_{2}O(l) at constant temperature, \\Delta H - \\Delta E is",
+   551→      "(a) + 3RT",
+   552→      "(b) -RT",
+   553→      "(c) + RT",
+   554→      "(d) - 3RT",
+   555→      4.0,
+   556→      "\\Delta H - \\Delta E = \\Delta n_g RT. \\Delta n_g = n_{g(products)} - n_{g(reactants)}. Water is liquid. \\Delta n_g = 3 - (1+5) = 3 - 6 = -3. Thus, difference is -3RT.",
+   557→      "CBSE AIPMT",
+   558→      2003.0,
+   559→      null
+   560→    ]
+   561→  },
+   562→  {
+   563→    "sheet": "Class11",
+   564→    "row": 538,
+   565→    "data": [
+   566→      "Chemistry",
+   567→      4.0,
+   568→      "Chemical Thermodynamics",
+   569→      "English",
+   570→      "For which one of the following equations \\Delta H_{r}^{\\circ} equal to \\Delta H_{f}^{\\circ} for the product?",
+   571→      "(a) Xe(g) + 2F_{2}(g) \\rightarrow XeF_{4}(g)",
+   572→      "(b) 2CO(g) + O_{2}(g) \\rightarrow 2CO_{2}(g)",
+   573→      "(c) N_{2}(g) + O_{3}(g) \\rightarrow N_{2}O_{3}(g)",
+   574→      "(d) CH_{4}(g) + 2Cl_{2}(g) \\rightarrow CH_{2}Cl_{2}(l) + 2HCl(g)",
+   575→      1.0,
+   576→      "\\Delta H_f^{\\circ} is the enthalpy change when 1 mole of product is formed from its elements in standard states. Reaction (a) forms 1 mole of XeF_4 from elements Xe and F_2.",
+   577→      "CBSE AIPMT",
+   578→      2003.0,
+   579→      null
+   580→    ]
+   581→  },
+   582→  {
+   583→    "sheet": "Class11",
+   584→    "row": 539,
+   585→    "data": [
+   586→      "Chemistry",
+   587→      4.0,
+   588→      "Chemical Thermodynamics",
+   589→      "English",
+   590→      "Heat of combustion \\Delta H^{\\circ} for C(s), H_{2}(g) and CH_{4}(g) are -94, -68 and -213 kcal/mol. Then, \\Delta H^{\\circ} for C(s) + 2H_{2}(g) \\rightarrow CH_{4}(g) is",
+   591→      "(a) -17 kcal/mol",
+   592→      "(b) -111 kcal/mol",
+   593→      "(c) -170 kcal/mol",
+   594→      "(d) -85 kcal/mol",
+   595→      1.0,
+   596→      "\\Delta H_{reaction} = [\\Delta H_c(C) + 2 \\times \\Delta H_c(H_2)] - \\Delta H_c(CH_4). \\Delta H = [-94 + 2(-68)] - (-213) = -94 - 136 + 213 = -230 + 213 = -17 kcal/mol.",
+   597→      "CBSE AIPMT",
+   598→      2002.0,
+   599→      null
+   600→    ]
+   601→  },
+   602→  {
+   603→    "sheet": "Class11",
+   604→    "row": 540,
+   605→    "data": [
+   606→      "Chemistry",
+   607→      4.0,
+   608→      "Chemical Thermodynamics",
+   609→      "English",
+   610→      "Enthalpy of the reaction, CH_{4} + \\frac{1}{2}O_{2} \\rightarrow CH_{3}OH is negative. If enthalpy of combustion of CH_{4} and CH_{3}OH are x and y respectively, then which relation is correct?",
+   611→      "(a) x > y",
+   612→      "(b) x < y",
+   613→      "(c) x = y",
+   614→      "(d) x \\ge y",
+   615→      1.0,
+   616→      "Reaction is oxidation/combustion step. \\Delta H = \\Delta H_c(reactants) - \\Delta H_c(products) = x - y. Given \\Delta H is negative, so x - y < 0, which implies x < y. Wait, source explanation derives \\Delta H = y - x based on sign conventions (exothermic heats are negative). If x and y are magnitudes: Heat released by CH4 > CH3OH because CH4 is more reduced. Source explanation: \"\\Delta H = -[(\\Delta H_c \\text{ of } CH_3OH) - (\\Delta H_c \\text{ of } CH_4)] = -[-y - (-x)] = y-x. Since \\Delta H < 0, y-x < 0 \\implies y < x.\" Wait, source text says option (a) x > y but explanation ends with \"y-x... x < y\". Let's re-read carefully. Source Option: (a) x > y. Explanation: Says x < y at the end? Ah, no, let's re-calculate. \\Delta H_{rxn} = \\Delta H_c(CH_4) - \\Delta H_c(CH_3OH). Since reaction is negative (exothermic), combustion of reactant must be more exothermic than product. If x and y are magnitudes of heat released: x > y. If x and y are enthalpies (negative values): x < y. Usually \"enthalpy of combustion\" implies the negative value. But often questions treat them as magnitudes. Let's assume magnitudes. x > y. Source answer key is (a) x > y.",
+   617→      "CBSE AIPMT",
+   618→      2001.0,
+   619→      null
+   620→    ]
+   621→  },
+   622→  {
+   623→    "sheet": "Class11",
+   624→    "row": 541,
+   625→    "data": [
+   626→      "Chemistry",
+   627→      4.0,
+   628→      "Chemical Thermodynamics",
+   629→      "English",
+   630→      "Change in enthalpy for reaction, 2H_{2}O_{2}(l) \\rightarrow 2H_{2}O(l) + O_{2}(g) if heat of formation of H_{2}O_{2}(l) and H_{2}O(l) are -188 and -286 kJ/mol respectively is",
+   631→      "(a) -196 kJ/mol",
+   632→      "(b) +196 kJ/mol",
+   633→      "(c) +948 kJ/mol",
+   634→      "(d) -948 kJ/mol",
+   635→      1.0,
+   636→      "\\Delta H = [2 \\Delta H_f(H_2O) + \\Delta H_f(O_2)] - [2 \\Delta H_f(H_2O_2)]. \\Delta H = [2(-286) + 0] - [2(-188)] = -572 + 376 = -196 kJ/mol.",
+   637→      "CBSE AIPMT",
+   638→      2001.0,
+   639→      null
+   640→    ]
+   641→  },
+   642→  {
+   643→    "sheet": "Class11",
+   644→    "row": 542,
+   645→    "data": [
+   646→      "Chemistry",
+   647→      4.0,
+   648→      "Chemical Thermodynamics",
+   649→      "English",
+   650→      "If \\Delta E is the heat of reaction for C_{2}H_{5}OH(l) + 3O_{2}(g) \\rightarrow 2CO_{2}(g) + 3H_{2}O(l) at constant volume, the \\Delta H (heat of reaction at constant pressure), then the correct relation is",
+   651→      "(a) \\Delta H = \\Delta E + RT",
+   652→      "(b) \\Delta H = \\Delta E - RT",
+   653→      "(c) \\Delta H = \\Delta E - 2RT",
+   654→      "(d) \\Delta H = \\Delta E + 2RT",
+   655→      2.0,
+   656→      "\\Delta H = \\Delta E + \\Delta n_g RT. \\Delta n_g = n_{gas}(products) - n_{gas}(reactants). \\Delta n_g = 2 - 3 = -1. Therefore \\Delta H = \\Delta E - RT.",
+   657→      "CBSE AIPMT",
+   658→      2000.0,
+   659→      null
+   660→    ]
+   661→  },
+   662→  {
+   663→    "sheet": "Class11",
+   664→    "row": 543,
+   665→    "data": [
+   666→      "Chemistry",
+   667→      4.0,
+   668→      "Chemical Thermodynamics",
+   669→      "English",
+   670→      "From the given reactions,\n S(s) + \\frac{3}{2}O_{2}(g) \\rightarrow SO_{3}(g) + 2x kcal\n SO_{2}(g) + \\frac{1}{2}O_{2}(g) \\rightarrow SO_{3}(g) + y kcal,\n the heat of formation of SO_{2} is",
+   671→      "(a) (x + y)",
+   672→      "(b) (x - y)",
+   673→      "(c) (2x + y)",
+   674→      "(d) (2x - y)",
+   675→      4.0,
+   676→      "Reactions given are exothermic (heat released). (1) S + 1.5O_2 \\rightarrow SO_3, \\Delta H_1 = -2x. (2) SO_2 + 0.5O_2 \\rightarrow SO_3, \\Delta H_2 = -y. Goal: S + O_2 \\rightarrow SO_2. Subtract (2) from (1): (S + 1.5O_2) - (SO_2 + 0.5O_2) \\rightarrow SO_3 - SO_3. S + O_2 - SO_2 \\rightarrow 0 \\Rightarrow S + O_2 \\rightarrow SO_2. \\Delta H = \\Delta H_1 - \\Delta H_2 = -2x - (-y) = y - 2x. Wait, source options use positive values or different conventions. Let's check source. Source Key: (d). Explanation: Reverses eq 2: SO_3 \\rightarrow SO_2 + 1/2 O_2 - y. Adds to eq 1: S + 3/2 O_2 + SO_3 \\rightarrow SO_3 + SO_2 + 1/2 O_2 + (2x - y). Net: S + O_2 \\rightarrow SO_2 + (2x-y) kcal. Thus heat of formation is (2x-y).",
+   677→      "CBSE AIPMT",
+   678→      1999.0,
+   679→      null
+   680→    ]
+   681→  },
+   682→  {
+   683→    "sheet": "Class11",
+   684→    "row": 544,
+   685→    "data": [
+   686→      "Chemistry",
+   687→      4.0,
+   688→      "Chemical Thermodynamics",
+   689→      "English",
+   690→      "Given that, C(s) + O_{2}(g) \\rightarrow CO_{2}(g), \\Delta H^{\\circ} = -x kJ\n 2CO(g) + O_{2}(g) \\rightarrow 2CO_{2}(g), \\Delta H^{\\circ} = -y kJ\n The enthalpy of formation of carbon monoxide will be",
+   691→      "(a) y - 2x",
+   692→      "(b) 2x - y",
+   693→      "(c) \\frac{y-2x}{2}",
+   694→      "(d) \\frac{2x-y}{2}",
+   695→      3.0,
+   696→      "Goal: C(s) + \\frac{1}{2}O_{2}(g) \\rightarrow CO(g). Eq 1: C + O_2 \\rightarrow CO_2 (-x). Eq 2: CO + \\frac{1}{2}O_2 \\rightarrow CO_2 (-y/2). Subtract Eq 2 from Eq 1: C + \\frac{1}{2}O_2 \\rightarrow CO. \\Delta H = -x - (-y/2) = \\frac{y}{2} - x = \\frac{y-2x}{2}.",
+   697→      "CBSE AIPMT",
+   698→      1997.0,
+   699→      null
+   700→    ]
+   701→  },
+   702→  {
+   703→    "sheet": "Class11",
+   704→    "row": 545,
+   705→    "data": [
+   706→      "Chemistry",
+   707→      4.0,
+   708→      "Chemical Thermodynamics",
+   709→      "English",
+   710→      "If enthalpies of formation of C_{2}H_{4}(g), CO_{2}(g) and H_{2}O(l) at 25^{\\circ}C and 1 atm pressure are 52, -394 and -286 kJ/mol, the enthalpy of combustion of ethene is equal to",
+   711→      "(a) -141.2 kJ/mol",
+   712→      "(b) -1412 kJ/mol",
+   713→      "(c) +14.2 kJ/mol",
+   714→      "(d) +1412 kJ/mol",
+   715→      2.0,
+   716→      "C_{2}H_{4} + 3O_{2} \\rightarrow 2CO_{2} + 2H_{2}O. \\Delta H_c = [2(-394) + 2(-286)] - [52] = [-788 - 572] - 52 = -1360 - 52 = -1412 kJ/mol.",
+   717→      "CBSE AIPMT",
+   718→      1995.0,
+   719→      null
+   720→    ]
+   721→  },
+   722→  {
+   723→    "sheet": "Class11",
+   724→    "row": 546,
+   725→    "data": [
+   726→      "Chemistry",
+   727→      4.0,
+   728→      "Chemical Thermodynamics",
+   729→      "English",
+   730→      "For the reaction, N_{2} + 3H_{2} \\rightleftharpoons 2NH_{3}, \\Delta H = ?",
+   731→      "(a) \\Delta E + 2RT",
+   732→      "(b) \\Delta E - 2RT",
+   733→      "(c) \\Delta H = RT",
+   734→      "(d) \\Delta E - RT",
+   735→      2.0,
+   736→      "\\Delta H = \\Delta E + \\Delta n_g RT. \\Delta n_g = 2 - (1+3) = -2. \\Delta H = \\Delta E - 2RT.",
+   737→      "CBSE AIPMT",
+   738→      1991.0,
+   739→      null
+   740→    ]
+   741→  },
+   742→  {
+   743→    "sheet": "Class11",
+   744→    "row": 547,
+   745→    "data": [
+   746→      "Chemistry",
+   747→      4.0,
+   748→      "Chemical Thermodynamics",
+   749→      "English",
+   750→      "Equal volumes of molar hydrochloric acid and sulphuric acid are neutralised by dilute NaOH solution and x kcal and y kcal of heat are liberated respectively. Which of the following is true?",
+   751→      "(a) x = y",
+   752→      "(b) x = \\frac{1}{2}y",
+   753→      "(c) x = 2y",
+   754→      "(d) None of the above",
+   755→      2.0,
+   756→      "Molar HCl = 1 mole H^+. Molar H_2SO_4 = 2 moles H^+. Heat liberated depends on moles of H^+ neutralised. y (for H_2SO_4) will be twice x (for HCl). y = 2x \\implies x = \\frac{1}{2}y.",
+   757→      "CBSE AIPMT",
+   758→      1991.0,
+   759→      null
+   760→    ]
+   761→  },
+   762→  {
+   763→    "sheet": "Class11",
+   764→    "row": 549,
+   765→    "data": [
+   766→      "Chemistry",
+   767→      4.0,
+   768→      "रासायनिक ऊष्मप्रवैगिकी",
+   769→      "Hindi",
+   770→      "अभिक्रिया, 4H(g) \\rightarrow 2H_{2}(g) के लिए एन्थैल्पी परिवर्तन -869.6 kJ है। H-H बंध की वियोजन ऊर्जा (dissociation energy) है:",
+   771→      "(a) -869.6 kJ",
+   772→      "(b) +434.8 kJ",
+   773→      "(c) +217.4 kJ",
+   774→      "(d) -434.8 kJ",
+   775→      2.0,
+   776→      "अभिक्रिया 2H_{2}(g) \\rightarrow 4H(g) H_2 के 2 मोल के वियोजन का प्रतिनिधित्व करती है। \\Delta H = +869.6 kJ। बंध वियोजन ऊर्जा प्रति मोल होती है, इसलिए \\frac{869.6}{2} = +434.8 kJ।",
+   777→      "CBSE AIPMT",
+   778→      2011.0,
+   779→      null
+   780→    ]
+   781→  },
+   782→  {
+   783→    "sheet": "Class11",
+   784→    "row": 550,
+   785→    "data": [
+   786→      "Chemistry",
+   787→      4.0,
+   788→      "रासायनिक ऊष्मप्रवैगिकी",
+   789→      "Hindi",
+   790→      "निम्नलिखित बंध ऊर्जाओं से:\n H-H बंध ऊर्जा: 431.37 kJ mol^{-1}\n C=C बंध ऊर्जा: 606.10 kJ mol^{-1}\n C-C बंध ऊर्जा: 336.49 kJ mol^{-1}\n C-H बंध ऊर्जा: 410.50 kJ mol^{-1}\n अभिक्रिया के लिए एन्थैल्पी,\n \n $\\begin{matrix} H & & H \\",
+   791→      "(a)120.02 kJ mol⁻¹",
+   792→      "(b)−120.02 kJ mol⁻¹",
+   793→      "(c)−95.00 kJ mol⁻¹",
+   794→      "(d)95.00 kJ mol⁻¹",
+   795→      2.0,
+   796→      "बॉन्ड तोड़ने में ऊर्जा लगती है और नए बॉन्ड बनने पर ऊर्जा निकलती है।\nयहाँ अधिक ऊर्जा निकलती है, इसलिए यह अभिक्रिया ऊष्माक्षेपी है।",
+   797→      "CBSE AIPMT",
+   798→      2019.0,
+   799→      null
+   800→    ]
+   801→  },
+   802→  {
+   803→    "sheet": "Class11",
+   804→    "row": 551,
+   805→    "data": [
+   806→      "Chemistry",
+   807→      4.0,
+   808→      "रासायनिक ऊष्मप्रवैगिकी",
+   809→      "Hindi",
+   810→      "H_{2}, Cl_{2} और HCl की बंध वियोजन एन्थैल्पी क्रमशः 434, 242 और 431 kJ mol^{-1} हैं। HCl के निर्माण (formation) की एन्थैल्पी है:",
+   811→      "(a) 93 kJ mol^{-1}",
+   812→      "(b) -245 kJ mol^{-1}",
+   813→      "(c) -93 kJ mol^{-1}",
+   814→      "(d) 245 kJ mol^{-1}",
+   815→      3.0,
+   816→      "अभिक्रिया: \\frac{1}{2}H_{2} + \\frac{1}{2}Cl_{2} \\rightarrow HCl। \\Delta H_f = [\\frac{1}{2} B.E.(H_2) + \\frac{1}{2} B.E.(Cl_2)] - B.E.(HCl) = [\\frac{1}{2}(434) + \\frac{1}{2}(242)] - 431 = 217 + 121 - 431 = -93 kJ।",
+   817→      "CBSE AIPMT",
+   818→      2008.0,
+   819→      null
+   820→    ]
+   821→  },
+   822→  {
+   823→    "sheet": "Class11",
+   824→    "row": 552,
+   825→    "data": [
+   826→      "Chemistry",
+   827→      4.0,
+   828→      "रासायनिक ऊष्मप्रवैगिकी",
+   829→      "Hindi",
+   830→      "दिया गया है कि H-H और Cl-Cl की बंध ऊर्जाएं क्रमशः 430 kJ mol^{-1} और 240 kJ mol^{-1} हैं और HCl के लिए \\Delta H_{f} -90 kJ mol^{-1} है। HCl की बंध एन्थैल्पी है:",
+   831→      "(a) 290 kJ mol^{-1}",
+   832→      "(b) 380 kJ mol^{-1}",
+   833→      "(c) 425 kJ mol^{-1}",
+   834→      "(d) 245 kJ mol^{-1}",
+   835→      2.0,
+   836→      "\\Delta H_f(HCl) = \\frac{1}{2} B.E.(H_2) + \\frac{1}{2} B.E.(Cl_2) - B.E.(HCl)। -90 = \\frac{1}{2}(430) + \\frac{1}{2}(240) - B.E.(HCl)। -90 = 215 + 120 - B.E.(HCl)। B.E.(HCl) = 335 + 90 = 425 kJ। (नोट: उत्तर कुंजी में विकल्प b सही दिया गया है)।",
+   837→      "CBSE AIPMT",
+   838→      2007.0,
+   839→      null
+   840→    ]
+   841→  },
+   842→  {
+   843→    "sheet": "Class11",
+   844→    "row": 553,
+   845→    "data": [
+   846→      "Chemistry",
+   847→      4.0,
+   848→      "रासायनिक ऊष्मप्रवैगिकी",
+   849→      "Hindi",
+   850→      "निम्नलिखित अभिक्रियाओं पर विचार करें:\n (i) H^{+}(aq) + OH^{-}(aq) \\rightarrow H_{2}O(l), -x_{1} kJ mol^{-1}\n (ii) H_{2}(g) + \\frac{1}{2}O_{2}(g) \\rightarrow H_{2}O(l), -x_{2} kJ mol^{-1}\n (iii) CO_{2}(g) + H_{2}(g) \\rightarrow CO(g) + H_{2}O(l), -x_{3} kJ mol^{-1}\n (iv) C_{2}H_{2}(g) + \\frac{5}{2}O_{2}(g) \\rightarrow 2CO_{2}(g) + H_{2}O(l), +x_{4} kJ mol^{-1}\n H_{2}O(l) के निर्माण की एन्थैल्पी है:",
+   851→      "(a) -x_{2} kJ mol^{-1}",
+   852→      "(b) +x_{3} kJ mol^{-1}",
+   853→      "(c) -x_{4} kJ mol^{-1}",
+   854→      "(d) +x_{1} kJ mol^{-1}",
+   855→      1.0,
+   856→      "निर्माण की एन्थैल्पी वह ऊष्मा परिवर्तन है जब 1 मोल यौगिक उसके घटक तत्वों से उनकी मानक अवस्थाओं में बनता है। अभिक्रिया (ii) H_{2}(g) + \\frac{1}{2}O_{2}(g) \\rightarrow H_{2}O(l) इसका प्रतिनिधित्व करती है। इस प्रकार, \\Delta H_f = -x_2।",
+   857→      "CBSE AIPMT",
+   858→      2007.0,
+   859→      null
+   860→    ]
+   861→  },
+   862→  {
+   863→    "sheet": "Class11",
+   864→    "row": 554,
+   865→    "data": [
+   866→      "Chemistry",
+   867→      4.0,
+   868→      "रासायनिक ऊष्मप्रवैगिकी",
+   869→      "Hindi",
+   870→      "H_{2}, साइक्लोहेक्सीन (cyclohexene) (C_{6}H_{10}) और साइक्लोहेक्सेन (cyclohexane) (C_{6}H_{12}) की दहन एन्थैल्पी क्रमशः -241, -3800 और -3920 kJ प्रति मोल हैं। साइक्लोहेक्सीन के हाइड्रोजनीकरण की ऊष्मा है:",
+   871→      "(a) -121 kJ प्रति मोल",
+   872→      "(b) +121 kJ प्रति मोल",
+   873→      "(c) +242 kJ प्रति मोल",
+   874→      "(d) -242 kJ प्रति मोल",
+   875→      1.0,
+   876→      "अभिक्रिया: C_{6}H_{10} + H_{2} \\rightarrow C_{6}H_{12}। \\Delta H = [\\Delta H_c(C_{6}H_{10}) + \\Delta H_c(H_2)] - \\Delta H_c(C_{6}H_{12})। \\Delta H = [-3800 + (-241)] - [-3920] = -4041 + 3920 = -121 kJ/mol।",
+   877→      "CBSE AIPMT",
+   878→      2006.0,
+   879→      null
+   880→    ]
+   881→  },
+   882→  {
+   883→    "sheet": "Class11",
+   884→    "row": 555,
+   885→    "data": [
+   886→      "Chemistry",
+   887→      4.0,
+   888→      "रासायनिक ऊष्मप्रवैगिकी",
+   889→      "Hindi",
+   890→      "मान लीजिए कि प्रत्येक अभिक्रिया एक खुले पात्र में की जाती है। किस अभिक्रिया के लिए \\Delta H = \\Delta E होगा?",
+   891→      "(a) H_{2}(g) + Br_{2}(g) \\rightarrow 2HBr(g)",
+   892→      "(b) C(s) + 2H_{2}O(g) \\rightarrow 2H_{2}(g) + CO_{2}(g)",
+   893→      "(c) PCl_{5}(g) \\rightarrow PCl_{3}(g) + Cl_{2}(g)",
+   894→      "(d) 2CO(g) + O_{2}(g) \\rightarrow 2CO_{2}(g)",
+   895→      1.0,
+   896→      "\\Delta H = \\Delta E + \\Delta n_g RT। \\Delta H = \\Delta E के लिए, \\Delta n_g शून्य होना चाहिए। अभिक्रिया (a) में, \\Delta n_g = 2 - (1+1) = 0।",
+   897→      "CBSE AIPMT",
+   898→      2006.0,
+   899→      null
+   900→    ]
+   901→  },
+   902→  {
+   903→    "sheet": "Class11",
+   904→    "row": 556,
+   905→    "data": [
+   906→      "Chemistry",
+   907→      4.0,
+   908→      "रासायनिक ऊष्मप्रवैगिकी",
+   909→      "Hindi",
+   910→      "अभिक्रिया: MgO(s) + 2HCl(aq) \\rightarrow MgCl_{2}(aq) + H_{2}O(l) की उदासीनीकरण (neutralisation) की निरपेक्ष एन्थैल्पी होगी:",
+   911→      "(a) -57.33 kJ mol^{-1} से कम",
+   912→      "(b) -57.33 kJ mol^{-1}",
+   913→      "(c) -57.33 kJ mol^{-1} से अधिक",
+   914→      "(d) 57.33 kJ mol^{-1}",
+   915→      1.0,
+   916→      "प्रबल अम्ल और प्रबल क्षार के लिए उदासीनीकरण की ऊष्मा -57.33 kJ है। MgO एक दुर्बल क्षार और ठोस है, इसलिए इसके वियोजन/घुलने में कुछ ऊर्जा खर्च होती है। इस प्रकार, मुक्त ऊष्मा (परिमाण) कम होगी।",
+   917→      "CBSE AIPMT",
+   918→      2005.0,
+   919→      null
+   920→    ]
+   921→  },
+   922→  {
+   923→    "sheet": "Class11",
+   924→    "row": 557,
+   925→    "data": [
+   926→      "Chemistry",
+   927→      4.0,
+   928→      "रासायनिक ऊष्मप्रवैगिकी",
+   929→      "Hindi",
+   930→      "यदि H-H, Br-Br और H-Br की बंध ऊर्जाएं क्रमशः 433, 192 और 364 kJ mol^{-1} हैं, तो अभिक्रिया H_{2}(g) + Br_{2}(g) \\rightarrow 2HBr(g) के लिए \\Delta H^{\\circ} है:",
+   931→      "(a) -261 kJ",
+   932→      "(b) +103 kJ",
+   933→      "(c) +261 kJ",
+   934→      "(d) -103 kJ",
+   935→      4.0,
+   936→      "\\Delta H^{\\circ} = \\Sigma B.E._{reactants} - \\Sigma B.E._{products} = [433 + 192] - [2 \\times 364] = 625 - 728 = -103 kJ।",
+   937→      "CBSE AIPMT",
+   938→      2004.0,
+   939→      null
+   940→    ]
+   941→  },
+   942→  {
+   943→    "sheet": "Class11",
+   944→    "row": 558,
+   945→    "data": [
+   946→      "Chemistry",
+   947→      4.0,
+   948→      "रासायनिक ऊष्मप्रवैगिकी",
+   949→      "Hindi",
+   950→      "स्थिर तापमान पर अभिक्रिया C_{3}H_{8}(g) + 5O_{2}(g) \\rightarrow 3CO_{2}(g) + 4H_{2}O(l) के लिए, \\Delta H - \\Delta E है:",
+   951→      "(a) + 3RT",
+   952→      "(b) -RT",
+   953→      "(c) + RT",
+   954→      "(d) - 3RT",
+   955→      4.0,
+   956→      "\\Delta H - \\Delta E = \\Delta n_g RT। \\Delta n_g = n_{g(products)} - n_{g(reactants)}। पानी द्रव है। \\Delta n_g = 3 - (1+5) = 3 - 6 = -3। इस प्रकार, अंतर -3RT है।",
+   957→      "CBSE AIPMT",
+   958→      2003.0,
+   959→      null
+   960→    ]
+   961→  },
+   962→  {
+   963→    "sheet": "Class11",
+   964→    "row": 559,
+   965→    "data": [
+   966→      "Chemistry",
+   967→      4.0,
+   968→      "रासायनिक ऊष्मप्रवैगिकी",
+   969→      "Hindi",
+   970→      "निम्नलिखित में से किस समीकरण के लिए \\Delta H_{r}^{\\circ} उत्पाद के लिए \\Delta H_{f}^{\\circ} के बराबर है?",
+   971→      "(a) Xe(g) + 2F_{2}(g) \\rightarrow XeF_{4}(g)",
+   972→      "(b) 2CO(g) + O_{2}(g) \\rightarrow 2CO_{2}(g)",
+   973→      "(c) N_{2}(g) + O_{3}(g) \\rightarrow N_{2}O_{3}(g)",
+   974→      "(d) CH_{4}(g) + 2Cl_{2}(g) \\rightarrow CH_{2}Cl_{2}(l) + 2HCl(g)",
+   975→      1.0,
+   976→      "\\Delta H_f^{\\circ} वह एन्थैल्पी परिवर्तन है जब 1 मोल उत्पाद उसके तत्वों से मानक अवस्थाओं में बनता है। अभिक्रिया (a) तत्वों Xe और F_2 से XeF_4 का 1 मोल बनाती है।",
+   977→      "CBSE AIPMT",
+   978→      2003.0,
+   979→      null
+   980→    ]
+   981→  },
+   982→  {
+   983→    "sheet": "Class11",
+   984→    "row": 560,
+   985→    "data": [
+   986→      "Chemistry",
+   987→      4.0,
+   988→      "रासायनिक ऊष्मप्रवैगिकी",
+   989→      "Hindi",
+   990→      "C(s), H_{2}(g) और CH_{4}(g) के दहन की ऊष्मा \\Delta H^{\\circ} क्रमशः -94, -68 और -213 kcal/mol हैं। तो, C(s) + 2H_{2}(g) \\rightarrow CH_{4}(g) के लिए \\Delta H^{\\circ} है:",
+   991→      "(a) -17 kcal/mol",
+   992→      "(b) -111 kcal/mol",
+   993→      "(c) -170 kcal/mol",
+   994→      "(d) -85 kcal/mol",
+   995→      1.0,
+   996→      "\\Delta H_{reaction} = [\\Delta H_c(C) + 2 \\times \\Delta H_c(H_2)] - \\Delta H_c(CH_4)। \\Delta H = [-94 + 2(-68)] - (-213) = -94 - 136 + 213 = -230 + 213 = -17 kcal/mol।",
+   997→      "CBSE AIPMT",
+   998→      2002.0,
+   999→      null
+  1000→    ]
+  1001→  }
+  1002→]

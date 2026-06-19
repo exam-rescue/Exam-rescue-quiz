@@ -1,0 +1,1002 @@
+     1→     1→[
+     2→     2→  {
+     3→     3→    "sheet": "Class11",
+     4→     4→    "row": 2340,
+     5→     5→    "data": [
+     6→     6→      "Biology",
+     7→     7→      null,
+     8→     8→      "Digestion and Absorption",
+     9→     9→      "English",
+    10→    10→      "Lamina propria is connected with",
+    11→    11→      "acini",
+    12→    12→      "liver",
+    13→    13→      "Graafian follicle",
+    14→    14→      "intestine",
+    15→    15→      4.0,
+    16→    16→      "Lamina propria of ileum shows yellow coloured oval, granular masses of lymph nodules called ‘Peyer’s patches.’ TOPIC 2 Functioning of Digestive System",
+    17→    17→      "CBSE AIPMT",
+    18→    18→      null,
+    19→    19→      null
+    20→    20→    ]
+    21→    21→  },
+    22→    22→  {
+    23→    23→    "sheet": "Class11",
+    24→    24→    "row": 2341,
+    25→    25→    "data": [
+    26→    26→      "Biology",
+    27→    27→      null,
+    28→    28→      "Digestion and Absorption",
+    29→    29→      "English",
+    30→    30→      "Succus entericus is referred to as",
+    31→    31→      "pancreatic juice",
+    32→    32→      "intestinal juice",
+    33→    33→      "gastric juice",
+    34→    34→      "chyme",
+    35→    35→      2.0,
+    36→    36→      "Succus entericus also known as intestinal juice. It is a fluid secreted in small intestine in small quantity. The secretion of the brush border cells of the mucosa along with the secretions of goblet cells constitute succus entericus. It consist of various enzymes like lipases, disaccharides, nucleosidases etc. and mucus.",
+    37→    37→      "NEET",
+    38→    38→      null,
+    39→    39→      null
+    40→    40→    ]
+    41→    41→  },
+    42→    42→  {
+    43→    43→    "sheet": "Class11",
+    44→    44→    "row": 2342,
+    45→    45→    "data": [
+    46→    46→      "Biology",
+    47→    47→      null,
+    48→    48→      "Digestion and Absorption",
+    49→    49→      "English",
+    50→    50→      "Intrinsic factor that helps in the absorption of vitamin-B12 is secreted by",
+    51→    51→      "goblet cells",
+    52→    52→      "hepatic cells",
+    53→    53→      "oxyntic cells",
+    54→    54→      "chief cells",
+    55→    55→      3.0,
+    56→    56→      "Parietal cells or oxyntic cells secrete HCl and intrinsic factor. These intrinsic factors are essential for absorption of vitamin-B12. Goblet cells secrete mucus. Peptic or chief-cells secrete the proenzyme pepsinogen. Hepatic cells secrete bile.",
+    57→    57→      "NEET (Oct.)",
+    58→    58→      null,
+    59→    59→      null
+    60→    60→    ]
+    61→    61→  },
+    62→    62→  {
+    63→    63→    "sheet": "Class11",
+    64→    64→    "row": 2343,
+    65→    65→    "data": [
+    66→    66→      "Biology",
+    67→    67→      null,
+    68→    68→      "Digestion and Absorption",
+    69→    69→      "English",
+    70→    70→      "The proteolytic enzyme renin is found in",
+    71→    71→      "intestinal juice",
+    72→    72→      "bile juice",
+    73→    73→      "gastric juice",
+    74→    74→      "pancreatic juice",
+    75→    75→      3.0,
+    76→    76→      "The proteolytic enzyme rennin is found in gastric juice of infants which helps in the digestion of milk proteins, casein into paracasein.",
+    77→    77→      "NEET (Oct.)",
+    78→    78→      null,
+    79→    79→      null
+    80→    80→    ]
+    81→    81→  },
+    82→    82→  {
+    83→    83→    "sheet": "Class11",
+    84→    84→    "row": 2344,
+    85→    85→    "data": [
+    86→    86→      "Biology",
+    87→    87→      null,
+    88→    88→      "Digestion and Absorption",
+    89→    89→      "English",
+    90→    90→      "The enzyme enterokinase helps in conversion of",
+    91→    91→      "trypsinogen into trypsin",
+    92→    92→      "caseinogen into casein",
+    93→    93→      "pepsinogen into pepsin",
+    94→    94→      "protein into polypeptides",
+    95→    95→      1.0,
+    96→    96→      "The correct option is (a) because the enzyme enterokinase helps in conversion of trypsinogen into trypsin. Trypsinogen is activated by an enzyme, enterokinase, secreted by the intestinal mucosa into active trypsin. Trypsinogen is a zymogen released from pancreas.",
+    97→    97→      "NEET (Sep.)",
+    98→    98→      null,
+    99→    99→      null
+   100→   100→    ]
+   101→   101→  },
+   102→   102→  {
+   103→   103→    "sheet": "Class11",
+   104→   104→    "row": 2345,
+   105→   105→    "data": [
+   106→   106→      "Biology",
+   107→   107→      null,
+   108→   108→      "Digestion and Absorption",
+   109→   109→      "English",
+   110→   110→      "Oxyntic cells (iii) Milk proteins 4. Fructose (iv) Trypsinogen 1 234",
+   111→   111→      "(iii) (iv) (ii) (i)",
+   112→   112→      "(iv) (iii) (i) (ii)",
+   113→   113→      "(iv) (iii) (ii) (i)",
+   114→   114→      "(iii) (iv) (i) (ii)",
+   115→   115→      4.0,
+   116→   116→      "The correct matches are",
+   117→   117→      null,
+   118→   118→      null,
+   119→   119→      null
+   120→   120→    ]
+   121→   121→  },
+   122→   122→  {
+   123→   123→    "sheet": "Class11",
+   124→   124→    "row": 2346,
+   125→   125→    "data": [
+   126→   126→      "Biology",
+   127→   127→      null,
+   128→   128→      "Digestion and Absorption",
+   129→   129→      "English",
+   130→   130→      "Fructose is absorbed by facilitated transport into the blood capillaries. 154 27 Identify the cells whose secretion protects the lining of gastrointestinal tract from various enzymes.",
+   131→   131→      "Goblet cells",
+   132→   132→      "Oxyntic cells",
+   133→   133→      "Duodenal cells",
+   134→   134→      "Chief cells",
+   135→   135→      1.0,
+   136→   136→      "Secretions of goblet cells protect the lining of gastrointestinal tract from various enzymes. These cells secrete mucus which along with bicarbonate ions  c  Cholecystokinin (CCK) and secretin are the peptide hormones that stimulate the production of pancreatic juice and bicarbonates within the alimentary canal. Secretin acts on the exocrine pancreas and stimulates the secretion of water and bicarbonate ions. CCK acts on both pancreas and gall bladder and stimulates the secretion of pancreatic enzymes and bile juice respectively. Hence, option (c) is transport of the molecules or ions across a biological membrane via specific transmembrane integral protein. 34 Select the correct match of the digested products in humans given in column I with their absorption site and mechanism in column II. [NEET 2013] Column I Column II helps in the lubrication and protection of the mucosal epithelium from the excoriation by the highly concentrated correct. 31 The enzyme that is not present in (a) Glycine and glucose (b) Fructose and Small intestine and active absorption HCl. On the other hand, oxyntic or parietal cells secrete hydrochloric acid. succus entericus is Na +Small intestine passive absorption Chief cells or peptic cells secrete proenzymes-pepsinogen and prorenin. 28 Which of the following options best represents enzyme composition of [CBSE AIPMT 2015] (a) maltase (b) nucleases (c) nucleosidase (d) lipase  b  Succus entericus or intestinal digestive (c) Glycerol and fatty acids (d) Cholesterol and maltose  a  Duodenum and move as chilomicrons Large intestine and active absorption pancreatic juice? [NEET 2017] (a) Amylase, peptidase, trypsinogen, rennin (b) Amylase, pepsin, trypsinogen, maltase (c) Peptidase, amylase, pepsin, rennin (d) Lipase, amylase, trypsinogen, procarboxypeptidase  d  Pancreas consist of exocrine and endocrine part. Exocrine part secrets alkaline pancreatic juice. This juice contains trypsinogen, chymotrypsinogen, procarboxypeptidase, lipase, amylase, elastase. Concept Enhancer Renin and pepsin enzymes are present in gastric juice. Maltase is present in the intestinal juice. 29 In the stomach, gastric acid is secreted by the [NEET 2016, Phase I] (a) parietal cells (b) peptic cells (c) acidic cells (d) gastrin secreting cells  a  In stomach, gastric acid (HCl) is secreted by parietal cells of gastric gland. It makes the medium of food in stomach acidic for stimulation of proteolytic enzymes of stomach. 30 Which hormones do stimulate the production of pancreatic juice and bicarbonate? [NEET 2016, Phase II] (a) Angiotensin and epinephrine (b) Gastrin and insulin (c) Cholecystokinin and secretin (d) Insulin and glucagon juice contains a variety of enzymes like disaccharidases (e.g. maltase), dipeptidases, lipases, nucleosidases. Nucleases are enzymes present in pancreatic juice that break nucleic acids into nucleotides. 32 The initial step in the digestion of milk in humans is carried out by? [CBSE AIPMT 2014, 11] (a) Lipase (b) Trypsin (c) Rennin (d) Pepsin  d  In humans, the milk protein digesting enzyme in stomach is pepsin. In calves it is rennin. It is also present in small amounts in human infants but not adults. Pepsin acts on water soluble ‘caseinogen (milk protein) to form soluble ‘casein’. This combines with calcium salts to form insoluble calcium paracaseinate, which gets readily digested enzymatically. 33 Fructose is absorbed into the blood through mucosa cells of intestine by the process called [CBSE AIPMT 2014] (a) active transport (b) facilitated transport (c) simple diffusion (d) co-transport mechanism  b  Fructose is absorbed into the blood through mucosa cells of intestine by the process called facilitated transport thus, facilitated transport is the process of spontaneous passive Amino acids, monosaccharides like glucose, electrolytes like Na + are absorbed into the blood by active transport. Fructose and some amino acids are absorbed with the help of the carrier ions like Na + by facilitated transport. Fatty acid and glycerol cannot be absorbed into the blood. They are first incorporated into small droplets called micelles, which move into the intestinal mucosa. 35 If for some reason our goblet cells are non-functional, this will adversely affect [CBSE AIPMT 2010] (a) production of somatostatin (b) secretion of sebum from the sebaceous glands (c) maturation of sperms (d) smooth movement of food down the intestine  d  Goblet cells are something like a wineglass that present in the columnar epithelium of the mammalian intestine and secrete mucin, a mucoprotein that forms mucus when in solution. If Goblet cells become non-functional, this will adversely affect smooth movement of food down the intestine due to the absence of mucin. 36 Carrier ions like Na + facilitate the absorption of substance like [CBSE AIPMT 2010] (a) amino acids and glucose (b) glucose and fatty acids (c) fatty acids and glycerol (d) fructose and some amino acids Digestion and Absorption 155  d  Active transport occurs with the help of energy, usually against concentration gradient. For this, cell membrane possesses carriers and gated channels. Active transport of one substance is often accompanied by permeation of other substances. The phenomenon is called secondary active transport. It is of two main types, i.e. Co-transport, (e.g. glucose and some amino acids along with inward pushing of excess Na +) and counter transport (Ca and H 2 + + movement outwardly as excess Na + passes inwardly). 37 A young infant may be feeding entirely on mother’s milk, which is white in colour but the stools, which the infant passes out is quite yellowish. What is this yellow colour due to? [CBSE AIPMT 2009] (a) Intestinal juice (b) Bile pigments passed through bile juice (c) Undigested milk protein casein (d) Pancreatic juice poured into duodenum  b  The stools, which the infant passes out is quite yellowish due to the bile pigments. These bile pigments are released in the bile juice. 38 Which one of the following pairs of food components in humans reaches the stomach totally undigested? [CBSE AIPMT 2009] (a) Protein and starch (b) Starch and fat (c) Fat and cellulose (d) Starch and cellulose  c  In humans, starch is digested in buccopharyngeal cavity. Cellulose is not digested in the hum b ecause cellulose containsβ-1, 4-linkage and vertebrates themselves do not possess any enzyme capable of hydrolysingβ-1, 4-linkages. Protein is digested in stomach and fat in small intestine. Thus, in the given options, fat and cellulose reach totally undigested in the stomach of humans. 39 Which one of the following statement is true regarding digestion and absorption of food in humans? [CBSE AIPMT 2009] (a) Oxyntic cells in our stomach secrete the proenzyme pepsinogen (b) Fructose and amino acids are absorbed through intestinal mucosa with the help of carrier ions likeNa + (c) Chylomicrons are small lipoprotein particles that are transported from intestine into blood capillaries (d) About 60% of starch is hydrolysed by salivary amylase in our mouth  c  Chylomicrons are lipoprotein particles synthesised by intestinal epithelial cells and consisting mainly of triglycerides. Chylomicrons are the form, in which dietary fat is transported in the circulatory system. 40 Which one of the following is the correct matching of the site of action on the given substrate, the enzyme acting upon it and the end product? [CBSE AIPMT 2008] (a) Duodenum: Triglycerides trypsin monoglycerides (b) Small intestine: Starchα-amylase disaccharide (maltose) (c) Small intestine: Proteins pepsin amino acids (d) Stomach: Fats, Lipase micelles  b  In small intestine food meats with the pancreatic juice containingα-amylase, which converts starch into maltose, isomaltose andα-dextrins in small intestine. Starch Maltose Pancreatic -amylase ⎯⎯⎯⎯⎯⎯⎯→ α (disaccharide) The pancreatic juice also contains proenzymes trypsinogen, chymotrypsinogen and procarboxypeptidase. The trypsinogen is converted to active trypsin in intestine by enterokinase of intestinal juice. The trypsin converts proteins into large peptides and the large peptides are converted to dipeptide and amino acids by carboxypeptidase. 41 What will happen if the secretion of parietal cells of gastric glands is blocked with an inhibitor? [CBSE AIPMT 2008] (a) Gastric juice will be deficient in chymosin (b) Gastric juice will be deficient in pepsinogen (c) In the absence of HCl secretion, inactive pepsinogen is not converted into the active enzyme pepsin (d) Enterokinase will not be released from the duodenal mucosa and so trypsinogen is not converted to trypsin  c  The parietal cells (oxyntic cells) are large and most numerous on the side walls of gastric glands. These secrete hydrochloric acid and castle intrinsic factor. The peptic cells (zymogen) of gastric glands secrete gastric digestive enzymes as proenzymes-pepsinogen and prorennin and small amount of gastric amylase and gastric lipase. The hydrochloric acid maintains a strongly acidic pH of about 1.5-2.5 in the stomach. HCl converts pepsinogen and prorennin to pepsin and rennin respectively. 42 Secretin and cholecystokinin are digestive hormones. They are secreted in [CBSE AIPMT 2005] (a) oesophagus (b) ileum (c) duodenum (d) pyloric stomach  c  Secretin and cholecystokinin (CCK) are two main gastrointestinal (GI) hormones secreted in duodenum of alimentary canal. CCK stimulates gall bladder contraction and thus increases the flow of bile salts into the intestine. Secretin stimulates the release of an alkaline pancreatic fluid that neutralises stomach acid as it enters the intestine. 43 Duodenum has characteristic Brunner’s glands which secrete two hormones called [CBSE AIPMT 2004] (a) kinase, oestrogen (b) secretin, cholecystokinin (c) prolactin, parathormone (d) estradion, progesterone  b  Brunner’s gland secrete large amount of mucus and bicarbonates to protect duodenal mucosa and to neutralise the acidic chyme. It also secretes two hormones : (a) Secretin (b) Cholecystokinin (CCK) These stimulate: (i) Secretion of pancreatic juice by pancreas. (ii) Release of bile from gall bladder. (iii) Formation of bile by liver and pancreatic juice. 156 44 During prolonged fasting, in what sequence are the following organic compounds used up by the body? [CBSE AIPMT 2003] (a) First carbohydrates, next proteins and lastly lipids (b) First proteins, next lipids and lastly lcarbohydrates (c) First carbohydrates, next fats and lastly proteins (d) First fats, next carbohydrates and lastly proteins  c  During prolonged fasting, first of all carbohydrates are utilised which include glycogen stored in liver. This is followed by the breakdown of adipose tissue, thus providing lipids and lastly the body utilises proteins. 45 A certain person eats boiled potato; one of the food component in it is [CBSE AIPMT 2000] (a) lactose which is indigestible (b) starch which does not get digested (c) cellulose which is digested by intestinal cellulase (d) DNA which gets digested by pancreatic DNAase  d  Anything which cannot be digested cannot serve as ‘food’. Therefore, starch and lactose in the present case have been automatically deleted. Cellulose cannot be digested by human beings, thus option (c) also stands rejected. Pancreatic juice can digest DNA which is the component of every cell. 46 Cholecystokinin and duocrinin are secreted by [CBSE AIPMT 1999] (a) adrenal cortex (b) thyroid gland (c) pancreas (d) intestine  d  Both cholecystokinin and duocrinin are hormones secreted by the intestine, while the former stimulates the gall bladder to release bile and pancreas to release enzyme mixture, the latter regulates the release of mucus from Brunner’s glands. 47 Which part of body secretes the hormone secretin? [CBSE AIPMT 1999] (a) Oesophagus (b) Duodenum (c) Stomach (d) Ileum  b  Secretin is a polypeptide hormone secreted by the mucosa of duodenum and jejunum. It perform two functions : (a) It stimulates sodium bicarbonate from the pancreas which neutralises the acid in the chyme so that it will not damage the wall of the small intestine. (b) It increases the rate of bile secretion in the liver. 48 The hormone that stimulates the stomach to secrete gastric juice is [CBSE AIPMT 1998] (a) gastrin (b) renin (c) enterokinase (d) enterogasterone  a  The stomach controls the production of gastric juice by means of a digestive hormone called gastrin. It is produced by endocrine (hormone secreting) cells that are scattered throughout the epithelium of the stomach. 49 Lactose is composed of [CBSE AIPMT 1998] (a)glucose+ fructose (b)glucose + glucose (c)glucose + galactose (d) fructose + galactose  c  Lactose(C H O ) 12 22 11 is a disaccharide found in mammalian milk. It comprises galactose and glucose units which are linked together byβ, 1-4 glycosidic bonds. It is a reducing sugar. 50 In vertebrates lacteals are found in (a) ileum [CBSE AIPMT 1998] (b) ischium (c) oesophagous (d) ear  a  Lacteals are found in ileum they are lymph vessels draining villi of vertebrate small intestine. After digestion, reconstituted fats are released into lacteals as chylomicrons. 51 The contraction of gall bladder is due to [CBSE AIPMT 1998] (a) gastrin (b) secretin (c) cholecystokinin (d) enterogasterone  c  Cholecystokinin (also called pancreozymin) is a hormone of mucosa of small intestine. It is released in response to chyme. It causes pancreas to release pancreatic enzymes and gall bladder to eject bile. 52 If pancreas is removed, the compound which remain undigested is [CBSE AIPMT 1997] (a) carbohydrates (b) fats (c) proteins (d) All of these  d  Pancreas secretes pancreatic juice which contain enzymes that acts on proteins, carbohydrates and fats. Enzymes of pancreatic juice are (a) Pancreatic amylase which acts on starch and glycogen (polysaccharides). (b) Trypsin, chymotrypsin and carboxypeptidases, which act on proteins and lipase which acts on triglycerides and converts it into fatty acids and glycerol. If pancreas is removed from the body, the digestion of all these would not occur. 53 Which one of the following vitamin can be synthesised by bacteria inside the gut? [CBSE AIPMT 1997] (a) B1 (b) C (c) D (d) K  d  Vitamin-K2 (menaquinone) It is formed by bacteria in the gut, while vitamin-K1 (phylloquinone) is found in green plant leaves. Vitamin-B1 (thiamine) It acts as TPP-coenzyme for decarboxylases. Vitamin-C (ascorbic acid). It helps in development of teeth gums and maintenance of capillary wall. Vitamin-D (calciferol). It helps in maintenance of calcium and phosphorus balance within the body. 54 Which one of the following is a matching pair of a substrate and its particular digestive enzyme? [CBSE AIPMT 1996] (a) Maltose — Maltase (b) Lactose — Rennin (c) Starch — Steapsin (d) Casein — Chymotrypsin Digestion and Absorption 157  a  Intestinal juices contain a number of oligosaccharidase which hydrolyse the specific oligosaccharides into their monosaccharides. Maltase is one of them, which hydrolyses maltose into two glucose molecules. 55 The enzyme enterokinase helps in the conversion of [CBSE AIPMT 1995] (a) pepsinogen into pepsin (b) trypsinogen into trypsin (c) caseinogen into casein (d) proteins into polypeptides  b  Enterokinase helps in conversion of trypsinogen into trypsin in small intestine, which is an endoproteolytic enzyme and hydrolyses the peptones and proteoses into peptides. 56 Rennin acts on [CBSE AIPMT 1994, 2000] (a) milk changing casein into calcium paracaseinate at 7.2–8.2 pH (b) protein in stomach (c) fat in intestine (d) milk changing casein into calcium paracaseinate at 1-3 pH  d  Stomach secretes gastric juice pH [1–3.5] which contains prorennin secreted by the zymogen cells. Inactive prorennin is converted into rennin by HCl. Rennin acts on casein, a protein milk changing it into calcium paracaseinate, it is known as curdling of milk. 57 Inhibition of gastric and stimulation of gastric, pancreatic and bile secretions are controlled by hormones [CBSE AIPMT 1994] (a) gastrin, secretin, enterokinin and cholecystokinin (b) enterogasterone, gastrin, pancreozymin and cholecystokinin (c) gastrin, enterogasterone, cholecystokinin and pancreozymin (d) secretin, enterogasterone, gastrin and enterokinin  b  Enterogasterone hormone secreted by mucosa of duodenum inhibits secretion of gastric juices and slows down the gastric movements. Gastrin is the hormone secreted by G-cells/argentaffin cells of pyloric region of stomach and stimulates the gastric glands to secrete gastric juices. Pancreozymin is secreted by mucosa of duodenum and stimulates the acinal cells of pancreas to secrete pancreatic enzymes. Cholecystokinin is secreted by cells of mucosa of duodenum and stimulates contraction of gall bladder to release bile. 58 Most of the fat digestion occurs in [CBSE AIPMT 1993] (a) rectum (b) stomach (c) duodenum (d) small intestine  d  Fats are emulsified in small intestine by the detergent action of bile salts. Emulsification of fat converts large fat droplets into large number of small droplets, which provide larger surface area to lipases. Then pancreatic lipase (steapsin) which is principal fat digesting enzyme, digest about 2/3rd of fats in these stages. Then intestinal lipase hydrolyses some tri, di and monoglycerides to fatty acids and glycerol molecules. So, the most of fat digestion occurs in small intestine. 59 Secretion of gastric juice is stopped by [CBSE AIPMT 1993] (a) gastrin (b) pancreozymin (c) cholecystokinin (d) enterogasterone  d  Enterogasterone is produced by small intestine and slows down the secretion of gastric juice and decreases the gastric movements. 60 Where is protein digestion accomplished? [CBSE AIPMT 1991] (a) Stomach (b) Ileum (c) Rectum (d) Duodenum  b  The cells that line the ileum contain the protease and carbohydrase enzymes responsible for the final stages of protein and carbohydrate digestion. These enzymes are present in the cytoplasm of the epithelial cells. 61 Release of pancreatic juice is stimulated by [CBSE AIPMT 1990, 89] (a) enterokinase (b) cholecystokinin (c) trypsinogen (d) secretin  d  Secretin is secreted byδ-cells of mucosa of duodenum which stimulates pancreas and controls the volume of pancreatic juice including water and electrolytes. 62 Pancreas produces [CBSE AIPMT 1991] (a) three digestive enzymes and one hormone (b) three digestive enzymes and two hormones (c) two digestive enzymes and one hormone (d) three digestive enzymes and no hormone  b  Pancreas produces pancreatic juice which contains trypsinogen, chymotrypsin, carboxypeptidases, lipase, pancreaticα-amylase, elastage, nucleases. Out of these enzymes, the first three are concerned with protein digestion which finally converts protein into small peptides. Pancreas also secretes insulin and glucagon hormones which acts antagonastically in controlling the blood sugar level. 63 Emulsification of fat will not occur in the absence of [CBSE AIPMT 1990] (a) lipase (b) bile pigments (c) bile salts (d) pancreatic juice  c  Bile is a watery greenish fluid containing bile salts, bile pigments, cholesterol and phospholipid. Bile salts play an important role in digestion of fats. Therefore in their absence emulsification of fat cannot take place. TOPIC 3 Nutritional and Digestive Disorders 64 Kwashiorkor disease is due to [NEET (Odisha) 2019] (a) simultaneous deficiency of proteins and fats (b) simultaneous deficiency of protein and calories (c) deficiency of carbohydrates (d) protein deficiency not accompanied by calorie deficiency 158  d  Kwashiorkor disease is due to protein deficiency not accompanied by calorie deficiency in the children of age 1-5 years. It’s symptoms are weak muscle, thin limbs, retarded growth of the body and brain, swelling of legs due to retention of water (oedema), reddish hair, pot belly, etc. 65 Good vision depends on adequate intake of carotene rich food. Select the best option from the following statements. [NEET 2017] I. Vitamin-A derivatives are formed from carotene. II. The photopigments are embedded in the membrane discs of the inner segment. III. Retinal is a derivative of vitamin-A. IV. Retinal is a light absorbing part of all the visual photopigments. (a) (I) and (II) (b) (I), (III) and (IV) (c) (I) and (III) (d) (II), (III) and (IV)  b  Vitamin-A is a group of unsaturated nutritional organic compounds that includes retinol, retinal, retinoic acid and β-carotene. Vitamin-A is needed by the retina of eye in the form of retinal, which combines with protein opsin to form rhodopsin, the light absorbing molecule. 66 Anxiety and eating spicy food together in an otherwise normal human, may lead to [CBSE AIPMT 2012] (a) indigestion (b) jaundice (c) diarrhoea (d) vomiting  a  Unhealthy eating habits together with anxiety, stress or panic attacks may cause indigestion, stomach ache, stomach palpitations, nausea, etc. 67 When breast feeding is replaced by less nutritive food low in proteins and calories; the infants below the age of one year are likely to suffer from [CBSE AIPMT 2009] (a) marasmus (b) rickets (c) kwashiorkor (d) pellagra  c  Prolonged starvation causes marasmus disease due to a generalised wasting of body because of both energy and protein deficiency. The body becomes lean and weak, eyes depressed and skin wrinkled. Kwashiorkor is a disease caused by continued deficiency of proteins in diet although energy intake may be adequate. Rickets (in children) occurs due to the deficiency of vitamin-D. Pellagra occurs due to the deficiency of nicotinamide (vitamin-B5 ). 68 Which one of the following is a fat-soluble vitamin and it’s related deficiency disease ? [CBSE AIPMT 2007] (a) Ascorbic acid — Scurvy (b) Retinol — Xerophthalmia (c) Cobalamine — Beri-beri (d) Calciferol — Pellagra  b  Xerophthalmia is caused due to the deficiency of vitamin-A (retinol). Retinol and calciferol are fat soluble vitamins but pellagra is not the deficiency disease of calciferol. 69 A patient is generally advised to specially, consume more meat, lentils, milk and eggs in diet only when he suffers from [CBSE AIPMT 2005] (a) kwashiorkor (b) rickets (c) anaemia (d) scurvy  a  The deficiency of proteins within the body is responsible for a disease, known as kwashiorkor. So, a kwashiorkor diseased patient is generally advised to specially, consume more meat, lentils, milk and eggs because these are rich sources of protein. 70 Which group of three of the following five statements (A–E) contains all three correct statements regarding beri-beri ? [CBSE AIPMT 2005] A. A crippling disease prevalent among the native population of sub-Sahara Africa. B. A deficiency disease caused by lack of thiamine (vitamin-B1). C. A nutritional disorder in infants and young children when the diet is persistently deficient in essential protein. D. Occurs in those countries where the staple diet is polished rice. E. The symptoms are pain from neuritis, paralysis, muscle wasting, progressive oedema, mental deterioration and finally heart failure. (a) A, B and D (b) B, C and E (c) A, C and E (d) B, D and E  d  The deficiency of vitamin-B1 or thiamine causes the disease beri-beri. This disease occurs in those countries where the staple diet is polished rice. The symptoms of this disease are pain from neuritis, paralysis, muscle wasting, progressive oedema, mental deterioration and finally heart failure. 71 Which one of the following is the correct matching of a vitamin, its nature and its deficiency disease ? [CBSE AIPMT 2004] (a) Vitamin-A—Fat soluble—Night blindness (b) Vitamin-K—Fat soluble—Beri-beri (c) Vitamin-A—Fat soluble—Beri-beri (d) Vitamin-K—Water soluble—Pellagra  a  Fat soluble vitamins are A, D, E and K. Deficiency of vitamin-A leads to night blindness or nyctalopia because vitamin-A is essential for synthesis of visual pigments (rhodopsin). 72 Which one of the following pairs is not correctly matched? [CBSE AIPMT 2003, 04] (a) Vitamin-B12 — Pernicious anaemia (b) Vitamin-B1 — Beri-beri (c) Vitamin-C — Scurvy (d) Vitamin-B2 — Pellagra  d  Pellagra (Italian Pelle = skin, agra = rough) is a skin disease which is caused by the deficiency of vitamin-B3 or niacin. Pellagra is especially frequent among the people eating food with low tryptophan (an essential amino acid). Digestion and Absorption 159 73 Stool of a person contains whitish grey colour due to malfunction of which type of organ ? [CBSE AIPMT 2002] (a) Pancreas (b) Spleen (c) Kidney (d) Liver  d  Bilirubin is broken down to urobilinogen and stereobilinogen. Yellowish brown colour of stool is due to the stereobilinogen. Due to the malfunctioning of liver, insufficient production of stereobilinogen leads to white stool. 74 In a person of advanced age, the hair become thinner gradually. It happens because of decrease in [CBSE AIPMT 2000] (a) synthesis of glucose (b) synthesis of proteins (c) energy availability (d) blood supply  b  In vertebrates,α-keratin (a protein) constitutes almost the entire dry weight of hair. Therefore, as the person ages, metabolism decreases, synthesis of protein decreases leading to thinning of hair. 75 Which of the following is mismatched? [CBSE AIPMT 1999] (a) Vitamin-K — Beri-beri (b) Vitamin-D — Rickets (c) Vitamin-C — Scurvy (d) Vitamin-A — Xerophthalmia  a  Beri-beri is caused by the deficiency of vitamin-B1 (thiamine). Vitamin-K is also known as antihaemorrhagic factor. The main sources of vitamin-K are green leafy vegetables such as cauliflower, cabbage, spinach, etc. It is also found in animal sources like egg yolk, liver, etc. Vitamin-K is essential for blood clotting and deficiency of it causes haemorrhage. 76 Which one of the following is a protein deficiency disease? [CBSE AIPMT 1998] (a) Eczema (b) Cirrhosis (c) Kwashiorkor (d) Night blindness  c  Kwashiorkor is a protein deficiency disease (no calorie deficiency but structural). Its common symptoms are wasting of muscles, thinning of limbs, failure of growth and brain development and diarrhoea. 77 For person suffering from high blood cholesterol, the physicians recommend [CBSE AIPMT 1996] (a) pure ‘deshi ghee’ or butter (b) vegetable oil such as groundnut oil (c) red meat with layers of fats (d) vanaspati margarine  b  A patient of high blood cholesterol is suggested to take unsaturated fats as vegetable oils. Such as ground nut oil because high intake of saturated fat causes high blood cholesterol which ultimately gets deposited in the walls of arteries causing their blockage resulting in various cardiac-disease. Ghee, butter, red meat vanaspati, they all are rich sources of saturated fats. 78 The vitamin-C or ascorbic acid prevents [CBSE AIPMT 1995] (a) rickets (b) pellagra (c) scurvy (d) antibody synthesis  c  Vitamin-C or ascorbic acid prevents scurvy (failure to form connective tissue). Characterised by bleeding gums, anaemia, loose teeth, painful and swollen joints, delayed healing of wounds and emaciation. 79 Calcium deficiency occurs in the absence of vitamin [CBSE AIPMT 1994] (a) D (b) C (c) E (d) B  a  Vitamin-D (calciferol/antirachitic factor) mainly helps in Ca/P balance in the body fluids. It increases absorption of calcium from intestine so, it is necessary for formation of healthy bones and teeth. Deficiency of vitamin-D causes increased loss of Ca2 + in urine, so, no Ca2 + gets deposited in the bones. This cause rickets in children and in pregnant woman it causes osteomalacia. 80 Which of the following pair is characterised by swollen lips, thick pigmented skin of hands and legs and irritability? [CBSE AIPMT 1993, 94, 96] (a) Thiamine — Beri-beri (b) Protein — Kwashiorkor (c) Nicotinamide — Pellagra (d) Iodine — Goitre  c  Pellagra is characterised by swollen lips, pigmented skin of hands, legs and irritability. This disease is caused by the deficiency of vitamin-B3 or niacin. This is pellagra protective vitamin and can be synthesised in the body from amino acid tryptophan. 17 Breathing and Exchange of Gases TOPIC 1 Human Respiratory System: Structure",
+   137→   137→      "NEET (National)",
+   138→   138→      null,
+   139→   139→      null
+   140→   140→    ]
+   141→   141→  },
+   142→   142→  {
+   143→   143→    "sheet": "Class11",
+   144→   144→    "row": 2347,
+   145→   145→    "data": [
+   146→   146→      "Biology",
+   147→   147→      null,
+   148→   148→      "Neural Control and Coordination",
+   149→   149→      "English",
+   150→   150→      "Which one of the following organs in the human body is most affected due to shortage of oxygen?",
+   151→   151→      "Intestine",
+   152→   152→      "Skin",
+   153→   153→      "Kidney",
+   154→   154→      "Brain",
+   155→   155→      4.0,
+   156→   156→      "The brain cells are highly specialised. They cannot regenerate and respire withoutO2 . Therefore, the shortage ofO2 B Cut end of rib C D Lung D C Heart A B leads to death of brain cells.",
+   157→   157→      "CBSE AIPMT",
+   158→   158→      null,
+   159→   159→      null
+   160→   160→    ]
+   161→   161→  },
+   162→   162→  {
+   163→   163→    "sheet": "Class11",
+   164→   164→    "row": 2348,
+   165→   165→    "data": [
+   166→   166→      "Biology",
+   167→   167→      null,
+   168→   168→      "Breathing and Exchange of Gases",
+   169→   169→      "English",
+   170→   170→      "In alveoli of the lungs, the air at the site of gas exchange, is separated from the blood by",
+   171→   171→      "A–trachea-long tube supported by complete cartilaginous rings for conducting inspired air",
+   172→   172→      "B–pleural membrane-surround ribs on both sides to provide cushion against rubbing",
+   173→   173→      "C–alveoli-thin walled vascular bag-like structures for exchange of gases",
+   174→   174→      "D–lower end of lungs-diaphragm pulls it down during inspiration",
+   175→   175→      3.0,
+   176→   176→      "C–Alveoli are thin-walled vascular bag-like structures for exchange of gases. (a) A — Alveolar cavity (b) D — Capillary wall (c) B — Red blood cell (d) C — Arterial capillary — main site of exchange of respiratory gases — exchange of gases takes place here — transport of mainly haemoglobin — passes oxygen to tissues (a) alveolar epithelium only (b) alveolar epithelium and capillary endothelium (c) alveolar epithelium, capillary endothelium and tunica adventitia (d) alveolar epithelium, capillary endothelium, a thin layer of tunica media and tunica adventitia  b  The wall of the capillaries consists of only tunica internae which is made up of simple squamous endothelium. The wall of alveoli is also very thin, consisting of squamous epithelium. Breathing and Exchange of Gases 161 TOPIC 2 Mechanism of Breathing",
+   177→   177→      "CBSE AIPMT",
+   178→   178→      null,
+   179→   179→      null
+   180→   180→    ]
+   181→   181→  },
+   182→   182→  {
+   183→   183→    "sheet": "Class11",
+   184→   184→    "row": 2349,
+   185→   185→    "data": [
+   186→   186→      "Biology",
+   187→   187→      null,
+   188→   188→      "Breathing and Exchange of Gases",
+   189→   189→      "English",
+   190→   190→      "Select the correct events that occur during inspiration.  I. Contraction of diaphragm. II. Contraction of external inter-costal muscles. III. Pulmonary volume decreases. IV. Intra pulmonary pressure increases.",
+   191→   191→      "III and IV",
+   192→   192→      "I, II and IV",
+   193→   193→      "Only IV",
+   194→   194→      "I and II",
+   195→   195→      4.0,
+   196→   196→      "Statement I and II are correct as during inspiration, the contraction of diaphragm occurs which pulls it downward, while the external intercostal muscles contract and lifts up the ribs and sternum. This increases the size of the thoracic cavity and decreases the pressure inside. As a result, air rushes in and fills the lungs. Statement III and IV are incorrect because during inspiration, the volume of the thoracic cavity increases. This causes a similar increase in pulmonary volume. An increase in pulmonary volume decreases the intrapulmonary pressure to less than the atmospheric pressure which forces the air from outside to move into the lungs. Air entering lungs Ribs and sternum raised Volume of thorax increased Rib cage Diaphragm contracted Mechanism of inspiration",
+   197→   197→      "NEET (Sep.)",
+   198→   198→      null,
+   199→   199→      null
+   200→   200→    ]
+   201→   201→  },
+   202→   202→  {
+   203→   203→    "sheet": "Class11",
+   204→   204→    "row": 2350,
+   205→   205→    "data": [
+   206→   206→      "Biology",
+   207→   207→      null,
+   208→   208→      "Breathing and Exchange of Gases",
+   209→   209→      "English",
+   210→   210→      "Air is breathed through",
+   211→   211→      "trachea—lungs—larynx—pharynx— alveoli",
+   212→   212→      "nose—larynx—pharynx—bronchus— alveoli—bronchioles",
+   213→   213→      "nostrils—pharynx—larynx—trachea— bronchi—bronchioles—alveoli",
+   214→   214→      "nose—mouth—lungs",
+   215→   215→      3.0,
+   216→   216→      "In mammalian respiratory system, air is breathed through nostrils, from nostrils air passes through pharynx (common passage for food and air)→ larynx (voice box)→ trachea (wind pipe)→ bronchi (2 for each side lungs)→ bronchioles→ alveoli (small sacs or pouches for exchange of gases). TOPIC 3 Respiratory Volumes and Capacities",
+   217→   217→      "CBSE AIPMT",
+   218→   218→      null,
+   219→   219→      null
+   220→   220→    ]
+   221→   221→  },
+   222→   222→  {
+   223→   223→    "sheet": "Class11",
+   224→   224→    "row": 2351,
+   225→   225→    "data": [
+   226→   226→      "Biology",
+   227→   227→      null,
+   228→   228→      "Breathing and Exchange of Gases",
+   229→   229→      "English",
+   230→   230→      "The maximum volume of air a person can breathe in after a forced expiration is known as",
+   231→   231→      "expiratory capacity",
+   232→   232→      "vital capacity",
+   233→   233→      "inspiratory capacity",
+   234→   234→      "total lung capacity",
+   235→   235→      2.0,
+   236→   236→      "Vital Capacity (VC) is the maximum volume of air a person can breathe in after a forced expiration. This includes ERV, TV and IRV or the maximum volume of air a person can breathe out after a forced inspiration.",
+   237→   237→      "NEET (Odisha)",
+   238→   238→      null,
+   239→   239→      null
+   240→   240→    ]
+   241→   241→  },
+   242→   242→  {
+   243→   243→    "sheet": "Class11",
+   244→   244→    "row": 2352,
+   245→   245→    "data": [
+   246→   246→      "Biology",
+   247→   247→      null,
+   248→   248→      "Breathing and Exchange of Gases",
+   249→   249→      "English",
+   250→   250→      "Tidal Volume and Expiratory Reserve Volume of an athlete is 500 mL and 1000 mL, respectively. What will be his Expiratory Capacity if the Residual Volume is 1200 mL?",
+   251→   251→      "1700 mL",
+   252→   252→      "2200 mL",
+   253→   253→      "2700 mL",
+   254→   254→      "1500 mL",
+   255→   255→      4.0,
+   256→   256→      "The Expiratory Capacity of athlete will be 1500 mL. It can be calculated as Given, Tidal Volume (TV) = 500 mL Expiratory Reserve Volume (ERV) = 1000mL Expiratory Capacity = TV+ERV =+ = 500 1000 1500 mL",
+   257→   257→      "NEET (National)",
+   258→   258→      null,
+   259→   259→      null
+   260→   260→    ]
+   261→   261→  },
+   262→   262→  {
+   263→   263→    "sheet": "Class11",
+   264→   264→    "row": 2353,
+   265→   265→    "data": [
+   266→   266→      "Biology",
+   267→   267→      null,
+   268→   268→      "Breathing and Exchange of Gases",
+   269→   269→      "English",
+   270→   270→      "Residual volume (iv) 1000–1100 mL 162 1 23 4",
+   271→   271→      "i iv ii iii",
+   272→   272→      "iii i iv ii",
+   273→   273→      "iii ii i iv",
+   274→   274→      "iv iii ii i",
+   275→   275→      2.0,
+   276→   276→      "Tidal Volume (TV) is the volume of air inspired or expired during normal breath. It is about 500–550 mL. Inspiratory Reserve Volume (IRV) is the extra amount of air that can be inspired directly after a normal inspiration. It is about 2500–3000 mL. Expiratory Reserve Volume (ERV) is the extra amount of air that can be expired forcibly after a normal expiration. It is about 1000-1100 mL. Residual Volume (RV) is the volume of air which remains still in the lung after the most forceful expiration. It is about 1100-1200 mL. Therefore, option (b) is correct.",
+   277→   277→      null,
+   278→   278→      null,
+   279→   279→      null
+   280→   280→    ]
+   281→   281→  },
+   282→   282→  {
+   283→   283→    "sheet": "Class11",
+   284→   284→    "row": 2354,
+   285→   285→    "data": [
+   286→   286→      "Biology",
+   287→   287→      null,
+   288→   288→      "Breathing and Exchange of Gases",
+   289→   289→      "English",
+   290→   290→      "Lungs are made up of air-filled sacs, the alveoli. They do not collapse even after forceful expiration, because of",
+   291→   291→      "Residual Volume (RV)",
+   292→   292→      "Inspiratory Reserve Volume (IRV)",
+   293→   293→      "Tidal Volume (TV)",
+   294→   294→      "Expiratory Reserve Volume (ERV)",
+   295→   295→      1.0,
+   296→   296→      "In lungs, even after the most forceful expiration, some of the volume of air remains. This volume is termed Residual Volume (RV). Due to this, lungs do not collapse even after the most forceful expiration. RV is about 1100 mL -1200 mL.",
+   297→   297→      "NEET",
+   298→   298→      null,
+   299→   299→      null
+   300→   300→    ]
+   301→   301→  },
+   302→   302→  {
+   303→   303→    "sheet": "Class11",
+   304→   304→    "row": 2355,
+   305→   305→    "data": [
+   306→   306→      "Biology",
+   307→   307→      null,
+   308→   308→      "Breathing and Exchange of Gases",
+   309→   309→      "English",
+   310→   310→      "Lungs do not collapse between breaths and some air always remains in the lungs which can never be expelled because",
+   311→   311→      "there is a negative pressure in the lungs",
+   312→   312→      "there is a negative intrapleural pressure pulling at the lung walls",
+   313→   313→      "there is a positive intrapleural pressure",
+   314→   314→      "pressure in the lungs in higher than the atmospheric pressure",
+   315→   315→      2.0,
+   316→   316→      "Lungs do not collapse between breaths and some air always remains in the lungs which can be never expelled because there is a negative intrapleural pressure pulling at the lung walls. Alveoli are basic functional unit of lungs. The outer alveolar wall surface has cells which secrete DPPC also called as lipid surfactant. The surfactant expands the alveoli due to which the negative pressure inside the alveoli increases. This prevents the alveoli from collapsing. Since, in this question both options (a) and (b) are correct and option (b) provides more appropriate explanation, therefore, it must be chosen.",
+   317→   317→      "NEET , Phase II",
+   318→   318→      null,
+   319→   319→      null
+   320→   320→    ]
+   321→   321→  },
+   322→   322→  {
+   323→   323→    "sheet": "Class11",
+   324→   324→    "row": 2356,
+   325→   325→    "data": [
+   326→   326→      "Biology",
+   327→   327→      null,
+   328→   328→      "Breathing and Exchange of Gases",
+   329→   329→      "English",
+   330→   330→      "Inspiratory capacity 4500 mL Which one of the following is the correct matching of two capacities and volumes?",
+   331→   331→      "(2) 2500 mL, (3) 4500 mL",
+   332→   332→      "(3) 1200 mL, (4) 2500 mL",
+   333→   333→      "(4) 3500 mL, (1) 1200 mL",
+   334→   334→      "(1) 4500 mL, (2) 3500 mL",
+   335→   335→      3.0,
+   336→   336→      "Inspiratory Capacity (IC) is the maximum amount of air that can be inspired after a normal expiration,IC TV IRV = + . It is 3500 mL in adult male and 2400 mL in adult female. Residual Volume (RV) is the amount of air remaining in the lungs after a forced exhalation. Its average value is 1200 mL and 1100 mL in adult male and female respectively. 15 What is the vital capacity of our lungs? [CBSE AIPMT 2008] (a) Inspiratory reserve volume plus tidal volume (b) Total lung capacity minus expiratory reserve volume (c) Inspiratory reserve volume plus expiratory reserve volume (d) Total lung capacity minus residual volume  d  Vital capacity is the sum of inspiratory reserve volume, tidal volume and expiratory reserve volume. It is about 4800 mL. Total lung capacity is the sum of vital capacity and residual volume, i.e., vital capacity of our lungs is total lung capacity minus residual volume. Tidal volume is the amount of air which normally passes into and out of the lungs during each cycle of quite breathing. It is about 800 mL in adult person. Inspiratory reserve volume is the extra volume of air that can be inhaled into lungs during deepest possible inspiration. 16 The quantity 1500 mL in the respiratory volumes of a normal human adult refers to [CBSE AIPMT 1996] (a) maximum air that can be breathed in and breathed out (b) residual volume (c) expiratory reserve volume (d) total lung capacity  b  Residual air is the volume of air that remains in the lungs after the most forceful expiration. It equals to 1500 mL. Residual air mostly occurs in alveoli. Maximum air that can be breathed in and breathed out is vital capacity (3500–4500 mL) while the air that can be expired over and above the tidal air by most forceful expiration is the expiratory reserve volume (1200 mL). TOPIC 4 Exchange and Transport of Gases 17 Assertion (A) A person goes to high altitude and experiences ‘altitude sickness’ with symptoms like breathing difficulty and heart palpitations. Reason (R) Due to low atmospheric pressure at high altitude, the body does not get sufficient oxygen. In the light of the above statements, choose the correct answer from the options given below. [NEET 2021] (a) Both A and R are true and R is the correct explanation of A (b) Both A and R are true, but R is not the correct explanation of A (c) A is true, but R is false (d) A is false, but R is true Breathing and Exchange of Gases 163  a  Column I Column II  b  Both A and R are true and R is the correct explanation of A. A person goes to the high altitude and experiences altitude sickness like heavy breathing and heart palpitation. It is due to low atmospheric pressure at high altitude, the body does not get sufficient oxygen. 18 Select the favourable conditions required for the formation of oxyhaemoglobin at the alveoli. [NEET 2021] (a) High pO2, low pCO2, less H +, lower temperature (b) Low pO2, high pCO2, more H +, higher A. Pneumotaxic centre B. O2 dissociation curve C. Carbonic anhydrase D. Primary site of exchange of gases Codes A B CD (a) 1 3 2 4 (b) 2 3 4 1 (c) 3 2 4 1 (d) 4 1 3 2  b",
+   337→   337→      "CBSE AIPMT",
+   338→   338→      null,
+   339→   339→      null
+   340→   340→    ]
+   341→   341→  },
+   342→   342→  {
+   343→   343→    "sheet": "Class11",
+   344→   344→    "row": 2357,
+   345→   345→    "data": [
+   346→   346→      "Biology",
+   347→   347→      null,
+   348→   348→      "Breathing and Exchange of Gases",
+   349→   349→      "English",
+   350→   350→      "Haemoglobin 4. RBC Reduction in pH of blood, i.e. increase in acidity favours the dissociation of oxyhaemoglobin thereby giving upmore O2 . When this phenomenon occurs due to increase in CO2 concentration then it is called Bohr effect. 23 The partial pressure of oxygen in the alveoli of the lungs is",
+   351→   351→      "equal to that in the blood",
+   352→   352→      "more than that in the blood",
+   353→   353→      "less than that in the blood",
+   354→   354→      "less than that of carbon dioxide",
+   355→   355→      2.0,
+   356→   356→      "The partial pressure of oxygen(O) 2 p in temperature (c) High pO2, high pCO2, less H +, higher temperature (d) Low pO2, low pCO2, more H +, higher temperature  a  The favourable conditions for the formation of oxyhaemoglobin is high pO2 , lesser H + concentration and lower temperature found in alveoli, whereas low pO2 , high H + concentration and high temperature are favourable for dissociation of oxygen from the oxyhaemoglobin found in tissues. 19 The partial pressures (in mm Hg) of oxygen (O2 ) and carbon dioxide (CO2 ) at alveoli (the site of diffusion) are [NEET 2021] (a) pO2 = 104 and pCO2 = 40 (b) pO2 = 40 and pCO2 = 45 Option (b) is correct match, which is as follows. Pneumotaxic centre is present in the pons region of the brain. O2 dissociation curve is useful in studying the effect of factors like pCO2 , H+ concentration, etc., on binding ofO2 with haemoglobin. Carbonic anhydrase is an enzyme present on the surface of RBC. Primary site of exchange of gases is the alveoli of the lungs. 21 Identify the wrong statement with reference to transport of oxygen. [NEET (Sep.) 2020] (a) Partial pressure ofCO2 can interfere withO2 binding with haemoglobin (b) HigherH+ concentration in alveoli favours the formation of oxyhaemoglobin (c) Low pCO2 in alveoli favours the formation of oxyhaemoglobin alveoli of lungs is 104 mm Hg, which is more than that of blood in the blood capillaries of lung alveoli (40 mm Hg). This difference allows passive diffusion ofO2 from air filled in the lungs to the blood vessels of lung alveoli. 24 Approximately seventy percent of carbon dioxide absorbed by the blood will be transported to the lungs [CBSE AIPMT 2014] (a) as bicarbonate ions (b) in the form of dissolved gas molecules (c) by binding to RBC (d) as carbaminohaemoglobin  a  The largest fraction of carbon dioxide, i.e. about 70% is converted to bicarbonates (HCO ) 3− and transported in the plasma. Carbonic +   H CO 2 3 ACnhydrase (c) pO2 = 95 and pCO2 = 40 (d) pO2 = 159 and pCO2= 0.3  a  (d) Binding of oxygen with haemoglobin is mainly related to partial pressure of O2 CO H O 2 2 Anhydrase HCO H 3− + + arbonic Partial pressures of oxygen( in mm Hg) and carbon dioxide at alveoli are pO2 = 104and pCO2 = 40.  b  Statement in option (b) is incorrect with reference to transport of oxygen. It can be corrected as About −23%of CO2 is carried by + haemoglobin as carbaminohaemoglobin CO Hb (haemoglobin) HbCO 2 3 Respir atory gas Atmos pheric air Alveoli Blood (deoxy genated) Blood (oxyge nated) Tissue In alveoli high pO2 , low pCO2 , low H + concentration and lower temperature are the factors that favour the formation Carbo amino haemoglobin 25 People who have migrated from the planes to an area adjoining O2 159 104 40 95 40 CO2 0.3 40 45 40 45 20 Match the following columns and select the correct option from the codes given below. [NEET (Oct.) 2020] of oxyhaemoglobin. 22 Reduction in pH of blood will [NEET 2016, Phase I] (a) reduce the blood supply to the brain (b) decrease the affinity of haemoglobin with oxygen (c) release bicarbonate ions by the liver (d) reduce the rate of heartbeat Rohtang Pass about six months back [CBSE AIPMT 2012] (a) have more RBCs and their haemoglobin has a lower binding affinity toO2 (b) are not physically fit to play games like football 164 (c) suffer from altitude sickness with symptoms like nausea, fatigue, etc. (d) have the usual RBC count but their haemoglobin has very high binding affinity toO2  a  As a person moves up a hill the pO2 and total atmospheric pressure decreases. Decrease in pO2 due to the increasing altitude, stimulates the Juxtaglomerular cells of kidney to secrete erythropoietin hormone which increases the number of RBCs (polycythemia) to compensate the supply ofO2 . At higher altitude, haemoglobin has lower binding affinity toO2 because the primary factor responsible for binding is pO2 which decreases at higher altitude. 26 Which two of the following changes (1- )4 usually tend to occur in the plain dwellers when they move to high altitudes (3,500 m or more)? [CBSE AIPMT 2010]",
+   357→   357→      "NEET , Phase II",
+   358→   358→      null,
+   359→   359→      null
+   360→   360→    ]
+   361→   361→  },
+   362→   362→  {
+   363→   363→    "sheet": "Class11",
+   364→   364→    "row": 2358,
+   365→   365→    "data": [
+   366→   366→      "Biology",
+   367→   367→      null,
+   368→   368→      "Body Fluids and Circulation",
+   369→   369→      "English",
+   370→   370→      "Increase in thrombocyte count Changes occurring are",
+   371→   371→      "2 and 3",
+   372→   372→      "3 and 4",
+   373→   373→      "1 and 4",
+   374→   374→      "1 and 2",
+   375→   375→      1.0,
+   376→   376→      "When a person moves to higher altitudes, the pO2 and total atmospheric pressure decrease. Hypoxia stimulates the Juxtaglomerular cells of the kidney to release erythropoietin hormone which stimulates erythropoesis in bone marrow causing polycythemia (increase in RBCs production). Hypoxia will also increase breathing rate. Initially the size of RBCs will also increase but with increase in number of RBCs, the size of RBCs becomes normal. 27 The haemoglobin of a human foetus [CBSE AIPMT 2008] (a) has a lower affinity for oxygen than that of the adult (b) its affinity for oxygen is the same as that of an adult (c) has only 2 protein sub-units instead of 4 (d) has a higher affinity for oxygen than that of an adult  d  Haemoglobin is the protein that makes red blood corpuscles appear red, binds easily and reversibly with oxygen. Normal values for haemoglobin are 14–20 g/100 mL of blood in infants, 13–18 g/100 mL in adult male and 12–16 g/100 mL in adult females. Foetal red blood cells are not sickle-shaped even in that destined to have sickle-cell anaemia, i.e. haemoglobin of foetus has higher affinity of oxygen than that an adult. 28 People living at sea level have around 5 million RBC per cubic millimeter of their blood whereas those living at an altitude of 5400 metre have around 8 million. This is because at high altitude [CBSE AIPMT 2006] (a) atmosphericO2 level is less and hence, more RBCs are needed to absorb the required amount ofO2 to survive (b) there is more UV radiation which enhances RBC production (c) people eat more nutritive food, therefore, more RBCs are formed (d) people get pollution-free air to breathe and more oxygen is available  a  At high altitudes, the atmosphericO2 level is less and hence, more RBCs are needed to absorb the required amount ofO2 to survive. That is why, the people living at sea level have around 5 million RBC/mm3 of their blood whereas, those living at an altitude of 5400 meter have around 8 million RBC/mm3 of their blood. 29 Blood analysis of a patient reveals an unusually high quantity of carboxyhaemoglobin content. Which of the following conclusions is most likely to be correct? [CBSE AIPMT 2004] (a) The patient has been inhaling polluted air containing unusually high content of carbon disulphide (b) The patient has been inhaling polluted air containing unusually high content of chloroform (c) The patient has been inhaling polluted air containing unusually high content of carbon dioxide (d) The patient has been inhaling polluted air containing unusually high content of carbon monoxide  d  Inhalation of polluted air causes increase in CO in the blood of a person. Carbon monoxide forms a stable compound with haemoglobin called carboxy haemoglobin as affinity of Hb for CO is 210 times greater than its affinity forO2. In this form haemoglobin does not carry oxygen resulting in death due to hypoxia. Hb + CO Hb CO Haemoglobin Carboxy haemoglobin 30 WhenCO2 concentration in blood increases, breathing becomes [CBSE AIPMT 2004] (a) shallower and slow (b) there is no effect on breathing (c) slow and deep (d) faster and deeper  d  When CO2 concentration in blood increases breathing becomes faster and deeper. The effect of increased CO2 is to decrease the affinity of haemoglobin for O2 . Thus, due to Bohr’s effect the CO2 released in respiring tissue accelerates the delivery of oxygen by faster and deeper breathing. 31 The process of migration of chloride ions from plasma to RBC and of carbonate ions from RBC to plasma is [CBSE AIPMT 1999] (a) chloride shift (b) ionic shift (c) atomic shift (d)Na + pump  a  To maintain electrostatic neutrality of plasma, many chloride ions diffuse from plasma into RBCs and bicarbonate ions pass out. The chloride content of RBCs increases when oxygenated blood becomes deoxygenated. This is termed as chloride shift or Hamburger shift. 32 The exchange of gases in the alveoli of the lungs takes place by [CBSE AIPMT 1998] (a) simple diffusion (b) osmosis (c) active transport (d) passive transport Breathing and Exchange of Gases 165  a  Oxygen diffuses from alveoli to deoxygenated blood and CO2 diffuses from deoxygenated blood to alveoli by simple diffusion. Diffusion is defined as, the flow of the substance (gases) from a region of their higher concentration to a region of lower concentration. 33 Which one of the following statements about blood constituents and transport of respiratory gases is most accurate? [CBSE AIPMT 1996] (a) RBCs transport oxygen whereas WBCs transport CO2 (b) RBCs transport oxygen whereas plasma transports only CO2 (c) RBCs as well as WBCs transport both oxygen and CO2 (d) RBCs as well as plasma transport both oxygen and CO2  d  RBCs and plasma both transportO2 and CO2 either in chemically bonded state or in dissolved state. 34 At high altitude, the RBCs in the human blood will [CBSE AIPMT 1995] (a) increase in size (b) decrease in size (c) increase in number (d) decrease in number  c  At high altitude there is lowO2 concentration, so RBCs increase in number, i.e.O2 supply can be maintained to organs. 35 The carbon dioxide is transported via blood to lungs as [CBSE AIPMT 1995] (a) dissolved in blood plasma (b) in the form of carbonic acid only (c) in combination with haemoglobin only (d) carbaminohaemoglobin and as carbonic acid  d  Most of the CO2 (70%) that dissolves in plasma reacts with water forming carbonic acid. This reaction occurs rapidly inside RBCs because of the presence of an enzyme carbonic anhydrase. Moreover, above 23% of total bloodCO2 is transported by loosely binding with haemoglobin forming an unstable compound called carbaminohaemoglobin. 36 Although muchCO2 is carried in blood, yet blood does not become acidic, because [CBSE AIPMT 1995] (a) it is absorbed by the leucocytes (b) blood buffers play an important role in CO2 transport (c) it combines with water to formH CO 2 3 which is neutralised byNa CO 2 3 (d) it is continuously diffused through tissues and is not allowed to accumulate  b  Buffer of the blood is sodium bicarbonate which play an important role in CO2 transport. During CO2 transportation, carbonic acid dissociates intoH+ andHCO3– (bicarbonate ions). This bicarbonate combines with sodium forming sodium bicarbonate. Thus, concentration of carbonic acid does not increase in blood due to the presence of sodium and thus blood does not become acidic. About 70% of CO2 released during cellular respiration is transported by blood in the form of sodium bicarbonate in plasma. 37 Oxygen dissociation curve of haemoglobin is [CBSE AIPMT 1994] (a) sigmoid (b) hyperbolic (c) linear (d) hypobolic  a  Oxygen haemoglobin dissociation curve gives the relationship between the saturation of haemoglobin and oxygen tension. The curve obtained by plotting the percent saturation of Hb against time is sigmoid, at 38°C and pH 7.4. Dissociation of oxyhaemoglobin can be promoted by rise in the body temperature and low pH (highCO2 ). 38 Carbon dioxide is transported from tissues to respiratory surface by only [CBSE AIPMT 1993] (a) plasma and erythrocytes (b) plasma (c) erythrocytes (d) erythrocytes and leucocytes  a  Carbon dioxide is transported from tissues to respiratory surface by only plasma and erythrocytes. Carbon dioxide (CO ) 2 transportation by blood is much easier than oxygen due to the high solubility ofCO2 in water. During transport ofCO2 , 7% ofCO2 is dissolved in plasma, 23% as carbaminohaemoglobin and 70% transported as bicarbonates (HCO3−). 39 Carbonic anhydrase occurs in [CBSE AIPMT 1991] (a) lymphocytes (b) blood plasma (c) RBC (d) leucocytes  c  The erythrocyte (RBC) contains sufficient amount of carbonic anhydrase enzyme which catalyses the reaction betweenCO2 andH O2 and helps in transportation ofCO2 from tissues to the lungs. TOPIC 5 Disorders of Respiratory System 40 According to Central Pollution Control Board (CPCB) what size (in diameter) of particulate is responsible for causing greater harm to human health? [NEET (Oct.) 2020] (a) 3.5 micrometers (b) 2.5 micrometers (c) 4.0 micrometers (d) 3.0 micrometers  b  According to Central Pollution Control Board (CPCB), particulate size 2.5 micrometers or less in diameter (PM 2.5) are responsible for causing the greatest harm to human health. These fine particulates can be inhaled deep into the lungs and can cause breathing and respiratory symptoms, irritation, inflammation and damage to the lungs and premature deaths. 41 Which of the following is an occupational respiratory disorder? [NEET 2018] (a) Botulism (b) Silicosis (c) Anthracis (d) Emphysema  b  Silicosis is an occupational respiratory disorder which is caused due to excessive inhalation of silica dust. It usually affects the workers of grinding or stone breaking industries. The long-term exposure can cause lung fibrosis (or stiffening), leading to breathing difficulties. Anthracis or Anthrax is a bacterial infection caused by Bacillus anthracis. Botulism is food poisoning infection caused by Clostridium botulinum. Its symptoms include diarrhoea, vomiting, abdominal distention, etc. 166 Emphysema is a lung disease, that damages the air sacs and causes shortness of breathe. It may be caused by smoking, deficiency of enzymes alpha-1-antitrypsin and air pollution. 42 Which one of the following options correctly represents the lung conditions in asthma and emphysema, respectively? [NEET 2018] (a) Increased respiratory surface; Inflammation of bronchioles (b) Increased number of bronchioles; Increased respiratory surface (c) Inflammation of bronchioles; Decreased respiratory surface (d) Decreased respiratory surface; Inflammation of bronchioles  c  Asthma is inflammation of bronchioles. Its symptoms include wheezing, coughing and difficulty in breathing mainly during expiration. Emphysema is an inflation or abnormal distension of the bronchioles or alveolar sacs of the lungs. Many of the septa between the alveoli are destroyed and much of the elastic tissue of the lungs is replaced by connective tissue. As a result alveolar septa collapse and the surface area get greatly reduced. 43 Name the chronic respiratory disorder caused mainly by cigarette smoking [NEET 2016, Phase I] (a) asthma (b) respiratory acidosis (c) respiratory alkalosis (d) emphysema  d  Emphysema is characterised by inflation or distension of alveoli by dissolution of wall of the two adjacent lung alveoli. It generally occurs due to chronic cigarette smoking. 44 Name the pulmonary disease in which alveolar surface area involved in gas exchange is drastically reduced due to damage in the alveolar walls. [CBSE AIPMT 2015] (a) Pleurisy (b) Emphysema (c) Pneumonia (d) Asthma  b  Empysema is a chronic respiratory disease where there is over-inflation of the air sacs (alveoli) in the lung, causing a decrease in lung function and often, breathlessness. In this disease, the alveolar walls are damaged leading to drastic reduction in gas exchange. 45 Which one of the following is the correct statement for respiration in humans? [CBSE AIPMT 2012] (a) Cigarette smoking may lead to inflammation of bronchi (b) Neural signals from pneumotoxic centre in pons region of brain can increase the duration of inspiration (c) Workers in grinding and stone breaking industries may suffer, from lung fibrosis (d) About 90% of carbon dioxide(CO ) 2 is carried by haemoglobin as carbamino haemoglobin  c  Irritating gases, fumes, dusts, etc., present in the work place result in lung disorders. This is because the defence mechanism of the body cannot fully cope with this situation of so much dust. Long exposure can give rise to inflammation leading to fibrosis (proliferation of fibrous tissue) and thus causing serious lung damage. 18 Body Fluids and Circulation TOPIC 1 Blood",
+   377→   377→      "CBSE AIPMT",
+   378→   378→      null,
+   379→   379→      null
+   380→   380→    ]
+   381→   381→  },
+   382→   382→  {
+   383→   383→    "sheet": "Class11",
+   384→   384→    "row": 2359,
+   385→   385→    "data": [
+   386→   386→      "Biology",
+   387→   387→      null,
+   388→   388→      "Body Fluids and Circulation",
+   389→   389→      "English",
+   390→   390→      "Persons with ‘AB’ blood group are called as \"universal recipients\". This is due to",
+   391→   391→      "absence of antigens-A and B on the surface of RBCs",
+   392→   392→      "absence of antigens-A and B in plasma",
+   393→   393→      "presence of antibodies, anti-A and anti-B on RBCs",
+   394→   394→      "absence of antibodies, anti-A and anti-B in plasma",
+   395→   395→      4.0,
+   396→   396→      "Person with AB blood group are universal recipient because they do not have any antibodies to anti-A and anti-B in their blood hence they can receive blood from a donor of any blood type. During transfusion, plasma is matched to avoid A and B antibodies in the transfused plasma that will attack the recipient's red blood cells. Person with AB blood type does not contain A and B antibodies in plasma. Therefore, they are also called universal plasma donors.",
+   397→   397→      "NEET",
+   398→   398→      null,
+   399→   399→      null
+   400→   400→    ]
+   401→   401→  },
+   402→   402→  {
+   403→   403→    "sheet": "Class11",
+   404→   404→    "row": 2360,
+   405→   405→    "data": [
+   406→   406→      "Biology",
+   407→   407→      null,
+   408→   408→      "Body Fluids and Circulation",
+   409→   409→      "English",
+   410→   410→      "Which enzyme is responsible for the conversion of inactive fibrinogens to fibrins?",
+   411→   411→      "Thrombin",
+   412→   412→      "Renin",
+   413→   413→      "Epinephrine",
+   414→   414→      "Thrombokinase",
+   415→   415→      1.0,
+   416→   416→      "Plasma contains prothrombin and fibrinogen. During clotting, inactive prothrombin converts to active thrombin. Thrombin acts as a proteolytic enzyme to convert soluble plasma protein fibrinogen molecule produced from the liver in the presence of vitamin-K to form insoluble fibrin monomer.",
+   417→   417→      "NEET",
+   418→   418→      null,
+   419→   419→      null
+   420→   420→    ]
+   421→   421→  },
+   422→   422→  {
+   423→   423→    "sheet": "Class11",
+   424→   424→    "row": 2361,
+   425→   425→    "data": [
+   426→   426→      "Biology",
+   427→   427→      null,
+   428→   428→      "Body Fluids and Circulation",
+   429→   429→      "English",
+   430→   430→      "Match the following columns and select the correct option.  Column I Column II A. Eosinophils 1. Immune response B. Basophils 2. Phagocytosis C. Neutrophils 3. Release histaminase destructive enzymes D. Lymphocytes 4. Release granules containing histamine A BCD",
+   431→   431→      "4 1 2 3",
+   432→   432→      "1 2 4 3",
+   433→   433→      "2 1 3 4",
+   434→   434→      "3 4 2 1",
+   435→   435→      4.0,
+   436→   436→      "Option (d) is the correct. It can be explained as follows Eosinophils are associated with allergic reactions and release histaminase, destructive enzymes. Basophils secrete histamine, serotonin, heparin, etc. and are involved in inflammatory reactions. Neutrophils are phagocytic cells. Both B and T lymphocytes are responsible for immune responses of the body.",
+   437→   437→      "NEET (Sep.)",
+   438→   438→      null,
+   439→   439→      null
+   440→   440→    ]
+   441→   441→  },
+   442→   442→  {
+   443→   443→    "sheet": "Class11",
+   444→   444→    "row": 2362,
+   445→   445→    "data": [
+   446→   446→      "Biology",
+   447→   447→      null,
+   448→   448→      "Digestion and Absorption",
+   449→   449→      "English",
+   450→   450→      "Which of the following gastric cells indirectly help in erythropoiesis?",
+   451→   451→      "Goblet cells",
+   452→   452→      "Mucous cells",
+   453→   453→      "Chief cells",
+   454→   454→      "Parietal cells",
+   455→   455→      4.0,
+   456→   456→      "Parietal cells (oxyntic cells) secrete hydrochloric acid and castle intrinsic factor. HCl converts iron (in diet) from ferric to ferrous form which can be easily absorbed and used during erythropoiesis (formation of RBCs). Castle intrinsic factor helps in absorbing vitamin-B12 and its deficiency causes pernicious anaemia. The functions of other cells are as follows Mucous or Goblet cells secrete mucus that lines the stomach and protects it from the acid present in stomach. Chief cells secrete gastric digestive enzymes as proenzymes or zymogens.",
+   457→   457→      "NEET",
+   458→   458→      null,
+   459→   459→      null
+   460→   460→    ]
+   461→   461→  },
+   462→   462→  {
+   463→   463→    "sheet": "Class11",
+   464→   464→    "row": 2363,
+   465→   465→    "data": [
+   466→   466→      "Biology",
+   467→   467→      null,
+   468→   468→      "Body Fluids and Circulation",
+   469→   469→      "English",
+   470→   470→      "Albumin (iii) Defence mechanism 1 23",
+   471→   471→      "(i) (iii) (ii)",
+   472→   472→      "(i) (ii) (iii)",
+   473→   473→      "(iii) (ii) (i)",
+   474→   474→      "(ii) (iii) (i)",
+   475→   475→      4.0,
+   476→   476→      "Fibrinogen is a soluble plasma protein that is stimulated by thrombin and gets converted into insoluble form fibrin. The latter helps in the formation of blood clot to seal the wound and stop bleeding. 168 Globulins are simple proteins that form a large fraction of blood serum proteins involved in defence mechanism. There are four main types of globulins that are manufactured in liver, namely alpha-1, alpha-2, beta and gamma. Albumin is a plasma protein that is manufactured by the liver. It helps in maintaining osmotic pressure which prevents the fluid-leakage out into the tissues from the bloodstream.",
+   477→   477→      null,
+   478→   478→      null,
+   479→   479→      null
+   480→   480→    ]
+   481→   481→  },
+   482→   482→  {
+   483→   483→    "sheet": "Class11",
+   484→   484→    "row": 2364,
+   485→   485→    "data": [
+   486→   486→      "Biology",
+   487→   487→      null,
+   488→   488→      "Body Fluids and Circulation",
+   489→   489→      "English",
+   490→   490→      "Person with blood group AB is considered as universal recipient because he has",
+   491→   491→      "Both A and B antigens on RBC but no antibodies in the plasma",
+   492→   492→      "Both A and B antibodies in the plasma",
+   493→   493→      "No antigen on RBC and no antibody in the plasma",
+   494→   494→      "Both A and B antigens in the plasma but no antibodies",
+   495→   495→      1.0,
+   496→   496→      "Blood group AB is universal recipient because the person with AB blood group has both A and B antigens on RBC but no antibodies in the plasma.Other blood group and their genotypes are given below  c  Fibrinogen (factor 1] is a soluble plasma glycoprotein, synthesised by the liver. It is converted by thrombin into fibrin during blood coagulation. Fibrin is then cross-linked by factor XIII to form a clot.",
+   497→   497→      "CBSE AIPMT",
+   498→   498→      null,
+   499→   499→      null
+   500→   500→    ]
+   501→   501→  },
+   502→   502→  {
+   503→   503→    "sheet": "Class11",
+   504→   504→    "row": 2365,
+   505→   505→    "data": [
+   506→   506→      "Biology",
+   507→   507→      null,
+   508→   508→      "Body Fluids and Circulation",
+   509→   509→      "English",
+   510→   510→      "A person with unknown blood group under ABO system, has suffered much blood loss in an accident and needs immediate blood transfusion. His one friend who has a valid certificate of his own blood type, offers for blood donation without delay. What would have been the type of blood group of the donor friend?",
+   511→   511→      "Type AB",
+   512→   512→      "Type O",
+   513→   513→      "Type A",
+   514→   514→      "Type B",
+   515→   515→      2.0,
+   516→   516→      "Codes (a) Only (IV) (b) Only (I) Blood group Antigen (s) Present on the RBC Antibodies Present in Serum Genotypes Blood type ‘O’ has no antigen but both types of antibodies ‘a’ and ‘b’. The person with blood type ‘O’ is universal (c) (I), (III) and (IV) (d) (II) and (III)  a  The absence of nucleus in RBC is an adaptation that allows it to contain more haemoglobin and carry more oxygen by providing empty space. This adaptation also aids in effective diffusion of oxygen. Concept Enhancer RBCs are initially produced in bone marrow with a nucleus. They, then undergo enucleation at maturity, in which their nucleus is removed. 07 Name the blood cells, whose reduction in number can cause clotting disorder, leading to excessive loss of blood from the body. [NEET 2016, Phase II] (a) Erythrocytes (b) Leucocytes (c) Neutrophils (d) Thrombocytes  d  A reduction in number of thrombocytes can lead to clotting disorders which will result in excessive loss of blood from the body. These are also called blood platelets. 08 Serum differs from blood in [NEET 2016, Phase II] (a) lacking globulins (b) lacking albumins (c) lacking clotting factors (d) lacking antibodies A Antigen-A Anit-b AA/AO B Anitigen-B Anti-a BB/BO O None Anti-a and b O 10 A certain road accident patient with unknown blood group needs immediate blood transfusion. His one doctor friend at once offers his blood. What was the blood group of the donor? [CBSE AIPMT 2012] (a) Blood group B (b) Blood group AB (c) Blood group O (d) Blood group A  c  Blood group is tested by two types of sera, i.e. anti-A (antibody-A) and anti-B (antibody-B). Persons with blood group O possess both antibodies in their plasma but have no antigens in their RBCs. So, RBCs of blood group ‘O’ do not show clumping in any of the two sera. That’s why, persons with blood group ‘O’ are called universal donor and they can donate blood to a person with any type of blood group. 11 Which one of the following plasma proteins is involved in the coagulation of blood? [CBSE AIPMT 2011] (a) Serum amylase (b) A globulin (c) Fibrinogen (d) An albumin donor.",
+   517→   517→      "CBSE AIPMT",
+   518→   518→      null,
+   519→   519→      null
+   520→   520→    ]
+   521→   521→  },
+   522→   522→  {
+   523→   523→    "sheet": "Class11",
+   524→   524→    "row": 2366,
+   525→   525→    "data": [
+   526→   526→      "Biology",
+   527→   527→      null,
+   528→   528→      "Body Fluids and Circulation",
+   529→   529→      "English",
+   530→   530→      "The most popularly known blood grouping is the ABO grouping. It is named ABO and not ABC because ‘O’ in it refers to having",
+   531→   531→      "other antigens besides A and B on RBCs",
+   532→   532→      "over dominance of this type on the genes for A and B types",
+   533→   533→      "one antibody only—either anti-A or anti-B on the RBCs",
+   534→   534→      "no antigens A and B on RBCs",
+   535→   535→      4.0,
+   536→   536→      "Landsteiner divided human population into four groups based on the presence of antigens found in their RBCs. Each group represented a blood group. Thus, there are four types of blood groups A, B, AB and O. Blood group ‘O’ does not contain any antigen on RBCs, hence can be given to any person, that’s why this blood group is called universal donor.",
+   537→   537→      "CBSE AIPMT",
+   538→   538→      null,
+   539→   539→      null
+   540→   540→    ]
+   541→   541→  },
+   542→   542→  {
+   543→   543→    "sheet": "Class11",
+   544→   544→    "row": 2367,
+   545→   545→    "data": [
+   546→   546→      "Biology",
+   547→   547→      null,
+   548→   548→      "Human Health and Disease",
+   549→   549→      "English",
+   550→   550→      "If you suspect major deficiency of antibodies in a person, to which of the following would you look for confirmatory evidence?",
+   551→   551→      "Serum albumins",
+   552→   552→      "Serum globulins",
+   553→   553→      "Fibrinogen in the plasma",
+   554→   554→      "Haemocytes Body Fluids and Circulation 169",
+   555→   555→      2.0,
+   556→   556→      "Deficiency of antibodies can be confirmed by serum globulins as antibodies are also called immunoglobulins and constitute the gamma globulin part of blood proteins. These are secreted by activated B-cells or plasma cells.",
+   557→   557→      "CBSE AIPMT",
+   558→   558→      null,
+   559→   559→      null
+   560→   560→    ]
+   561→   561→  },
+   562→   562→  {
+   563→   563→    "sheet": "Class11",
+   564→   564→    "row": 2368,
+   565→   565→    "data": [
+   566→   566→      "Biology",
+   567→   567→      null,
+   568→   568→      "Body Fluids and Circulation",
+   569→   569→      "English",
+   570→   570→      "A drop of each of the following, is placed separately on four slides. Which of them will not coagulate?",
+   571→   571→      "Blood plasma",
+   572→   572→      "Blood serum",
+   573→   573→      "Sample from the thoracic duct of lymphatic system",
+   574→   574→      "Whole blood from pulmonary vein",
+   575→   575→      2.0,
+   576→   576→      "Serum will not coagulate. Because serum do not contain clotting factor, RBCs or WBCs. It is blood plasma not including the fibrinogens.",
+   577→   577→      "CBSE AIPMT",
+   578→   578→      null,
+   579→   579→      null
+   580→   580→    ]
+   581→   581→  },
+   582→   582→  {
+   583→   583→    "sheet": "Class11",
+   584→   584→    "row": 2369,
+   585→   585→    "data": [
+   586→   586→      "Biology",
+   587→   587→      null,
+   588→   588→      "Body Fluids and Circulation",
+   589→   589→      "English",
+   590→   590→      "Examination of blood of a person suspected of having anaemia, shows large, immature, nucleated erythrocytes without haemoglobin. Supplementing his diet with which of the following, is likely to alleviate his symptoms?",
+   591→   591→      "Thiamine",
+   592→   592→      "Folic acid and cobalamin",
+   593→   593→      "Riboflavin",
+   594→   594→      "Iron compounds",
+   595→   595→      4.0,
+   596→   596→      "Anaemia refers to any condition in which there is an abnormally low haemoglobin concentration and/or blood cell count. The most common cause is deficiency of iron which is an essential element of haemoglobin molecule. Thus, the iron compounds in the diet will help to alleviate the symptoms of anaemia.",
+   597→   597→      "CBSE AIPMT",
+   598→   598→      null,
+   599→   599→      null
+   600→   600→    ]
+   601→   601→  },
+   602→   602→  {
+   603→   603→    "sheet": "Class11",
+   604→   604→    "row": 2370,
+   605→   605→    "data": [
+   606→   606→      "Biology",
+   607→   607→      null,
+   608→   608→      "Human Health and Disease",
+   609→   609→      "English",
+   610→   610→      "Antibodies in our body are complex",
+   611→   611→      "lipoproteins",
+   612→   612→      "steroids",
+   613→   613→      "prostaglandins",
+   614→   614→      "glycoproteins",
+   615→   615→      4.0,
+   616→   616→      "Antibodies are the proteins (glycoproteins) called immunoglobulins. These are produced by B-lymphocytes in response to entry of a foreign substance or antigen into the body. Lipoproteins are the micellar complex of protein and lipids. Steroids are a group of lipids derived from a saturated compound cyclopentano perhydrophenanthrene which has a nucleus of four rings. Prostaglandin is a group of organic compounds derived from essential fatty acids and causing a range of physiological effects in animals.",
+   617→   617→      "CBSE AIPMT",
+   618→   618→      null,
+   619→   619→      null
+   620→   620→    ]
+   621→   621→  },
+   622→   622→  {
+   623→   623→    "sheet": "Class11",
+   624→   624→    "row": 2371,
+   625→   625→    "data": [
+   626→   626→      "Biology",
+   627→   627→      null,
+   628→   628→      "Body Fluids and Circulation",
+   629→   629→      "English",
+   630→   630→      "Which of the following substances, if introduced in the blood stream, would cause coagulation, at the site of its introduction?",
+   631→   631→      "Fibrinogen",
+   632→   632→      "Prothrombin",
+   633→   633→      "Heparin",
+   634→   634→      "Thromboplastin",
+   635→   635→      4.0,
+   636→   636→      "Lipoproteinaceous, thromboplastin is released by the injured tissue which causes blood clotting. In blood vessels, thromboplastin do not release due to which blood does not clot. But external thromboplastin to blood will cause blood clotting at the site of its introduction due to the formation of prothrombinase.",
+   637→   637→      "CBSE AIPMT",
+   638→   638→      null,
+   639→   639→      null
+   640→   640→    ]
+   641→   641→  },
+   642→   642→  {
+   643→   643→    "sheet": "Class11",
+   644→   644→    "row": 2372,
+   645→   645→    "data": [
+   646→   646→      "Biology",
+   647→   647→      null,
+   648→   648→      "Body Fluids and Circulation",
+   649→   649→      "English",
+   650→   650→      "You are required to draw blood from a patient and to keep it in a test tube for analysis of blood corpuscles and plasma. You are also provided with the following four types of test tubes. Which of them will you not use for the purpose?",
+   651→   651→      "Test-tube containing calcium bicarbonate",
+   652→   652→      "Chilled test tube",
+   653→   653→      "Test tube containing heparin",
+   654→   654→      "Test tube containing sodium oxalate",
+   655→   655→      1.0,
+   656→   656→      "Clotting of collected blood can be prevented by coating the test tubes with silicon or adding chelating agents. Citrate, oxalate, heparin and EDTA are anticoagulants.",
+   657→   657→      "CBSE AIPMT",
+   658→   658→      null,
+   659→   659→      null
+   660→   660→    ]
+   661→   661→  },
+   662→   662→  {
+   663→   663→    "sheet": "Class11",
+   664→   664→    "row": 2373,
+   665→   665→    "data": [
+   666→   666→      "Biology",
+   667→   667→      null,
+   668→   668→      "Body Fluids and Circulation",
+   669→   669→      "English",
+   670→   670→      "What is correct regarding leucocytes?",
+   671→   671→      "These can squeeze out through (can cross) the capillary walls",
+   672→   672→      "These are enucleate",
+   673→   673→      "Sudden fall in their number indicates cancer",
+   674→   674→      "These are produced in thymus",
+   675→   675→      1.0,
+   676→   676→      "Most of the T and B-lymphocytes (types of leukocytes) continuously circulate between the blood and lymph. These leave the blood stream, squeezing out between specialised endothelial cuts found in certain small vessels and enter various tissues including all the lymph nodes. After percolating through a tissue, these accumulate in small lymphatic vessels which connect to a series of lymph nodes, from where they ultimately enter the main lymphatic vessel (thoracic duct) which carries them back into the blood.",
+   677→   677→      "CBSE AIPMT",
+   678→   678→      null,
+   679→   679→      null
+   680→   680→    ]
+   681→   681→  },
+   682→   682→  {
+   683→   683→    "sheet": "Class11",
+   684→   684→    "row": 2374,
+   685→   685→    "data": [
+   686→   686→      "Biology",
+   687→   687→      null,
+   688→   688→      "Body Fluids and Circulation",
+   689→   689→      "English",
+   690→   690→      "What is correct for blood group ‘O’?",
+   691→   691→      "No antigens but both a and b antibodies are present",
+   692→   692→      "A antigen and b antibody",
+   693→   693→      "Antigen and antibody both absent",
+   694→   694→      "A, B antigens and a, b antibodies",
+   695→   695→      1.0,
+   696→   696→      "In blood of ‘O’ group, no antigens are present on red blood cells, but both anti-a and anti-b antibodies are present in plasma. Blood group A has antigen ‘A’ and antibody ‘b’. Blood group B has antigen ‘B’ and antibody ‘a’. Blood group AB has antigens ‘A’ and ‘B’ but no antibody in plasma.",
+   697→   697→      "CBSE AIPMT , 1999",
+   698→   698→      null,
+   699→   699→      null
+   700→   700→    ]
+   701→   701→  },
+   702→   702→  {
+   703→   703→    "sheet": "Class11",
+   704→   704→    "row": 2375,
+   705→   705→    "data": [
+   706→   706→      "Biology",
+   707→   707→      null,
+   708→   708→      "Body Fluids and Circulation",
+   709→   709→      "English",
+   710→   710→      "Haemoglobin is a type of",
+   711→   711→      "carbohydrate",
+   712→   712→      "vitamin",
+   713→   713→      "skin pigment",
+   714→   714→      "respiratory pigment",
+   715→   715→      4.0,
+   716→   716→      "Haemoglobin (Hb) is a proteinaceous respiratory pigment made up of a protein called globin with iron[Fe ] 2+ containing porphyrin as prosthetic group. It binds to oxygen reversibly.",
+   717→   717→      "CBSE AIPMT",
+   718→   718→      null,
+   719→   719→      null
+   720→   720→    ]
+   721→   721→  },
+   722→   722→  {
+   723→   723→    "sheet": "Class11",
+   724→   724→    "row": 2376,
+   725→   725→    "data": [
+   726→   726→      "Biology",
+   727→   727→      null,
+   728→   728→      "Body Fluids and Circulation",
+   729→   729→      "English",
+   730→   730→      "Which is the principal cation in the plasma of the blood?",
+   731→   731→      "Magnesium",
+   732→   732→      "Sodium",
+   733→   733→      "Potassium",
+   734→   734→      "Calcium",
+   735→   735→      2.0,
+   736→   736→      "The concentration ofNa +in plasma is 0.32% followed byK+(0.02%) and magnesium (0.0025%). The mineral ions likeNa +and others present in the blood plasma play an essential role in the maintenance of osmotic pressure of the blood. 170",
+   737→   737→      "CBSE AIPMT",
+   738→   738→      null,
+   739→   739→      null
+   740→   740→    ]
+   741→   741→  },
+   742→   742→  {
+   743→   743→    "sheet": "Class11",
+   744→   744→    "row": 2377,
+   745→   745→    "data": [
+   746→   746→      "Biology",
+   747→   747→      null,
+   748→   748→      "Body Fluids and Circulation",
+   749→   749→      "English",
+   750→   750→      "Which of the following is agranulocyte?",
+   751→   751→      "Lymphocyte",
+   752→   752→      "Eosinophil",
+   753→   753→      "Basophil",
+   754→   754→      "Neutrophil",
+   755→   755→      1.0,
+   756→   756→      "White Blood Corpuscles (WBC) or leucocytes can be divided into two groups on the presence/absence of minute granules in the cytoplasm. (a) Granulocyteswhich contain granules. e.g. neutrophils, eosinophils and basophils. (b) Agranulocytes which do not contain granules. lymphocytes, monocytes.",
+   757→   757→      "CBSE AIPMT",
+   758→   758→      null,
+   759→   759→      null
+   760→   760→    ]
+   761→   761→  },
+   762→   762→  {
+   763→   763→    "sheet": "Class11",
+   764→   764→    "row": 2378,
+   765→   765→    "data": [
+   766→   766→      "Biology",
+   767→   767→      null,
+   768→   768→      "Body Fluids and Circulation",
+   769→   769→      "English",
+   770→   770→      "The life span of human WBC is approximately",
+   771→   771→      "less than 10 days",
+   772→   772→      "between 20-30 days",
+   773→   773→      "between 2-3 months",
+   774→   774→      "more than 4 months",
+   775→   775→      1.0,
+   776→   776→      "Human WBC (or leukocytes) life span is approximately less than 10 days. Leukocytes constitute less than 1% of the cells in human blood. They are large in size than red blood cells. They have nucleus but no haemoglobin.",
+   777→   777→      "CBSE AIPMT",
+   778→   778→      null,
+   779→   779→      null
+   780→   780→    ]
+   781→   781→  },
+   782→   782→  {
+   783→   783→    "sheet": "Class11",
+   784→   784→    "row": 2379,
+   785→   785→    "data": [
+   786→   786→      "Biology",
+   787→   787→      null,
+   788→   788→      "Body Fluids and Circulation",
+   789→   789→      "English",
+   790→   790→      "Which one of the following vertebrate organs receives the oxygenated blood only?",
+   791→   791→      "Gill",
+   792→   792→      "Lung",
+   793→   793→      "Liver",
+   794→   794→      "Spleen",
+   795→   795→      4.0,
+   796→   796→      "Only spleen and brain always receive oxygenated blood. Gills and lungs are the blood purifying organs, i.e. here blood becomes oxygenated and these two org a lways receive deoxygenated blood. Liver is a part of hepatic portal",
+   797→   797→      "CBSE AIPMT",
+   798→   798→      null,
+   799→   799→      null
+   800→   800→    ]
+   801→   801→  },
+   802→   802→  {
+   803→   803→    "sheet": "Class11",
+   804→   804→    "row": 2380,
+   805→   805→    "data": [
+   806→   806→      "Biology",
+   807→   807→      null,
+   808→   808→      "Body Fluids and Circulation",
+   809→   809→      "English",
+   810→   810→      "Cells formed in bone marrow include",
+   811→   811→      "RBC",
+   812→   812→      "RBC and leucocytes",
+   813→   813→      "leucocytes",
+   814→   814→      "lymphocytes",
+   815→   815→      2.0,
+   816→   816→      "In the developing foetus, the haemopoietic tissues are liver and spleen, while after birth RBCs are mainly produced in the bone marrow of the long bones. The formation of leucocytes occurs in the bone marrow, Peyer’s patches, lymph nodes, thymus, spleen etc. and it is called as leucopoiesis.",
+   817→   817→      "CBSE AIPMT",
+   818→   818→      null,
+   819→   819→      null
+   820→   820→    ]
+   821→   821→  },
+   822→   822→  {
+   823→   823→    "sheet": "Class11",
+   824→   824→    "row": 2381,
+   825→   825→    "data": [
+   826→   826→      "Biology",
+   827→   827→      null,
+   828→   828→      "Body Fluids and Circulation",
+   829→   829→      "English",
+   830→   830→      "Removal of calcium from freshly collected blood would",
+   831→   831→      "cause delayed clotting",
+   832→   832→      "prevent clotting",
+   833→   833→      "cause immediate clotting",
+   834→   834→      "prevent destruction of haemoglobin",
+   835→   835→      2.0,
+   836→   836→      "Blood clotting starts when prothrombinase in the presence of Ca2 +converts inactive prothrombin into thrombin which in turn converts dissolved fibrinogen protein into fine thread-like fibrin. The network of fibrin covers the wound in which blood corpuscles get endulge and form clot. If Ca2 +is removed, it will prevent clotting.",
+   837→   837→      "CBSE AIPMT",
+   838→   838→      null,
+   839→   839→      null
+   840→   840→    ]
+   841→   841→  },
+   842→   842→  {
+   843→   843→    "sheet": "Class11",
+   844→   844→    "row": 2382,
+   845→   845→    "data": [
+   846→   846→      "Biology",
+   847→   847→      null,
+   848→   848→      "Body Fluids and Circulation",
+   849→   849→      "English",
+   850→   850→      "In the ABO system of blood groups, if both antigens are present but no antibody, the blood group of the individual would be",
+   851→   851→      "B",
+   852→   852→      "O",
+   853→   853→      "AB",
+   854→   854→      "A",
+   855→   855→      3.0,
+   856→   856→      "c  Blood group A has A antigen and b antibody and blood group O has no antigens and both a and b antibodies so, if a patient with blood group A needs blood, both A and O blood group can be given to him.",
+   857→   857→      "CBSE AIPMT , 1991",
+   858→   858→      null,
+   859→   859→      null
+   860→   860→    ]
+   861→   861→  },
+   862→   862→  {
+   863→   863→    "sheet": "Class11",
+   864→   864→    "row": 2383,
+   865→   865→    "data": [
+   866→   866→      "Biology",
+   867→   867→      null,
+   868→   868→      "Human Health and Disease",
+   869→   869→      "English",
+   870→   870→      "Which one engulfs pathogens rapidly?",
+   871→   871→      "Acidophils",
+   872→   872→      "Monocytes",
+   873→   873→      "Basophils",
+   874→   874→      "Neutrophils",
+   875→   875→      4.0,
+   876→   876→      "Neutrophils are granulocytes, i.e., cytoplasm is filled with fine granules. These granules are actually lysosome and Golgi bodies. These are the chief phagocytic cells of the body and engulf the microbes by phagocytosis, so neutrophils are also called soldiers of the body.",
+   877→   877→      "CBSE AIPMT",
+   878→   878→      null,
+   879→   879→      null
+   880→   880→    ]
+   881→   881→  },
+   882→   882→  {
+   883→   883→    "sheet": "Class11",
+   884→   884→    "row": 2384,
+   885→   885→    "data": [
+   886→   886→      "Biology",
+   887→   887→      null,
+   888→   888→      "Principles of Inheritance and Variation",
+   889→   889→      "English",
+   890→   890→      "Child death may occur in the marriage of",
+   891→   891→      "Rh + man andRh +woman",
+   892→   892→      "Rh + man andRh−woman",
+   893→   893→      "Rh− man andRh−woman",
+   894→   894→      "Rh− man andRh +woman",
+   895→   895→      2.0,
+   896→   896→      "Rhesus antibodies are formed in the plasma of Rh–woman who have been pregnanted with Rh +babies, if the foetal blood leaks across the placenta during the birth the mother body starts preparing antibodies against the Rh-antigen. Later Rh +foetus would be at risk and may suffer from haemolysis.",
+   897→   897→      "CBSE AIPMT , 2000",
+   898→   898→      null,
+   899→   899→      null
+   900→   900→    ]
+   901→   901→  },
+   902→   902→  {
+   903→   903→    "sheet": "Class11",
+   904→   904→    "row": 2385,
+   905→   905→    "data": [
+   906→   906→      "Biology",
+   907→   907→      null,
+   908→   908→      "Body Fluids and Circulation",
+   909→   909→      "English",
+   910→   910→      "RBCs do not occur in",
+   911→   911→      "frog",
+   912→   912→      "cow",
+   913→   913→      "camel",
+   914→   914→      "cockroach system, in which hepatic portal vein carries food laiden blood from Blood groups Antigen on RBC Antibodies in serum",
+   915→   915→      4.0,
+   916→   916→      "alimentary canal and associated glands before finally returning to heart. 27 Antigens are present [CBSE AIPMT 1995] (a) inside the nucleus (b) on cell surface (c) inside the cytoplasm (d) on nuclear membrane  b  Antigens (Ag) are foreign particles present on the surface of cell and when introduced in the blood they initiate a specific immune response against themselves. A A anti-b B B anti-a AB A and B – O – anti-a and anti-b Hence, blood group AB has no antibodies in serum but both antigens A and B. 31 A person with blood group A requires blood. The blood group which can be given is [CBSE AIPMT 1989] (a) A and B (b) A and AB (c) A and O (d) A, B, AB and O RBCs or red blood corpuscles are meant for the transportation of respiratory gases in the blood and these are present in all vertebrates. In cockroach haemolymph is present which serves for the transportation of nutrients, maintains hydrostatic pressure and acts as a reservoir of water.",
+   917→   917→      "CBSE AIPMT",
+   918→   918→      null,
+   919→   919→      null
+   920→   920→    ]
+   921→   921→  },
+   922→   922→  {
+   923→   923→    "sheet": "Class11",
+   924→   924→    "row": 2386,
+   925→   925→    "data": [
+   926→   926→      "Biology",
+   927→   927→      null,
+   928→   928→      "Excretory Products and their Elimination",
+   929→   929→      "English",
+   930→   930→      "Breakdown product of haemoglobin is",
+   931→   931→      "bilirubin",
+   932→   932→      "iron",
+   933→   933→      "biliverdin",
+   934→   934→      "calcium Body Fluids and Circulation 171",
+   935→   935→      1.0,
+   936→   936→      "Haemoglobin of erythrocytes split off into heme and globin. The core of iron in heme is salvaged, bound to protein as hemosiderin and stored for reuse. The remaining of the heme group is degraded to bilirubin a yellow pigment that is released into the blood. Bilirubin is picked up by liver cells which in turn secrete it into the intestine where it is metabolised to urobilinogen.",
+   937→   937→      "CBSE AIPMT",
+   938→   938→      null,
+   939→   939→      null
+   940→   940→    ]
+   941→   941→  },
+   942→   942→  {
+   943→   943→    "sheet": "Class11",
+   944→   944→    "row": 2387,
+   945→   945→    "data": [
+   946→   946→      "Biology",
+   947→   947→      null,
+   948→   948→      "Body Fluids and Circulation",
+   949→   949→      "English",
+   950→   950→      "One of the factors required for the maturation of erythrocytes is",
+   951→   951→      "vitamin-D",
+   952→   952→      "vitamin-A",
+   953→   953→      "vitamin-B12",
+   954→   954→      "vitamin-C",
+   955→   955→      3.0,
+   956→   956→      "Vitamin-B12 (cobalamin) promotes DNA synthesis, maturation of erythrocytes and myelin formation. Vitamin-D (calciferol), It is necessary for the formation of healthy bones and teeth. Vitamin-A (retinol), It is necessary for proper body growth and night vision. Vitamin-C (ascorbic acid), It helps in wound healing, blood formation and absorption of iron.",
+   957→   957→      "CBSE AIPMT",
+   958→   958→      null,
+   959→   959→      null
+   960→   960→    ]
+   961→   961→  },
+   962→   962→  {
+   963→   963→    "sheet": "Class11",
+   964→   964→    "row": 2388,
+   965→   965→    "data": [
+   966→   966→      "Biology",
+   967→   967→      null,
+   968→   968→      "Human Health and Disease",
+   969→   969→      "English",
+   970→   970→      "The haemorrhagic disease of new born is caused due to the deficiency of",
+   971→   971→      "vitamin-A",
+   972→   972→      "vitamin-B1",
+   973→   973→      "vitamin-B12",
+   974→   974→      "vitamin-K",
+   975→   975→      4.0,
+   976→   976→      "The haemorrhagic disease of new born is caused due to the deficiency of vitamin-K, characterised by delayed blood clotting and haemorrhage (blood loss).",
+   977→   977→      "CBSE AIPMT",
+   978→   978→      null,
+   979→   979→      null
+   980→   980→    ]
+   981→   981→  },
+   982→   982→  {
+   983→   983→    "sheet": "Class11",
+   984→   984→    "row": 2389,
+   985→   985→    "data": [
+   986→   986→      "Biology",
+   987→   987→      null,
+   988→   988→      "Body Fluids and Circulation",
+   989→   989→      "English",
+   990→   990→      "Vitamin-K is required for",
+   991→   991→      "formation of thromboplastin",
+   992→   992→      "conversion of fibrinogen to fibrin",
+   993→   993→      "conversion of prothrombin to thrombin",
+   994→   994→      "synthesis of prothrombin",
+   995→   995→      4.0,
+   996→   996→      "Vitamin-K (phylloquinone) is required for the synthesis of prothrombin necessary for blood clotting. It is synthesised by bacteria in the colon. Vitamin-K is commonly called anti-haemorrhagic vitamin. Its deficiency leads to bleeding, i.e. no coagulation or clotting. TOPIC 2 Structure of the Human Circulatory System: Heart",
+   997→   997→      "CBSE AIPMT",
+   998→   998→      null,
+   999→   999→      null
+  1000→  1000→    ]
+  1001→  1001→  }
+  1002→  1002→]

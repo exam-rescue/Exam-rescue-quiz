@@ -1,0 +1,842 @@
+   200→  2200→     D: Italy
+   201→  2201→R 872 | SSTCh 1.0 | B | What did the 'Crown of Oak Leaves' symbolize?
+   202→  2202→     A: Peace
+   203→  2203→     B: Heroism
+   204→  2204→     C: Willingness to make peace
+   205→  2205→     D: Beginning of a new era
+   206→  2206→R 873 | SSTCh 1.0 | A | The term 'Liberalism' is derived from the Latin word 'liber', which means:
+   207→  2207→     A: Free
+   208→  2208→     B: Respect
+   209→  2209→     C: Equality
+   210→  2210→     D: Unity
+   211→  2211→R 874 | SSTCh 1.0 | B | Which state led the unification of Italy?
+   212→  2212→     A: Rome
+   213→  2213→     B: Sardinia-Piedmont
+   214→  2214→     C: Venice
+   215→  2215→     D: Two Sicilies
+   216→  2216→R 875 | SSTCh 1.0 | B | Who was Frédéric Sorrieu?
+   217→  2217→     A: A German philosopher
+   218→  2218→     B: A French artist
+   219→  2219→     C: An Italian revolutionary
+   220→  2220→     D: A British politician
+   221→  2221→R 876 | SSTCh 1.0 | B | What was the primary language of the aristocracy in 19th century Europe?
+   222→  2222→     A: German
+   223→  2223→     B: French
+   224→  2224→     C: English
+   225→  2225→     D: Italian
+   226→  2226→R 877 | SSTCh 1.0 | A | Giuseppe Garibaldi contributed to Italian unification by leading which group?
+   227→  2227→     A: The Red Shirts
+   228→  2228→     B: The Black Shirts
+   229→  2229→     C: The Jacobins
+   230→  2230→     D: The Carbonari
+   231→  2231→R 878 | SSTCh 1.0 | B | Which ideology emphasized the importance of tradition, established institutions, and customs?
+   232→  2232→     A: Liberalism
+   233→  2233→     B: Conservatism
+   234→  2234→     C: Radicalism
+   235→  2235→     D: Socialism
+   236→  2236→R 879 | SSTCh 1.0 | B | What happened during the 'July Revolution' of 1830 in France?
+   237→  2237→     A: Napoleon was defeated
+   238→  2238→     B: Bourbon kings were overthrown
+   239→  2239→     C: Republic was established
+   240→  2240→     D: Germany was unified
+   241→  2241→R 900 | SSTCh 1.0 | B | Who was the King of France during the July Revolution of 1830?
+   242→  2242→     A: Louis XVI
+   243→  2243→     B: Charles X
+   244→  2244→     C: Louis Philippe
+   245→  2245→     D: Napoleon III
+   246→  2246→R 901 | SSTCh 1.0 | A | Which year is associated with the 'Frankfurt Parliament' held at St. Paul's Church?
+   247→  2247→     A: 1848.0
+   248→  2248→     B: 1871.0
+   249→  2249→     C: 1815.0
+   250→  2250→     D: 1789.0
+   251→  2251→R 902 | SSTCh 1.0 | C | What does the term 'suffrage' mean?
+   252→  2252→     A: Right to work
+   253→  2253→     B: Right to education
+   254→  2254→     C: Right to vote
+   255→  2255→     D: Right to property
+   256→  2256→R 903 | SSTCh 1.0 | C | Who was the Prime Minister of Sardinia-Piedmont who led the movement for Italian unification?
+   257→  2257→     A: Giuseppe Mazzini
+   258→  2258→     B: Victor Emmanuel II
+   259→  2259→     C: Count Cavour
+   260→  2260→     D: Giuseppe Garibaldi
+   261→  2261→R 904 | SSTCh 1.0 | B | The 'United Kingdom of Great Britain' came into existence in 1707 after the merger of England and:
+   262→  2262→     A: Ireland
+   263→  2263→     B: Scotland
+   264→  2264→     C: Wales
+   265→  2265→     D: France
+   266→  2266→R 905 | SSTCh 1.0 | B | What does 'Utopian' mean in the context of Frédéric Sorrieu's vision?
+   267→  2267→     A: A practical society
+   268→  2268→     B: A society so ideal that it is unlikely to exist
+   269→  2269→     C: A chaotic society
+   270→  2270→     D: A religious society
+   271→  2271→R 906 | SSTCh 1.0 | C | Which power dominated the Italian states before unification?
+   272→  2272→     A: Prussia
+   273→  2273→     B: Ottoman Empire
+   274→  2274→     C: Austrian Habsburgs
+   275→  2275→     D: Russia
+   276→  2276→R 907 | SSTCh 1.0 | D | The process of German unification was completed after the victory in the war against:
+   277→  2277→     A: France
+   278→  2278→     B: Austria
+   279→  2279→     C: Denmark
+   280→  2280→     D: All of the above
+   281→  2281→R 908 | SSTCh 1.0 | B | Who was the artist who painted the 'Massacre at Chios'?
+   282→  2282→     A: Frédéric Sorrieu
+   283→  2283→     B: Eugene Delacroix
+   284→  2284→     C: Kaiser William
+   285→  2285→     D: Lord Byron
+   286→  2286→R 909 | SSTCh 1.0 | B | What was the main purpose of the 'La Patrie' and 'Le Citoyen' in Revolutionary France?
+   287→  2287→     A: To divide the people
+   288→  2288→     B: To create a sense of collective identity
+   289→  2289→     C: To support the monarchy
+   290→  2290→     D: To promote trade
+   291→  2291→R 910 | SSTCh 1.0 | C | Which country is known as the 'Cradle of European Civilization'?
+   292→  2292→     A: Germany
+   293→  2293→     B: Italy
+   294→  2294→     C: Greece
+   295→  2295→     D: France
+   296→  2296→R 911 | SSTCh 1.0 | B | What kind of regime was established in France after the fall of Napoleon?
+   297→  2297→     A: Democratic
+   298→  2298→     B: Conservative
+   299→  2299→     C: Socialist
+   300→  2300→     D: Anarchist
+   301→  2301→R 912 | SSTCh 1.0 | B | In 1861, who was proclaimed the King of United Italy?
+   302→  2302→     A: Giuseppe Garibaldi
+   303→  2303→     B: Victor Emmanuel II
+   304→  2304→     C: Count Cavour
+   305→  2305→     D: Mazzini
+   306→  2306→R 913 | SSTCh 1.0 | B | What was the result of the Treaty of Vienna (1815) regarding the Bourbon dynasty?
+   307→  2307→     A: They were permanently exiled
+   308→  2308→     B: They were restored to power in France
+   309→  2309→     C: They were sent to Prussia
+   310→  2310→     D: They were given the throne of Italy
+   311→  2311→R 914 | SSTCh 1.0 | B | The concept of 'Romanticism' in the 19th century was:
+   312→  2312→     A: A military strategy
+   313→  2313→     B: A cultural movement
+   314→  2314→     C: An economic policy
+   315→  2315→     D: A religious reform
+   316→  2316→R 915 | SSTCh 1.0 | D | Which of the following was a reason for the rise of nationalism in the Balkans?
+   317→  2317→     A: Spread of romantic nationalism
+   318→  2318→     B: Disintegration of the Ottoman Empire
+   319→  2319→     C: Struggle for independence
+   320→  2320→     D: All of the above
+   321→  2321→R 916 | SSTCh 1.0 | A | What was the 'Elle'?
+   322→  2322→     A: A unit of measurement for cloth
+   323→  2323→     B: A secret society
+   324→  2324→     C: A name of a king
+   325→  2325→     D: A tax levied on peasants
+   326→  2326→R 917 | SSTCh 1.0 | B | The 'Hero of Two Worlds', who fought in both Europe and South America, was:
+   327→  2327→     A: Count Cavour
+   328→  2328→     B: Giuseppe Garibaldi
+   329→  2329→     C: Otto von Bismarck
+   330→  2330→     D: Napoleon
+   331→  2331→R 918 | SSTCh 1.0 | C | Which social group emerged as a result of the Industrial Revolution?
+   332→  2332→     A: The Aristocracy
+   333→  2333→     B: The Peasantry
+   334→  2334→     C: The Middle Class
+   335→  2335→     D: The Clergy
+   336→  2336→R 919 | SSTCh 1.0 | B | What happened to Poland at the end of the 18th century?
+   337→  2337→     A: It became a superpower
+   338→  2338→     B: It was partitioned by Russia, Prussia, and Austria
+   339→  2339→     C: It became a republic
+   340→  2340→     D: It joined the Ottoman Empire
+   341→  2341→R 940 | SSTCh 1.0 | B | Who was responsible for the unification of Italy through a diplomatic alliance with France?
+   342→  2342→     A: Giuseppe Mazzini
+   343→  2343→     B: Count Cavour
+   344→  2344→     C: Giuseppe Garibaldi
+   345→  2345→     D: Victor Emmanuel II
+   346→  2346→R 941 | SSTCh 1.0 | B | What does the 'broken chain' symbolize in the post-French Revolution era?
+   347→  2347→     A: Strength
+   348→  2348→     B: Being freed
+   349→  2349→     C: Readiness to fight
+   350→  2350→     D: Beginning of a new era
+   351→  2351→R 942 | SSTCh 1.0 | B | Which group of people led the 'liberal revolution' in 1848?
+   352→  2352→     A: The Peasantry
+   353→  2353→     B: The Educated Middle Class
+   354→  2354→     C: The Aristocracy
+   355→  2355→     D: The Clergy
+   356→  2356→R 943 | SSTCh 1.0 | B | The term 'Das Volk' was used by Johann Gottfried Herder to refer to:
+   357→  2357→     A: The Monarchy
+   358→  2358→     B: The Common People
+   359→  2359→     C: The Army
+   360→  2360→     D: The Clergy
+   361→  2361→R 944 | SSTCh 1.0 | B | Which treaty ended the Thirty Years' War and established the foundation of modern nation-states?
+   362→  2362→     A: Treaty of Vienna
+   363→  2363→     B: Treaty of Westphalia
+   364→  2364→     C: Treaty of Versailles
+   365→  2365→     D: Treaty of Utrecht
+   366→  2366→R 945 | SSTCh 1.0 | C | What was the 'Great Fear' in France?
+   367→  2367→     A: Fear of Napoleon
+   368→  2368→     B: Fear of the King's execution
+   369→  2369→     C: A period of panic by peasants against landlords
+   370→  2370→     D: Fear of foreign invasion
+   371→  2371→R 946 | SSTCh 1.0 | B | Who were the 'Junkers' in Prussia?
+   372→  2372→     A: Prussian Soldiers
+   373→  2373→     B: Large Landowners
+   374→  2374→     C: Industrialists
+   375→  2375→     D: University Students
+   376→  2376→R 947 | SSTCh 1.0 | B | Which female allegory represents the French Republic?
+   377→  2377→     A: Germania
+   378→  2378→     B: Marianne
+   379→  2379→     C: Britannia
+   380→  2380→     D: Bharat Mata
+   381→  2381→R 948 | SSTCh 1.0 | B | What was the purpose of the 'Club of Enlightened Women' during the French Revolution?
+   382→  2382→     A: To support the monarchy
+   383→  2383→     B: To demand equal political rights
+   384→  2384→     C: To promote cooking skills
+   385→  2385→     D: To assist the army
+   386→  2386→R 949 | SSTCh 1.0 | B | Who wrote the book 'The Spirit of the Laws'?
+   387→  2387→     A: Jean Jacques Rousseau
+   388→  2388→     B: Montesquieu
+   389→  2389→     C: Voltaire
+   390→  2390→     D: John Locke
+   391→  2391→R 950 | SSTCh 1.0 | A | The Napoleonic Code was exported to which of the following regions?
+   392→  2392→     A: Regions under French control
+   393→  2393→     B: Britain only
+   394→  2394→     C: North America
+   395→  2395→     D: China
+   396→  2396→R 951 | SSTCh 1.0 | B | What did the olive branch around the sword symbolize?
+   397→  2397→     A: Heroism
+   398→  2398→     B: Willingness to make peace
+   399→  2399→     C: Beginning of a new era
+   400→  2400→     D: Freedom
+   401→  2401→R 952 | SSTCh 1.0 | C | Which year marked the 'Springtime of Nations'?
+   402→  2402→     A: 1789.0
+   403→  2403→     B: 1815.0
+   404→  2404→     C: 1848.0
+   405→  2405→     D: 1871.0
+   406→  2406→R 953 | SSTCh 1.0 | C | The 'Carbonari' was a secret society located in:
+   407→  2407→     A: Germany
+   408→  2408→     B: France
+   409→  2409→     C: Italy
+   410→  2410→     D: Austria
+   411→  2411→R 954 | SSTCh 1.0 | A | Who was the leader of the 'Jacobin Club'?
+   412→  2412→     A: Maximilian Robespierre
+   413→  2413→     B: Louis XVI
+   414→  2414→     C: Napoleon
+   415→  2415→     D: Napoleon III
+   416→  2416→R 955 | SSTCh 1.0 | B | What was the 'Civil Constitution of the Clergy' (1790)?
+   417→  2417→     A: A law to build more churches
+   418→  2418→     B: A law placing the church under state control
+   419→  2419→     C: A law to ban religion
+   420→  2420→     D: A law to promote the Pope
+   421→  2421→R 956 | SSTCh 1.0 | C | In 1848, where did the Frankfurt Parliament convene?
+   422→  2422→     A: The Palace of Versailles
+   423→  2423→     B: The Hall of Mirrors
+   424→  2424→     C: St. Paul’s Church
+   425→  2425→     D: The Reichstag
+   426→  2426→R 957 | SSTCh 1.0 | C | Which empire ruled over Austria and Hungary in the 19th century?
+   427→  2427→     A: Ottoman Empire
+   428→  2428→     B: Russian Empire
+   429→  2429→     C: Habsburg Empire
+   430→  2430→     D: British Empire
+   431→  2431→R 958 | SSTCh 1.0 | B | The 'Balkan' region was largely under the control of the:
+   432→  2432→     A: Habsburg Empire
+   433→  2433→     B: Ottoman Empire
+   434→  2434→     C: Prussian Empire
+   435→  2435→     D: French Empire
+   436→  2436→R 959 | SSTCh 1.0 | A | Who was the philosopher who argued that 'A nation is the culmination of a long past of endeavours, sacrifice a
+   437→  2437→     A: Ernst Renan
+   438→  2438→     B: Giuseppe Mazzini
+   439→  2439→     C: Johann Gottfried
+   440→  2440→     D: Metternich
+   441→  2441→R 980 | SSTCh 1.0 | B | Which of the following was the main feature of the 1848 revolution in France?
+   442→  2442→     A: Restoration of Monarchy
+   443→  2443→     B: Abdication of Louis Philippe
+   444→  2444→     C: Establishment of an Empire
+   445→  2445→     D: Return of Napoleon
+   446→  2446→R 981 | SSTCh 1.0 | B | Who among the following was described by Metternich as 'the most dangerous enemy of our social order'?
+   447→  2447→     A: Louis Philippe
+   448→  2448→     B: Giuseppe Mazzini
+   449→  2449→     C: Otto von Bismarck
+   450→  2450→     D: Napoleon
+   451→  2451→R 982 | SSTCh 1.0 | C | Which of the following was NOT a measure introduced by French revolutionaries to create collective identity?
+   452→  2452→     A: The tricolour flag
+   453→  2453→     B: A new hymn
+   454→  2454→     C: Regional dialects were encouraged
+   455→  2455→     D: The Estates General renamed as National Assembly
+   456→  2456→R 983 | SSTCh 1.0 | B | What was the status of Germany before the mid-18th century?
+   457→  2457→     A: A unified nation
+   458→  2458→     B: Divided into many kingdoms and principalities
+   459→  2459→     C: Under the control of Great Britain
+   460→  2460→     D: A part of the Russian Empire
+   461→  2461→R 984 | SSTCh 1.0 | B | What did the 1815 Treaty of Vienna do to the Dutch Republic?
+   462→  2462→     A: It was dissolved
+   463→  2463→     B: The Kingdom of Netherlands was set up including Belgium
+   464→  2464→     C: It was given to Prussia
+   465→  2465→     D: It became a part of Austria
+   466→  2466→R 985 | SSTCh 1.0 | A | The term 'Plebiscite' means:
+   467→  2467→     A: A direct vote by all citizens to accept or reject a proposal
+   468→  2468→     B: A secret ballot for electing a leader
+   469→  2469→     C: A military coup
+   470→  2470→     D: A religious decree
+   471→  2471→R 986 | SSTCh 1.0 | B | Which country had a 'failed' revolution in 1848 led by the middle classes?
+   472→  2472→     A: France
+   473→  2473→     B: Germany
+   474→  2474→     C: Britain
+   475→  2475→     D: Belgium
+   476→  2476→R 987 | SSTCh 1.0 | A | Who were the 'Slavs'?
+   477→  2477→     A: The inhabitants of the Balkan region
+   478→  2478→     B: The ruling class of Prussia
+   479→  2479→     C: The soldiers of Napoleon
+   480→  2480→     D: The members of the Jacobin club
+   481→  2481→R 988 | SSTCh 1.0 | B | Which battle marked the final defeat of Napoleon Bonaparte?
+   482→  2482→     A: Battle of Leipzig
+   483→  2483→     B: Battle of Waterloo
+   484→  2484→     C: Battle of Trafalgar
+   485→  2485→     D: Battle of Austerlitz
+   486→  2486→R 989 | SSTCh 1.0 | B | What was the significance of the year 1832 for Greece?
+   487→  2487→     A: Start of the revolution
+   488→  2488→     B: Treaty of Constantinople
+   489→  2489→     C: Invasion by Rome
+   490→  2490→     D: Death of Lord Byron
+   491→  2491→R 990 | SSTCh 1.0 | B | Which of the following was a characteristic of the 'Nation-state'?
+   492→  2492→     A: Ruled by a single monarch with absolute power
+   493→  2493→     B: Citizens share a common identity and history
+   494→  2494→     C: No fixed boundaries
+   495→  2495→     D: People speak different languages with no common link
+   496→  2496→R 991 | SSTCh 1.0 | B | What was the impact of the 'Great Depression' of the 1830s in Europe?
+   497→  2497→     A: Industrial growth
+   498→  2498→     B: Massive unemployment and hunger
+   499→  2499→     C: Stability of monarchies
+   500→  2500→     D: End of all wars
+   501→  2501→R 992 | SSTCh 1.0 | A | The 'Landed Aristocracy' in Europe was:
+   502→  2502→     A: A small, powerful social group
+   503→  2503→     B: A large group of peasants
+   504→  2504→     C: A group of traders
+   505→  2505→     D: A religious sect
+   506→  2506→R 993 | SSTCh 1.0 | B | Which of the following factors helped in the formation of the 'British Nation-state'?
+   507→  2507→     A: A sudden revolution
+   508→  2508→     B: A long-drawn-out process
+   509→  2509→     C: Intervention by France
+   510→  2510→     D: A military coup by the King
+   511→  2511→R 994 | SSTCh 1.0 | A | Who was the King of Prussia who became the German Emperor in 1871?
+   512→  2512→     A: William I
+   513→  2513→     B: William II
+   514→  2514→     C: Frederick William IV
+   515→  2515→     D: Bismarck
+   516→  2516→R1015 | SSTCh 1.0 | C | Which ethnic group dominated the political and social life in the Habsburg Empire?
+   517→  2517→     A: Magyars
+   518→  2518→     B: Czechs
+   519→  2519→     C: Landed Aristocracy
+   520→  2520→     D: Slovaks
+   521→  2521→R1016 | SSTCh 1.0 | B | Who was the King of Prussia who rejected the crown offered by the Frankfurt Parliament in 1848?
+   522→  2522→     A: William I
+   523→  2523→     B: Frederick William IV
+   524→  2524→     C: William II
+   525→  2525→     D: Frederick I
+   526→  2526→R1017 | SSTCh 1.0 | B | What was the 'Policy of Blood and Iron'?
+   527→  2527→     A: A policy of peaceful negotiation
+   528→  2528→     B: A policy of military force and industrial strength
+   529→  2529→     C: A religious reform
+   530→  2530→     D: A trade agreement
+   531→  2531→R1018 | SSTCh 1.0 | B | The 'Taille' in pre-revolutionary France was a:
+   532→  2532→     A: Tax on salt
+   533→  2533→     B: Direct tax paid by the Third Estate
+   534→  2534→     C: Tax on tobacco
+   535→  2535→     D: Religious tax
+   536→  2536→R1019 | SSTCh 1.0 | B | Which of the following describes the 'Carbonari' influence on Italian unification?
+   537→  2537→     A: They led the final war against France
+   538→  2538→     B: They provided the initial revolutionary spark through secret societies
+   539→  2539→     C: They were a group of conservative monarchs
+   540→  2540→     D: They were British spies
+   541→  2541→R1020 | SSTCh 1.0 | A | What was the primary reason for the 1848 revolution in the German states?
+   542→  2542→     A: Demand for a constitution and national unification
+   543→  2543→     B: Support for the Russian Tsar
+   544→  2544→     C: Desire to join the Ottoman Empire
+   545→  2545→     D: A religious crusade
+   546→  2546→R1021 | SSTCh 1.0 | B | Who were the 'Lazzaroni' in the context of the Italian revolution?
+   547→  2547→     A: High-ranking generals
+   548→  2548→     B: The poorest of the lower classes in Naples
+   549→  2549→     C: Wealthy merchants
+   550→  2550→     D: University professors
+   551→  2551→R1022 | SSTCh 1.0 | B | Which treaty allowed Russia to gain control over a large part of Poland in 1815?
+   552→  2552→     A: Treaty of Paris
+   553→  2553→     B: The Congress of Vienna
+   554→  2554→     C: Treaty of London
+   555→  2555→     D: Treaty of Berlin
+   556→  2556→R1023 | SSTCh 1.0 | B | What did 'Nationalism' mean to the people of the Balkans in the late 19th century?
+   557→  2557→     A: Loyalty to the Ottoman Sultan
+   558→  2558→     B: A struggle for individual liberty and national independence
+   559→  2559→     C: A desire to industrialize
+   560→  2560→     D: Support for the Austrian Emperor
+   561→  2561→R1024 | SSTCh 1.0 | B | The term 'Conservatism' after 1815 was characterized by:
+   562→  2562→     A: A belief in rapid social change
+   563→  2563→     B: A return to the pre-revolutionary social hierarchy
+   564→  2564→     C: The total abolition of monarchy
+   565→  2565→     D: Promotion of universal suffrage
+   566→  2566→R1025 | SSTCh 1.0 | B | Which event is considered the 'First Expression' of Nationalism in Europe?
+   567→  2567→     A: The Unification of Germany
+   568→  2568→     B: The French Revolution of 1789
+   569→  2569→     C: The Glorious Revolution
+   570→  2570→     D: The Industrial Revolution
+   571→  2571→R1026 | SSTCh 1.0 | B | Who was the leader of the 'Young Europe' secret society?
+   572→  2572→     A: Otto von Bismarck
+   573→  2573→     B: Giuseppe Mazzini
+   574→  2574→     C: Count Cavour
+   575→  2575→     D: Metternich
+   576→  2576→R1027 | SSTCh 1.0 | B | In 1848, the 'March Revolution' primarily took place in:
+   577→  2577→     A: Britain
+   578→  2578→     B: The German states and Austria
+   579→  2579→     C: Russia
+   580→  2580→     D: Spain
+   581→  2581→R1028 | SSTCh 1.0 | B | What was the 'Ems Telegram' incident associated with?
+   582→  2582→     A: Italian Unification
+   583→  2583→     B: Franco-Prussian War
+   584→  2584→     C: French Revolution
+   585→  2585→     D: Greek War of Independence
+   586→  2586→R1029 | SSTCh 1.0 | B | Which social class became the most vocal advocates for 'Liberal Nationalism'?
+   587→  2587→     A: The Peasantry
+   588→  2588→     B: The Educated Middle Class
+   589→  2589→     C: The Clergy
+   590→  2590→     D: The Nobility
+   591→  2591→R1030 | SSTCh 1.0 | B | What was the main purpose of the 'Holy Alliance' formed in 1815?
+   592→  2592→     A: To promote democracy
+   593→  2593→     B: To protect monarchies against revolution
+   594→  2594→     C: To encourage trade with Asia
+   595→  2595→     D: To divide the American colonies
+   596→  2596→R1031 | SSTCh 1.0 | C | The 'Second Republic' in France was established after which event?
+   597→  2597→     A: French Revolution of 1789
+   598→  2598→     B: Revolution of 1830
+   599→  2599→     C: Revolution of 1848
+   600→  2600→     D: Franco-Prussian War
+   601→  2601→R1032 | SSTCh 1.0 | B | Who was known as the 'Sword' of Italian Unification?
+   602→  2602→     A: Count Cavour
+   603→  2603→     B: Giuseppe Garibaldi
+   604→  2604→     C: Mazzini
+   605→  2605→     D: Victor Emmanuel II
+   606→  2606→R1033 | SSTCh 1.0 | C | What was the significance of the 'Battle of the Nations' (Leipzig) in 1813?
+   607→  2607→     A: Napoleon's first victory
+   608→  2608→     B: The final defeat of the British
+   609→  2609→     C: A major defeat for Napoleon by the coalition forces
+   610→  2610→     D: The unification of Italy
+   611→  2611→R1034 | SSTCh 1.0 | B | The 'Imperial Eagle' in German iconography often stood for:
+   612→  2612→     A: Peace
+   613→  2613→     B: Strength and the German Empire
+   614→  2614→     C: Liberty
+   615→  2615→     D: Religious purity
+   616→  2616→R1055 | SSTCh 1.0 | A | Which of the following was a result of the 'Act of Union' (1701)?
+   617→  2617→     A: Formation of the United Kingdom of Great Britain
+   618→  2618→     B: Unification of Germany
+   619→  2619→     C: Independence of Greece
+   620→  2620→     D: French Revolution
+   621→  2621→R1056 | SSTCh 1.0 | B | Who was the female allegory of the German nation who wears a crown of oak leaves?
+   622→  2622→     A: Marianne
+   623→  2623→     B: Germania
+   624→  2624→     C: Britannia
+   625→  2625→     D: Bharat Mata
+   626→  2626→R1057 | SSTCh 1.0 | A | What does the 'Ray of the Rising Sun' symbolize in 19th-century allegories?
+   627→  2627→     A: Beginning of a new era
+   628→  2628→     B: End of a war
+   629→  2629→     C: Freedom
+   630→  2630→     D: Willingness to make peace
+   631→  2631→R1058 | SSTCh 1.0 | B | Which of the following was the main reason for the Greek War of Independence?
+   632→  2632→     A: Industrial Revolution
+   633→  2633→     B: Influence of Revolutionary Nationalism
+   634→  2634→     C: Expansion of the British Empire
+   635→  2635→     D: Treaty of Vienna
+   636→  2636→R1059 | SSTCh 1.0 | A | Who hosted the 'Congress of Vienna' in 1815?
+   637→  2637→     A: Duke Metternich
+   638→  2638→     B: Napoleon Bonaparte
+   639→  2639→     C: Otto von Bismarck
+   640→  2640→     D: Kaiser William I
+   641→  2641→R1060 | SSTCh 1.0 | A | The concept of a 'National Assembly' was a product of:
+   642→  2642→     A: The French Revolution
+   643→  2643→     B: The Unification of Italy
+   644→  2644→     C: The Balkan Conflict
+   645→  2645→     D: The Act of Union
+   646→  2646→R1061 | SSTCh 1.0 | B | What was the primary goal of the 'Zollverein'?
+   647→  2647→     A: To protect the monarchy
+   648→  2648→     B: To bind Germans economically into a nation
+   649→  2649→     C: To start a war with France
+   650→  2650→     D: To promote religious unity
+   651→  2651→R1062 | SSTCh 1.0 | B | Which language was discouraged in France to promote a sense of national unity?
+   652→  2652→     A: English
+   653→  2653→     B: Regional Dialects
+   654→  2654→     C: German
+   655→  2655→     D: Latin
+   656→  2656→R1063 | SSTCh 1.0 | B | The 'Civil Code of 1804' is also known as the:
+   657→  2657→     A: Directory Code
+   658→  2658→     B: Napoleonic Code
+   659→  2659→     C: Revolutionary Code
+   660→  2660→     D: French Law
+   661→  2661→R1064 | SSTCh 1.0 | C | Who was the leader of the 'Red Shirts' volunteers?
+   662→  2662→     A: Giuseppe Mazzini
+   663→  2663→     B: Count Cavour
+   664→  2664→     C: Giuseppe Garibaldi
+   665→  2665→     D: Victor Emmanuel II
+   666→  2666→R1065 | SSTCh 1.0 | B | Which empire was referred to as the 'Sick Man of Europe'?
+   667→  2667→     A: British Empire
+   668→  2668→     B: Ottoman Empire
+   669→  2669→     C: Russian Empire
+   670→  2670→     D: Austrian Empire
+   671→  2671→R1066 | SSTCh 1.0 | B | What was the outcome of the Battle of Waterloo?
+   672→  2672→     A: Napoleon's Victory
+   673→  2673→     B: Napoleon's Final Defeat
+   674→  2674→     C: Unification of Germany
+   675→  2675→     D: Formation of the French Republic
+   676→  2676→R1067 | SSTCh 1.0 | A | Which ideology supports the idea that 'The government should be by consent'?
+   677→  2677→     A: Liberalism
+   678→  2678→     B: Conservatism
+   679→  2679→     C: Imperialism
+   680→  2680→     D: Absolutism
+   681→  2681→R1068 | SSTCh 1.0 | A | What did the 'Phrygian Cap' symbolize?
+   682→  2682→     A: Liberty
+   683→  2683→     B: Heroism
+   684→  2684→     C: Justice
+   685→  2685→     D: Peace
+   686→  2686→R1069 | SSTCh 1.0 | C | Which of the following states was ruled by an Italian Princely House before unification?
+   687→  2687→     A: Lombardy
+   688→  2688→     B: Venetia
+   689→  2689→     C: Sardinia-Piedmont
+   690→  2690→     D: Kingdom of Two Sicilies
+   691→  2691→R1070 | SSTCh 1.0 | C | The 'Treaty of Frankfurt' (1871) ended which war?
+   692→  2692→     A: Crimean War
+   693→  2693→     B: Austro-Prussian War
+   694→  2694→     C: Franco-Prussian War
+   695→  2695→     D: Seven Years' War
+   696→  2696→R1071 | SSTCh 1.0 | A | Who said 'The task of the artist is to represent the soul of the nation'?
+   697→  2697→     A: Johann Gottfried Herder
+   698→  2698→     B: Napoleon
+   699→  2699→     C: Metternich
+   700→  2700→     D: Louis Philippe
+   701→  2701→R1072 | SSTCh 1.0 | A | Which of the following was a feature of the conservative regimes set up in 1815?
+   702→  2702→     A: Autocratic nature
+   703→  2703→     B: Promotion of freedom of press
+   704→  2704→     C: Support for democratic elections
+   705→  2705→     D: Abolition of monarchy
+   706→  2706→R1073 | SSTCh 1.0 | B | In which country did the 'Romantic Movement' first gain momentum?
+   707→  2707→     A: Britain
+   708→  2708→     B: Germany
+   709→  2709→     C: Russia
+   710→  2710→     D: Italy
+   711→  2711→R1074 | SSTCh 1.0 | B | What was the main tension in the Balkans after 1871?
+   712→  2712→     A: Religious wars
+   713→  2713→     B: Competition among European powers for control
+   714→  2714→     C: Industrial strikes
+   715→  2715→     D: Demand for a new Pope
+   716→  2716→R1095 | SSTCh 2.0 | B | In which year did Mahatma Gandhi return to India from South Africa?
+   717→  2717→     A: 1913.0
+   718→  2718→     B: 1915.0
+   719→  2719→     C: 1917.0
+   720→  2720→     D: 1919.0
+   721→  2721→R1096 | SSTCh 2.0 | B | The Idea of Satyagraha emphasized the power of:
+   722→  2722→     A: Physical force
+   723→  2723→     B: Truth
+   724→  2724→     C: Violence
+   725→  2725→     D: Wealth
+   726→  2726→R1097 | SSTCh 2.0 | C | Where was the first Satyagraha movement organized by Mahatma Gandhi in India?
+   727→  2727→     A: Kheda
+   728→  2728→     B: Ahmedabad
+   729→  2729→     C: Champaran
+   730→  2730→     D: Bardoli
+   731→  2731→R1098 | SSTCh 2.0 | A | Why was the Rowlatt Act (1919) called an 'Oppressive Act'?
+   732→  2732→     A: It allowed detention of political prisoners without trial for two years
+   733→  2733→     B: It banned all religious gatherings
+   734→  2734→     C: It increased taxes on food
+   735→  2735→     D: It forced Indians to join the British army
+   736→  2736→R1099 | SSTCh 2.0 | A | The Jallianwala Bagh incident took place on:
+   737→  2737→     A: 1919-04-13 00:00:00
+   738→  2738→     B: 1919-03-10 00:00:00
+   739→  2739→     C: 1919-08-15 00:00:00
+   740→  2740→     D: 1919-01-26 00:00:00
+   741→  2741→R1100 | SSTCh 2.0 | B | Which movement was started by the Ali Brothers, Muhammad Ali and Shaukat Ali?
+   742→  2742→     A: Non-Cooperation Movement
+   743→  2743→     B: Khilafat Movement
+   744→  2744→     C: Quit India Movement
+   745→  2745→     D: Civil Disobedience Movement
+   746→  2746→R1101 | SSTCh 2.0 | B | At which Congress session was the Non-Cooperation program adopted?
+   747→  2747→     A: Calcutta (Sept 1920)
+   748→  2748→     B: Nagpur (Dec 1920)
+   749→  2749→     C: Madras (1927)
+   750→  2750→     D: Lahore (1929)
+   751→  2751→R1102 | SSTCh 2.0 | B | What was the main reason for calling off the Non-Cooperation Movement?
+   752→  2752→     A: Pressure from the British
+   753→  2753→     B: The Chauri Chaura incident
+   754→  2754→     C: Internal conflicts in Congress
+   755→  2755→     D: Gandhi's arrest
+   756→  2756→R1103 | SSTCh 2.0 | B | Who formed the 'Swaraj Party' within the Congress?
+   757→  2757→     A: Mahatma Gandhi and Nehru
+   758→  2758→     B: C.R. Das and Motilal Nehru
+   759→  2759→     C: Subhas Chandra Bose
+   760→  2760→     D: B.R. Ambedkar
+   761→  2761→R1104 | SSTCh 2.0 | B | What was the significance of the 1929 Lahore Congress Session?
+   762→  2762→     A: Adoption of Non-Cooperation
+   763→  2763→     B: Demand for 'Purna Swaraj'
+   764→  2764→     C: Starting of the Salt March
+   765→  2765→     D: Formation of Khilafat Committee
+   766→  2766→R1105 | SSTCh 2.0 | B | Why did Mahatma Gandhi choose 'Salt' as a symbol of protest?
+   767→  2767→     A: It was used only by the rich
+   768→  2768→     B: It was an essential food item used by both rich and poor
+   769→  2769→     C: It was easy to manufacture
+   770→  2770→     D: It was a religious symbol
+   771→  2771→R1106 | SSTCh 2.0 | A | On which date did the Dandi March begin?
+   772→  2772→     A: 1930-03-12 00:00:00
+   773→  2773→     B: 1930-04-06 00:00:00
+   774→  2774→     C: 1930-08-15 00:00:00
+   775→  2775→     D: 1930-01-26 00:00:00
+   776→  2776→R1107 | SSTCh 2.0 | C | Who led the Depressed Classes Association formed in 1930?
+   777→  2777→     A: Mahatma Gandhi
+   778→  2778→     B: Jyotirao Phule
+   779→  2779→     C: B.R. Ambedkar
+   780→  2780→     D: E.V. Ramaswamy Naicker
+   781→  2781→R1108 | SSTCh 2.0 | B | The 'Poona Pact' of 1932 was signed between:
+   782→  2782→     A: Gandhi and Lord Irwin
+   783→  2783→     B: Gandhi and Ambedkar
+   784→  2784→     C: Nehru and Jinnah
+   785→  2785→     D: British and Congress
+   786→  2786→R1109 | SSTCh 2.0 | B [FIG] | Who painted the famous image of 'Bharat Mata' in 1905?
+   787→  2787→     A: Rabindranath Tagore
+   788→  2788→     B: Abanindranath Tagore
+   789→  2789→     C: Bankim Chandra Chattopadhyay
+   790→  2790→     D: Raja Ravi Varma
+   791→  2791→R1110 | SSTCh 2.0 | B | What did 'Swaraj' mean for the plantation workers in Assam?
+   792→  2792→     A: Right to vote
+   793→  2793→     B: Freedom to move in and out of the confined space
+   794→  2794→     C: Right to own land in the city
+   795→  2795→     D: End of all taxes
+   796→  2796→R1111 | SSTCh 2.0 | C | Who wrote the famous book 'Hind Swaraj' in 1909?
+   797→  2797→     A: Jawaharlal Nehru
+   798→  2798→     B: Subhas Chandra Bose
+   799→  2799→     C: Mahatma Gandhi
+   800→  2800→     D: Motilal Nehru
+   801→  2801→R1112 | SSTCh 2.0 | A | What was the purpose of the Simon Commission (1928)?
+   802→  2802→     A: To look into the functioning of the constitutional system in India
+   803→  2803→     B: To grant immediate independence
+   804→  2804→     C: To divide India and Pakistan
+   805→  2805→     D: To increase salt taxes
+   806→  2806→R1113 | SSTCh 2.0 | B | The 'Inland Emigration Act' of 1859 was related to:
+   807→  2807→     A: The Rowlatt Act
+   808→  2808→     B: Plantation workers
+   809→  2809→     C: The Salt March
+   810→  2810→     D: The Khilafat movement
+   811→  2811→R1114 | SSTCh 2.0 | B | Who composed the song 'Vande Mataram'?
+   812→  2812→     A: Rabindranath Tagore
+   813→  2813→     B: Bankim Chandra Chattopadhyay
+   814→  2814→     C: Abanindranath Tagore
+   815→  2815→     D: Satyendranath Tagore
+   816→  2816→R1135 | SSTCh 2.0 | B | Why was the Khilafat Committee formed in Mumbai in March 1919?
+   817→  2817→     A: To demand Purna Swaraj
+   818→  2818→     B: To defend the Khalifa's temporal powers
+   819→  2819→     C: To oppose the Rowlatt Act
+   820→  2820→     D: To support the Salt March
+   821→  2821→R1136 | SSTCh 2.0 | B | What was the main purpose of the 'Inland Emigration Act' of 1859 for plantation workers?
+   822→  2822→     A: To give them higher wages
+   823→  2823→     B: To prevent them from leaving tea gardens without permission
+   824→  2824→     C: To encourage migration to cities
+   825→  2825→     D: To provide medical facilities
+   826→  2826→R1137 | SSTCh 2.0 | C | Which event led to the formal beginning of the Civil Disobedience Movement?
+   827→  2827→     A: The Jallianwala Bagh Massacre
+   828→  2828→     B: The Chauri Chaura incident
+   829→  2829→     C: Gandhi breaking the salt law at Dandi
+   830→  2830→     D: The arrival of Simon Commission
+   831→  2831→R1138 | SSTCh 2.0 | B | Who organized the 'Dalits' into the Depressed Classes Association in 1930?
+   832→  2832→     A: Mahatma Gandhi
+   833→  2833→     B: B.R. Ambedkar
+   834→  2834→     C: Jawaharlal Nehru
+   835→  2835→     D: Kaiser William
+   836→  2836→R1139 | SSTCh 2.0 | B | What did the 'Council Boycott' mean during the Non-Cooperation Movement?
+   837→  2837→     A: Boycotting foreign clothes
+   838→  2838→     B: Refusing to participate in legislative elections
+   839→  2839→     C: Resigning from government jobs
+   840→  2840→     D: Closing down of schools
+   841→  2841→R1140 | SSTCh 2.0 | B | Why did the Indian industrialist class support the Civil Disobedience Movement?
+   842→  2842→     A: To get higher taxes on poor
+   843→  2843→     B: To protect against imports of foreign goods
+   844→  2844→     C: To support the British Raj
+   845→  2845→     D: To close down Indian factories
+   846→  2846→R1141 | SSTCh 2.0 | B | What was the 'Oudh Kisan Sabha' and who headed it?
+   847→  2847→     A: A group of British landlords
+   848→  2848→     B: A peasant organization headed by Jawaharlal Nehru and Baba Ramchandra
+   849→  2849→     C: A religious committee
+   850→  2850→     D: A military wing of Congress
+   851→  2851→R1142 | SSTCh 2.0 | B | Why did the Simon Commission face slogans like 'Simon Go Back' upon its arrival?
+   852→  2852→     A: It was late in arriving
+   853→  2853→     B: It did not include any Indian members
+   854→  2854→     C: It wanted to increase salt tax
+   855→  2855→     D: It supported the Rowlatt Act
+   856→  2856→R1143 | SSTCh 2.0 | B | Who were the 'Sanatanis' mentioned in the context of the Civil Disobedience Movement?
+   857→  2857→     A: Revolutionary leaders
+   858→  2858→     B: Conservative high-caste Hindus
+   859→  2859→     C: Dalit activists
+   860→  2860→     D: British officials
+   861→  2861→R1144 | SSTCh 2.0 | B | What was the significance of the 1929 Lahore session presided by Nehru?
+   862→  2862→     A: Start of Khilafat movement
+   863→  2863→     B: Proclamation of Purna Swaraj (Full Independence)
+   864→  2864→     C: Adoption of the Tricolour as the National Flag
+   865→  2865→     D: The withdrawal of Non-Cooperation
+   866→  2866→R1145 | SSTCh 2.0 | B | Who authored the famous novel 'Anandamath'?
+   867→  2867→     A: Rabindranath Tagore
+   868→  2868→     B: Bankim Chandra Chattopadhyay
+   869→  2869→     C: Abanindranath Tagore
+   870→  2870→     D: Premchand
+   871→  2871→R1146 | SSTCh 2.0 | B | What was the 'Gudem Rebellion' in Andhra Pradesh?
+   872→  2872→     A: A peaceful protest by students
+   873→  2873→     B: A militant guerrilla movement led by Alluri Sitaram Raju
+   874→  2874→     C: A strike by factory workers
+   875→  2875→     D: A salt march
+   876→  2876→R1147 | SSTCh 2.0 | B | Who was Alluri Sitaram Raju?
+   877→  2877→     A: A British officer
+   878→  2878→     B: A tribal leader who claimed special powers
+   879→  2879→     C: A Congress Secretary
+   880→  2880→     D: A businessman from Mumbai
+   881→  2881→R1148 | SSTCh 2.0 | B | What did 'Begar' mean in the context of the peasant movement in Awadh?
+   882→  2882→     A: A religious ritual
+   883→  2883→     B: Forced labor without payment
+   884→  2884→     C: A type of land tax
+   885→  2885→     D: A gift given to landlords
+   886→  2886→R1149 | SSTCh 2.0 | B | Why did the rich peasant communities like the Patidars and Jats drop out of the Civil Disobedience Movement?
+   887→  2887→     A: They became pro-British
+   888→  2888→     B: The movement was called off in 1931 without tax reductions
+   889→  2889→     C: They were arrested
+   890→  2890→     D: They achieved all their goals
+   891→  2891→R1150 | SSTCh 2.0 | B | What was the 'Gandhi-Irwin Pact' of March 1931?
+   892→  2892→     A: A military alliance
+   893→  2893→     B: An agreement where Gandhi agreed to attend the Round Table Conference
+   894→  2894→     C: A treaty to end World War I
+   895→  2895→     D: An agreement to divide India
+   896→  2896→R1151 | SSTCh 2.0 | B | Who was Sir Muhammad Iqbal?
+   897→  2897→     A: A British Governor
+   898→  2898→     B: President of the Muslim League (1930)
+   899→  2899→     C: A Congress leader
+   900→  2900→     D: A revolutionary from Punjab
+   901→  2901→R1152 | SSTCh 2.0 | B | What was the 'Lord Irwin’s Offer' in October 1929?
+   902→  2902→     A: Immediate Independence
+   903→  2903→     B: A vague offer of 'Dominion Status'
+   904→  2904→     C: A seat in the British Parliament
+   905→  2905→     D: Free trade for Indians
+   906→  2906→R1153 | SSTCh 2.0 | B | Which organization was established by the Indian merchants in 1927?
+   907→  2907→     A: Oudh Kisan Sabha
+   908→  2908→     B: Federation of the Indian Chamber of Commerce and Industries (FICCI)
+   909→  2909→     C: Depressed Classes Association
+   910→  2910→     D: Swaraj Party
+   911→  2911→R1154 | SSTCh 2.0 | B | What does the 'Two-Nation Theory' refer to?
+   912→  2912→     A: Division of a state into two districts
+   913→  2913→     B: The idea that Hindus and Muslims are two separate nations
+   914→  2914→     C: A trade agreement between two countries
+   915→  2915→     D: Dual citizenship
+   916→  2916→R1175 | SSTCh 2.0 | B | Why did Gandhiji organize a Satyagraha in Ahmedabad in 1918?
+   917→  2917→     A: To support indigo planters
+   918→  2918→     B: To support cotton mill workers
+   919→  2919→     C: To protest against the Salt tax
+   920→  2920→     D: To demand Purna Swaraj
+   921→  2921→R1176 | SSTCh 2.0 | B | What was the main reason for the growth of 'Modern Nationalism' in India?
+   922→  2922→     A: The influence of the British education system
+   923→  2923→     B: The reaction against colonial oppression
+   924→  2924→     C: The discovery of gold mines
+   925→  2925→     D: The spread of Christianity
+   926→  2926→R1177 | SSTCh 2.0 | C | Which of the following was NOT a part of the Non-Cooperation movement?
+   927→  2927→     A: Surrender of titles
+   928→  2928→     B: Boycott of civil services
+   929→  2929→     C: Breaking of the Salt Law
+   930→  2930→     D: Boycott of foreign goods
+   931→  2931→R1178 | SSTCh 2.0 | B | How did the First World War help the Indian National Movement?
+   932→  2932→     A: By providing weapons to Indians
+   933→  2933→     B: By creating a new economic and political situation
+   934→  2934→     C: By making the British leave India immediately
+   935→  2935→     D: By reducing taxes
+   936→  2936→R1179 | SSTCh 2.0 | B | What was the impact of the 'Boycott of Foreign Cloth' in 1921-22?
+   937→  2937→     A: Import of foreign cloth increased
+   938→  2938→     B: The value of foreign cloth imports dropped by half
+   939→  2939→     C: Indian textile mills were closed
+   940→  2940→     D: People started wearing silk only
+   941→  2941→R1180 | SSTCh 2.0 | B | Why did the 'Justice Party' of Madras not boycott the Council Elections?
+   942→  2942→     A: They were pro-British
+   943→  2943→     B: They felt it was the only way to gain power for non-Brahmans
+   944→  2944→     C: They did not like Gandhiji
+   945→  2945→     D: They wanted to support the Rowlatt Act
+   946→  2946→R1181 | SSTCh 2.0 | B | Who was 'Baba Ramchandra' in the context of the Awadh movement?
+   947→  2947→     A: A British officer
+   948→  2948→     B: A Sanyasi who led the peasants
+   949→  2949→     C: A Congress lawyer
+   950→  2950→     D: A revolutionary from Bengal
+   951→  2951→R1182 | SSTCh 2.0 | B | What was the 'Inland Emigration Act' of 1859?
+   952→  2952→     A: A law to promote tourism
+   953→  2953→     B: A law that prohibited plantation workers from leaving without permission
+   954→  2954→     C: A law to help Indians settle abroad
+   955→  2955→     D: A law to build railways
+   956→  2956→R1183 | SSTCh 2.0 | B | Which event took place on 26th January 1930?
+   957→  2957→     A: Jallianwala Bagh Massacre
+   958→  2958→     B: Celebration of Independence Day for the first time
+   959→  2959→     C: Signing of Poona Pact
+   960→  2960→     D: Launch of Quit India Movement
+   961→  2961→R1184 | SSTCh 2.0 | B | Why was the Salt March considered a mass movement?
+   962→  2962→     A: Only rich people participated
+   963→  2963→     B: It involved people from different social groups
+   964→  2964→     C: It was supported by the British
+   965→  2965→     D: It was a religious march
+   966→  2966→R1185 | SSTCh 2.0 | B | What was the 'Viceroy's Offer' of 1929 regarding India's future?
+   967→  2967→     A: Immediate independence
+   968→  2968→     B: Dominion Status in an unspecified future
+   969→  2969→     C: A partition plan
+   970→  2970→     D: A new education policy
+   971→  2971→R1186 | SSTCh 2.0 | B | Who were the 'Untouchables' according to Gandhiji?
+   972→  2972→     A: Criminals
+   973→  2973→     B: Harijans (Children of God)
+   974→  2974→     C: Foreigners
+   975→  2975→     D: Enemies of the state
+   976→  2976→R1187 | SSTCh 2.0 | B | What was the conflict between Gandhi and Ambedkar at the Second Round Table Conference?
+   977→  2977→     A: Personal rivalry
+   978→  2978→     B: Demand for separate electorates for Dalits
+   979→  2979→     C: Choice of national flag
+   980→  2980→     D: Language of the constitution
+   981→  2981→R1188 | SSTCh 2.0 | B | Which movement saw the participation of 'Industrial Workers' in large numbers in Nagpur?
+   982→  2982→     A: Non-Cooperation Movement
+   983→  2983→     B: Civil Disobedience Movement
+   984→  2984→     C: Quit India Movement
+   985→  2985→     D: Home Rule Movement
+   986→  2986→R1189 | SSTCh 2.0 | B | Who wrote the 'Vande Mataram' hymn to the Motherland?
+   987→  2987→     A: Rabindranath Tagore
+   988→  2988→     B: Bankim Chandra Chattopadhyay
+   989→  2989→     C: Sarojini Naidu
+   990→  2990→     D: Lala Lajpat Rai
+   991→  2991→R1190 | SSTCh 2.0 | B | What does the 'Spinning Wheel' in the Swaraj flag symbolize?
+   992→  2992→     A: Industrialization
+   993→  2993→     B: The Gandhian ideal of self-help
+   994→  2994→     C: The power of the army
+   995→  2995→     D: Religious unity
+   996→  2996→R1191 | SSTCh 2.0 | B | Why did the Muslim League demand 'Separate Electorates'?
+   997→  2997→     A: To have their own country immediately
+   998→  2998→     B: To protect the political interests of the Muslim minority
+   999→  2999→     C: To support the British
+  1000→  3000→     D: To end the Khilafat movement
+  1001→  3001→R1192 | SSTCh 2.0 | B | Which of the following describes 'Folklore' as a tool of nationalism?
+  1002→  3002→     A: It was used to entertain the British
+  1003→  3003→     B: It helped in restoring a sense of pride in one’s past
+  1004→  3004→     C: It was a way to collect taxes
+  1005→  3005→     D: It was used to promote English language
+  1006→  3006→R1193 | SSTCh 2.0 | B | What was the 'Chauri Chaura' incident of 1922?
+  1007→  3007→     A: A peaceful march to the sea
+  1008→  3008→     B: A violent clash where a mob burnt a police station
+  1009→  3009→     C: A meeting of the Congress leaders
+  1010→  3010→     D: A protest against the Simon Commission
+  1011→  3011→R1194 | SSTCh 2.0 | B | What was the main purpose of the 'Simon Commission'?
+  1012→  3012→     A: To investigate the Jallianwala Bagh massacre
+  1013→  3013→     B: To suggest changes to the constitutional system in India
+  1014→  3014→     C: To arrest Gandhi
+  1015→  3015→     D: To divide Bengal
+  1016→  3016→R3995 | SSTCh 1.0 | A | What does 'Absolutist' mean?
+  1017→  3017→     A: A government with no restraints on power
+  1018→  3018→     B: A democratic government
+  1019→  3019→     C: A system of shared power
+  1020→  3020→     D: A government elected by the people
+  1021→  3021→R3996 | SSTCh 1.0 | B | What role did folklore play in Poland during the 19th century?
+  1022→  3022→     A: It was used to support Russia
+  1023→  3023→     B: It helped keep the national spirit alive
+  1024→  3024→     C: It was banned by the church
+  1025→  3025→     D: It promoted industrialization
+  1026→  3026→R3997 | SSTCh 1.0 | C | Which language was used as a weapon of national resistance in Poland against Russian dominance?
+  1027→  3027→     A: German
+  1028→  3028→     B: French
+  1029→  3029→     C: Polish
+  1030→  3030→     D: English
+  1031→  3031→R3998 | SSTCh 1.0 | B | What was the primary goal of the French Revolution?
+  1032→  3032→     A: To establish a military dictatorship
+  1033→  3033→     B: To transfer sovereignty from the monarchy to a body of citizens
+  1034→  3034→     C: To colonize other parts of Europe
+  1035→  3035→     D: To restore the Pope's authority
+  1036→  3036→R3999 | SSTCh 1.0 | B | Who was 'Marianne' in the context of the French Revolution?
+  1037→  3037→     A: The wife of Napoleon
+  1038→  3038→     B: A female allegory of the nation
+  1039→  3039→     C: A famous French general
+  1040→  3040→     D: A revolutionary secret society
+  1041→  3041→

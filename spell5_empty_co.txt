@@ -1,0 +1,822 @@
+R3102 | Plant Kingdom | Pteridophytes are most primitive vascular flowerless, spore producing cryptogamic land plants, commonly called vascular amphibians/botanical snakes/spore producing seedless trachaeophytes. They are fi
+  A: 
+  B: 
+  C: 
+  D: 
+
+R3140 | Plant Kingdom | After karyogamy followed by meiosis, spores are produced exogenously in
+  A: Agaricus
+  B: Alternaria
+  C: Neurospora
+  D: Saccharomyces
+
+R3160 | Animal Kingdom | Most appropriate term to describe the life cycle of Obelia is
+  A: neoteny
+  B: metagenesis
+  C: metamorphosis
+  D: All of these
+
+R3161 | Animal Kingdom | Sea anemone is a coelenterate found in marine water, attached to the empty shell of gastropods already occupied by hermit crab, this association is
+  A: tapeworm
+  B: mosquito
+  C: leech
+  D: sea anemone
+
+R3162 | Animal Kingdom | Special character of coelenterates is
+  A: polymorphism
+  B: nematocysts
+  C: flame cells
+  D: hermaphroditism
+
+R3163 | Animal Kingdom | Which one of the following animals possesses nerve cells but no nerves?
+  A: Hydra
+  B: Tapeworm
+  C: Earthworm
+  D: Frog’s tadpole
+
+R3164 | Animal Kingdom | Budding is a normal mode of asexual reproduction in
+  A: starfish and Hydra
+  B: Hydra and sponges
+  C: tapeworm and Hydra
+  D: sponge and starfish
+
+R3165 | Animal Kingdom | Jelly fish belongs to class
+  A: Hydrozoa
+  B: Scyphozoa
+  C: Anthozoa
+  D: None of these
+
+R3166 | Animal Kingdom | Organ pipe coral is
+  A: Tubipora
+  B: Astraea
+  C: Helipora
+  D: Fungia
+
+R3167 | Animal Kingdom | Biradial symmetry and lack of cnidoblasts are the characteristics of
+  A: Starfish and sea anemone
+  B: Ctenoplana and Beroe
+  C: Aurelia and Paramecium
+  D: Hydra and starfish
+
+R3168 | Animal Kingdom | Match the following columns and select the correct option.
+  A: 4 1 2 3
+  B: 3 2 1 4
+  C: 2 1 3 4
+  D: 1 3 2 4
+
+R3169 | Animal Kingdom | Bilaterally symmetrical and acoelomate animals are exemplified by
+  A: Platyhelminthes
+  B: Aschelminthes
+  C: Annelida
+  D: Ctenophora
+
+R3170 | Animal Kingdom | Planaria possess high capacity of
+  A: metamorphosis
+  B: regeneration
+  C: alternation of generation
+  D: bioluminescence
+
+R3171 | Animal Kingdom | One example of animal having a single opening to the outside that serves both as mouth as well as anus is
+  A: Octopus
+  B: Asterias
+  C: Ascidia
+  D: Fasciola
+
+R3172 | Animal Kingdom | Which one of the following kinds of animals are triploblastic?
+  A: Flatworms
+  B: Sponges
+  C: Ctenophores
+  D: Corals
+
+R3173 | Animal Kingdom | During its life cycle, Fasciola hepatica (liver fluke) infects its intermediate host and primary host at the following larval stages respectively
+  A: metacercaria and cercaria
+  B: miracidium and metacercaria
+  C: redia and miracidium
+  D: cercaria and redia
+
+R3174 | Animal Kingdom | Which one belongs to Platyhelminthes?
+  A: Schistosoma
+  B: Trypansoma
+  C: Plasmodium
+  D: Wuchereria
+
+R3175 | Animal Kingdom | What is true about Taenia saginata?
+  A: Life history has pig as intermediate host
+  B: There are two large suckers on scolex
+  C: Rostellar hooks are absent
+  D: Rostellum has double circle of hooks
+
+R3176 | Animal Kingdom | What is correct about Taenia?
+  A: Male organs occur in posterior proglottids
+  B: Male organs occur in anterior proglottids
+  C: Female organs occur in anterior proglottids
+  D: Mature proglottids contain both male and female organs
+
+R3177 | Animal Kingdom | The excretory structures of flat worms/Taenia are
+  A: flame cells
+  B: protonephridia
+  C: Malpighian tubules
+  D: green glands
+
+R3178 | Animal Kingdom | Bladderworm/cysticercus is the larval stage of
+  A: tapeworm
+  B: roundworm
+  C: pinworm
+  D: liver fluke
+
+R3179 | Animal Kingdom | Transfer of Taenia to secondary host occurs as
+  A: oncosphere
+  B: cysticercus
+  C: morula
+  D: egg
+
+R3180 | Animal Kingdom | Which one of the following groups of animals is bilaterally symmetrical and triploblastic?
+  A: Coelenterates (cnidarians)
+  B: Aschelminthes (roundworms)
+  C: Ctenophores
+  D: Sponges
+
+R3214 | Animal Kingdom | Which one of the following phyla is correctly matched with its two general characteristics?
+  A: Arthropoda — Body divided into head, thorax and abdomen and respiration by tracheae
+  B: Chordata — Notochord at some stage and separate anal and urinary openings to the outside
+  C: Echinodermata— Pentamerous radial symmetry and mostly internal fertilisation
+  D: Mollusca — Normally oviparous and development through a trochophore or veliger larva
+
+R3215 | Animal Kingdom | What is true about Nereis, scorpion, cockroach and silver fish?
+  A: They all have jointed paired appendages
+  B: They all possess dorsal heart
+  C: None of them is aquatic
+  D: They all belong to the same phylum
+
+R3216 | Animal Kingdom | Two common characters found in centipede, cockroach and crab are
+  A: compound eyes and anal cerci
+  B: jointed legs and chitinous exoskeleton
+  C: green gland and tracheae
+  D: book lungs and antennae
+
+R3217 | Animal Kingdom | From the following statements select the wrong one.
+  A: Millipedes have two pairs of appendages in each segment of the body
+  B: Prawn has two pairs of antennae
+  C: Animals belonging to phylum–Porifera are exclusively marine
+  D: Nematocysts are characteristic of the phylum–Cnidaria
+
+R3218 | Animal Kingdom | In Arthropoda, head and thorax are often fused to form cephalothorax, but in which one of the following classes, is the body divided into head, thorax and abdomen?
+  A: Insecta
+  B: Myriapoda
+  C: Crustacea
+  D: Arachnida and Crustacea
+
+R3219 | Animal Kingdom | What is common among silver fish, scorpion, crab and honeybee?
+  A: Compound eyes
+  B: Poison glands
+  C: Jointed appendages
+  D: Metamorphosis
+
+R3220 | Animal Kingdom | A larval stage occurs in the life history of all members of the group
+  A: frog, lizard and cockroach
+  B: Ascaris, housefly and frog
+  C: housefly, earthworm and mosquito
+  D: butterfly, frog and mosquito
+
+R3221 | Animal Kingdom | Adult Culex and Anopheles can be distinguished with the help of
+  A: mouth parts/colour
+  B: sitting posture
+  C: antennae/wings
+  D: feeding habits
+
+R3222 | Animal Kingdom | Male and female cockroaches can be distinguished externally through
+  A: anal styles in male
+  B: anal cerci in female
+  C: anal style and antennae in females
+  D: Both (b) and (c)
+
+R3223 | Animal Kingdom | Metamorphosis of insects is regulated through hormone
+  A: pheromone
+  B: thyroxine
+  C: ecdysone
+  D: All of these
+
+R3224 | Animal Kingdom | An insect regarded as greatest mechanical carrier of diseases is
+  A: Pediculus
+  B: Cimex
+  C: Musca
+  D: Xenopsylla
+
+R3225 | Animal Kingdom | Silk thread is obtained from silk moth during
+  A: pupal stage
+  B: larval stage
+  C: nymph stage
+  D: adult stage
+
+R3226 | Animal Kingdom | Kala-azar and oriental sore are spread by
+  A: housefly
+  B: bed bug
+  C: sand fly
+  D: fruit fly
+
+R3227 | Animal Kingdom | In which one of the following, the genus name, its two characters and its phylum are not correctly matched, whereas the remaining three are correct?
+  A: Pila (i) Body segmented (ii) Mouth with Radula Mollusca
+  B: Asterias (i) Spiny skinned Echinodermata (ii) Water vascular system
+  C: Sycon (i) Pore bearing Porifera (ii) Canal system
+  D: Ancylostoma (i) Intestinal parasite (ii) Female shorter than male Aschelminthes
+
+R3228 | Animal Kingdom | Which one of the following have the highest number of species in nature?
+  A: Liver fluke, sea anemone, sea cucumber
+  B: Centipede, prawn, sea urchin
+  C: Scorpion, spider, cockroach
+  D: Cockroach, locust, Taenia
+
+R3229 | Animal Kingdom | Ecdysis is shedding of
+  A: stratum corneum
+  B: epidermis
+  C: dermis
+  D: stratum malpighi
+
+R3230 | Animal Kingdom | Malpighian tubules are
+  A: excretory organs of insects
+  B: excretory organs of annelids
+  C: respiratory organs of insects
+  D: respiratory organs of annelids
+
+R3231 | Animal Kingdom | Match the following. List-I List-II A. Physalia (i) Spiny skinned B. Asterias (ii) Water vascular system C. Sycon (iii) Pore bearing D. Periplaneta (iv) Jointed appendages Choose the correct answer fr
+  A: (ii) (i) (iii) (iv)
+  B: (i) (ii) (iv) (iii)
+  C: (iv) (iii) (ii) (i)
+  D: (iii) (iv) (i) (ii)
+
+R3232 | Animal Kingdom | Which one of the following is a matching set of phylum and its three examples?
+  A: Cnidaria — Bonellia, Physalia, Aurelia
+  B: Platyhelminthes — Planaria, Schistosoma, Enterobius
+  C: Mollusca — Loligo, Teredo, Octopus
+  D: Porifera—Spongilla, Euplectella, Pennatula
+
+R3233 | Animal Kingdom | Closed circulatory system occurs in
+  A: snail
+  B: cockroach
+  C: cuttle fish
+  D: All of these
+
+R3234 | Animal Kingdom | Eye of the molluscan group that resembles vertebrate eye is
+  A: Bivalvia
+  B: Gastropoda
+  C: Pelecypoda
+  D: Cephalopoda
+
+R3235 | Animal Kingdom | A wood boring mollusc/shipworm is
+  A: Chiton
+  B: Teredo
+  C: Limax
+  D: Patella
+
+R3236 | Animal Kingdom | Match the following genera with their respective phylum Column I Column II 1. Ophiura (i) Mollusca 2. Physalia (ii) Platyhelminthes 3. Pinctada (iii) Echinodermata 4. Planaria (iv) Coelenterata Select
+  A: 1 2 3 4 (iv) (i) (iii) (ii)
+  B: 1 2 3 4 (iii) (iv) (i) (ii)
+  C: 1 2 3 4 (i) (iii) (iv) (ii)
+  D: 1 2 3 4 (iii) (iv) (ii) (i)
+
+R3237 | Animal Kingdom | The animal with bilateral symmetry in young stage and radial pentamerous symmetry in the adult stage belong to the phylum
+  A: Annelida
+  B: Mollusca
+  C: Cnidaria
+  D: Echinodermata
+
+R3238 | Animal Kingdom | Radial symmetry is usually associated with
+  A: aquatic mode of life
+  B: lower grade of organisation
+  C: creeping mode of locomotion
+  D: sedentary mode of life
+
+R3239 | Animal Kingdom | The organisms attached to the substratum generally, possess
+  A: radial symmetry
+  B: one single opening of digestive canal
+  C: asymmetrical body
+  D: cilia on surface to create water current
+
+R3240 | Animal Kingdom | Radial symmetry is often exhibited by animals having
+  A: one opening of alimentary canal
+  B: aquatic mode of living
+  C: benthos/sedentary
+  D: ciliary mode of feeding
+
+R3241 | Animal Kingdom | Metamorphosis is regulated by ecdysone hormone secreted by
+  A: prothoracic glands
+  B: bone marrow
+  C: intestinal villi
+  D: All of these
+
+R3242 | Animal Kingdom | Match the following. Genus Name Two characters Phylum (a) Pila (i) Body segmented (ii) Mouth with Radula Mollusca (b) Asterias (i) Spiny skinned (ii) Water vascular system Echinodermata (c) Sycon (i) 
+  A: a (i), b (i), c (i), d (i)
+  B: a (ii), b (ii), c (ii), d (ii)
+  C: a (i)&(ii), b (i)&(ii), c (i)&(ii), d (i)&(ii)
+  D: a (i), b (ii), c (i), d (ii)
+
+R3243 | Animal Kingdom | Match the following. List-I List-II A. Physalia 1. Pearl oyster B. Limulus 2. Portuguese Man of War C. Ancylostoma 3. Living fossil D. Pinctada 4. Hookworm Choose the correct answer from the options g
+  A: 2 3 1 4
+  B: 4 1 3 2
+  C: 2 3 4 1
+  D: 1 4 3 2
+
+R3244 | Animal Kingdom | Read the following statements. I. Metagenesis is observed in helminths. II. Echinoderms are triploblastic and coelomate animals. III. Round worms have organ-system level of body organisation. IV. Comb
+  A: III, IV and V are correct
+  B: I, II and III are correct
+  C: I, IV and V are correct
+  D: II, III and V are correct
+
+R3256 | Animal Kingdom | Most appropriate term to describe the life cycle of Obelia is
+  A: neoteny
+  B: metagenesis
+  C: metamorphosis
+  D: All of these
+
+R3257 | Animal Kingdom | Sea anemone is a coelenterate found in marine water, attached to the empty shell of gastropods already occupied by hermit crab, this association is
+  A: tapeworm
+  B: mosquito
+  C: leech
+  D: sea anemone
+
+R3258 | Animal Kingdom | Special character of coelenterates is
+  A: polymorphism
+  B: nematocysts
+  C: flame cells
+  D: hermaphroditism
+
+R3259 | Animal Kingdom | Which one of the following animals possesses nerve cells but no nerves?
+  A: Hydra
+  B: Tapeworm
+  C: Earthworm
+  D: Frog’s tadpole
+
+R3260 | Animal Kingdom | Budding is a normal mode of asexual reproduction in
+  A: starfish and Hydra
+  B: Hydra and sponges
+  C: tapeworm and Hydra
+  D: sponge and starfish
+
+R3261 | Animal Kingdom | Jelly fish belongs to class
+  A: Hydrozoa
+  B: Scyphozoa
+  C: Anthozoa
+  D: None of these
+
+R3262 | Animal Kingdom | Organ pipe coral is
+  A: Tubipora
+  B: Astraea
+  C: Helipora
+  D: Fungia
+
+R3263 | Animal Kingdom | Biradial symmetry and lack of cnidoblasts are the characteristics of
+  A: Starfish and sea anemone
+  B: Ctenoplana and Beroe
+  C: Aurelia and Paramecium
+  D: Hydra and starfish
+
+R3264 | Animal Kingdom | Match the following columns and select the correct option.
+  A: A. 4 B. 1 C. 2 D. 3
+  B: A. 3 B. 2 C. 1 D. 4
+  C: A. 2 B. 1 C. 3 D. 4
+  D: A. 1 B. 3 C. 2 D. 4
+
+R3265 | Animal Kingdom | Bilaterally symmetrical and acoelomate animals are exemplified by
+  A: Platyhelminthes
+  B: Aschelminthes
+  C: Annelida
+  D: Ctenophora
+
+R3266 | Animal Kingdom | Planaria possess high capacity of
+  A: metamorphosis
+  B: regeneration
+  C: alternation of generation
+  D: bioluminescence
+
+R3267 | Animal Kingdom | One example of animal having a single opening to the outside that serves both as mouth as well as anus is
+  A: Octopus
+  B: Asterias
+  C: Ascidia
+  D: Fasciola
+
+R3268 | Animal Kingdom | Which one of the following kinds of animals are triploblastic?
+  A: Flatworms
+  B: Sponges
+  C: Ctenophores
+  D: Corals
+
+R3269 | Animal Kingdom | During its life cycle, Fasciola hepatica (liver fluke) infects its intermediate host and primary host at the following larval stages respectively
+  A: metacercaria and cercaria
+  B: miracidium and metacercaria
+  C: redia and miracidium
+  D: cercaria and redia
+
+R3270 | Animal Kingdom | Which one belongs to Platyhelminthes?
+  A: Schistosoma
+  B: Trypansoma
+  C: Plasmodium
+  D: Wuchereria
+
+R3271 | Animal Kingdom | What is true about Taenia saginata?
+  A: Life history has pig as intermediate host
+  B: There are two large suckers on scolex
+  C: Rostellar hooks are absent
+  D: Rostellum has double circle of hooks
+
+R3272 | Animal Kingdom | What is correct about Taenia?
+  A: Male organs occur in posterior proglottids
+  B: Male organs occur in anterior proglottids
+  C: Female organs occur in anterior proglottids
+  D: Mature proglottids contain both male and female organs
+
+R3273 | Animal Kingdom | The excretory structures of flat worms/Taenia are
+  A: flame cells
+  B: protonephridia
+  C: Malpighian tubules
+  D: green glands
+
+R3274 | Animal Kingdom | Bladderworm/cysticercus is the larval stage of
+  A: tapeworm
+  B: roundworm
+  C: pinworm
+  D: liver fluke
+
+R3275 | Animal Kingdom | Transfer of Taenia to secondary host occurs as
+  A: oncosphere
+  B: cysticercus
+  C: morula
+  D: egg
+
+R3276 | Animal Kingdom | Which one of the following statements about certain given animals is correct?
+  A: Round worms (Aschelminthes) are pseudocoelomates
+  B: Molluscs are acoelomates
+  C: Insects are pseudocoelomates
+  D: Flatworms (Platyhelminthes) are coelomates
+
+R3277 | Animal Kingdom | Which one of the following groups of animals is bilaterally symmetrical and triploblastic?
+  A: Coelenterates (cnidarians)
+  B: Aschelminthes (roundworms)
+  C: Ctenophores
+  D: Sponges
+
+R3310 | Animal Kingdom | Which one of the following phyla is correctly matched with its two general characteristics?
+  A: Arthropoda — Body divided into head, thorax and abdomen and respiration by tracheae
+  B: Chordata — Notochord at some stage and separate anal and urinary openings to the outside
+  C: Echinodermata— Pentamerous radial symmetry and mostly internal fertilisation
+  D: Mollusca — Normally oviparous and development through a trochophore or veliger larva
+
+R3311 | Animal Kingdom | What is true about Nereis, scorpion, cockroach and silver fish?
+  A: They all have jointed paired appendages
+  B: They all possess dorsal heart
+  C: None of them is aquatic
+  D: They all belong to the same phylum
+
+R3312 | Animal Kingdom | Two common characters found in centipede, cockroach and crab are
+  A: compound eyes and anal cerci
+  B: jointed legs and chitinous exoskeleton
+  C: green gland and tracheae
+  D: book lungs and antennae
+
+R3313 | Animal Kingdom | From the following statements select the wrong one.
+  A: Millipedes have two pairs of appendages in each segment of the body
+  B: Prawn has two pairs of antennae
+  C: Animals belonging to phylum–Porifera are exclusively marine
+  D: Nematocysts are characteristic of the phylum–Cnidaria
+
+R3314 | Animal Kingdom | In Arthropoda, head and thorax are often fused to form cephalothorax, but in which one of the following classes, is the body divided into head, thorax and abdomen?
+  A: Insecta
+  B: Myriapoda
+  C: Crustacea
+  D: Arachnida and Crustacea
+
+R3315 | Animal Kingdom | Which one of the following is correct matching pair of an animal and a certain phenomenon it exhibits?
+  A: Chameleon — Mimicry
+  B: Taenia — Polymorphism
+  C: Pheretima — Sexual dimorphism
+  D: Musca — Complete metamorphosis
+
+R3316 | Animal Kingdom | What is common among silver fish, scorpion, crab and honeybee?
+  A: Compound eyes
+  B: Poison glands
+  C: Jointed appendages
+  D: Metamorphosis
+
+R3317 | Animal Kingdom | A larval stage occurs in the life history of all members of the group
+  A: frog, lizard and cockroach
+  B: Ascaris, housefly and frog
+  C: housefly, earthworm and mosquito
+  D: butterfly, frog and mosquito
+
+R3318 | Animal Kingdom | Adult Culex and Anopheles can be distinguished with the help of
+  A: mouth parts/colour
+  B: sitting posture
+  C: antennae/wings
+  D: feeding habits
+
+R3319 | Animal Kingdom | Male and female cockroaches can be distinguished externally through
+  A: anal styles in male
+  B: anal cerci in female
+  C: anal style and antennae in females
+  D: Both (b) and (c)
+
+R3320 | Animal Kingdom | Metamorphosis of insects is regulated through hormone
+  A: pheromone
+  B: thyroxine
+  C: ecdysone
+  D: All of these
+
+R3321 | Animal Kingdom | An insect regarded as greatest mechanical carrier of diseases is
+  A: Pediculus
+  B: Cimex
+  C: Musca
+  D: Xenopsylla
+
+R3322 | Animal Kingdom | Kala-azar and oriental sore are spread by
+  A: housefly
+  B: bed bug
+  C: sand fly
+  D: fruit fly
+
+R3323 | Animal Kingdom | Silk thread is obtained from silk moth during
+  A: pupal stage
+  B: larval stage
+  C: nymph stage
+  D: adult stage
+
+R3324 | Animal Kingdom | In which one of the following, the genus name, its two characters and its phylum are not correctly matched, whereas the remaining three are correct?
+  A: Pila (i) Body segmented (ii) Mouth with Radula Mollusca
+  B: Asterias (i) Spiny skinned Echinoder mata (ii) Water vascular system
+  C: Sycon (i) Pore bearing Porifera (ii) Canal system
+  D: Physalia (i) Stinging capsule (ii) Comb jelly Coelenterata
+
+R3325 | Animal Kingdom | Which one of the following have the highest number of species in nature?
+  A: Liver fluke, sea anemone, sea cucumber
+  B: Centipede, prawn, sea urchin
+  C: Scorpion, spider, cockroach
+  D: Cockroach, locust, Taenia
+
+R3326 | Animal Kingdom | Which one of the following is correctly matched?
+  A: Cockroach — 10 pairs of spiracles (2 pairs on thorax and 8 pairs on abdomen)
+  B: Earthworm — Alimentary canal with 5 types of cells
+  C: Frog — Caudal glands provide lubricant for balancing
+  D: Spider — Malpighian tubules are excretory organs
+
+R3327 | Animal Kingdom | Which one of the following pairs of animals has animal products that are sources of the world’s largest commercialproducts?
+  A: Moth, Bee
+  B: Silk moth, Oysters
+  C: Mussel, Goat
+  D: Camels, Mules
+
+R3328 | Animal Kingdom | Which one of the following options does not represent the correct matching of the animal, its characteristics and the phylum?
+  A: Cockroach:  Bilateral symmetry, Jointed appendages, Metameric segmentation,   Arthropoda
+  B: Leishmania:  Protozoa,   Pseudopodia,  Protozoa
+  C: Silver fish:  Annelida,  Pseudopodia,   Arthropoda
+  D: Ascaris:   Roundworm,   Triploblastic,   Aschelminthes
+
+R3329 | Animal Kingdom | What is the characteristic feature of the phylum, Aschelminthes?
+  A: All are exclusively marine
+  B: All are purely parasitic
+  C: Some are parasitic, while others are free-living; alimentary canal is complete with well-developed muscular pharynx
+  D: Alimentary canal is absent
+
+R3330 | Animal Kingdom | The main characters of phylum-Arthropoda are:
+  A: Jointed appendages, exoskeleton, ventral nerve cord
+  B: Exoskeleton, chitinous integument, spiracles
+  C: Jointed appendages, metameric segmentation, gills
+  D: Exoskeleton, compound eyes, sexual dimorphism
+
+R3331 | Animal Kingdom | Which of the following is the unique character of phylum-Aschelminthes?
+  A: Presence of both male and female gametes in the same individual
+  B: Presence of external fertilisation
+  C: Presence of alimentary canal with muscular pharynx
+  D: Absence of body cavity
+
+R3332 | Animal Kingdom | Which of the following is not a characteristic of phylum-Annelida?
+  A: Metameric segmentation
+  B: Closed circulatory system
+  C: Absence of coelom
+  D: Presence of nephridia
+
+R3333 | Animal Kingdom | Which of the following animals has a unique character of causing infection by entering the skin of the healthy person?
+  A: Ascaris
+  B: Taenia solium
+  C: Ancylostoma
+  D: Wuchereria bancrofti
+
+R3334 | Animal Kingdom | Which one of the following is correctly matched?
+  A: Cockroach – Anal cerci
+  B: Frog – Stomach
+  C: Earthworm – Four pairs of testes
+  D: Mosquito – Two pairs of wings
+
+R3335 | Animal Kingdom | Which of the following phyla are exclusively marine?
+  A: Echinodermata and Mollusca
+  B: Echinodermata and Chordata
+  C: Mollusca and Arthropoda
+  D: Arthropoda and Chordata
+
+R3336 | Animal Kingdom | Which of the following is a correct match?
+  A: Earthworm - Nephridia
+  B: Cockroach - Malpighian tubules
+  C: Frog - Kidneys
+  D: All of these
+
+R3337 | Animal Kingdom | Which one of the following is a non-chordate?
+  A: Shark
+  B: Frog
+  C: Cockroach
+  D: Pigeon
+
+R3338 | Animal Kingdom | Which of the following is the characteristic feature of phylum-Cnidaria?
+  A: Presence of nematocysts
+  B: Absent of coelom
+  C: Hermaphroditic
+  D: Direct development
+
+R3339 | Animal Kingdom | Which of the following is a correct match?
+  A: Annelida - Book lungs
+  B: Arthropoda - Antennae
+  C: Mollusca - Gills
+  D: Echinodermata - Proboscis gland
+
+R3340 | Animal Kingdom | Which is the largest phylum of Animal Kingdom?
+  A: Mollusca
+  B: Arthropoda
+  C: Annelida
+  D: Echinodermata
+
+R3341 | Animal Kingdom | Which of the following statements is wrong?
+  A: Psittacula eats fruits
+  B: Canis has a four chambered heart
+  C: Balaenoptera has bone marrow
+  D: Limulus has gills
+
+R3342 | Animal Kingdom | Which of the following is correctly matched?
+  A: Cockroach - Malpighian tubules
+  B: Earthworm - Book lungs
+  C: Frog - Kidneys
+  D: Spider - Nephridia
+
+R3343 | Animal Kingdom | Ecdysis is shedding of
+  A: stratum corneum
+  B: epidermis
+  C: dermis
+  D: stratum malpighi
+
+R3344 | Animal Kingdom | Malpighian tubules are
+  A: excretory organs of insects
+  B: excretory organs of annelids
+  C: respiratory organs of insects
+  D: respiratory organs of annelids
+
+R3345 | Animal Kingdom | Match the following. List-I List-II A. Physalia 1. Pearl oyster B. Limulus 2. Portuguese Man of War C. Ancylostoma 3. Living fossil D. Pinctada 4. Hookworm Choose the correct answer from the options g
+  A: 2 3 1 4
+  B: 4 1 3 2
+  C: 2 3 4 1
+  D: 1 4 3 2
+
+R3346 | Animal Kingdom | Which one of the following is a matching set of phylum and its three examples?
+  A: Cnidaria — Bonellia, Physalia, Aurelia
+  B: Platyhelminthes — Planaria, Schistosoma, Enterobius
+  C: Mollusca — Loligo, Teredo, Octopus
+  D: Porifera—Spongilla, Euplectella, Pennatula
+
+R3347 | Animal Kingdom | Closed circulatory system occurs in
+  A: snail
+  B: cockroach
+  C: cuttle fish
+  D: All of these
+
+R3348 | Animal Kingdom | Eye of the molluscan group that resembles vertebrate eye is
+  A: Bivalvia
+  B: Gastropoda
+  C: Pelecypoda
+  D: Cephalopoda
+
+R3349 | Animal Kingdom | A wood boring mollusc/shipworm is
+  A: Chiton
+  B: Teredo
+  C: Limax
+  D: Patella
+
+R3350 | Animal Kingdom | Read the following statements. I. Metagenesis is observed in helminths. II. Echinoderms are triploblastic and coelomate animals. III. Round worms have organ-system level of body organisation. IV. Comb
+  A: III, IV and V are correct
+  B: I, II and III are correct
+  C: I, IV and V are correct
+  D: II, III and V are correct
+
+R3351 | Animal Kingdom | Match the following genera with their respective phylum Column I Column II 1. Ophiura (i) Mollusca 2. Physalia (ii) Platyhelminthes 3. Pinctada (iii) Echinodermata 4. Planaria (iv) Coelenterata Select
+  A: (iv) (i) (iii) (ii)
+  B: (iii) (iv) (i) (ii)
+  C: (i) (iii) (iv) (ii)
+  D: (iii) (iv) (ii) (i)
+
+R3352 | Animal Kingdom | The animal with bilateral symmetry in young stage and radial pentamerous symmetry in the adult stage belong to the phylum
+  A: Annelida
+  B: Mollusca
+  C: Cnidaria
+  D: Echinodermata
+
+R3353 | Animal Kingdom | Radial symmetry is usually associated with
+  A: aquatic mode of life
+  B: lower grade of organisation
+  C: creeping mode of locomotion
+  D: sedentary mode of life
+
+R3354 | Animal Kingdom | The organisms attached to the substratum generally, possess
+  A: radial symmetry
+  B: one single opening of digestive canal
+  C: asymmetrical body
+  D: cilia on surface to create water current
+
+R3355 | Animal Kingdom | Radial symmetry is often exhibited by animals having
+  A: one opening of alimentary canal
+  B: aquatic mode of living
+  C: benthos/sedentary
+  D: ciliary mode of feeding
+
+R3356 | Animal Kingdom | Metamorphosis is regulated by ecdysone hormone secreted by
+  A: prothoracic glands
+  B: bone marrow
+  C: intestinal villi
+  D: All of these
+
+R3459 | Biomolecules | Given below is the diagrammatic representation of one of the categories of small molecular weight organic compounds in the living tissues. Identify the category shown and the one blank component X in 
+  A: Cholesterol — Guanine
+  B: Amino acid — NH2
+  C: Nucleotide — Adenine
+  D: Nucleoside — Uracil
+
+R3460 | Biomolecules | Which one of the following structural formula of two organic compounds is correctly identified along with its related function?
+  A: A — Triglyceride — Major Source of energy
+  B: B — Uracil — A component of DNA
+  C: A — Lecithin — A component of cell membrane
+  D: B — Adenine — A nucleotide
+
+R3461 | Biomolecules | Which one of the following is the correct matching of three items and their grouping category?
+  A: Malleus, incus, cochlea — Ear ossicles
+  B: Ilium, ischium, pubis — Coxal bones of pelvic girdle
+  C: Actin, myosin, rhodopsin — Muscle proteins
+  D: Cytosine, uracil, thymine — Pyrimidines
+
+R3462 | Biomolecules | In the DNA molecule
+  A: the total amount of purine nucleotides and pyrimidine nucleotides is not always equal
+  B: there are two strands which run parallel in the 5′→3′ direction
+  C: the proportion of adenine in relation to thymine varies with the organism
+  D: there are two strands which run antiparallel one in 5′→3′ direction and other in 3′→5′
+
+R3463 | Biomolecules | Which one of the following pairs of nitrogenous bases of nucleic acids, is wrongly matched with the category mentioned against it?
+  A: Thymine, Uracil — Pyrimidines
+  B: Uracil, Cytosine — Pyrimidines
+  C: Guanine, Adenine — Purines
+  D: Adenine, Thymine — Purines
+
+R3464 | Biomolecules | The two polynucleotide chains in DNA are
+  A: parallel
+  B: discontinuous
+  C: antiparallel
+  D: semiconservative
+
+R3465 | Biomolecules | One turn of the helix in a B-form DNA is approximately
+  A: 0.34 nm
+  B: 3.4 nm
+  C: 2 nm
+  D: 20 nm
+
+R3466 | Biomolecules | Nucleotides are building blocks of nucleic acids. Each nucleotide is a composite molecule formed by
+  A: base-sugar-phosphate
+  B: base-sugar-OH
+  C: (base-sugar-phosphate)n
+  D: sugar-phosphate
+
+R3467 | Biomolecules | ATP is a
+  A: nucleotide
+  B: nucleosome
+  C: nucleoside
+  D: purine
+
+R3468 | Biomolecules | Which one of the following amino acids is an essential part of human diet?
+  A: Glycine
+  B: Phenylalanine
+  C: Serine
+  D: Aspartic acid
+
+R3469 | Biomolecules | Radioactive thymidine when added to the medium surrounding living mammalian cells gets incorporated into the newly synthesised DNA. Which of the following types of chromatin is expected to become radi
+  A: Heterochromatin
+  B: Euchromatin
+  C: Both (a) and (b)
+  D: Neither (a) nor (b) but only the nucleolus
+
+R3470 | Biomolecules | DNA synthesis can be specifically measured by estimating the incorporation of radio labelled
+  A: uracil
+  B: adenine
+  C: thymidine
+  D: deoxyribose sugar
+
+R3471 | Biomolecules | The nitrogenous organic base purine occurring in RNA is
+  A: cytosine
+  B: thymine
+  C: guanine
+  D: uracil
+
+R3472 | Biomolecules | Two free ribonucleotide units are interlinked with
+  A: peptide bond
+  B: covalent bond
+  C: hydrogen bond
+  D: phosphodiester bond
+

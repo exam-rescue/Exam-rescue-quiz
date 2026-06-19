@@ -1,0 +1,245 @@
+es was given by Ernst Mayr. II. Photoperiod does not affect reproduction in plants.
+  B: III. Binomial nomenclature system was given by RH Whittaker. IV. In unicellular organisms, reproduction is synonymous wi
+  C: I. Definition of biological species was given by Ernst Mayr. IV. In unicellular organisms, reproduction is synonymous wi
+  D: I. Definition of biological species was given by Ernst Mayr. II. Photoperiod does not affect reproduction in plants.
+
+R2863 | A | Biological organisation starts with?
+  A: sub-microscopic molecular level
+  B: cellular level
+  C: organismic level
+  D: atomic level
+
+R2864 | B | The living organisms can be un-exceptionally distinguished from the non-living things on the basis of their ability for?
+  A: responsiveness to touch
+  B: interaction with the environment and progressive evolution
+  C: reproduction
+  D: growth and movement
+
+R2865 | A | Which one of the following is an example of negative feedback loop in humans?
+  A: Constriction of skin blood vessels and contraction of skeletal muscles when it is too cold
+  B: Secretion of tears after falling of sand particles into the eye
+  C: Salivation of mouth at the sight of delicious food
+  D: Secretion of sweat glands and constriction of skin blood vessels when it is too hot
+
+R2866 | C | Carbohydrates, the most abundant biomolecules on earth, are produced by?
+  A: all bacteria, fungi and algae
+  B: fungi, algae and green plant cells
+  C: some bacteria, algae and green plant cells
+  D: viruses, fungi and bacteria
+
+R2867 | D | More than 70% of world’s fresh water is contained in?
+  A: Antarctica
+  B: Greenland
+  C: glaciers and mountains
+  D: polar ice
+
+R2868 | B | There is no life on moon due to the absence of?
+  A: O2
+  B: water
+  C: light
+  D: temperature
+
+R2869 | B | The most important feature of all living systems is to?
+  A: utilise oxygen to generate energy
+  B: replicate the genetic information
+  C: produce gametes
+  D: utilise solar energy for metabolic activities
+
+R2870 | B | Homeostasis is?
+  A: tendency to change with change in environment
+  B: tendency to resist change
+  C: disturbance in regulatory control
+  D: plants and animals extracts used in homeopathy
+
+R2871 | B | Employment of hereditary principles in the improvement of human race is?
+  A: Euthenics
+  B: Eugenics
+  C: Euphenics
+  D: Ethnology
+
+R2872 | A | Select the correctly written scientific name of Mango which was first described by Carolus Linnaeus.
+  A: Mangifera indica Linn
+  B: Mangifera indica
+  C: Mangifera Indica
+  D: Mangifera indica Car. Linn.
+
+R2873 | D | Which of the following is against the rules of ICBN?
+  A: Handwritten scientific names should be underlined
+  B: Every species should have a generic name and a specific epithet
+  C: Scientific names are in Latin and should be italicised
+  D: Generic and specific names should be written starting with small letters
+
+R2874 | D | Nomenclature is governed by certain universal rules. Which one of the following is contrary to the rules of nomenclature?
+  A: The first word in a biological name represents the genus name and the second is a specific epithet
+  B: The names are written in Latin and are Italicised
+  C: When written by hand, the names are to be underlined
+  D: Biological names can be written in any language
+
+R2875 | A | The major portion of the dry weight of plants comprises of
+  A: carbon, hydrogen and oxygen
+  B: nitrogen, phosphorus and potassium
+  C: calcium, magnesium and sulphur
+  D: carbon, nitrogen and hydrogen
+
+R2876 | C | The four elements making 99% of living system are
+  A: CHOS
+  B: CHOP
+  C: CHON
+  D: CNOP
+
+R2877 | B | Species restricted to a given area are called
+  A: sibling
+  B: endemic
+  C: sympatric
+  D: allopatric
+
+R2878 | B | Which of the following organisms are known as 'age-setters' of the ocean?
+  A: Dinoflagellates
+  B: Diatoms
+  C: Slime moulds
+  D: Protozoans
+
+R2879 | C | Which one of the following is a fungal disease?
+  A: Malaria
+  B: Common cold
+  C: Ringworm
+  D: Typhoid
+
+R2880 | C | Viroids are:
+  A: Naked viruses
+  B: Incompletely synthesized RNA
+  C: Free RNA with low molecular weight
+  D: DNA viruses
+
+R2881 | B | Which of the following are the simplest of all living organisms?
+  A: Viruses
+  B: Bacteria
+  C: Algae
+  D: Fungi
+
+R2882 | B | Which of the following statements is correct?
+  A: Fusion of two cells is called karyogamy
+  B: Fusion of protoplasm between two motile or non-motile gametes is called plasmogamy
+  C: Organisms that depend on living plants are called saprophytes
+  D: Some of the organisms can fix atmospheric nitrogen in specialised cells called sheath cells
+
+R2883 | D | The size of Pleuropneumonia Like Organism (PPLO) is?
+  A: 0.02μm
+  B: 1-2μm
+  C: 10–20μm
+  D: 0.1μm
+
+R2884 | B | Which of the following is incorrect about cyanobacteria?
+  A: They are photoautotrophs
+  B: They lack heterocysts
+  C: They often form blooms in polluted water bodies
+  D: They have chlorophyll-a similar to green plants
+
+R2885 | C | Oxygen is not produced during photosynthesis by?
+  A: Cycas
+  B: Nostoc
+  C: Green sulphur bacteria
+  D: Chara
+
+R2886 | A | Which of the following are found in extreme saline conditions?
+  A: Cyanobacteria
+  B: Mycorrhizae
+  C: Eubacteria
+  D: Haeomophiles
+
+R2887 | B | Which of the following organisms are known as chief producers in the oceans?
+  A: Cyanobacteria
+  B: Diatoms
+  C: Dinoflagellates
+  D: Euglenoids
+
+R2888 | C | Which among the following are the smallest living cells, known without a definite cell wall, pathogenic to plants as well as animals and can survive without oxygen?
+  A: Bacillus
+  B: Pseudomonas
+  C: Mycoplasma
+  D: Nostoc
+
+R2889 | B | Which one of the following statements is wrong?
+  A: Golden algae are also called desmids
+  B: Eubacteria are also called false bacteria
+  C: Phycomycetes are also called algal fungi
+  D: Cyanobacteria are also called blue-green algae
+
+R2890 | B | Methanogens belong to
+  A: eubacteria
+  B: archaebacteria
+  C: dinoflagellates
+  D: slime moulds
+
+R2891 | A | Archaebacteria differ from eubacteria in
+  A: cell membrane structure
+  B: mode of nutrition
+  C: cell shape
+  D: mode of reproduction
+
+R2892 | B | Besides paddy fields, cyanobacteria are also found inside vegetative part of
+  A: Pinus
+  B: Cycas
+  C: Equisetum
+  D: Psilotum
+
+R2893 | D | Pigment-containing membranous extensions in some cyanobacteria are
+  A: heterocysts
+  B: basal bodies
+  C: pneumatophores
+  D: chromatophores
+
+R2894 | A | Which of the following are likely to be present in deep sea water?
+  A: Archaebacteria
+  B: Eubacteria
+  C: Blue-green algae
+  D: Saprophytic fungi
+
+R2895 | D | The cyanobacteria are also referred to as
+  A: protists
+  B: golden algae
+  C: slime moulds
+  D: blue-green algae
+
+R2896 | D | Nuclear membrane is absent in
+  A: Penicillium
+  B: Agaricus
+  C: Volvox
+  D: Nostoc
+
+R2897 | D | In eubacteria, a cellular component that resembles eukaryotic cells is
+  A: nucleus
+  B: ribosomes
+  C: cell wall
+  D: plasma membrane
+
+R2898 | A | Organisms called methanogens are most abundant in a
+  A: cattle yard
+  B: polluted stream
+  C: hot spring
+  D: sulphur rock
+
+R2899 | A | A prokaryotic autotrophic nitrogen fixing symbiont is found in
+  A: Cycas
+  B: Cicer
+  C: Pisum
+  D: Alnus
+
+R2900 | C | Maximum nutritional diversity is found in the group
+  A: Fungi
+  B: Animalia
+  C: Monera
+  D: Plantae
+
+R2901 | A | Some hyperthermophilic organisms that grow in highly acidic habitats belong to the two groups called
+  A: eubacteria and archaea
+  B: cyanobacteria and diatoms
+  C: protists and mosses
+  D: liverworts and yeasts
+
+R2902 | A | Thermococcus, Methanococcus and Methanobacterium exemplify
+  A: archaebacteria that contain protein homologous to eukaryotic core histones
+  B: archaebacteria that lack any histones resembling those found in eukaryotes but whose DNA is negatively supercoiled
+  C: bacteria whose DNA is relaxed or positively supercoiled but which have a cytoskeleton as well as mitochondria
+  D: bacteria that contain a cytoskeleton and ribosomes
+

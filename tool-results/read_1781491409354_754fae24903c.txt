@@ -1,0 +1,1002 @@
+     1→[
+     2→  {
+     3→    "sheet": "Class11",
+     4→    "row": 1467,
+     5→    "data": [
+     6→      "Biology",
+     7→      3.0,
+     8→      "Plant Kingdom",
+     9→      "English",
+    10→      "Which one has the largest gametophyte?",
+    11→      "(a) Cycas",
+    12→      "(b) Angiosperm",
+    13→      "(c) Selaginella",
+    14→      "(d) Moss",
+    15→      4.0,
+    16→      "Moss has the largest gametophyte. As one moves from thallophyte to angiosperms, there is reduction in the gametophyte.",
+    17→      "CBSE AIPMT",
+    18→      1991.0,
+    19→      null
+    20→    ]
+    21→  },
+    22→  {
+    23→    "sheet": "Class11",
+    24→    "row": 1468,
+    25→    "data": [
+    26→      "Biology",
+    27→      3.0,
+    28→      "Plant Kingdom",
+    29→      "English",
+    30→      "Bryophytes are amphibians because",
+    31→      "(a) they require a layer of water for carrying out sexual reproduction",
+    32→      "(b) they occur in damp places",
+    33→      "(c) they are mostly aquatic",
+    34→      "(d) All of the above",
+    35→      1.0,
+    36→      "As vascular tissues are absent, male gametes require a layer of water for swimming and fertilisation.",
+    37→      "CBSE AIPMT",
+    38→      "1991, 96",
+    39→      null
+    40→    ]
+    41→  },
+    42→  {
+    43→    "sheet": "Class11",
+    44→    "row": 1469,
+    45→    "data": [
+    46→      "Biology",
+    47→      3.0,
+    48→      "Plant Kingdom",
+    49→      "English",
+    50→      "Apophysis in the capsule of Funaria is",
+    51→      "(a) lower part",
+    52→      "(b) upper part",
+    53→      "(c) middle part",
+    54→      "(d) fertile part",
+    55→      1.0,
+    56→      "Capsule of Funaria is differentiated into operculum, theca and apophysis (sterile, solid basal portion).",
+    57→      "CBSE AIPMT",
+    58→      1990.0,
+    59→      null
+    60→    ]
+    61→  },
+    62→  {
+    63→    "sheet": "Class11",
+    64→    "row": 1470,
+    65→    "data": [
+    66→      "Biology",
+    67→      3.0,
+    68→      "Plant Kingdom",
+    69→      "English",
+    70→      "Moss peristome takes part in",
+    71→      "(a) spore dispersal",
+    72→      "(b) photosynthesis",
+    73→      "(c) protection",
+    74→      "(d) absorption",
+    75→      1.0,
+    76→      "Peristome functions in the dispersal of the spores.",
+    77→      "CBSE AIPMT",
+    78→      1990.0,
+    79→      null
+    80→    ]
+    81→  },
+    82→  {
+    83→    "sheet": "Class11",
+    84→    "row": 1471,
+    85→    "data": [
+    86→      "Biology",
+    87→      3.0,
+    88→      "Plant Kingdom",
+    89→      "English",
+    90→      "Protonema occurs in the life cycle of",
+    91→      "(a) Riccia",
+    92→      "(b) Funaria",
+    93→      "(c) Chlamydomonas",
+    94→      "(d) Spirogyra",
+    95→      2.0,
+    96→      "Protonema represents the juvenile stage of moss (Funaria). It is formed by the germination of spores.",
+    97→      "CBSE AIPMT",
+    98→      "1990, 93",
+    99→      null
+   100→    ]
+   101→  },
+   102→  {
+   103→    "sheet": "Class11",
+   104→    "row": 1472,
+   105→    "data": [
+   106→      "Biology",
+   107→      3.0,
+   108→      "Plant Kingdom",
+   109→      "English",
+   110→      "Sperms of both Funaria and Pteris were released together near the archegonia of Pteris. Only Pteris sperms enter the archegonia as",
+   111→      "(a) Pteris archegonia repel Funaria sperms",
+   112→      "(b) Funaria sperms get killed by Pteris sperms",
+   113→      "(c) Funaria sperms are less mobile",
+   114→      "(d) Pteris archegonia release chemical to attract its sperms",
+   115→      4.0,
+   116→      "Sperms are attracted by the chemical diffusing into the water from the mucilage exuded by the open necks of archegonia.",
+   117→      "CBSE AIPMT",
+   118→      1989.0,
+   119→      null
+   120→    ]
+   121→  },
+   122→  {
+   123→    "sheet": "Class11",
+   124→    "row": 1473,
+   125→    "data": [
+   126→      "Biology",
+   127→      3.0,
+   128→      "Plant Kingdom",
+   129→      "English",
+   130→      "In bryophytes and pteridophytes, transport of male gametes requires",
+   131→      "(a) insects",
+   132→      "(b) birds",
+   133→      "(c) water",
+   134→      "(d) wind",
+   135→      3.0,
+   136→      "In bryophytes and pteridophytes, water is the medium through which male gametes are transferred to the female reproductive organ.",
+   137→      "NEET, Phase I",
+   138→      " 2016,  ",
+   139→      null
+   140→    ]
+   141→  },
+   142→  {
+   143→    "sheet": "Class11",
+   144→    "row": 1475,
+   145→    "data": [
+   146→      "Biology",
+   147→      3.0,
+   148→      "वनस्पति जगत",
+   149→      "Hindi",
+   150→      "कुछ liverworts में बीजाणु प्रसार (Spore dissemination) किसके द्वारा सहायता प्राप्त करता है?",
+   151→      "(a) elaters",
+   152→      "(b) indusium",
+   153→      "(c) calyptra",
+   154→      "(d) peristome teeth",
+   155→      1.0,
+   156→      "Elaters प्रकृति में आर्द्रग्राही (hygroscopic) होते हैं और बीजाणुओं के प्रसार में मदद करते हैं।",
+   157→      "CBSE AIPMT",
+   158→      2007.0,
+   159→      null
+   160→    ]
+   161→  },
+   162→  {
+   163→    "sheet": "Class11",
+   164→    "row": 1476,
+   165→    "data": [
+   166→      "Biology",
+   167→      3.0,
+   168→      "वनस्पति जगत",
+   169→      "Hindi",
+   170→      "Peat moss का उपयोग फूलों और जीवित पौधों को दूर स्थानों पर भेजने के लिए पैकिंग सामग्री के रूप में किया जाता है क्योंकि:",
+   171→      "(a) यह आर्द्रग्राही (hygroscopic) है",
+   172→      "(b) यह वाष्पोत्सर्जन (transpiration) को कम करता है",
+   173→      "(c) यह एक कीटाणुनाशक (disinfectant) के रूप में कार्य करता है",
+   174→      "(d) यह आसानी से उपलब्ध है",
+   175→      1.0,
+   176→      "Sphagnum (जिसे peat moss भी कहा जाता है) आर्द्रग्राही होता है और इसमें उल्लेखनीय जल धारण क्षमता होती है।",
+   177→      "CBSE AIPMT",
+   178→      2006.0,
+   179→      null
+   180→    ]
+   181→  },
+   182→  {
+   183→    "sheet": "Class11",
+   184→    "row": 1477,
+   185→    "data": [
+   186→      "Biology",
+   187→      3.0,
+   188→      "वनस्पति जगत",
+   189→      "Hindi",
+   190→      "Funaria के antherozoids होते हैं:",
+   191→      "(a) aciliated",
+   192→      "(b) biflagellated",
+   193→      "(c) multiciliated",
+   194→      "(d) monociliated",
+   195→      2.0,
+   196→      "Funaria के antherozoids सर्पिल रूप से कुंडलित होते हैं और उनके अग्र भाग पर दो समान flagella होते हैं।",
+   197→      "CBSE AIPMT",
+   198→      1999.0,
+   199→      null
+   200→    ]
+   201→  },
+   202→  {
+   203→    "sheet": "Class11",
+   204→    "row": 1478,
+   205→    "data": [
+   206→      "Biology",
+   207→      3.0,
+   208→      "वनस्पति जगत",
+   209→      "Hindi",
+   210→      "द्विभाजी शाखन (Dichotomous branching) किसमें पाया जाता है?",
+   211→      "(a) fern",
+   212→      "(b) Funaria",
+   213→      "(c) liverworts",
+   214→      "(d) Marchantia",
+   215→      4.0,
+   216→      "Marchantia एक liverwort है जो द्विभाजी रूप से शाखित (dichotomously branched) होता है।",
+   217→      "CBSE AIPMT",
+   218→      1999.0,
+   219→      null
+   220→    ]
+   221→  },
+   222→  {
+   223→    "sheet": "Class11",
+   224→    "row": 1479,
+   225→    "data": [
+   226→      "Biology",
+   227→      3.0,
+   228→      "वनस्पति जगत",
+   229→      "Hindi",
+   230→      "Bryophytes में शामिल हैं:",
+   231→      "(a) लंबी अवधि का sporophyte",
+   232→      "(b) sporophyte का प्रमुख चरण जो परजीवी (parasitic) है",
+   233→      "(c) gametophyte का प्रमुख चरण जो बीजाणु (spores) पैदा करता है",
+   234→      "(d) छोटा sporophyte चरण जो आम तौर पर gametophyte पर परजीवी होता है",
+   235→      4.0,
+   236→      "Bryophytes में मुख्य पादप शरीर gametophytic (अगुणित) होता है। Sporophyte चरण gametophyte से भोजन लेता है, इस प्रकार उस पर परजीवी की तरह व्यवहार करता है।",
+   237→      "CBSE AIPMT",
+   238→      1999.0,
+   239→      null
+   240→    ]
+   241→  },
+   242→  {
+   243→    "sheet": "Class11",
+   244→    "row": 1480,
+   245→    "data": [
+   246→      "Biology",
+   247→      3.0,
+   248→      "वनस्पति जगत",
+   249→      "Hindi",
+   250→      "Bryophytes के बारे में निम्नलिखित में से कौन सा सत्य है?",
+   251→      "(a) उनमें archegonia होते हैं",
+   252→      "(b) उनमें chloroplast होता है",
+   253→      "(c) वे thalloid होते हैं",
+   254→      "(d) उपरोक्त सभी",
+   255→      4.0,
+   256→      "Bryophytes का मुख्य पादप शरीर gametophytic होता है जो thalloid संरचना है। इसमें प्रकाश संश्लेषण के लिए क्लोरोफिल होता है और मादा यौन अंग के रूप में archegonia होता है।",
+   257→      "CBSE AIPMT",
+   258→      1999.0,
+   259→      null
+   260→    ]
+   261→  },
+   262→  {
+   263→    "sheet": "Class11",
+   264→    "row": 1481,
+   265→    "data": [
+   266→      "Biology",
+   267→      3.0,
+   268→      "वनस्पति जगत",
+   269→      "Hindi",
+   270→      "Bryophytes पानी पर निर्भर होते हैं क्योंकि:",
+   271→      "(a) उनकी homosporous प्रकृति के लिए निषेचन हेतु पानी आवश्यक है",
+   272→      "(b) उनके कायिक प्रवर्धन (vegetative propagation) के लिए पानी आवश्यक है",
+   273→      "(c) शुक्राणु (sperms) आसानी से archegonium में अंडे तक पहुँच सकते हैं",
+   274→      "(d) निषेचन के लिए archegonium को पानी से भरा रहना पड़ता है",
+   275→      3.0,
+   276→      "Bryophytes के antherozoids (शुक्राणु) कशाभिक (flagellated) होते हैं और archegonium तक पहुँचने के लिए तैरने हेतु पानी की एक फिल्म की आवश्यकता होती है।",
+   277→      "CBSE AIPMT",
+   278→      1998.0,
+   279→      null
+   280→    ]
+   281→  },
+   282→  {
+   283→    "sheet": "Class11",
+   284→    "row": 1482,
+   285→    "data": [
+   286→      "Biology",
+   287→      3.0,
+   288→      "वनस्पति जगत",
+   289→      "Hindi",
+   290→      "Bryophytes को शैवाल (algae) से अलग किया जा सकता है क्योंकि वे:",
+   291→      "(a) thalloid रूप हैं",
+   292→      "(b) कोई संवहनी ऊतक नहीं है",
+   293→      "(c) बाँझ कोशिकाओं (sterile cells) की बाहरी परत के साथ archegonia रखते हैं",
+   294→      "(d) उनकी कोशिकाओं में chloroplasts होते हैं",
+   295→      3.0,
+   296→      "Bryophytes में Archegonia एक बहुकोशिकीय मादा यौन अंग है जो बाँझ कोशिकाओं (sterile cells) की एक परत से सुरक्षित होता है।",
+   297→      "CBSE AIPMT",
+   298→      1997.0,
+   299→      null
+   300→    ]
+   301→  },
+   302→  {
+   303→    "sheet": "Class11",
+   304→    "row": 1483,
+   305→    "data": [
+   306→      "Biology",
+   307→      3.0,
+   308→      "वनस्पति जगत",
+   309→      "Hindi",
+   310→      "बहुकोशिकीय शाखित rhizoids और पत्तेदार (leafy) gametophytes किसकी विशेषताएँ हैं?",
+   311→      "(a) सभी bryophytes",
+   312→      "(b) कुछ bryophytes",
+   313→      "(c) सभी pteridophytes",
+   314→      "(d) कुछ pteridophytes",
+   315→      2.0,
+   316→      "Bryophytes में, gametophyte मुख्य पीढ़ी है लेकिन मॉस (जैसे Funaria) में, यह पत्तेदार (foliose) होता है।",
+   317→      "CBSE AIPMT",
+   318→      1997.0,
+   319→      null
+   320→    ]
+   321→  },
+   322→  {
+   323→    "sheet": "Class11",
+   324→    "row": 1484,
+   325→    "data": [
+   326→      "Biology",
+   327→      3.0,
+   328→      "वनस्पति जगत",
+   329→      "Hindi",
+   330→      "इनमें से किसमें कैप्सूल में परिपक्व बीजाणुओं (spores) के साथ elaters मौजूद होते हैं (बीजाणु प्रसार में मदद करने के लिए)?",
+   331→      "(a) Riccia",
+   332→      "(b) Marchantia",
+   333→      "(c) Funaria",
+   334→      "(d) Sphagnum",
+   335→      2.0,
+   336→      "Marchantia में, कैप्सूल (sporophyte का हिस्सा) में elaters और बीजाणु (spores) होते हैं। Elaters आर्द्रग्राही होते हैं और बीजाणु प्रसार में सहायता करते हैं।",
+   337→      "CBSE AIPMT",
+   338→      1996.0,
+   339→      null
+   340→    ]
+   341→  },
+   342→  {
+   343→    "sheet": "Class11",
+   344→    "row": 1485,
+   345→    "data": [
+   346→      "Biology",
+   347→      3.0,
+   348→      "वनस्पति जगत",
+   349→      "Hindi",
+   350→      "मॉस (Funaria) का पादप शरीर (plant body) होता है:",
+   351→      "(a) पूरी तरह से sporophyte",
+   352→      "(b) पूरी तरह से gametophyte",
+   353→      "(c) मुख्य रूप से sporophyte के साथ gametophyte",
+   354→      "(d) मुख्य रूप से gametophyte के साथ sporophyte",
+   355→      4.0,
+   356→      "Funaria का पादप शरीर gametophytic चरण का प्रतिनिधित्व करता है। Sporophyte, gametophyte पर निर्भर होता है।",
+   357→      "CBSE AIPMT",
+   358→      "1995, 2006",
+   359→      null
+   360→    ]
+   361→  },
+   362→  {
+   363→    "sheet": "Class11",
+   364→    "row": 1486,
+   365→    "data": [
+   366→      "Biology",
+   367→      3.0,
+   368→      "वनस्पति जगत",
+   369→      "Hindi",
+   370→      "Bryophytes की अनूठी (unique) विशेषताएं यह हैं कि वे:",
+   371→      "(a) बीजाणु (spores) पैदा करते हैं",
+   372→      "(b) sporophyte, gametophyte से जुड़ा होता है",
+   373→      "(c) जड़ों (roots) की कमी होती है",
+   374→      "(d) संवहनी ऊतकों (vascular tissues) की कमी होती है",
+   375→      2.0,
+   376→      "Bryophytes का मुख्य शरीर gametophytic है जो स्वतंत्र होता है। Sporophyte आंशिक या पूरी तरह से gametophyte पर निर्भर होता है।",
+   377→      "CBSE AIPMT",
+   378→      1994.0,
+   379→      null
+   380→    ]
+   381→  },
+   382→  {
+   383→    "sheet": "Class11",
+   384→    "row": 1487,
+   385→    "data": [
+   386→      "Biology",
+   387→      3.0,
+   388→      "वनस्पति जगत",
+   389→      "Hindi",
+   390→      "वह पादप समूह जो बीजाणु (spores) और भ्रूण (embryo) पैदा करता है लेकिन संवहनी ऊतकों (vascular tissues) और बीजों (seeds) की कमी होती है:",
+   391→      "(a) Pteridophyta",
+   392→      "(b) Rhodophyta",
+   393→      "(c) Bryophyta",
+   394→      "(d) Phaeophyta",
+   395→      3.0,
+   396→      "Bryophytes संवहनी ऊतक (xylem और phloem) रहित होते हैं और इनमें पीढ़ियों का एकांतरण (alternation of generation) होता है।",
+   397→      "CBSE AIPMT",
+   398→      1992.0,
+   399→      null
+   400→    ]
+   401→  },
+   402→  {
+   403→    "sheet": "Class11",
+   404→    "row": 1488,
+   405→    "data": [
+   406→      "Biology",
+   407→      3.0,
+   408→      "वनस्पति जगत",
+   409→      "Hindi",
+   410→      "सबसे बड़ा gametophyte किसमें होता है?",
+   411→      "(a) Cycas",
+   412→      "(b) Angiosperm",
+   413→      "(c) Selaginella",
+   414→      "(d) Moss",
+   415→      4.0,
+   416→      "दिए गए विकल्पों में से, मॉस (Moss) में सबसे बड़ा gametophyte होता है। विकास क्रम में gametophyte छोटा होता जाता है।",
+   417→      "CBSE AIPMT",
+   418→      1991.0,
+   419→      null
+   420→    ]
+   421→  },
+   422→  {
+   423→    "sheet": "Class11",
+   424→    "row": 1489,
+   425→    "data": [
+   426→      "Biology",
+   427→      3.0,
+   428→      "वनस्पति जगत",
+   429→      "Hindi",
+   430→      "Bryophytes उभयचर (amphibians) हैं क्योंकि:",
+   431→      "(a) उन्हें यौन प्रजनन के लिए पानी की एक परत की आवश्यकता होती है",
+   432→      "(b) वे नम स्थानों पर पाए जाते हैं",
+   433→      "(c) वे ज्यादातर जलीय होते हैं",
+   434→      "(d) उपरोक्त सभी",
+   435→      1.0,
+   436→      "चूंकि संवहनी ऊतक अनुपस्थित होते हैं, नर युग्मकों को तैरने और निषेचन (fertilisation) के लिए पानी की एक परत की आवश्यकता होती है।",
+   437→      "CBSE AIPMT",
+   438→      "1991, 96",
+   439→      null
+   440→    ]
+   441→  },
+   442→  {
+   443→    "sheet": "Class11",
+   444→    "row": 1490,
+   445→    "data": [
+   446→      "Biology",
+   447→      3.0,
+   448→      "वनस्पति जगत",
+   449→      "Hindi",
+   450→      "Funaria के कैप्सूल में apophysis है:",
+   451→      "(a) निचला भाग (lower part)",
+   452→      "(b) ऊपरी भाग (upper part)",
+   453→      "(c) मध्य भाग (middle part)",
+   454→      "(d) उपजाऊ भाग (fertile part)",
+   455→      1.0,
+   456→      "Funaria का कैप्सूल operculum, theca और apophysis (निचला बाँझ भाग) में विभेदित होता है।",
+   457→      "CBSE AIPMT",
+   458→      1990.0,
+   459→      null
+   460→    ]
+   461→  },
+   462→  {
+   463→    "sheet": "Class11",
+   464→    "row": 1491,
+   465→    "data": [
+   466→      "Biology",
+   467→      3.0,
+   468→      "वनस्पति जगत",
+   469→      "Hindi",
+   470→      "मॉस peristome किसमें भाग लेता है?",
+   471→      "(a) बीजाणु प्रसार (spore dispersal)",
+   472→      "(b) प्रकाश संश्लेषण (photosynthesis)",
+   473→      "(c) सुरक्षा (protection)",
+   474→      "(d) अवशोषण (absorption)",
+   475→      1.0,
+   476→      "Peristome बीजाणुओं (spores) के प्रसार में कार्य करता है।",
+   477→      "CBSE AIPMT",
+   478→      1990.0,
+   479→      null
+   480→    ]
+   481→  },
+   482→  {
+   483→    "sheet": "Class11",
+   484→    "row": 1492,
+   485→    "data": [
+   486→      "Biology",
+   487→      3.0,
+   488→      "वनस्पति जगत",
+   489→      "Hindi",
+   490→      "Protonema किसके जीवन चक्र में होता है?",
+   491→      "(a) Riccia",
+   492→      "(b) Funaria",
+   493→      "(c) Chlamydomonas",
+   494→      "(d) Spirogyra",
+   495→      2.0,
+   496→      "Protonema मॉस (Funaria) की किशोर अवस्था (juvenile stage) का प्रतिनिधित्व करता है जो बीजाणुओं के अंकुरण से बनता है।",
+   497→      "CBSE AIPMT",
+   498→      "1990, 93",
+   499→      null
+   500→    ]
+   501→  },
+   502→  {
+   503→    "sheet": "Class11",
+   504→    "row": 1493,
+   505→    "data": [
+   506→      "Biology",
+   507→      3.0,
+   508→      "वनस्पति जगत",
+   509→      "Hindi",
+   510→      "Funaria और Pteris दोनों के शुक्राणु Pteris के archegonia के पास एक साथ छोड़े गए। केवल Pteris के शुक्राणु archegonia में प्रवेश करते हैं क्योंकि:",
+   511→      "(a) Pteris archegonia, Funaria शुक्राणुओं को पीछे हटाते हैं",
+   512→      "(b) Funaria शुक्राणु, Pteris शुक्राणुओं द्वारा मारे जाते हैं",
+   513→      "(c) Funaria शुक्राणु कम गतिशील होते हैं",
+   514→      "(d) Pteris archegonia अपने शुक्राणुओं को आकर्षित करने के लिए रसायन छोड़ते हैं",
+   515→      4.0,
+   516→      "निषेचन के समय, शुक्राणु archegonia द्वारा छोड़े गए रसायनों द्वारा आकर्षित होते हैं।",
+   517→      "CBSE AIPMT",
+   518→      1989.0,
+   519→      null
+   520→    ]
+   521→  },
+   522→  {
+   523→    "sheet": "Class11",
+   524→    "row": 1494,
+   525→    "data": [
+   526→      "Biology",
+   527→      3.0,
+   528→      "वनस्पति जगत",
+   529→      "Hindi",
+   530→      "Bryophytes और pteridophytes में, नर युग्मकों (male gametes) के परिवहन के लिए क्या आवश्यक है?",
+   531→      "(a) कीड़े (insects)",
+   532→      "(b) पक्षी (birds)",
+   533→      "(c) पानी (water)",
+   534→      "(d) हवा (wind)",
+   535→      3.0,
+   536→      "Bryophytes और pteridophytes जैसे आदिम पौधों में, नर युग्मकों के मादा प्रजनन अंग तक स्थानांतरण के लिए पानी माध्यम है।",
+   537→      "NEET",
+   538→      " 2016,  ",
+   539→      null
+   540→    ]
+   541→  },
+   542→  {
+   543→    "sheet": "Class11",
+   544→    "row": 1496,
+   545→    "data": [
+   546→      "Biology",
+   547→      3.0,
+   548→      "Plant Kingdom",
+   549→      "English",
+   550→      "Which one of the following is a correct statement?",
+   551→      "(a) Pteridophyte gametophyte has a protonemal and leafy stage",
+   552→      "(b) in gymnosperms female gametophyte is free-living",
+   553→      "(c) Antheridiophores and archegoniophores are present in pteridophytes",
+   554→      "(d) Origin of seed habit can be traced in pteridophytes",
+   555→      4.0,
+   556→      "Origin of seed habitat can be traced in pteridophytes. Some pteridophytes like Selaginella and Salvinia are heterosporous.",
+   557→      "NEET",
+   558→      2013.0,
+   559→      null
+   560→    ]
+   561→  },
+   562→  {
+   563→    "sheet": "Class11",
+   564→    "row": 1497,
+   565→    "data": [
+   566→      "Biology",
+   567→      3.0,
+   568→      "Plant Kingdom",
+   569→      "English",
+   570→      "Which one of the following is a vascular cryptogam?",
+   571→      "(a) Equisetum",
+   572→      "(b) Ginkgo",
+   573→      "(c) Marchantia",
+   574→      "(d) Cedrus",
+   575→      1.0,
+   576→      "Pteridophytes are also called vascular cryptogams as these have a well developed vascular system but are non-flowering plants. e.g. Equisetum.",
+   577→      "CBSE AIPMT",
+   578→      2009.0,
+   579→      null
+   580→    ]
+   581→  },
+   582→  {
+   583→    "sheet": "Class11",
+   584→    "row": 1498,
+   585→    "data": [
+   586→      "Biology",
+   587→      3.0,
+   588→      "Plant Kingdom",
+   589→      "English",
+   590→      "In which one of the following, male and female gametophytes don't have free living independent existence?",
+   591→      "(a) Pteris",
+   592→      "(b) Funaria",
+   593→      "(c) Polytrichum",
+   594→      "(d) Cedrus",
+   595→      4.0,
+   596→      "Cedrus is a gymnosperm in which main plant body is a sporophyte on which reduced type of gametophytes are formed. In Pteris, gametophytes have free living independent existence.",
+   597→      "CBSE AIPMT",
+   598→      2008.0,
+   599→      null
+   600→    ]
+   601→  },
+   602→  {
+   603→    "sheet": "Class11",
+   604→    "row": 1499,
+   605→    "data": [
+   606→      "Biology",
+   607→      3.0,
+   608→      "Plant Kingdom",
+   609→      "English",
+   610→      "Which one of the following is heterosporous?",
+   611→      "(a) Dryopteris",
+   612→      "(b) Salvinia",
+   613→      "(c) Adiantum",
+   614→      "(d) Equisetum",
+   615→      2.0,
+   616→      "Salvinia is heterosporous. Heterospory is the production of spores of two different sizes and two different developmental patterns.",
+   617→      "CBSE AIPMT",
+   618→      2008.0,
+   619→      null
+   620→    ]
+   621→  },
+   622→  {
+   623→    "sheet": "Class11",
+   624→    "row": 1500,
+   625→    "data": [
+   626→      "Biology",
+   627→      3.0,
+   628→      "Plant Kingdom",
+   629→      "English",
+   630→      "Which of the following propagates through leaf-tip?",
+   631→      "(a) Walking fern",
+   632→      "(b) Sproux-leaf plant",
+   633→      "(c) Marchantia",
+   634→      "(d) Moss",
+   635→      1.0,
+   636→      "Adiantum is also called walking fern. In Adiantum the tips of the leaves, on coming in contact with the soil, give out adventitious roots.",
+   637→      "CBSE AIPMT",
+   638→      2004.0,
+   639→      null
+   640→    ]
+   641→  },
+   642→  {
+   643→    "sheet": "Class11",
+   644→    "row": 1501,
+   645→    "data": [
+   646→      "Biology",
+   647→      3.0,
+   648→      "Plant Kingdom",
+   649→      "English",
+   650→      "Which one the following pairs of plants are not seed producers?",
+   651→      "(a) Ficus and Chlamydomonas",
+   652→      "(b) Punica and Pinus",
+   653→      "(c) Fern and Funaria",
+   654→      "(d) Funaria and Ficus",
+   655→      3.0,
+   656→      "Fern is a pteridophyte and Funaria is a bryophyte, both these produce spores but not seeds.",
+   657→      "CBSE AIPMT",
+   658→      2003.0,
+   659→      null
+   660→    ]
+   661→  },
+   662→  {
+   663→    "sheet": "Class11",
+   664→    "row": 1502,
+   665→    "data": [
+   666→      "Biology",
+   667→      3.0,
+   668→      "Plant Kingdom",
+   669→      "English",
+   670→      "In ferns meiosis occurs when",
+   671→      "(a) spore germinates",
+   672→      "(b) gametes are formed",
+   673→      "(c) spores are formed",
+   674→      "(d) antheridia and archegonia are formed",
+   675→      3.0,
+   676→      "In the ferns sporangium is a diploid structure. It bears diploid spore mother cells which undergo meiosis and produce haploid spores.",
+   677→      "CBSE AIPMT",
+   678→      2000.0,
+   679→      null
+   680→    ]
+   681→  },
+   682→  {
+   683→    "sheet": "Class11",
+   684→    "row": 1503,
+   685→    "data": [
+   686→      "Biology",
+   687→      3.0,
+   688→      "Plant Kingdom",
+   689→      "English",
+   690→      "The 'walking fern' is so named because",
+   691→      "(a) it is dispersed through the agency of walking animals",
+   692→      "(b) it propagates vegetatively by its leaf tips",
+   693→      "(c) it knows how to walk by itself",
+   694→      "(d) its spores are able to walk",
+   695→      2.0,
+   696→      "Adiantum is called walking fern. The tips of its leaves, on coming in contact with the soil, gives out adventitious roots.",
+   697→      "CBSE AIPMT",
+   698→      1998.0,
+   699→      null
+   700→    ]
+   701→  },
+   702→  {
+   703→    "sheet": "Class11",
+   704→    "row": 1504,
+   705→    "data": [
+   706→      "Biology",
+   707→      3.0,
+   708→      "Plant Kingdom",
+   709→      "English",
+   710→      "A well developed archegonium with neck consisting of 4-6 rows of neck canal cells, characterises",
+   711→      "(a) gymnosperms only",
+   712→      "(b) bryophytes and pteridophytes",
+   713→      "(c) pteridophytes and gymnosperms",
+   714→      "(d) gymnosperms and flowering plants",
+   715→      2.0,
+   716→      "Archegonium is the flask-shaped female reproductive body of bryophytes and pteridophytes.",
+   717→      "CBSE AIPMT",
+   718→      1995.0,
+   719→      null
+   720→    ]
+   721→  },
+   722→  {
+   723→    "sheet": "Class11",
+   724→    "row": 1505,
+   725→    "data": [
+   726→      "Biology",
+   727→      3.0,
+   728→      "Plant Kingdom",
+   729→      "English",
+   730→      "Which one of the following is not common between Funaria and Selaginella?",
+   731→      "(a) Archegonium",
+   732→      "(b) Embryo",
+   733→      "(c) Flagellate sperms",
+   734→      "(d) Roots",
+   735→      4.0,
+   736→      "Roots are not the common structure in Funaria and Selaginella. In Funaria, rhizoids are present.",
+   737→      "CBSE AIPMT",
+   738→      1992.0,
+   739→      null
+   740→    ]
+   741→  },
+   742→  {
+   743→    "sheet": "Class11",
+   744→    "row": 1506,
+   745→    "data": [
+   746→      "Biology",
+   747→      3.0,
+   748→      "Plant Kingdom",
+   749→      "English",
+   750→      "Pteridophytes differ from mosses/bryophytes in possessing",
+   751→      "(a) independent gametophyte",
+   752→      "(b) well developed vascular system",
+   753→      "(c) archegonia",
+   754→      "(d) flagellate spermatozoids",
+   755→      2.0,
+   756→      "Pteridophytes are most primitive vascular flowerless, spore producing cryptogamic land plants. Bryophytes are non-vascular.",
+   757→      "CBSE AIPMT",
+   758→      1993.0,
+   759→      null
+   760→    ]
+   761→  },
+   762→  {
+   763→    "sheet": "Class11",
+   764→    "row": 1507,
+   765→    "data": [
+   766→      "Biology",
+   767→      3.0,
+   768→      "Plant Kingdom",
+   769→      "English",
+   770→      "Evolutionary important character of Selaginella is",
+   771→      "(a) heterosporous nature",
+   772→      "(b) rhizophore",
+   773→      "(c) strobili",
+   774→      "(d) ligule",
+   775→      1.0,
+   776→      "Heterospory is a character of evolutionary significance in pteridophyte (Selaginella) because seed habit is believed to have originated from heterosporous condition.",
+   777→      "CBSE AIPMT",
+   778→      1989.0,
+   779→      null
+   780→    ]
+   781→  },
+   782→  {
+   783→    "sheet": "Class11",
+   784→    "row": 1508,
+   785→    "data": [
+   786→      "Biology",
+   787→      3.0,
+   788→      "Plant Kingdom",
+   789→      "English",
+   790→      "Which of the following statements is incorrect about gymnosperms?",
+   791→      "(a) They are heterosporous",
+   792→      "(b) Male and female gametophytes are free living",
+   793→      "(c) Most of them have narrow leaves with thick cuticle",
+   794→      "(d) Their seeds are not covered",
+   795→      2.0,
+   796→      "In gymnosperms, the male and the female gametophyte do not have an independent free-living existence.",
+   797→      "NEET (Oct.)",
+   798→      2020.0,
+   799→      null
+   800→    ]
+   801→  },
+   802→  {
+   803→    "sheet": "Class11",
+   804→    "row": 1509,
+   805→    "data": [
+   806→      "Biology",
+   807→      3.0,
+   808→      "Plant Kingdom",
+   809→      "English",
+   810→      "Which one of the following statements is correct?",
+   811→      "(a) Horsetails are gymnosperms",
+   812→      "(b) Selaginella is heterosporous, while Salvinia is homosporous",
+   813→      "(c) Ovules are not enclosed by ovary wall in gymnosperms",
+   814→      "(d) Stems are usually unbranched in both Cycas and Cedrus.",
+   815→      3.0,
+   816→      "In gymnosperms, ovules are not enclosed by ovary wall. Seeds do not occur inside a fruit. They are naked.",
+   817→      "NEET",
+   818→      2018.0,
+   819→      null
+   820→    ]
+   821→  },
+   822→  {
+   823→    "sheet": "Class11",
+   824→    "row": 1510,
+   825→    "data": [
+   826→      "Biology",
+   827→      3.0,
+   828→      "Plant Kingdom",
+   829→      "English",
+   830→      "Select the correct statement.",
+   831→      "(a) Salvinia, Ginkgo and Pinus all are gymnosperms",
+   832→      "(b) Sequoia is one of the tallest trees",
+   833→      "(c) The leaves of gymnosperms are not well adapted to extremes of climate",
+   834→      "(d) Gymnosperms are both homosporous and heterosporous",
+   835→      2.0,
+   836→      "Sequoia is one of the tallest tree species, known as red wood tree. It is a gymnospermic plant.",
+   837→      "NEET, Phase I",
+   838→      " 2016,  ",
+   839→      null
+   840→    ]
+   841→  },
+   842→  {
+   843→    "sheet": "Class11",
+   844→    "row": 1511,
+   845→    "data": [
+   846→      "Biology",
+   847→      3.0,
+   848→      "Plant Kingdom",
+   849→      "English",
+   850→      "Conifers are adapted to tolerate extreme environmental conditions because of",
+   851→      "(a) broad hardy leaves",
+   852→      "(b) superficial stomata",
+   853→      "(c) thick cuticle",
+   854→      "(d) the presence of vessels",
+   855→      3.0,
+   856→      "Conifers are gymnosperms. Their leaves are like needle with thick walled single layered epidermal cells covered with thick cuticle.",
+   857→      "NEET, Phase II",
+   858→      " 2016,  ",
+   859→      null
+   860→    ]
+   861→  },
+   862→  {
+   863→    "sheet": "Class11",
+   864→    "row": 1512,
+   865→    "data": [
+   866→      "Biology",
+   867→      3.0,
+   868→      "Plant Kingdom",
+   869→      "English",
+   870→      "Read the following statements and answer the question which follows them I. In liverworts, mosses and ferns gametophytes are free living. II. Gymnosperms and some ferns are heterosporous. III. Sexual reproduction in Fucus, Volvox and Albugo is oogamous. IV. The sporophyte in liverworts is more elaborate than that in mosses. How many of the above statements are correct?",
+   871→      "(a) One",
+   872→      "(b) Two",
+   873→      "(c) Three",
+   874→      "(d) Four",
+   875→      3.0,
+   876→      "Statement I, II and III are correct. Statement IV is incorrect as the sporophyte in mosses is more elaborate than in liverworts.",
+   877→      "NEET",
+   878→      2013.0,
+   879→      null
+   880→    ]
+   881→  },
+   882→  {
+   883→    "sheet": "Class11",
+   884→    "row": 1513,
+   885→    "data": [
+   886→      "Biology",
+   887→      3.0,
+   888→      "Plant Kingdom",
+   889→      "English",
+   890→      "Cycas and Adiantum resemble each other in having",
+   891→      "(a) seeds",
+   892→      "(b) motile sperms",
+   893→      "(c) cambium",
+   894→      "(d) vessels",
+   895→      2.0,
+   896→      "Multiciliated motile sperms are found in both Cycas (gymnosperm) and Adiantum or walking fern (pteridophyte).",
+   897→      "NEET",
+   898→      2013.0,
+   899→      null
+   900→    ]
+   901→  },
+   902→  {
+   903→    "sheet": "Class11",
+   904→    "row": 1514,
+   905→    "data": [
+   906→      "Biology",
+   907→      3.0,
+   908→      "Plant Kingdom",
+   909→      "English",
+   910→      "Gymnosperms are also called soft wood spermatophytes because they lack",
+   911→      "(a) cambium",
+   912→      "(b) phloem fibres",
+   913→      "(c) thick-walled tracheids",
+   914→      "(d) xylem fibres",
+   915→      4.0,
+   916→      "Gymnosperms lack xylem fibres. Large amount of parenchymatous cells are present with secondary xylem tracheids.",
+   917→      "CBSE AIPMT",
+   918→      2012.0,
+   919→      null
+   920→    ]
+   921→  },
+   922→  {
+   923→    "sheet": "Class11",
+   924→    "row": 1515,
+   925→    "data": [
+   926→      "Biology",
+   927→      3.0,
+   928→      "Plant Kingdom",
+   929→      "English",
+   930→      "The gametophyte is not an independent, free living generation in",
+   931→      "(a) Adiantum",
+   932→      "(b) Marchantia",
+   933→      "(c) Pinus",
+   934→      "(d) Polytrichum",
+   935→      3.0,
+   936→      "In gymnosperms, (e.g. Pinus, Cycas, etc.) the male and female gametophytes do not have an independent free-living existence.",
+   937→      "CBSE AIPMT",
+   938→      2011.0,
+   939→      null
+   940→    ]
+   941→  },
+   942→  {
+   943→    "sheet": "Class11",
+   944→    "row": 1517,
+   945→    "data": [
+   946→      "Biology",
+   947→      3.0,
+   948→      "वनस्पति जगत",
+   949→      "Hindi",
+   950→      "निम्नलिखित में से कौन सा कथन सही है?",
+   951→      "(a) Pteridophyte gametophyte में protonemal और पत्तेदार चरण (leafy stage) होते हैं",
+   952→      "(b) Gymnosperms में मादा gametophyte मुक्त-जीवी (free-living) होता है",
+   953→      "(c) Pteridophytes में Antheridiophores और archegoniophores मौजूद होते हैं",
+   954→      "(d) बीज की आदत (seed habit) की उत्पत्ति pteridophytes में खोजी जा सकती है",
+   955→      4.0,
+   956→      "बीज की आदत (seed habit) की उत्पत्ति का पता pteridophytes में लगाया जा सकता है। Selaginella और Salvinia जैसे कुछ pteridophytes, heterosporous हैं।",
+   957→      "NEET",
+   958→      2013.0,
+   959→      null
+   960→    ]
+   961→  },
+   962→  {
+   963→    "sheet": "Class11",
+   964→    "row": 1518,
+   965→    "data": [
+   966→      "Biology",
+   967→      3.0,
+   968→      "वनस्पति जगत",
+   969→      "Hindi",
+   970→      "निम्नलिखित में से कौन सा एक संवहनी क्रिप्टोगैम (vascular cryptogam) है?",
+   971→      "(a) Equisetum",
+   972→      "(b) Ginkgo",
+   973→      "(c) Marchantia",
+   974→      "(d) Cedrus",
+   975→      1.0,
+   976→      "Pteridophytes को संवहनी क्रिप्टोगैम (vascular cryptogams) भी कहा जाता है क्योंकि इनमें एक अच्छी तरह से विकसित संवहनी तंत्र होता है लेकिन ये फूल रहित पौधे हैं। उदा. Equisetum।",
+   977→      "CBSE AIPMT",
+   978→      2009.0,
+   979→      null
+   980→    ]
+   981→  },
+   982→  {
+   983→    "sheet": "Class11",
+   984→    "row": 1519,
+   985→    "data": [
+   986→      "Biology",
+   987→      3.0,
+   988→      "वनस्पति जगत",
+   989→      "Hindi",
+   990→      "निम्नलिखित में से किसमें, नर और मादा gametophytes का मुक्त जीवी (free living) स्वतंत्र अस्तित्व नहीं होता है?",
+   991→      "(a) Pteris",
+   992→      "(b) Funaria",
+   993→      "(c) Polytrichum",
+   994→      "(d) Cedrus",
+   995→      4.0,
+   996→      "Cedrus एक gymnosperm है जिसमें मुख्य पादप शरीर sporophyte है जिस पर कम विकसित (reduced) प्रकार के gametophytes बनते हैं। Pteris में, gametophytes का स्वतंत्र अस्तित्व होता है।",
+   997→      "CBSE AIPMT",
+   998→      2008.0,
+   999→      null
+  1000→    ]
+  1001→  }
+  1002→]

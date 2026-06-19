@@ -1,0 +1,889 @@
+     1→R2853 | C | Which of the following is a unique characteristic of living organisms?
+     2→  A: Growth
+     3→  B: Reproduction
+     4→  C: Consciousness
+     5→  D: Cellular organization
+     6→
+     7→R2854 | A | The scientific name of an organism is composed of two parts. What are these?
+     8→  A: Genus and Species
+     9→  B: Family and Genus
+    10→  C: Order and Family
+    11→  D: Kingdom and Phylum
+    12→
+    13→R2855 | B | Which of the following is a taxonomic aid that involves the collection and preservation of plant specimens?
+    14→  A: Museum
+    15→  B: Herbarium
+    16→  C: Botanical garden
+    17→  D: Zoological park
+    18→
+    19→R2856 | B | The basic unit of classification is:
+    20→  A: Genus
+    21→  B: Species
+    22→  C: Family
+    23→  D: Order
+    24→
+    25→R2857 | B | The contrasting characteristics generally in a pair used for identification of animals in a taxonomic key are referred to as
+    26→  A: lead
+    27→  B: couplet
+    28→  C: doublet
+    29→  D: alternate
+    30→
+    31→R2858 | D | Match the items given in Column I with those in Column II and select the correct option given below :
+    32→  A: 1-ii, 2-iv, 3-i, 4-iii
+    33→  B: 1-iii, 2-ii, 3-i, 4-iv
+    34→  C: 1-i, 2-iv, 3-iii, 4-ii
+    35→  D: 1-iii, 2-iv, 3-i, 4-ii
+    36→
+    37→R2859 | D | The label of a herbarium sheet does not carry information on
+    38→  A: date of collection
+    39→  B: name of collector
+    40→  C: local names
+    41→  D: height of the plant
+    42→
+    43→R2860 | C | Study the four statements (I-IV) given below and select the two correct ones out of them : I. Definition of biological species was given by Ernst Mayr. II. Photoperiod does not affect reproduction in 
+    44→  A: II and III
+    45→  B: III and IV
+    46→  C: I and IV
+    47→  D: I and II
+    48→
+    49→R2861 | A | Biological organisation starts with
+    50→  A: sub-microscopic molecular level
+    51→  B: cellular level
+    52→  C: organismic level
+    53→  D: atomic level
+    54→
+    55→R2862 | C | Which of the following statements are correct regarding biological species?
+    56→  A: I. Definition of biological species was given by Ernst Mayr. II. Photoperiod does not affect reproduction in plants.
+    57→  B: III. Binomial nomenclature system was given by RH Whittaker. IV. In unicellular organisms, reproduction is synonymous with growth.
+    58→  C: I. Definition of biological species was given by Ernst Mayr. IV. In unicellular organisms, reproduction is synonymous with growth.
+    59→  D: I. Definition of biological species was given by Ernst Mayr. II. Photoperiod does not affect reproduction in plants.
+    60→
+    61→R2863 | A | Biological organisation starts with?
+    62→  A: sub-microscopic molecular level
+    63→  B: cellular level
+    64→  C: organismic level
+    65→  D: atomic level
+    66→
+    67→R2864 | B | The living organisms can be un-exceptionally distinguished from the non-living things on the basis of their ability for?
+    68→  A: responsiveness to touch
+    69→  B: interaction with the environment and progressive evolution
+    70→  C: reproduction
+    71→  D: growth and movement
+    72→
+    73→R2865 | A | Which one of the following is an example of negative feedback loop in humans?
+    74→  A: Constriction of skin blood vessels and contraction of skeletal muscles when it is too cold
+    75→  B: Secretion of tears after falling of sand particles into the eye
+    76→  C: Salivation of mouth at the sight of delicious food
+    77→  D: Secretion of sweat glands and constriction of skin blood vessels when it is too hot
+    78→
+    79→R2866 | C | Carbohydrates, the most abundant biomolecules on earth, are produced by?
+    80→  A: all bacteria, fungi and algae
+    81→  B: fungi, algae and green plant cells
+    82→  C: some bacteria, algae and green plant cells
+    83→  D: viruses, fungi and bacteria
+    84→
+    85→R2867 | D | More than 70% of world’s fresh water is contained in?
+    86→  A: Antarctica
+    87→  B: Greenland
+    88→  C: glaciers and mountains
+    89→  D: polar ice
+    90→
+    91→R2868 | B | There is no life on moon due to the absence of?
+    92→  A: O2
+    93→  B: water
+    94→  C: light
+    95→  D: temperature
+    96→
+    97→R2869 | B | The most important feature of all living systems is to?
+    98→  A: utilise oxygen to generate energy
+    99→  B: replicate the genetic information
+   100→  C: produce gametes
+   101→  D: utilise solar energy for metabolic activities
+   102→
+   103→R2870 | B | Homeostasis is?
+   104→  A: tendency to change with change in environment
+   105→  B: tendency to resist change
+   106→  C: disturbance in regulatory control
+   107→  D: plants and animals extracts used in homeopathy
+   108→
+   109→R2871 | B | Employment of hereditary principles in the improvement of human race is?
+   110→  A: Euthenics
+   111→  B: Eugenics
+   112→  C: Euphenics
+   113→  D: Ethnology
+   114→
+   115→R2872 | A | Select the correctly written scientific name of Mango which was first described by Carolus Linnaeus.
+   116→  A: Mangifera indica Linn
+   117→  B: Mangifera indica
+   118→  C: Mangifera Indica
+   119→  D: Mangifera indica Car. Linn.
+   120→
+   121→R2873 | D | Which of the following is against the rules of ICBN?
+   122→  A: Handwritten scientific names should be underlined
+   123→  B: Every species should have a generic name and a specific epithet
+   124→  C: Scientific names are in Latin and should be italicised
+   125→  D: Generic and specific names should be written starting with small letters
+   126→
+   127→R2874 | D | Nomenclature is governed by certain universal rules. Which one of the following is contrary to the rules of nomenclature?
+   128→  A: The first word in a biological name represents the genus name and the second is a specific epithet
+   129→  B: The names are written in Latin and are Italicised
+   130→  C: When written by hand, the names are to be underlined
+   131→  D: Biological names can be written in any language
+   132→
+   133→R2875 | A | The major portion of the dry weight of plants comprises of
+   134→  A: carbon, hydrogen and oxygen
+   135→  B: nitrogen, phosphorus and potassium
+   136→  C: calcium, magnesium and sulphur
+   137→  D: carbon, nitrogen and hydrogen
+   138→
+   139→R2876 | C | The four elements making 99% of living system are
+   140→  A: CHOS
+   141→  B: CHOP
+   142→  C: CHON
+   143→  D: CNOP
+   144→
+   145→R2877 | B | Species restricted to a given area are called
+   146→  A: sibling
+   147→  B: endemic
+   148→  C: sympatric
+   149→  D: allopatric
+   150→
+   151→R2878 | B | Which of the following organisms are known as 'age-setters' of the ocean?
+   152→  A: Dinoflagellates
+   153→  B: Diatoms
+   154→  C: Slime moulds
+   155→  D: Protozoans
+   156→
+   157→R2879 | C | Which one of the following is a fungal disease?
+   158→  A: Malaria
+   159→  B: Common cold
+   160→  C: Ringworm
+   161→  D: Typhoid
+   162→
+   163→R2880 | C | Viroids are:
+   164→  A: Naked viruses
+   165→  B: Incompletely synthesized RNA
+   166→  C: Free RNA with low molecular weight
+   167→  D: DNA viruses
+   168→
+   169→R2881 | B | Which of the following are the simplest of all living organisms?
+   170→  A: Viruses
+   171→  B: Bacteria
+   172→  C: Algae
+   173→  D: Fungi
+   174→
+   175→R2882 | B | Which of the following statements is correct?
+   176→  A: Fusion of two cells is called karyogamy
+   177→  B: Fusion of protoplasm between two motile or non-motile gametes is called plasmogamy
+   178→  C: Organisms that depend on living plants are called saprophytes
+   179→  D: Some of the organisms can fix atmospheric nitrogen in specialised cells called sheath cells
+   180→
+   181→R2883 | D | The size of Pleuropneumonia Like Organism (PPLO) is?
+   182→  A: 0.02μm
+   183→  B: 1-2μm
+   184→  C: 10–20μm
+   185→  D: 0.1μm
+   186→
+   187→R2884 | B | Which of the following is incorrect about cyanobacteria?
+   188→  A: They are photoautotrophs
+   189→  B: They lack heterocysts
+   190→  C: They often form blooms in polluted water bodies
+   191→  D: They have chlorophyll-a similar to green plants
+   192→
+   193→R2885 | C | Oxygen is not produced during photosynthesis by?
+   194→  A: Cycas
+   195→  B: Nostoc
+   196→  C: Green sulphur bacteria
+   197→  D: Chara
+   198→
+   199→R2886 | A | Which of the following are found in extreme saline conditions?
+   200→  A: Cyanobacteria
+   201→  B: Mycorrhizae
+   202→  C: Eubacteria
+   203→  D: Haeomophiles
+   204→
+   205→R2887 | B | Which of the following organisms are known as chief producers in the oceans?
+   206→  A: Cyanobacteria
+   207→  B: Diatoms
+   208→  C: Dinoflagellates
+   209→  D: Euglenoids
+   210→
+   211→R2888 | C | Which among the following are the smallest living cells, known without a definite cell wall, pathogenic to plants as well as animals and can survive without oxygen?
+   212→  A: Bacillus
+   213→  B: Pseudomonas
+   214→  C: Mycoplasma
+   215→  D: Nostoc
+   216→
+   217→R2889 | B | Which one of the following statements is wrong?
+   218→  A: Golden algae are also called desmids
+   219→  B: Eubacteria are also called false bacteria
+   220→  C: Phycomycetes are also called algal fungi
+   221→  D: Cyanobacteria are also called blue-green algae
+   222→
+   223→R2890 | B | Methanogens belong to
+   224→  A: eubacteria
+   225→  B: archaebacteria
+   226→  C: dinoflagellates
+   227→  D: slime moulds
+   228→
+   229→R2891 | A | Archaebacteria differ from eubacteria in
+   230→  A: cell membrane structure
+   231→  B: mode of nutrition
+   232→  C: cell shape
+   233→  D: mode of reproduction
+   234→
+   235→R2892 | B | Besides paddy fields, cyanobacteria are also found inside vegetative part of
+   236→  A: Pinus
+   237→  B: Cycas
+   238→  C: Equisetum
+   239→  D: Psilotum
+   240→
+   241→R2893 | D | Pigment-containing membranous extensions in some cyanobacteria are
+   242→  A: heterocysts
+   243→  B: basal bodies
+   244→  C: pneumatophores
+   245→  D: chromatophores
+   246→
+   247→R2894 | A | Which of the following are likely to be present in deep sea water?
+   248→  A: Archaebacteria
+   249→  B: Eubacteria
+   250→  C: Blue-green algae
+   251→  D: Saprophytic fungi
+   252→
+   253→R2895 | D | The cyanobacteria are also referred to as
+   254→  A: protists
+   255→  B: golden algae
+   256→  C: slime moulds
+   257→  D: blue-green algae
+   258→
+   259→R2896 | D | Nuclear membrane is absent in
+   260→  A: Penicillium
+   261→  B: Agaricus
+   262→  C: Volvox
+   263→  D: Nostoc
+   264→
+   265→R2897 | D | In eubacteria, a cellular component that resembles eukaryotic cells is
+   266→  A: nucleus
+   267→  B: ribosomes
+   268→  C: cell wall
+   269→  D: plasma membrane
+   270→
+   271→R2898 | A | Organisms called methanogens are most abundant in a
+   272→  A: cattle yard
+   273→  B: polluted stream
+   274→  C: hot spring
+   275→  D: sulphur rock
+   276→
+   277→R2899 | A | A prokaryotic autotrophic nitrogen fixing symbiont is found in
+   278→  A: Cycas
+   279→  B: Cicer
+   280→  C: Pisum
+   281→  D: Alnus
+   282→
+   283→R2900 | C | Maximum nutritional diversity is found in the group
+   284→  A: Fungi
+   285→  B: Animalia
+   286→  C: Monera
+   287→  D: Plantae
+   288→
+   289→R2901 | A | Some hyperthermophilic organisms that grow in highly acidic habitats belong to the two groups called
+   290→  A: eubacteria and archaea
+   291→  B: cyanobacteria and diatoms
+   292→  C: protists and mosses
+   293→  D: liverworts and yeasts
+   294→
+   295→R2902 | A | Thermococcus, Methanococcus and Methanobacterium exemplify
+   296→  A: archaebacteria that contain protein homologous to eukaryotic core histones
+   297→  B: archaebacteria that lack any histones resembling those found in eukaryotes but whose DNA is negatively supercoiled
+   298→  C: bacteria whose DNA is relaxed or positively supercoiled but which have a cytoskeleton as well as mitochondria
+   299→  D: bacteria that contain a cytoskeleton and ribosomes
+   300→
+   301→R2903 | B | The primitive prokaryotes responsible for the production of biogas from the dung of ruminant animals, include the
+   302→  A: thermoacidophiles
+   303→  B: methanogens
+   304→  C: eubacteria
+   305→  D: halophiles
+   306→
+   307→R2904 | A | Chromatophores take part in
+   308→  A: photosynthesis
+   309→  B: growth
+   310→  C: movement
+   311→  D: respiration
+   312→
+   313→R2905 | A | Thermophiles live in very hot places, with temperature ranging from 60°-80°C. Many thermophiles (some eubacteria and archaebacteria) are autotrophs and have metabolisms based on sulphur. Some thermoph
+   314→  A: archaebacteria that contain protein homologous to eukaryotic core histones
+   315→  B: archaebacteria that lack any histones resembling those found in eukaryotes but whose DNA is negatively supercoiled
+   316→  C: bacteria whose DNA is relaxed or positively supercoiled but which have a cytoskeleton as well as mitochondria
+   317→  D: bacteria that contain a cytoskeleton and ribosomes
+   318→
+   319→R2906 | A | Bacterial leaf blight of rice is caused by a species of
+   320→  A: Xanthomonas
+   321→  B: Pseudomonas
+   322→  C: Alternaria
+   323→  D: Erwinia
+   324→
+   325→R2907 | C | Which one of the following statements about Mycoplasma is wrong?
+   326→  A: They are also called PPLO
+   327→  B: They are pleomorphic
+   328→  C: They are sensitive to penicillin
+   329→  D: They cause disease in plants
+   330→
+   331→R2908 | C | Barophillic prokaryotes
+   332→  A: grow slowly in highly alkaline frozen lakes at high altitudes
+   333→  B: occur in water containing high concentrations of barium hydroxide
+   334→  C: grow and multiply in very deep marine sediments
+   335→  D: readily grow and divide in sea water enriched in any soluble salt of barium
+   336→
+   337→R2909 | D | A free-living nitrogen-fixing cyanobacterium which can also form symbiotic association with the water fern Azolla is
+   338→  A: Tolypothrix
+   339→  B: Chlorella
+   340→  C: Nostoc
+   341→  D: Anabaena
+   342→
+   343→R2910 | B | Chromosomes in a bacterial cell can be 1-3 in number and
+   344→  A: can be circular as well as linear within the same cell
+   345→  B: are always circular
+   346→  C: are always linear
+   347→  D: can be either circular or linear, but never both within the same cell
+   348→
+   349→R2911 | B | Organisms which obtain energy by the oxidation of reduced inorganic compounds are called
+   350→  A: homoautotrophs
+   351→  B: chemoautotrophs
+   352→  C: saprozoic
+   353→  D: coproheterotrophs
+   354→
+   355→R2912 | A | In bacteria, plasmid is
+   356→  A: extra-chromosomal material
+   357→  B: main DNA
+   358→  C: non-functional DNA
+   359→  D: repetitive gene
+   360→
+   361→R2913 | D | What is true for archaebacteria?
+   362→  A: All halophiles
+   363→  B: All photosynthetic
+   364→  C: All fossils
+   365→  D: Oldest living beings
+   366→
+   367→R2914 | A | What is true for cyanobacteria?
+   368→  A: Oxygenic with nitrogenase
+   369→  B: Oxygenic without nitrogenase
+   370→  C: Non-oxygenic with nitrogenase
+   371→  D: Non-oxygenic without nitrogenase
+   372→
+   373→R2915 | B | What is true for photolithotrophs?
+   374→  A: Obtain energy from radiations and hydrogen from organic compounds
+   375→  B: Obtain energy from radiations and hydrogen from inorganic compounds
+   376→  C: Obtain energy from organic compounds
+   377→  D: Obtain energy from inorganic compounds
+   378→
+   379→R2916 | D | Photosynthetic bacteria have pigments in
+   380→  A: leucoplasts
+   381→  B: chloroplasts
+   382→  C: chromoplasts
+   383→  D: chromatophores
+   384→
+   385→R2917 | A | A few organisms are known to grow and multiply at temperatures of 100-105°C. They belong to
+   386→  A: marine archaebacteria
+   387→  B: thermophilic sulphur bacteria
+   388→  C: hot-spring blue-green algae (cyanobacteria)
+   389→  D: thermophilic, subaerial fungi
+   390→
+   391→R2918 | C | The hereditary material present in the bacterium Escherichia coli is
+   392→  A: single-stranded DNA
+   393→  B: deoxyribose sugar
+   394→  C: double-stranded DNA
+   395→  D: single-stranded RNA
+   396→
+   397→R2919 | C | Bacterium divides every 35 minutes. If a culture containing 10^5 cells per mL is grown for 175 minutes, what will be the cell concentration per mL after 175 minutes?
+   398→  A: 5 × 10^5 cells
+   399→  B: 35 × 10^5 cells
+   400→  C: 32 × 10^5 cells
+   401→  D: 175 × 10^5 cells
+   402→
+   403→R2920 | B | The site of respiration in bacteria is
+   404→  A: episome
+   405→  B: mesosome
+   406→  C: ribosome
+   407→  D: microsome
+   408→
+   409→R2921 | B | In bacterial chromosomes, the nucleic acid polymers are
+   410→  A: linear DNA molecule
+   411→  B: circular DNA molecule
+   412→  C: of two types — DNA and RNA
+   413→  D: linear RNA molecule
+   414→
+   415→R2922 | B | Sex factor in bacteria is
+   416→  A: chromosomal replicon
+   417→  B: F-replicon
+   418→  C: RNA
+   419→  D: sex-pilus
+   420→
+   421→R2923 | D | The plasmid
+   422→  A: helps in respiration
+   423→  B: genes found inside nucleus
+   424→  C: is a component of cell wall of bacteria
+   425→  D: is the genetic part in addition to DNA in microorganisms
+   426→
+   427→R2924 | D | Temperature tolerance of thermal blue-green algae is due to
+   428→  A: cell wall structure
+   429→  B: cell organisation
+   430→  C: mitochondrial structure
+   431→  D: homopolar bonds in their proteins
+   432→
+   433→R2925 | A | Escherichia coli is used extensively in biological research as it is
+   434→  A: easily cultured
+   435→  B: easily available
+   436→  C: easy to handle
+   437→  D: easily multiplied in host
+   438→
+   439→R2926 | C | Genophore bacterial genome or nucleoid is made of
+   440→  A: histones and non-histones
+   441→  B: RNA and histones
+   442→  C: a single double stranded DNA
+   443→  D: a single stranded DNA
+   444→
+   445→R2927 | A | Bacteria lack alternation of generation because there is
+   446→  A: neither syngamy nor reduction division
+   447→  B: distinct chromosomes are absent
+   448→  C: no conjugation
+   449→  D: no exchange of genetic material
+   450→
+   451→R2928 | B | Which one belongs to the Monera?
+   452→  A: Amoeba
+   453→  B: Escherichia
+   454→  C: Gelidium
+   455→  D: Spirogyra
+   456→
+   457→R2929 | D | Ciliates differ from all other protozoans in
+   458→  A: using pseudopodia for capturing prey
+   459→  B: having a contractile vacuole for removing excess water
+   460→  C: using flagella for locomotion
+   461→  D: having two types of nuclei
+   462→
+   463→R2930 | A | Chrysophytes, euglenoids, dinoflagellates and slime moulds are included in the kingdom
+   464→  A: Protista
+   465→  B: Fungi
+   466→  C: Animalia
+   467→  D: Monera
+   468→
+   469→R2931 | A | Select the wrong statement.
+   470→  A: The walls of diatoms are easily destructible
+   471→  B: ‘Diatomaceous earth’ is formed by the cell walls of diatoms
+   472→  C: Diatoms are chief producers in the oceans
+   473→  D: Diatoms are microscopic and float passively in water
+   474→
+   475→R2932 | D | Pick up the wrong statement.
+   476→  A: Cell wall is absent in Animalia
+   477→  B: Protista have photosynthetic and heterotrophic modes of nutrition
+   478→  C: Some fungi are edible
+   479→  D: Nuclear membrane is present in Monera
+   480→
+   481→R2933 | A | In which group of organisms the cell walls form two thin overlapping shells which fit together?
+   482→  A: Chrysophytes
+   483→  B: Euglenoids
+   484→  C: Dinoflagellates
+   485→  D: Slime moulds
+   486→
+   487→R2934 | A | What is common about Trypanosoma, Noctiluca, Monocystis and Giardia?
+   488→  A: These are all unicellular protists
+   489→  B: They have flagella
+   490→  C: They produce spores
+   491→  D: These are all parasites
+   492→
+   493→R2935 | A | Auxospores and hormocysts are formed respectively by
+   494→  A: several diatoms and a few cyanobacteria
+   495→  B: several cyanobacteria and several diatoms
+   496→  C: some diatoms and several cyanobacteria
+   497→  D: some cyanobacteria and many diatoms
+   498→
+   499→R2936 | C | Which of the following unicellular organism has a macro-nucleus for trophic function and one or more micro-nuclei for reproduction?
+   500→  A: Euglena
+   501→  B: Amoeba
+   502→  C: Paramecium
+   503→  D: Trypanosoma
+   504→
+   505→R2937 | B | When a freshwater protozoan possessing a contractile vacuole is placed in a glass containing marine water, the vacuole will
+   506→  A: increase in number
+   507→  B: disappear
+   508→  C: increase in size
+   509→  D: decrease in size
+   510→
+   511→R2938 | B | The chief advantage of encystment to an Amoeba is
+   512→  A: the chance to get rid of accumulated waste products
+   513→  B: the ability to survive during adverse physical conditions
+   514→  C: the ability to live for some time without ingesting food
+   515→  D: protection from parasites and predators
+   516→
+   517→R2939 | D | In which animal, dimorphic nucleus is found?
+   518→  A: Amoeba
+   519→  B: Trypanosoma gambiense
+   520→  C: Plasmodium vivax
+   521→  D: Paramecium caudatum
+   522→
+   523→R2940 | A | Extranuclear inheritance occurs in
+   524→  A: killer strain in Paramecium
+   525→  B: colour blindness
+   526→  C: phenylketonuria
+   527→  D: Tay Sachs disease
+   528→
+   529→R2941 | C | Which of the following organisms possesses characteristics of both a plant and an animal?
+   530→  A: Bacteria
+   531→  B: Mycoplasma
+   532→  C: Euglena
+   533→  D: Paramecium
+   534→
+   535→R2942 | A | Macro and micronucleus are the characteristic feature of
+   536→  A: Paramecium and Vorticella
+   537→  B: Opelina and Nictothirus
+   538→  C: Hydra and Ballantidium
+   539→  D: Vorticella and Nictothirus
+   540→
+   541→R2943 | A | In Protozoa like Amoeba and Paramecium, an organelle is found for osmoregulation which is
+   542→  A: contractile vacuole
+   543→  B: mitochondria
+   544→  C: nucleus
+   545→  D: food vacuole
+   546→
+   547→R2944 | D | Excretion in Amoeba occurs through
+   548→  A: lobopodia
+   549→  B: uroid portion
+   550→  C: plasma membrane
+   551→  D: contractile vacuole
+   552→
+   553→R2945 | A | Protistan genome has
+   554→  A: membrane bound nucleoproteins embedded in cytoplasm
+   555→  B: free nucleic acid aggregates
+   556→  C: gene containing nucleoproteins condensed together in loose mass
+   557→  D: nucleoprotein in direct contact with cell substance
+   558→
+   559→R2946 | D | Entamoeba coli causes
+   560→  A: pyorrhoea
+   561→  B: diarrhoea
+   562→  C: dysentery
+   563→  D: None of these
+   564→
+   565→R2947 | A | Protists obtain food as
+   566→  A: photosynthesisers, symbionts and holotrophs
+   567→  B: photosynthesisers
+   568→  C: chemosynthesisers
+   569→  D: holotrophs
+   570→
+   571→R2948 | C | African sleeping sickness is due to
+   572→  A: Plasmodium vivax transmitted by tse-tse fly
+   573→  B: Trypanosoma lewsii transmitted by bed bug
+   574→  C: Trypanosoma gambiense transmitted by Glossina palpalis
+   575→  D: Entamoeba gingivalis spread by house fly
+   576→
+   577→R2949 | C | In Amoeba and Paramecium osmoregulation occurs through
+   578→  A: pseudopodia
+   579→  B: nucleus
+   580→  C: contractile vacuole
+   581→  D: general surface
+   582→
+   583→R2950 | A | Genetic information in Paramecium is contained in
+   584→  A: micronucleus
+   585→  B: macronucleus
+   586→  C: Both (a) and (b)
+   587→  D: mitochondria
+   588→
+   589→R2951 | C | Plasmodium, the malarial parasite, belongs to class
+   590→  A: Sarcodina
+   591→  B: Ciliata
+   592→  C: Sporozoa
+   593→  D: Dinophyceae
+   594→
+   595→R2952 | A | What is true about Trypanosoma?
+   596→  A: Polymorphic
+   597→  B: Monogenetic
+   598→  C: Facultative parasite
+   599→  D: Non-pathogenic
+   600→
+   601→R2953 | B | Trypanosoma belongs to class
+   602→  A: Sarcodina
+   603→  B: Zooflagellata
+   604→  C: Ciliata
+   605→  D: Sporozoa
+   606→
+   607→R2954 | D | Which of the following would appear as the pioneer organisms on bare rocks?
+   608→  A: Liverworts
+   609→  B: Mosses
+   610→  C: Green algae
+   611→  D: Lichens
+   612→
+   613→R2955 | D | One of the major components of cell wall of most fungi is
+   614→  A: peptidoglycan
+   615→  B: cellulose
+   616→  C: hemicellulose
+   617→  D: chitin
+   618→
+   619→R2956 | B | Which one of the following is wrong for fungi?
+   620→  A: They are eukaryotic
+   621→  B: All fungi possess a purely cellulosic cell wall
+   622→  C: They are heterotrophic
+   623→  D: They are both unicellular and multicellular
+   624→
+   625→R2957 | C | Choose the wrong statement.
+   626→  A: Penicillium is multicellular and produces antibiotics
+   627→  B: Neurospora is used in the study of biochemical genetics
+   628→  C: Morels and truffles are poisonous mushrooms
+   629→  D: Yeast is unicellular and useful in fermentation
+   630→
+   631→R2958 | A | The imperfect fungi which are decomposers of litter and help in mineral cycling belong to
+   632→  A: Deuteromycetes
+   633→  B: Basidiomycetes
+   634→  C: Phycomycetes
+   635→  D: Ascomycetes
+   636→
+   637→R2959 | A | The highest number of species in the world is represented by
+   638→  A: fungi
+   639→  B: mosses
+   640→  C: algae
+   641→  D: lichens
+   642→
+   643→R2960 | A | Which one is the wrong pairing for the disease and its causal organism?
+   644→  A: Late blight of potato — Alternaria solani
+   645→  B: Black rust of wheat — Puccinia graminis
+   646→  C: Loose smut of wheat — Ustilago nuda
+   647→  D: Root-knot of vegetables — Meloidogyne sp.
+   648→
+   649→R2961 | D | Trichoderma harzianum has proved a useful microorganism for
+   650→  A: bioremediation of contaminated soils
+   651→  B: reclamation of wastelands
+   652→  C: gene transfer in higher plants
+   653→  D: biological control of soil-borne plant pathogens
+   654→
+   655→R2962 | A | Cellulose is the major component of cell walls of
+   656→  A: Pythium
+   657→  B: Xanthomonas
+   658→  C: Pseudomonas
+   659→  D: Saccharomyces
+   660→
+   661→R2963 | B | Which of the following is a slime mold?
+   662→  A: Rhizopus
+   663→  B: Physarum
+   664→  C: Thiobacillus
+   665→  D: Anabaena
+   666→
+   667→R2964 | D | Ergot of rye is caused by a species of
+   668→  A: Phytophthora
+   669→  B: Uncinula
+   670→  C: Ustilago
+   671→  D: Claviceps
+   672→
+   673→R2965 | A | Which pair of the following belongs to Basidiomycetes?
+   674→  A: Birds nest fungi and puff balls
+   675→  B: Puff balls and Claviceps
+   676→  C: Peziza and stink horns
+   677→  D: Morchella and mushrooms
+   678→
+   679→R2966 | A | The thalloid body of a slime mold (Myxomycetes) is known as
+   680→  A: Plasmodium
+   681→  B: fruiting body
+   682→  C: mycelium
+   683→  D: protonema
+   684→
+   685→R2967 | A | Which of the following environmental conditions are essential for optimum growth of Mucor on a piece of bread?
+   686→  A: Temperature of about 25°C, Relative humidity of about 95% and A shady place
+   687→  B: Temperature of about 5°C, Relative humidity of about 95% and A shady place
+   688→  C: Temperature of about 5°C, Relative humidity of about 5% and A brightly illuminated place
+   689→  D: Temperature of about 25°C, Relative humidity of about 5% and A shady place
+   690→
+   691→R2968 | A | There exists a close association between the alga and the fungus within a lichen. The fungus
+   692→  A: provides protection, anchorage and absorption for the alga
+   693→  B: provides food for the alga
+   694→  C: fixes the atmospheric nitrogen for the alga
+   695→  D: release oxygen for the alga
+   696→
+   697→R2969 | D | Lichens are well known combination of an alga and a fungus where fungus has
+   698→  A: a saprophytic relationship with the alga
+   699→  B: an epiphytic relationship with the alga
+   700→  C: a parasitic relationship with the alga
+   701→  D: a symbiotic relationship with the alga
+   702→
+   703→R2970 | A | During the formation of bread it becomes porous due to the release of CO2 by the action of
+   704→  A: yeast
+   705→  B: bacteria
+   706→  C: virus
+   707→  D: protozoans
+   708→
+   709→R2971 | A | Which fungal disease spreads by seed and flowers?
+   710→  A: Loose smut of wheat
+   711→  B: Corn stunt
+   712→  C: Covered smut of barley
+   713→  D: Soft rot of potato
+   714→
+   715→R2972 | A | Plant decomposers are
+   716→  A: Monera and Fungi
+   717→  B: Fungi and Plants
+   718→  C: Protista and Animalia
+   719→  D: Animalia and Monera
+   720→
+   721→R2973 | A | Adhesive pad of fungi penetrates the host with the help of
+   722→  A: mechanical pressure and enzymes
+   723→  B: hooks and suckers
+   724→  C: softening by enzymes
+   725→  D: only by mechanical pressure
+   726→
+   727→R2974 | A | In fungi stored food material is
+   728→  A: glycogen
+   729→  B: starch
+   730→  C: sucrose
+   731→  D: glucose
+   732→
+   733→R2975 | A | Cell wall degrading enzymes (cellulolytic, pectolytic) as well as mechanical pressure of adhesive pad (appressorium) help the fungus in penetrating the host.
+   734→  A: mechanical pressure and enzymes
+   735→  B: hooks and suckers
+   736→  C: softening by enzymes
+   737→  D: only by mechanical pressure
+   738→
+   739→R2976 | A | Black rust of wheat is caused by
+   740→  A: Puccinia
+   741→  B: Mucor
+   742→  C: Aspergillus
+   743→  D: Rhizopus
+   744→
+   745→R2977 | B | Which of the following is the use of lichens in case of pollution?
+   746→  A: Lichens are not related with pollution
+   747→  B: They act as bioindicators of pollution
+   748→  C: They treat the polluted water
+   749→  D: They promote pollution
+   750→
+   751→R2978 | B | Columella is a specialised structure found in the sporangium of
+   752→  A: Ulothrix
+   753→  B: Rhizopus
+   754→  C: Spirogyra
+   755→  D: None of these
+   756→
+   757→R2979 | B | Puccinia forms
+   758→  A: uredia and aecia on wheat leaves
+   759→  B: uredia and telia on wheat leaves
+   760→  C: uredia and aecia on barbery leaves
+   761→  D: uredia and pycnia on barbery leaves
+   762→
+   763→R2980 | B | Most of the lichens consist of
+   764→  A: blue-green algae and Basidomycetes
+   765→  B: blue-green algae and Ascomycetes
+   766→  C: red algae and Ascomycetes
+   767→  D: brown algae and Phycomycetes
+   768→
+   769→R2981 | D | Which one of the following is not true about lichens?
+   770→  A: Their body is composed of both algal and fungal cells
+   771→  B: Some form food for reindeers in Arctic regions
+   772→  C: Some species can be used as pollution indicators
+   773→  D: These grow very fast at the rate of about 2 cm per year
+   774→
+   775→R2982 | C | Which of the following is not correctly matched?
+   776→  A: Root knot disease — Meloidogyne javanica
+   777→  B: Smut of bajra — Tolysporium penicillariae
+   778→  C: Covered smut of barley — Ustilago nuda
+   779→  D: Late blight of potato — Phytophthora infestans
+   780→
+   781→R2983 | C | The chemical compounds produced by the host plants to protect themselves against fungal infection is
+   782→  A: phytotoxin
+   783→  B: pathogen
+   784→  C: phytoalexins
+   785→  D: hormone
+   786→
+   787→R2984 | D | White rust disease is caused by
+   788→  A: Claviceps
+   789→  B: Alternaria
+   790→  C: Phytophthora
+   791→  D: Albugo candida
+   792→
+   793→R2985 | C | Ustilago caused plant diseases are called smuts because
+   794→  A: they parasitise cereals
+   795→  B: Mycelium is black
+   796→  C: they develop sooty masses of spores
+   797→  D: affected parts become completely black
+   798→
+   799→R2986 | C | Mycorrhiza represents
+   800→  A: antagonism
+   801→  B: endemism
+   802→  C: symbiosis
+   803→  D: parasitism
+   804→
+   805→R2987 | B | Absorptive heterotrophic nutrition is exhibited by
+   806→  A: algae
+   807→  B: fungi
+   808→  C: bryophytes
+   809→  D: pteridophytes
+   810→
+   811→R2988 | C | Lichens indicate SO2 pollution because they
+   812→  A: show association between algae and fungi
+   813→  B: grow faster than others
+   814→  C: are sensitive to SO2
+   815→  D: flourish in SO2 rich environment
+   816→
+   817→R2989 | A | Which of the following statements about inclusion bodies is incorrect?
+   818→  A: These are involved in ingestion of food particles
+   819→  B: They lie free in the cytoplasm
+   820→  C: These represent reserve material in cytoplasm
+   821→  D: They are not bound by any membrane
+   822→
+   823→R2990 | B | Which of the following statements is incorrect?
+   824→  A: Viruses are obligate parasites
+   825→  B: Infective constituent in viruses is the protein coat
+   826→  C: Prions consist of abnormally folded proteins
+   827→  D: Viroids lack a protein coat
+   828→
+   829→R2991 | D | Viroids differ from viruses in having
+   830→  A: DNA molecules with protein coat
+   831→  B: DNA molecules without protein coat
+   832→  C: RNA molecules with protein coat
+   833→  D: RNA molecules without protein coat
+   834→
+   835→R2992 | C | Which of the following statements is wrong for viroids?
+   836→  A: They are smaller than viruses
+   837→  B: They cause infections
+   838→  C: Their RNA is of high molecular weight
+   839→  D: They lack a protein coat
+   840→
+   841→R2993 | A | Select wrong statement.
+   842→  A: The viroids were discovered by DJ Ivanowski
+   843→  B: WM Stanley showed that viruses could be crystallised
+   844→  C: The term ‘Contagium vivum fluidum’ was coined by MW Beijerinek
+   845→  D: Mosaic disease in tobacco and AIDS in human being are caused by viruses
+   846→
+   847→R2994 | B | Which of the following shows coiled RNA strand and capsomeres?
+   848→  A: Polio virus
+   849→  B: Tobacco mosaic virus
+   850→  C: Measles virus
+   851→  D: Retrovirus
+   852→
+   853→R2995 | B | Which statement is wrong for viruses?
+   854→  A: All are parasites
+   855→  B: All of them have helical symmetry
+   856→  C: They have ability to synthesise nucleic acids and proteins
+   857→  D: Antibiotics have no effect on them
+   858→
+   859→R2996 | A | Virus envelope is known as
+   860→  A: capsid
+   861→  B: virion
+   862→  C: nucleoprotein
+   863→  D: core
+   864→
+   865→R2997 | A | T.O. Diener discovered a
+   866→  A: free infectious RNA
+   867→  B: free infectious DNA
+   868→  C: infectious protein
+   869→  D: bacteriophage
+   870→
+   871→R2998 | B | Viruses that infect bacteria, multiply and cause their lysis are called
+   872→  A: lysozymes
+   873→  B: lytic
+   874→  C: lipolytic
+   875→  D: lysogenic
+   876→
+   877→R2999 | A | Which of the following statements is not true for retroviruses?
+   878→  A: DNA is not present at any stage in the life cycle of retroviruses
+   879→  B: Retroviruses carry gene for RNA dependent DNA polymerase
+   880→  C: The genetic material in mature retroviruses is RNA
+   881→  D: Retroviruses are causative agents for certain kinds of cancer in man
+   882→
+   883→R3000 | A | Viruses are no more ‘alive’ than isolated chromosomes because
+   884→  A: both require the environment of a cell to replicate
+   885→  B: they require both RNA and DNA
+   886→  C: they both need food molecules
+   887→  D: they both require oxygen for respiration
+   888→
+   889→

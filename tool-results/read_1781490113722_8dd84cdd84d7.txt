@@ -1,0 +1,1002 @@
+     1→[
+     2→  {
+     3→    "sheet": "Class10",
+     4→    "row": 1002,
+     5→    "data": [
+     6→      "SST",
+     7→      1.0,
+     8→      "यूरोप में राष्ट्रवाद का उदय",
+     9→      "Hindi",
+    10→      "स्लाव' (Slavs) कौन थे?",
+    11→      "बाल्कन क्षेत्र के निवासी",
+    12→      "प्रशिया का शासक वर्ग",
+    13→      "नेपोलियन के सैनिक",
+    14→      "जैकोबिन क्लब के सदस्य",
+    15→      1.0,
+    16→      "बाल्कन क्षेत्र के निवासी, जो सर्ब, क्रोएशियाई और बोस्नियाई जैसे विभिन्न जातीय समूहों से संबंधित थे, मोटे तौर पर स्लाव के रूप में जाने जाते थे।",
+    17→      "CBSE",
+    18→      2020.0,
+    19→      null
+    20→    ]
+    21→  },
+    22→  {
+    23→    "sheet": "Class10",
+    24→    "row": 1003,
+    25→    "data": [
+    26→      "SST",
+    27→      1.0,
+    28→      "यूरोप में राष्ट्रवाद का उदय",
+    29→      "Hindi",
+    30→      "किस युद्ध ने नेपोलियन बोनापार्ट की अंतिम हार को चिह्नित किया?",
+    31→      "लिपज़िग का युद्ध",
+    32→      "वाटरलू का युद्ध",
+    33→      "ट्राफलगर का युद्ध",
+    34→      "ऑस्टरलिट्ज़ का युद्ध",
+    35→      2.0,
+    36→      "नेपोलियन अंततः 1815 में वाटरलू के युद्ध में ब्रिटेन, रूस, प्रशिया और ऑस्ट्रिया की संयुक्त सेना से हार गया था।",
+    37→      "UP Board",
+    38→      2019.0,
+    39→      null
+    40→    ]
+    41→  },
+    42→  {
+    43→    "sheet": "Class10",
+    44→    "row": 1004,
+    45→    "data": [
+    46→      "SST",
+    47→      1.0,
+    48→      "यूरोप में राष्ट्रवाद का उदय",
+    49→      "Hindi",
+    50→      "यूनान के लिए वर्ष 1832 का क्या महत्व था?",
+    51→      "क्रांति की शुरुआत",
+    52→      "कुस्तुनतुनिया की संधि",
+    53→      "रोम द्वारा आक्रमण",
+    54→      "लॉर्ड बायरन की मृत्यु",
+    55→      2.0,
+    56→      "1832 की कुस्तुनतुनिया की संधि ने अंततः यूनान को एक स्वतंत्र संप्रभु राष्ट्र के रूप में मान्यता दी।",
+    57→      "CBSE",
+    58→      2021.0,
+    59→      null
+    60→    ]
+    61→  },
+    62→  {
+    63→    "sheet": "Class10",
+    64→    "row": 1005,
+    65→    "data": [
+    66→      "SST",
+    67→      1.0,
+    68→      "यूरोप में राष्ट्रवाद का उदय",
+    69→      "Hindi",
+    70→      "निम्नलिखित में से कौन सी 'राष्ट्र-राज्य' की विशेषता थी?",
+    71→      "पूर्ण शक्ति वाले एक ही शासक का शासन",
+    72→      "नागरिकों की एक साझा पहचान और इतिहास होता है",
+    73→      "कोई निश्चित सीमा नहीं",
+    74→      "लोग बिना किसी साझा लिंक के अलग-अलग भाषाएं बोलते हैं",
+    75→      2.0,
+    76→      "एक राष्ट्र-राज्य वह है जिसमें उसके अधिकांश नागरिकों, न कि केवल उसके शासकों में, साझा पहचान और साझा इतिहास की भावना विकसित होती है।",
+    77→      "CBSE",
+    78→      2023.0,
+    79→      null
+    80→    ]
+    81→  },
+    82→  {
+    83→    "sheet": "Class10",
+    84→    "row": 1006,
+    85→    "data": [
+    86→      "SST",
+    87→      1.0,
+    88→      "यूरोप में राष्ट्रवाद का उदय",
+    89→      "Hindi",
+    90→      "यूरोप में 1830 के दशक की 'महान मंदी' का क्या प्रभाव पड़ा?",
+    91→      "औद्योगिक विकास",
+    92→      "बड़े पैमाने पर बेरोजगारी और भूख",
+    93→      "राजतंत्रों की स्थिरता",
+    94→      "सभी युद्धों का अंत",
+    95→      2.0,
+    96→      "1830 के दशक यूरोप में भारी आर्थिक कठिनाई के वर्ष थे, जिससे व्यापक गरीबी, भोजन की कमी और ग्रामीण क्षेत्रों से शहरों की ओर पलायन हुआ।",
+    97→      "CBSE",
+    98→      2017.0,
+    99→      null
+   100→    ]
+   101→  },
+   102→  {
+   103→    "sheet": "Class10",
+   104→    "row": 1007,
+   105→    "data": [
+   106→      "SST",
+   107→      1.0,
+   108→      "यूरोप में राष्ट्रवाद का उदय",
+   109→      "Hindi",
+   110→      "यूरोप में 'भूस्वामी कुलीन वर्ग' (Landed Aristocracy) कैसा था?",
+   111→      "एक छोटा, शक्तिशाली सामाजिक समूह",
+   112→      "किसानों का एक बड़ा समूह",
+   113→      "व्यापारियों का एक समूह",
+   114→      "एक धार्मिक संप्रदाय",
+   115→      1.0,
+   116→      "भूस्वामी कुलीन वर्ग महाद्वीप का प्रभावशाली वर्ग था, जो संख्यात्मक रूप से एक छोटा समूह था लेकिन अधिकांश राजनीतिक और सामाजिक शक्ति उसी के पास थी।",
+   117→      "CBSE",
+   118→      2019.0,
+   119→      null
+   120→    ]
+   121→  },
+   122→  {
+   123→    "sheet": "Class10",
+   124→    "row": 1008,
+   125→    "data": [
+   126→      "SST",
+   127→      1.0,
+   128→      "यूरोप में राष्ट्रवाद का उदय",
+   129→      "Hindi",
+   130→      "निम्नलिखित में से किस कारक ने 'ब्रिटिश राष्ट्र-राज्य' के निर्माण में मदद की?",
+   131→      "एक अचानक हुई क्रांति",
+   132→      "एक लंबी चलने वाली प्रक्रिया",
+   133→      "फ्रांस द्वारा हस्तक्षेप",
+   134→      "राजा द्वारा सैन्य तख्तापलट",
+   135→      2.0,
+   136→      "कुछ विद्वानों का तर्क है कि राष्ट्र या राष्ट्र-राज्य का मॉडल ग्रेट ब्रिटेन है, जहाँ यह किसी अचानक उथल-पुथल के बजाय एक लंबी राजनीतिक प्रक्रिया का परिणाम था।",
+   137→      "CBSE",
+   138→      2022.0,
+   139→      null
+   140→    ]
+   141→  },
+   142→  {
+   143→    "sheet": "Class10",
+   144→    "row": 1009,
+   145→    "data": [
+   146→      "SST",
+   147→      1.0,
+   148→      "यूरोप में राष्ट्रवाद का उदय",
+   149→      "Hindi",
+   150→      "प्रशिया का वह राजा कौन था जो 1871 में जर्मन सम्राट बना?",
+   151→      "विलियम प्रथम",
+   152→      "विलियम द्वितीय",
+   153→      "फ्रेडरिक विलियम चतुर्थ",
+   154→      "बिस्मार्क",
+   155→      1.0,
+   156→      "फ्रेंको-प्रशिया युद्ध में जीत के बाद वर्साय में प्रशिया के कैसर विलियम प्रथम को जर्मन सम्राट घोषित किया गया था।",
+   157→      "CBSE",
+   158→      2020.0,
+   159→      null
+   160→    ]
+   161→  },
+   162→  {
+   163→    "sheet": "Class10",
+   164→    "row": 1010,
+   165→    "data": [
+   166→      "SST",
+   167→      1.0,
+   168→      "यूरोप में राष्ट्रवाद का उदय",
+   169→      "Hindi",
+   170→      "निरंकुश' (Absolutist) का क्या अर्थ है?",
+   171→      "शक्ति पर कोई अंकुश न रखने वाली सरकार",
+   172→      "एक लोकतांत्रिक सरकार",
+   173→      "साझा शक्ति की एक प्रणाली",
+   174→      "जनता द्वारा चुनी गई सरकार",
+   175→      1.0,
+   176→      "निरंकुश सरकार की उस प्रणाली को संदर्भित करता है जिसकी शक्ति पर कोई कानूनी या संवैधानिक अंकुश नहीं होता, यह अक्सर राजशाही और केंद्रीकृत होती है।",
+   177→      "CBSE",
+   178→      2018.0,
+   179→      null
+   180→    ]
+   181→  },
+   182→  {
+   183→    "sheet": "Class10",
+   184→    "row": 1011,
+   185→    "data": [
+   186→      "SST",
+   187→      1.0,
+   188→      "यूरोप में राष्ट्रवाद का उदय",
+   189→      "Hindi",
+   190→      "19वीं शताब्दी के दौरान पोलैंड में लोककथाओं ने क्या भूमिका निभाई?",
+   191→      "इसका उपयोग रूस के समर्थन के लिए किया गया था",
+   192→      "इसने राष्ट्रीय भावना को जीवित रखने में मदद की",
+   193→      "चर्च ने इस पर प्रतिबंध लगा दिया था",
+   194→      "इसने औद्योगिकीकरण को बढ़ावा दिया",
+   195→      2.0,
+   196→      "विभाजित पोलैंड में संगीत और भाषाओं के माध्यम से राष्ट्रीय भावनाओं को जीवित रखा गया; उदाहरण के लिए, करोल कुरपिंस्की ने अपने ओपेरा के माध्यम से राष्ट्रीय संघर्ष का जश्न मनाया।",
+   197→      "CBSE",
+   198→      2021.0,
+   199→      null
+   200→    ]
+   201→  },
+   202→  {
+   203→    "sheet": "Class10",
+   204→    "row": 1012,
+   205→    "data": [
+   206→      "SST",
+   207→      1.0,
+   208→      "यूरोप में राष्ट्रवाद का उदय",
+   209→      "Hindi",
+   210→      "रूसी प्रभुत्व के खिलाफ पोलैंड में राष्ट्रीय प्रतिरोध के हथियार के रूप में किस भाषा का उपयोग किया गया था?",
+   211→      "जर्मन",
+   212→      "फ्रेंच",
+   213→      "पोलिश",
+   214→      "अंग्रेजी",
+   215→      3.0,
+   216→      "पोलिश भाषा का उपयोग रूसी प्रभुत्व के खिलाफ संघर्ष के प्रतीक के रूप में देखा जाने लगा, विशेष रूप से 1831 के विफल विद्रोह के बाद।",
+   217→      "CBSE",
+   218→      2023.0,
+   219→      null
+   220→    ]
+   221→  },
+   222→  {
+   223→    "sheet": "Class10",
+   224→    "row": 1013,
+   225→    "data": [
+   226→      "SST",
+   227→      1.0,
+   228→      "यूरोप में राष्ट्रवाद का उदय",
+   229→      "Hindi",
+   230→      "फ्रांसीसी क्रांति का प्राथमिक लक्ष्य क्या था?",
+   231→      "एक सैन्य तानाशाही स्थापित करना",
+   232→      "संप्रभुता को राजतंत्र से नागरिकों के एक समूह को हस्तांतरित करना",
+   233→      "यूरोप के अन्य हिस्सों को उपनिवेश बनाना",
+   234→      "पोप के अधिकार को बहाल करना",
+   235→      2.0,
+   236→      "1789 की फ्रांसीसी क्रांति के कारण संप्रभुता पूर्ण राजतंत्र से हटकर फ्रांसीसी नागरिकों के एक समूह के हाथों में चली गई थी।",
+   237→      "CBSE",
+   238→      2019.0,
+   239→      null
+   240→    ]
+   241→  },
+   242→  {
+   243→    "sheet": "Class10",
+   244→    "row": 1014,
+   245→    "data": [
+   246→      "SST",
+   247→      1.0,
+   248→      "यूरोप में राष्ट्रवाद का उदय",
+   249→      "Hindi",
+   250→      "फ्रांसीसी क्रांति के संदर्भ में 'मारिएन' कौन थी?",
+   251→      "नेपोलियन की पत्नी",
+   252→      "राष्ट्र का एक महिला रूपक",
+   253→      "एक प्रसिद्ध फ्रांसीसी जनरल",
+   254→      "एक क्रांतिकारी गुप्त संस्था",
+   255→      2.0,
+   256→      "मारिएन फ्रांस का महिला रूपक थी, जो स्वतंत्रता और गणतंत्र के विचारों का प्रतिनिधित्व करती थी, जिसे अक्सर लाल टोपी और तिरंगे के साथ देखा जाता था।",
+   257→      "CBSE",
+   258→      2020.0,
+   259→      null
+   260→    ]
+   261→  },
+   262→  {
+   263→    "sheet": "Class10",
+   264→    "row": 1015,
+   265→    "data": [
+   266→      "SST",
+   267→      1.0,
+   268→      "Rise of Nationalism in Europe",
+   269→      "English",
+   270→      "Which ethnic group dominated the political and social life in the Habsburg Empire?",
+   271→      "Magyars",
+   272→      "Czechs",
+   273→      "Landed Aristocracy",
+   274→      "Slovaks",
+   275→      3.0,
+   276→      "In the mid-19th century, the landed aristocracy was the dominant social and political class in the Habsburg Empire, despite the empire being a patchwork of many different ethnic groups.",
+   277→      "CBSE",
+   278→      2022.0,
+   279→      null
+   280→    ]
+   281→  },
+   282→  {
+   283→    "sheet": "Class10",
+   284→    "row": 1016,
+   285→    "data": [
+   286→      "SST",
+   287→      1.0,
+   288→      "Rise of Nationalism in Europe",
+   289→      "English",
+   290→      "Who was the King of Prussia who rejected the crown offered by the Frankfurt Parliament in 1848?",
+   291→      "William I",
+   292→      "Frederick William IV",
+   293→      "William II",
+   294→      "Frederick I",
+   295→      2.0,
+   296→      "Frederick William IV, King of Prussia, rejected the constitutional monarchy offered by the Frankfurt Parliament and joined other monarchs to oppose the elected assembly.",
+   297→      "CBSE",
+   298→      2019.0,
+   299→      null
+   300→    ]
+   301→  },
+   302→  {
+   303→    "sheet": "Class10",
+   304→    "row": 1017,
+   305→    "data": [
+   306→      "SST",
+   307→      1.0,
+   308→      "Rise of Nationalism in Europe",
+   309→      "English",
+   310→      "What was the 'Policy of Blood and Iron'?",
+   311→      "A policy of peaceful negotiation",
+   312→      "A policy of military force and industrial strength",
+   313→      "A religious reform",
+   314→      "A trade agreement",
+   315→      2.0,
+   316→      "Otto von Bismarck’s 'Blood and Iron' policy emphasized that the great questions of the day would be decided not by speeches but by military force and Prussian industrial power.",
+   317→      "Bihar Board",
+   318→      2021.0,
+   319→      null
+   320→    ]
+   321→  },
+   322→  {
+   323→    "sheet": "Class10",
+   324→    "row": 1018,
+   325→    "data": [
+   326→      "SST",
+   327→      1.0,
+   328→      "Rise of Nationalism in Europe",
+   329→      "English",
+   330→      "The 'Taille' in pre-revolutionary France was a:",
+   331→      "Tax on salt",
+   332→      "Direct tax paid by the Third Estate",
+   333→      "Tax on tobacco",
+   334→      "Religious tax",
+   335→      2.0,
+   336→      "The Taille was a direct land tax from which the clergy and the nobility were exempt, placing the entire financial burden on the commoners of the Third Estate.",
+   337→      "UP Board",
+   338→      2023.0,
+   339→      null
+   340→    ]
+   341→  },
+   342→  {
+   343→    "sheet": "Class10",
+   344→    "row": 1019,
+   345→    "data": [
+   346→      "SST",
+   347→      1.0,
+   348→      "Rise of Nationalism in Europe",
+   349→      "English",
+   350→      "Which of the following describes the 'Carbonari' influence on Italian unification?",
+   351→      "They led the final war against France",
+   352→      "They provided the initial revolutionary spark through secret societies",
+   353→      "They were a group of conservative monarchs",
+   354→      "They were British spies",
+   355→      2.0,
+   356→      "The Carbonari played a crucial role in the early stages of Italian nationalism by organizing secret uprisings against absolute rule in the early 1800s.",
+   357→      "CBSE",
+   358→      2020.0,
+   359→      null
+   360→    ]
+   361→  },
+   362→  {
+   363→    "sheet": "Class10",
+   364→    "row": 1020,
+   365→    "data": [
+   366→      "SST",
+   367→      1.0,
+   368→      "Rise of Nationalism in Europe",
+   369→      "English",
+   370→      "What was the primary reason for the 1848 revolution in the German states?",
+   371→      "Demand for a constitution and national unification",
+   372→      "Support for the Russian Tsar",
+   373→      "Desire to join the Ottoman Empire",
+   374→      "A religious crusade",
+   375→      1.0,
+   376→      "In 1848, German liberals and the middle class demanded the creation of a nation-state governed by a constitution and a parliament.",
+   377→      "CBSE",
+   378→      2021.0,
+   379→      null
+   380→    ]
+   381→  },
+   382→  {
+   383→    "sheet": "Class10",
+   384→    "row": 1021,
+   385→    "data": [
+   386→      "SST",
+   387→      1.0,
+   388→      "Rise of Nationalism in Europe",
+   389→      "English",
+   390→      "Who were the 'Lazzaroni' in the context of the Italian revolution?",
+   391→      "High-ranking generals",
+   392→      "The poorest of the lower classes in Naples",
+   393→      "Wealthy merchants",
+   394→      "University professors",
+   395→      2.0,
+   396→      "The Lazzaroni were the lower-class people of Naples who were often used by conservative regimes to counter liberal and nationalist movements.",
+   397→      "UP Board",
+   398→      2018.0,
+   399→      null
+   400→    ]
+   401→  },
+   402→  {
+   403→    "sheet": "Class10",
+   404→    "row": 1022,
+   405→    "data": [
+   406→      "SST",
+   407→      1.0,
+   408→      "Rise of Nationalism in Europe",
+   409→      "English",
+   410→      "Which treaty allowed Russia to gain control over a large part of Poland in 1815?",
+   411→      "Treaty of Paris",
+   412→      "The Congress of Vienna",
+   413→      "Treaty of London",
+   414→      "Treaty of Berlin",
+   415→      2.0,
+   416→      "At the Congress of Vienna, Poland was re-partitioned, and a kingdom known as 'Congress Poland' was established under the rule of the Russian Tsar.",
+   417→      "CBSE",
+   418→      2022.0,
+   419→      null
+   420→    ]
+   421→  },
+   422→  {
+   423→    "sheet": "Class10",
+   424→    "row": 1023,
+   425→    "data": [
+   426→      "SST",
+   427→      1.0,
+   428→      "Rise of Nationalism in Europe",
+   429→      "English",
+   430→      "What did 'Nationalism' mean to the people of the Balkans in the late 19th century?",
+   431→      "Loyalty to the Ottoman Sultan",
+   432→      "A struggle for individual liberty and national independence",
+   433→      "A desire to industrialize",
+   434→      "Support for the Austrian Emperor",
+   435→      2.0,
+   436→      "Nationalism in the Balkans was defined by ethnic groups seeking to break away from Ottoman rule to establish their own independent nation-states.",
+   437→      "CBSE",
+   438→      2020.0,
+   439→      null
+   440→    ]
+   441→  },
+   442→  {
+   443→    "sheet": "Class10",
+   444→    "row": 1024,
+   445→    "data": [
+   446→      "SST",
+   447→      1.0,
+   448→      "Rise of Nationalism in Europe",
+   449→      "English",
+   450→      "The term 'Conservatism' after 1815 was characterized by:",
+   451→      "A belief in rapid social change",
+   452→      "A return to the pre-revolutionary social hierarchy",
+   453→      "The total abolition of monarchy",
+   454→      "Promotion of universal suffrage",
+   455→      2.0,
+   456→      "After 1815, European conservatives aimed to preserve the traditional institutions of state and society—like the monarchy, the Church, and social hierarchies.",
+   457→      "CBSE",
+   458→      2019.0,
+   459→      null
+   460→    ]
+   461→  },
+   462→  {
+   463→    "sheet": "Class10",
+   464→    "row": 1025,
+   465→    "data": [
+   466→      "SST",
+   467→      1.0,
+   468→      "Rise of Nationalism in Europe",
+   469→      "English",
+   470→      "Which event is considered the 'First Expression' of Nationalism in Europe?",
+   471→      "The Unification of Germany",
+   472→      "The French Revolution of 1789",
+   473→      "The Glorious Revolution",
+   474→      "The Industrial Revolution",
+   475→      2.0,
+   476→      "The French Revolution of 1789 is widely regarded as the first clear expression of nationalism as it shifted sovereignty from the king to the citizens.",
+   477→      "CBSE",
+   478→      2023.0,
+   479→      null
+   480→    ]
+   481→  },
+   482→  {
+   483→    "sheet": "Class10",
+   484→    "row": 1026,
+   485→    "data": [
+   486→      "SST",
+   487→      1.0,
+   488→      "Rise of Nationalism in Europe",
+   489→      "English",
+   490→      "Who was the leader of the 'Young Europe' secret society?",
+   491→      "Otto von Bismarck",
+   492→      "Giuseppe Mazzini",
+   493→      "Count Cavour",
+   494→      "Metternich",
+   495→      2.0,
+   496→      "Following the success of 'Young Italy', Giuseppe Mazzini founded 'Young Europe' in Berne in 1834 to unite like-minded revolutionaries across the continent.",
+   497→      "CBSE",
+   498→      2021.0,
+   499→      null
+   500→    ]
+   501→  },
+   502→  {
+   503→    "sheet": "Class10",
+   504→    "row": 1027,
+   505→    "data": [
+   506→      "SST",
+   507→      1.0,
+   508→      "Rise of Nationalism in Europe",
+   509→      "English",
+   510→      "In 1848, the 'March Revolution' primarily took place in:",
+   511→      "Britain",
+   512→      "The German states and Austria",
+   513→      "Russia",
+   514→      "Spain",
+   515→      2.0,
+   516→      "The March Revolutions were a series of loosely coordinated protests and rebellions in the states of the German Confederation, including Austria.",
+   517→      "Bihar Board",
+   518→      2022.0,
+   519→      null
+   520→    ]
+   521→  },
+   522→  {
+   523→    "sheet": "Class10",
+   524→    "row": 1028,
+   525→    "data": [
+   526→      "SST",
+   527→      1.0,
+   528→      "Rise of Nationalism in Europe",
+   529→      "English",
+   530→      "What was the 'Ems Telegram' incident associated with?",
+   531→      "Italian Unification",
+   532→      "Franco-Prussian War",
+   533→      "French Revolution",
+   534→      "Greek War of Independence",
+   535→      2.0,
+   536→      "Bismarck edited a telegram from King William I to make it appear insulting to the French, provoking France into declaring war on Prussia in 1870.",
+   537→      "UP Board",
+   538→      2020.0,
+   539→      null
+   540→    ]
+   541→  },
+   542→  {
+   543→    "sheet": "Class10",
+   544→    "row": 1029,
+   545→    "data": [
+   546→      "SST",
+   547→      1.0,
+   548→      "Rise of Nationalism in Europe",
+   549→      "English",
+   550→      "Which social class became the most vocal advocates for 'Liberal Nationalism'?",
+   551→      "The Peasantry",
+   552→      "The Educated Middle Class",
+   553→      "The Clergy",
+   554→      "The Nobility",
+   555→      2.0,
+   556→      "The new middle classes—including industrialists, doctors, and teachers—demanded national unity and the end of aristocratic privileges.",
+   557→      "CBSE",
+   558→      2018.0,
+   559→      null
+   560→    ]
+   561→  },
+   562→  {
+   563→    "sheet": "Class10",
+   564→    "row": 1030,
+   565→    "data": [
+   566→      "SST",
+   567→      1.0,
+   568→      "Rise of Nationalism in Europe",
+   569→      "English",
+   570→      "What was the main purpose of the 'Holy Alliance' formed in 1815?",
+   571→      "To promote democracy",
+   572→      "To protect monarchies against revolution",
+   573→      "To encourage trade with Asia",
+   574→      "To divide the American colonies",
+   575→      2.0,
+   576→      "The Holy Alliance was a coalition created by the monarchist great powers of Russia, Austria, and Prussia to suppress revolutionary influences in Europe.",
+   577→      "CBSE",
+   578→      2017.0,
+   579→      null
+   580→    ]
+   581→  },
+   582→  {
+   583→    "sheet": "Class10",
+   584→    "row": 1031,
+   585→    "data": [
+   586→      "SST",
+   587→      1.0,
+   588→      "Rise of Nationalism in Europe",
+   589→      "English",
+   590→      "The 'Second Republic' in France was established after which event?",
+   591→      "French Revolution of 1789",
+   592→      "Revolution of 1830",
+   593→      "Revolution of 1848",
+   594→      "Franco-Prussian War",
+   595→      3.0,
+   596→      "The Revolution of 1848 led to the end of the constitutional monarchy and the birth of the Second Republic, which granted voting rights to all adult males.",
+   597→      "CBSE",
+   598→      2019.0,
+   599→      null
+   600→    ]
+   601→  },
+   602→  {
+   603→    "sheet": "Class10",
+   604→    "row": 1032,
+   605→    "data": [
+   606→      "SST",
+   607→      1.0,
+   608→      "Rise of Nationalism in Europe",
+   609→      "English",
+   610→      "Who was known as the 'Sword' of Italian Unification?",
+   611→      "Count Cavour",
+   612→      "Giuseppe Garibaldi",
+   613→      "Mazzini",
+   614→      "Victor Emmanuel II",
+   615→      2.0,
+   616→      "Garibaldi earned this title due to his military conquests and his leadership of the 'Red Shirts' volunteers who liberated Southern Italy.",
+   617→      "UP Board",
+   618→      2022.0,
+   619→      null
+   620→    ]
+   621→  },
+   622→  {
+   623→    "sheet": "Class10",
+   624→    "row": 1033,
+   625→    "data": [
+   626→      "SST",
+   627→      1.0,
+   628→      "Rise of Nationalism in Europe",
+   629→      "English",
+   630→      "What was the significance of the 'Battle of the Nations' (Leipzig) in 1813?",
+   631→      "Napoleon's first victory",
+   632→      "The final defeat of the British",
+   633→      "A major defeat for Napoleon by the coalition forces",
+   634→      "The unification of Italy",
+   635→      3.0,
+   636→      "The Battle of Leipzig was a turning point where a coalition of European powers dealt a decisive blow to Napoleon's army before his final fall.",
+   637→      "CBSE",
+   638→      2020.0,
+   639→      null
+   640→    ]
+   641→  },
+   642→  {
+   643→    "sheet": "Class10",
+   644→    "row": 1034,
+   645→    "data": [
+   646→      "SST",
+   647→      1.0,
+   648→      "Rise of Nationalism in Europe",
+   649→      "English",
+   650→      "The 'Imperial Eagle' in German iconography often stood for:",
+   651→      "Peace",
+   652→      "Strength and the German Empire",
+   653→      "Liberty",
+   654→      "Religious purity",
+   655→      2.0,
+   656→      "The eagle was a traditional symbol used to represent the power, sovereignty, and strength of the German Empire.",
+   657→      "CBSE",
+   658→      2021.0,
+   659→      null
+   660→    ]
+   661→  },
+   662→  {
+   663→    "sheet": "Class10",
+   664→    "row": 1035,
+   665→    "data": [
+   666→      "SST",
+   667→      1.0,
+   668→      "यूरोप में राष्ट्रवाद का उदय",
+   669→      "Hindi",
+   670→      "हैब्सबर्ग साम्राज्य में राजनीतिक और सामाजिक जीवन पर किस जातीय समूह का वर्चस्व था?",
+   671→      "मैग्यार",
+   672→      "चेक",
+   673→      "भूस्वामी कुलीन वर्ग",
+   674→      "स्लोवाक",
+   675→      3.0,
+   676→      "19वीं शताब्दी के मध्य में, हैब्सबर्ग साम्राज्य में भूस्वामी कुलीन वर्ग प्रभावशाली सामाजिक और राजनीतिक वर्ग था, जबकि यह साम्राज्य कई अलग-अलग जातीय समूहों का मिश्रण था।",
+   677→      "CBSE",
+   678→      2022.0,
+   679→      null
+   680→    ]
+   681→  },
+   682→  {
+   683→    "sheet": "Class10",
+   684→    "row": 1036,
+   685→    "data": [
+   686→      "SST",
+   687→      1.0,
+   688→      "यूरोप में राष्ट्रवाद का उदय",
+   689→      "Hindi",
+   690→      "प्रशिया का वह राजा कौन था जिसने 1848 में फ्रैंकफर्ट संसद द्वारा प्रस्तावित ताज को स्वीकार करने से इनकार कर दिया था?",
+   691→      "विलियम प्रथम",
+   692→      "फ्रेडरिक विलियम चतुर्थ",
+   693→      "विलियम द्वितीय",
+   694→      "फ्रेडरिक प्रथम",
+   695→      2.0,
+   696→      "प्रशिया के राजा फ्रेडरिक विलियम चतुर्थ ने फ्रैंकफर्ट संसद द्वारा प्रस्तावित संवैधानिक राजतंत्र को खारिज कर दिया और निर्वाचित सभा का विरोध करने के लिए अन्य राजाओं का साथ दिया।",
+   697→      "CBSE",
+   698→      2019.0,
+   699→      null
+   700→    ]
+   701→  },
+   702→  {
+   703→    "sheet": "Class10",
+   704→    "row": 1037,
+   705→    "data": [
+   706→      "SST",
+   707→      1.0,
+   708→      "यूरोप में राष्ट्रवाद का उदय",
+   709→      "Hindi",
+   710→      "रक्त और लौह की नीति' (Policy of Blood and Iron) क्या थी?",
+   711→      "शांतिपूर्ण बातचीत की नीति",
+   712→      "सैन्य बल और औद्योगिक शक्ति की नीति",
+   713→      "एक धार्मिक सुधार",
+   714→      "एक व्यापार समझौता",
+   715→      2.0,
+   716→      "ओटो वॉन बिस्मार्क की 'रक्त और लौह' की नीति ने इस बात पर जोर दिया कि उस समय के बड़े सवालों का फैसला भाषणों से नहीं बल्कि सैन्य बल और प्रशिया की औद्योगिक शक्ति से होगा।",
+   717→      "Bihar Board",
+   718→      2021.0,
+   719→      null
+   720→    ]
+   721→  },
+   722→  {
+   723→    "sheet": "Class10",
+   724→    "row": 1038,
+   725→    "data": [
+   726→      "SST",
+   727→      1.0,
+   728→      "यूरोप में राष्ट्रवाद का उदय",
+   729→      "Hindi",
+   730→      "क्रांति-पूर्व फ्रांस में 'टाइल' (Taille) क्या था?",
+   731→      "नमक पर कर",
+   732→      "तीसरे एस्टेट द्वारा दिया जाने वाला प्रत्यक्ष कर",
+   733→      "तंबाकू पर कर",
+   734→      "एक धार्मिक कर",
+   735→      2.0,
+   736→      "टाइल एक प्रत्यक्ष भूमि कर था जिससे पादरी और कुलीन वर्ग मुक्त थे, जिससे पूरा वित्तीय बोझ तीसरे एस्टेट के आम लोगों पर पड़ता था।",
+   737→      "UP Board",
+   738→      2023.0,
+   739→      null
+   740→    ]
+   741→  },
+   742→  {
+   743→    "sheet": "Class10",
+   744→    "row": 1039,
+   745→    "data": [
+   746→      "SST",
+   747→      1.0,
+   748→      "यूरोप में राष्ट्रवाद का उदय",
+   749→      "Hindi",
+   750→      "निम्नलिखित में से कौन सा इतालवी एकीकरण पर 'कार्बोनरी' के प्रभाव का वर्णन करता है?",
+   751→      "उन्होंने फ्रांस के खिलाफ अंतिम युद्ध का नेतृत्व किया",
+   752→      "उन्होंने गुप्त संस्थाओं के माध्यम से प्रारंभिक क्रांतिकारी चिंगारी प्रदान की",
+   753→      "वे रूढ़िवादी राजाओं का एक समूह थे",
+   754→      "वे ब्रिटिश जासूस थे",
+   755→      2.0,
+   756→      "कार्बोनरी ने 1800 के दशक की शुरुआत में निरंकुश शासन के खिलाफ गुप्त विद्रोह आयोजित करके इतालवी राष्ट्रवाद के प्रारंभिक चरणों में महत्वपूर्ण भूमिका निभाई थी।",
+   757→      "CBSE",
+   758→      2020.0,
+   759→      null
+   760→    ]
+   761→  },
+   762→  {
+   763→    "sheet": "Class10",
+   764→    "row": 1040,
+   765→    "data": [
+   766→      "SST",
+   767→      1.0,
+   768→      "यूरोप में राष्ट्रवाद का उदय",
+   769→      "Hindi",
+   770→      "जर्मन राज्यों में 1848 की क्रांति का प्राथमिक कारण क्या था?",
+   771→      "संविधान और राष्ट्रीय एकीकरण की मांग",
+   772→      "रूसी ज़ार के लिए समर्थन",
+   773→      "ओटोमन साम्राज्य में शामिल होने की इच्छा",
+   774→      "एक धार्मिक युद्ध",
+   775→      1.0,
+   776→      "1848 में, जर्मन उदारवादियों और मध्यम वर्ग ने एक संविधान और संसद द्वारा शासित राष्ट्र-राज्य के निर्माण की मांग की थी।",
+   777→      "CBSE",
+   778→      2021.0,
+   779→      null
+   780→    ]
+   781→  },
+   782→  {
+   783→    "sheet": "Class10",
+   784→    "row": 1041,
+   785→    "data": [
+   786→      "SST",
+   787→      1.0,
+   788→      "यूरोप में राष्ट्रवाद का उदय",
+   789→      "Hindi",
+   790→      "इतालवी क्रांति के संदर्भ में 'लाज़ारोनी' (Lazzaroni) कौन थे?",
+   791→      "उच्च पदस्थ जनरल",
+   792→      "नेपल्स में निम्न वर्गों के सबसे गरीब लोग",
+   793→      "धनी व्यापारी",
+   794→      "विश्वविद्यालय के प्रोफेसर",
+   795→      2.0,
+   796→      "लाज़ारोनी नेपल्स के निम्न वर्ग के लोग थे जिनका उपयोग अक्सर रूढ़िवादी शासनों द्वारा उदारवादी और राष्ट्रवादी आंदोलनों का मुकाबला करने के लिए किया जाता था।",
+   797→      "UP Board",
+   798→      2018.0,
+   799→      null
+   800→    ]
+   801→  },
+   802→  {
+   803→    "sheet": "Class10",
+   804→    "row": 1042,
+   805→    "data": [
+   806→      "SST",
+   807→      1.0,
+   808→      "यूरोप में राष्ट्रवाद का उदय",
+   809→      "Hindi",
+   810→      "1815 में किस संधि ने रूस को पोलैंड के एक बड़े हिस्से पर नियंत्रण प्राप्त करने की अनुमति दी?",
+   811→      "पेरिस की संधि",
+   812→      "वियना कांग्रेस",
+   813→      "लंदन की संधि",
+   814→      "बर्लिन की संधि",
+   815→      2.0,
+   816→      "वियना कांग्रेस में, पोलैंड को फिर से विभाजित किया गया और रूसी ज़ार के शासन में 'कांग्रेस पोलैंड' के रूप में जाना जाने वाला एक राज्य स्थापित किया गया।",
+   817→      "CBSE",
+   818→      2022.0,
+   819→      null
+   820→    ]
+   821→  },
+   822→  {
+   823→    "sheet": "Class10",
+   824→    "row": 1043,
+   825→    "data": [
+   826→      "SST",
+   827→      1.0,
+   828→      "यूरोप में राष्ट्रवाद का उदय",
+   829→      "Hindi",
+   830→      "19वीं सदी के अंत में बाल्कन के लोगों के लिए 'राष्ट्रवाद' का क्या अर्थ था?",
+   831→      "ओटोमन सुल्तान के प्रति वफादारी",
+   832→      "व्यक्तिगत स्वतंत्रता और राष्ट्रीय स्वतंत्रता के लिए संघर्ष",
+   833→      "औद्योगिकीकरण की इच्छा",
+   834→      "ऑस्ट्रियाई सम्राट के लिए समर्थन",
+   835→      2.0,
+   836→      "बाल्कन में राष्ट्रवाद को उन जातीय समूहों द्वारा परिभाषित किया गया था जो अपने स्वयं के स्वतंत्र राष्ट्र-राज्य स्थापित करने के लिए ओटोमन शासन से अलग होना चाहते थे।",
+   837→      "CBSE",
+   838→      2020.0,
+   839→      null
+   840→    ]
+   841→  },
+   842→  {
+   843→    "sheet": "Class10",
+   844→    "row": 1044,
+   845→    "data": [
+   846→      "SST",
+   847→      1.0,
+   848→      "यूरोप में राष्ट्रवाद का उदय",
+   849→      "Hindi",
+   850→      "1815 के बाद 'रूढ़िवाद' (Conservatism) की विशेषता क्या थी?",
+   851→      "तीव्र सामाजिक परिवर्तन में विश्वास",
+   852→      "क्रांति-पूर्व सामाजिक पदानुक्रम की ओर वापसी",
+   853→      "राजतंत्र का पूर्ण उन्मूलन",
+   854→      "सार्वभौमिक मताधिकार को बढ़ावा देना",
+   855→      2.0,
+   856→      "1815 के बाद, यूरोपीय रूढ़िवादियों का उद्देश्य राज्य और समाज की पारंपरिक संस्थाओं—जैसे राजतंत्र, चर्च और सामाजिक पदानुक्रम को संरक्षित करना था।",
+   857→      "CBSE",
+   858→      2019.0,
+   859→      null
+   860→    ]
+   861→  },
+   862→  {
+   863→    "sheet": "Class10",
+   864→    "row": 1045,
+   865→    "data": [
+   866→      "SST",
+   867→      1.0,
+   868→      "यूरोप में राष्ट्रवाद का उदय",
+   869→      "Hindi",
+   870→      "यूरोप में राष्ट्रवाद की 'पहली अभिव्यक्ति' किस घटना को माना जाता है?",
+   871→      "जर्मनी का एकीकरण",
+   872→      "1789 की फ्रांसीसी क्रांति",
+   873→      "गौरवशाली क्रांति (Glorious Revolution)",
+   874→      "औद्योगिक क्रांति",
+   875→      2.0,
+   876→      "1789 की फ्रांसीसी क्रांति को व्यापक रूप से राष्ट्रवाद की पहली स्पष्ट अभिव्यक्ति माना जाता है क्योंकि इसने संप्रभुता को राजा से नागरिकों की ओर स्थानांतरित कर दिया था।",
+   877→      "CBSE",
+   878→      2023.0,
+   879→      null
+   880→    ]
+   881→  },
+   882→  {
+   883→    "sheet": "Class10",
+   884→    "row": 1046,
+   885→    "data": [
+   886→      "SST",
+   887→      1.0,
+   888→      "यूरोप में राष्ट्रवाद का उदय",
+   889→      "Hindi",
+   890→      "यंग यूरोप' (Young Europe) गुप्त संस्था का नेता कौन था?",
+   891→      "ओटो वॉन बिस्मार्क",
+   892→      "ज्युसेपे मैजिनी",
+   893→      "काउंट कावूर",
+   894→      "मेटरनिख",
+   895→      2.0,
+   896→      "यंग इटली' की सफलता के बाद, ज्युसेपे मैजिनी ने 1834 में बर्न में 'यंग यूरोप' की स्थापना की ताकि पूरे महाद्वीप के समान विचारधारा वाले क्रांतिकारियों को एकजुट किया जा सके।",
+   897→      "CBSE",
+   898→      2021.0,
+   899→      null
+   900→    ]
+   901→  },
+   902→  {
+   903→    "sheet": "Class10",
+   904→    "row": 1047,
+   905→    "data": [
+   906→      "SST",
+   907→      1.0,
+   908→      "यूरोप में राष्ट्रवाद का उदय",
+   909→      "Hindi",
+   910→      "1848 में, 'मार्च क्रांति' (March Revolution) मुख्य रूप से कहाँ हुई थी?",
+   911→      "ब्रिटेन",
+   912→      "जर्मन राज्यों और ऑस्ट्रिया में",
+   913→      "रूस",
+   914→      "स्पेन",
+   915→      2.0,
+   916→      "मार्च क्रांतियां जर्मन महासंघ के राज्यों में विरोध प्रदर्शनों और विद्रोहों की एक श्रृंखला थी, जिसमें ऑस्ट्रिया भी शामिल था।",
+   917→      "Bihar Board",
+   918→      2022.0,
+   919→      null
+   920→    ]
+   921→  },
+   922→  {
+   923→    "sheet": "Class10",
+   924→    "row": 1048,
+   925→    "data": [
+   926→      "SST",
+   927→      1.0,
+   928→      "यूरोप में राष्ट्रवाद का उदय",
+   929→      "Hindi",
+   930→      "एम्स टेलीग्राम' (Ems Telegram) की घटना किससे संबंधित है?",
+   931→      "इतालवी एकीकरण",
+   932→      "फ्रेंको-प्रशिया युद्ध",
+   933→      "फ्रांसीसी क्रांति",
+   934→      "यूनानी स्वतंत्रता संग्राम",
+   935→      2.0,
+   936→      "बिस्मार्क ने राजा विलियम प्रथम के एक टेलीग्राम को इस तरह संपादित किया कि वह फ्रांसीसियों के लिए अपमानजनक लगे, जिससे फ्रांस ने 1870 में प्रशिया के खिलाफ युद्ध की घोषणा कर दी।",
+   937→      "UP Board",
+   938→      2020.0,
+   939→      null
+   940→    ]
+   941→  },
+   942→  {
+   943→    "sheet": "Class10",
+   944→    "row": 1049,
+   945→    "data": [
+   946→      "SST",
+   947→      1.0,
+   948→      "यूरोप में राष्ट्रवाद का उदय",
+   949→      "Hindi",
+   950→      "कौन सा सामाजिक वर्ग 'उदारवादी राष्ट्रवाद' का सबसे मुखर समर्थक बना?",
+   951→      "किसान वर्ग",
+   952→      "शिक्षित मध्यम वर्ग",
+   953→      "पादरी वर्ग",
+   954→      "कुलीन वर्ग",
+   955→      2.0,
+   956→      "नए मध्यम वर्ग—जिसमें उद्योगपति, डॉक्टर और शिक्षक शामिल थे—ने राष्ट्रीय एकता और कुलीन विशेषाधिकारों के अंत की मांग की थी।",
+   957→      "CBSE",
+   958→      2018.0,
+   959→      null
+   960→    ]
+   961→  },
+   962→  {
+   963→    "sheet": "Class10",
+   964→    "row": 1050,
+   965→    "data": [
+   966→      "SST",
+   967→      1.0,
+   968→      "यूरोप में राष्ट्रवाद का उदय",
+   969→      "Hindi",
+   970→      "1815 में गठित 'होली अलायंस' (Holy Alliance) का मुख्य उद्देश्य क्या था?",
+   971→      "लोकतंत्र को बढ़ावा देना",
+   972→      "क्रांति के खिलाफ राजतंत्रों की रक्षा करना",
+   973→      "एशिया के साथ व्यापार को प्रोत्साहित करना",
+   974→      "अमेरिकी उपनिवेशों को विभाजित करना",
+   975→      2.0,
+   976→      "होली अलायंस रूस, ऑस्ट्रिया और प्रशिया की राजशाही शक्तियों द्वारा यूरोप में क्रांतिकारी प्रभावों को दबाने के लिए बनाया गया एक गठबंधन था।",
+   977→      "CBSE",
+   978→      2017.0,
+   979→      null
+   980→    ]
+   981→  },
+   982→  {
+   983→    "sheet": "Class10",
+   984→    "row": 1051,
+   985→    "data": [
+   986→      "SST",
+   987→      1.0,
+   988→      "यूरोप में राष्ट्रवाद का उदय",
+   989→      "Hindi",
+   990→      "फ्रांस में 'द्वितीय गणराज्य' (Second Republic) की स्थापना किस घटना के बाद हुई थी?",
+   991→      "1789 की फ्रांसीसी क्रांति",
+   992→      "1830 की क्रांति",
+   993→      "1848 की क्रांति",
+   994→      "फ्रेंको-प्रशिया युद्ध",
+   995→      3.0,
+   996→      "1848 की क्रांति के कारण संवैधानिक राजतंत्र का अंत हुआ और द्वितीय गणराज्य का जन्म हुआ, जिसने सभी वयस्क पुरुषों को मतदान का अधिकार दिया।",
+   997→      "CBSE",
+   998→      2019.0,
+   999→      null
+  1000→    ]
+  1001→  }
+  1002→]

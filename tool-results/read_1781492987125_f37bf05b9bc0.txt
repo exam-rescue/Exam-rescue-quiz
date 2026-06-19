@@ -1,0 +1,1002 @@
+     1→[
+     2→  {
+     3→    "sheet": "Class11",
+     4→    "row": 2290,
+     5→    "data": [
+     6→      "Biology",
+     7→      null,
+     8→      "Plant Growth and Development",
+     9→      "English",
+    10→      "Abscisic acid causes",
+    11→      "stomatal closure",
+    12→      "stem elongation",
+    13→      "leaf expansion",
+    14→      "root elongation",
+    15→      1.0,
+    16→      "Application of minute quantity of abscisic acid to leaves shall reduce transpiration to a great extent through partial closure of stomata.",
+    17→      "CBSE AIPMT",
+    18→      null,
+    19→      null
+    20→    ]
+    21→  },
+    22→  {
+    23→    "sheet": "Class11",
+    24→    "row": 2291,
+    25→    "data": [
+    26→      "Biology",
+    27→      null,
+    28→      "Plant Growth and Development",
+    29→      "English",
+    30→      "The hormone responsible for apical dominance is",
+    31→      "IAA",
+    32→      "GA",
+    33→      "ABA",
+    34→      "florigen",
+    35→      1.0,
+    36→      "Apical dominance is the phenomenon in which the presence of apical bud does not allow the nearby lateral buds to grow. This is characteristically caused by high auxin concentration.",
+    37→      "CBSE AIPMT , 92",
+    38→      null,
+    39→      null
+    40→    ]
+    41→  },
+    42→  {
+    43→    "sheet": "Class11",
+    44→    "row": 2292,
+    45→    "data": [
+    46→      "Biology",
+    47→      null,
+    48→      "Plant Growth and Development",
+    49→      "English",
+    50→      "Which of the following movement is not related to auxin level?",
+    51→      "Bending of shoot towards light",
+    52→      "Movement of root towards soil",
+    53→      "Nyctinastic leaf movements",
+    54→      "Movement of sunflower head tracking the sun",
+    55→      3.0,
+    56→      "Phototropic movements, e.g. bending of shoot toward light, movement of sunflower head tracking the sun, etc. and geotropic movement, e.g. movement of root towards soil are mediated through differential distribution of IAA. Nyctinastic leaf movements are affected by diurnal variation of light intensity and temperature, such as elliptical up and down movement of the two lateral leaflet.",
+    57→      "CBSE AIPMT",
+    58→      null,
+    59→      null
+    60→    ]
+    61→  },
+    62→  {
+    63→    "sheet": "Class11",
+    64→    "row": 2293,
+    65→    "data": [
+    66→      "Biology",
+    67→      null,
+    68→      "Plant Growth and Development",
+    69→      "English",
+    70→      "Phototropic and geotropic movements are linked to",
+    71→      "gibberellins",
+    72→      "enzymes",
+    73→      "auxins",
+    74→      "cytokinins",
+    75→      3.0,
+    76→      "Differential distribution of indole 3-acetic acid produces tropical plant responses like phototropism and geotropism. Phototropism is directional growth movement of curvature induced by direction of light while geotropism is directional movement of curvature caused by the unilateral application of force of gravity.",
+    77→      "CBSE AIPMT",
+    78→      null,
+    79→      null
+    80→    ]
+    81→  },
+    82→  {
+    83→    "sheet": "Class11",
+    84→    "row": 2294,
+    85→    "data": [
+    86→      "Biology",
+    87→      null,
+    88→      "Plant Growth and Development",
+    89→      "English",
+    90→      "Phytohormones are",
+    91→      "chemicals regulating flowering",
+    92→      "chemicals regulating secondary growth",
+    93→      "hormones regulating growth from seed to adulthood",
+    94→      "regulators synthesised by plants and influencing physiological processes",
+    95→      4.0,
+    96→      "Phytohormones (Thimann; 1948) are the plant hormones, i.e. the organic substances which are naturally produced in plants, control the growth or other physiological functions at a site away from their place of synthesis and active in extremely minute quantities. 148",
+    97→      "CBSE AIPMT",
+    98→      null,
+    99→      null
+   100→    ]
+   101→  },
+   102→  {
+   103→    "sheet": "Class11",
+   104→    "row": 2295,
+   105→    "data": [
+   106→      "Biology",
+   107→      null,
+   108→      "Plant Growth and Development",
+   109→      "English",
+   110→      "Abscisic acid controls",
+   111→      "cell division",
+   112→      "leaf fall and dormancy",
+   113→      "shoot elongation",
+   114→      "cell elongation and wall formation",
+   115→      2.0,
+   116→      "Abscisic Acid (ABA) is called stress hormone or dormin. It is a growth retarding hormone which induces dormancy, promotes ageing and abscission of fruits, leaves and flowers. It also causes closure of stomata and overcome the conditions of stress.",
+   117→      "CBSE AIPMT , 93, 99, 2000",
+   118→      null,
+   119→      null
+   120→    ]
+   121→  },
+   122→  {
+   123→    "sheet": "Class11",
+   124→    "row": 2296,
+   125→    "data": [
+   126→      "Biology",
+   127→      null,
+   128→      "Plant Growth and Development",
+   129→      "English",
+   130→      "Mowing grass lawn facilitates better maintenance because",
+   131→      "wounding stimulates regeneration",
+   132→      "removal of apical dominance and stimulation of intercalary meristem",
+   133→      "removal of apical dominance",
+   134→      "removal of apical dominance and promotion of lateral meristem",
+   135→      4.0,
+   136→      "Apical dominance of terminal bud is due to the secretion of auxin (IAA) by it. According to Thimann and Skoog (1933) removal of apical bud causes sprouting of lateral buds with stimulation of intercalary meristem and this is the reason that mowing grass lawn facilitates better maintenance.",
+   137→      "CBSE AIPMT",
+   138→      null,
+   139→      null
+   140→    ]
+   141→  },
+   142→  {
+   143→    "sheet": "Class11",
+   144→    "row": 2297,
+   145→    "data": [
+   146→      "Biology",
+   147→      null,
+   148→      "Plant Growth and Development",
+   149→      "English",
+   150→      "Leaf fall can be prevented with the help of",
+   151→      "abscisic acid",
+   152→      "auxins",
+   153→      "florigen",
+   154→      "cytokinins",
+   155→      4.0,
+   156→      "Cytokinin retards senescence and ageing of leaves by preventing disappearance of chlorophyll and degradation of proteins that occur with the ageing process of leaves.",
+   157→      "CBSE AIPMT",
+   158→      null,
+   159→      null
+   160→    ]
+   161→  },
+   162→  {
+   163→    "sheet": "Class11",
+   164→    "row": 2298,
+   165→    "data": [
+   166→      "Biology",
+   167→      null,
+   168→      "Something went wrong. Try again.",
+   169→      "English",
+   170→      "Which of the following hormones can replace vernalisation?",
+   171→      "Auxin",
+   172→      "Cytokinin",
+   173→      "Gibberellins",
+   174→      "Ethylene",
+   175→      3.0,
+   176→      "Vernalisation refers to the application of low temperature to moistened seeds and young plants, causing shortening of vegetative phase and initiation of reproductive phase. Chailakhyan (1968) reported that under long-day conditions vernalin hormone turn into gibberellin and thus, in some plants, the requirement for vernalisation is overcome by gibberellins.",
+   177→      "CBSE AIPMT",
+   178→      null,
+   179→      null
+   180→    ]
+   181→  },
+   182→  {
+   183→    "sheet": "Class11",
+   184→    "row": 2299,
+   185→    "data": [
+   186→      "Biology",
+   187→      null,
+   188→      "Anatomy of Flowering Plants",
+   189→      "English",
+   190→      "Leaves of many grasses are capable of folding and unfolding because they",
+   191→      "are very thin",
+   192→      "are isobilateral",
+   193→      "have specialised bulliform cells",
+   194→      "have parallel vascular bundles",
+   195→      3.0,
+   196→      "Leaves of monocots are characterised as isobilateral (equally green on both the surfaces), amphistomatic (stomata on both surface), dumb bell-shaped guard cells. The upper epidermis possesses groups of larger sized thin walled vacuolate cells called bulliform or motor cells. Bulliform cells help in rolling of leaves during water stress or drought.",
+   197→      "CBSE AIPMT",
+   198→      null,
+   199→      null
+   200→    ]
+   201→  },
+   202→  {
+   203→    "sheet": "Class11",
+   204→    "row": 2300,
+   205→    "data": [
+   206→      "Biology",
+   207→      null,
+   208→      "Plant Growth and Development",
+   209→      "English",
+   210→      "Movement of leaves of sensitive plant, Mimosa pudica is due to",
+   211→      "thermonasty",
+   212→      "seismonasty",
+   213→      "hydrotropism",
+   214→      "chemonasty",
+   215→      2.0,
+   216→      "In seismonastic movement, response is made to mechanical shocks such as blows, shaking or pressure. In Mimosa, turgor changes occur in thin walled cells of pulvinus (lower side) and pulvinnules (upper side), causing folding of pinnules, drooping of compound leaves.",
+   217→      "CBSE AIPMT",
+   218→      null,
+   219→      null
+   220→    ]
+   221→  },
+   222→  {
+   223→    "sheet": "Class11",
+   224→    "row": 2301,
+   225→    "data": [
+   226→      "Biology",
+   227→      null,
+   228→      "Plant Growth and Development",
+   229→      "English",
+   230→      "Out or excised leaves remain green for long if induced to root or dipped in",
+   231→      "gibberellins",
+   232→      "cytokinins",
+   233→      "auxins",
+   234→      "ethylene",
+   235→      2.0,
+   236→      "In Richmond-Lang effect, cytokinin delays senescence of leaves. As cytokinin treated detached leaves remain green after a period of twenty days whereas controlled leaves were completely yellow and drying at tips and margins. It was concluded that cytokinin was able to postpone for a number of days the disappearance of chlorophyll and degradation of proteins that normally occur with the ageing process of leaves.",
+   237→      "CBSE AIPMT",
+   238→      null,
+   239→      null
+   240→    ]
+   241→  },
+   242→  {
+   243→    "sheet": "Class11",
+   244→    "row": 2302,
+   245→    "data": [
+   246→      "Biology",
+   247→      null,
+   248→      "Plant Growth and Development",
+   249→      "English",
+   250→      "Hormone primarily connected with cell division is",
+   251→      "IAA",
+   252→      "NAA",
+   253→      "cytokinin/zeatin",
+   254→      "gibberellic acid",
+   255→      3.0,
+   256→      "Cell division is by far the most characteristic property associated with cytokinins, though cytokinin never acts alone, as in combination with auxins, cytokinins stimulate cell division even in non-meristematic tissues. TOPIC 2 Photoperiodism, Vernalisation and Senescence",
+   257→      "CBSE AIPMT , 91",
+   258→      null,
+   259→      null
+   260→    ]
+   261→  },
+   262→  {
+   263→    "sheet": "Class11",
+   264→    "row": 2303,
+   265→    "data": [
+   266→      "Biology",
+   267→      null,
+   268→      "Plant Growth and Development",
+   269→      "English",
+   270→      "The site of perception of light in plants during photoperiodism is",
+   271→      "shoot apex",
+   272→      "stem",
+   273→      "axillary bud",
+   274→      "leaf",
+   275→      4.0,
+   276→      "The response of plants to periods of day/night is termed as photoperiodism. The site of perception of photoperiod is leaf. The hormone florigen is responsible for inducing flowering as it migrates from leaves to shoot apices on induction of required photoperiods. Plant Growth and Development 149",
+   277→      "NEET",
+   278→      null,
+   279→      null
+   280→    ]
+   281→  },
+   282→  {
+   283→    "sheet": "Class11",
+   284→    "row": 2304,
+   285→    "data": [
+   286→      "Biology",
+   287→      null,
+   288→      "Plant Growth and Development",
+   289→      "English",
+   290→      "What is the site of perception of photoperiod necessary for induction of flowering in plants?",
+   291→      "Pulvinus",
+   292→      "Shoot apex",
+   293→      "Leaves",
+   294→      "Lateral buds",
+   295→      3.0,
+   296→      "For the induction of flowering in plants, photoperiod stimulus is percieved by the leaves of plants. As a result, floral hormones are produced in the leaves which are then translocated to the apical part and subsequently cause the initiation of floral primordial growth.",
+   297→      "NEET (National)",
+   298→      null,
+   299→      null
+   300→    ]
+   301→  },
+   302→  {
+   303→    "sheet": "Class11",
+   304→    "row": 2305,
+   305→    "data": [
+   306→      "Biology",
+   307→      null,
+   308→      "Plant Growth and Development",
+   309→      "English",
+   310→      "Phytochrome is a",
+   311→      "flavoprotein",
+   312→      "glycoprotein",
+   313→      "lipoprotein",
+   314→      "chromoprotein",
+   315→      4.0,
+   316→      "Phytochrome is a chromoprotein which exist in two forms,Pr andPfr. These are inter-convertible. When plants get red right this protein gets converted intoPfr formPr and vice versa. It controls the photoperiodism in the plants.",
+   317→      "NEET , Phase II",
+   318→      null,
+   319→      null
+   320→    ]
+   321→  },
+   322→  {
+   323→    "sheet": "Class11",
+   324→    "row": 2306,
+   325→    "data": [
+   326→      "Biology",
+   327→      null,
+   328→      "Plant Growth and Development",
+   329→      "English",
+   330→      "A few normal seedlings of tomato were kept in a dark room. After a few days they were found to have become white-coloured like albinos. Which of the following terms will you use to describe them?",
+   331→      "Mutated",
+   332→      "Embolised",
+   333→      "Etiolated",
+   334→      "Defoliated",
+   335→      3.0,
+   336→      "Etiolation is a process in which flowering plants are grown in partial or complete absence of light. Etiolation is mainly characterised by long and weak stem and smaller, sparse pale yellow colour of leaves due to the longer internodes. Thus due to this tomato seeding became white coloured.",
+   337→      "CBSE AIPMT",
+   338→      null,
+   339→      null
+   340→    ]
+   341→  },
+   342→  {
+   343→    "sheet": "Class11",
+   344→    "row": 2307,
+   345→    "data": [
+   346→      "Biology",
+   347→      null,
+   348→      "Plant Growth and Development",
+   349→      "English",
+   350→      "Importance of day length in flowering of plants was first shown in",
+   351→      "Lemna",
+   352→      "tobacco",
+   353→      "cotton",
+   354→      "Petunia",
+   355→      2.0,
+   356→      "Photoperiodism was first discovered by Garner and Allard (1920, 1922). They observed that maryland mammoth variety of tobacco could be made to flower only by reducing the light hours with artificial darkning. On the basis of photoperiodic response to flowering plants have been divided into short day plants (tobacco), long day plant (e.g. wheat, hanbane), short long day plants. (e.g. Campanula), long short day plants (e.g. Bryophyllum) intermediate plants (e.g. wild kidney bean) and day neutral plants (e.g. cotton).",
+   357→      "CBSE AIPMT",
+   358→      null,
+   359→      null
+   360→    ]
+   361→  },
+   362→  {
+   363→    "sheet": "Class11",
+   364→    "row": 2308,
+   365→    "data": [
+   366→      "Biology",
+   367→      null,
+   368→      "Plant Growth and Development",
+   369→      "English",
+   370→      "The wavelength of light absorbed by Pr form of phytochrome is",
+   371→      "640 nm",
+   372→      "680 nm",
+   373→      "720 nm",
+   374→      "620 nm",
+   375→      2.0,
+   376→      "When Pr absorbs red light (650-670 nm) it is converted into Pfr form and when Pfr absorbs far red light (730-735 nm) it is converted back into Pr form.",
+   377→      "CBSE AIPMT",
+   378→      null,
+   379→      null
+   380→    ]
+   381→  },
+   382→  {
+   383→    "sheet": "Class11",
+   384→    "row": 2309,
+   385→    "data": [
+   386→      "Biology",
+   387→      null,
+   388→      "Plant Growth and Development",
+   389→      "English",
+   390→      "One set of a plant was grown at 12 hr day and 12 hr night period cycles and it flowered while in the other set night phase was interrupted by flash of light and it did not produce flower. Under which one of the following categories will you place this plant?",
+   391→      "Long-day",
+   392→      "Darkness neutral",
+   393→      "Day neutral",
+   394→      "Short-day",
+   395→      4.0,
+   396→      "The condition shows that the plant require photo-period shorter than the critical day length. This plant needs uninterrupted dark period for flowering. Therefore, it is a short-day plant and these do not flower if the dark period is interrupted with flashes of light.",
+   397→      "CBSE AIPMT",
+   398→      null,
+   399→      null
+   400→    ]
+   401→  },
+   402→  {
+   403→    "sheet": "Class11",
+   404→    "row": 2310,
+   405→    "data": [
+   406→      "Biology",
+   407→      null,
+   408→      "Plant Growth and Development",
+   409→      "English",
+   410→      "Which one is a long-day plant?",
+   411→      "Tobacco",
+   412→      "Glycine max",
+   413→      "Mirabilis jalapa",
+   414→      "Spinach",
+   415→      4.0,
+   416→      "Plants which require long-day photoperiod for flowering and a small dark period for vegetation are known as",
+   417→      "CBSE AIPMT",
+   418→      null,
+   419→      null
+   420→    ]
+   421→  },
+   422→  {
+   423→    "sheet": "Class11",
+   424→    "row": 2311,
+   425→    "data": [
+   426→      "Biology",
+   427→      null,
+   428→      "Plant Growth and Development",
+   429→      "English",
+   430→      "Proteinaceous pigment which control activities concerned with light",
+   431→      "phytochrome",
+   432→      "chlorophyll",
+   433→      "anthocyanin",
+   434→      "carotenoids",
+   435→      1.0,
+   436→      "Phytochromes are the plant chromoproteins, containing protein pigment existing in two inter-convertible forms—Pr (absorbs red light- 660 nm) andPfr (absorbs far red light-730 nm). It controls flowering, seed dormancy, etc.",
+   437→      "CBSE AIPMT",
+   438→      null,
+   439→      null
+   440→    ]
+   441→  },
+   442→  {
+   443→    "sheet": "Class11",
+   444→    "row": 2312,
+   445→    "data": [
+   446→      "Biology",
+   447→      null,
+   448→      "Something went wrong. Try again.",
+   449→      "English",
+   450→      "The method that renders the seed coat permeable to water so that embryo expansion is not physically retarded, is",
+   451→      "vernalisation",
+   452→      "stratification",
+   453→      "denudation",
+   454→      "scarification",
+   455→      4.0,
+   456→      "In many plants, the seed coats are quite tough and provide mechanical resistance to the growth of the embryos. Scarification done by abrasion through machine, threshing, filing, etc this process is done to rupture or weaken the seed coat and promote germination.",
+   457→      "CBSE AIPMT",
+   458→      null,
+   459→      null
+   460→    ]
+   461→  },
+   462→  {
+   463→    "sheet": "Class11",
+   464→    "row": 2313,
+   465→    "data": [
+   466→      "Biology",
+   467→      null,
+   468→      "Plant Growth and Development",
+   469→      "English",
+   470→      "The response of different organisms to environmental rhythms of light and darkness is called",
+   471→      "phototaxis",
+   472→      "photoperiodism",
+   473→      "phototropism",
+   474→      "vernalisation",
+   475→      2.0,
+   476→      "Photoperiodism is the term to denote a biological response to changes in the ratio of light and darkness in a 24 hrs cycle.",
+   477→      "CBSE AIPMT",
+   478→      null,
+   479→      null
+   480→    ]
+   481→  },
+   482→  {
+   483→    "sheet": "Class11",
+   484→    "row": 2314,
+   485→    "data": [
+   486→      "Biology",
+   487→      null,
+   488→      "Plant Growth and Development",
+   489→      "English",
+   490→      "The pigment, that absorbs red and far-red light in plants, is",
+   491→      "xanthophyll",
+   492→      "cytochrome",
+   493→      "phytochrome",
+   494→      "carotene",
+   495→      3.0,
+   496→      "Phytochrome is a type of pigment which absorbs red or far-red light and its absorbing region is closely associated with protein. The phytochrome pigment is found to be present in two photoreversible forms Pr (P660 ) andP (P ) fr 730 ⋅ Red light P P r fr long-day plants, e.g. spinach. (inactive) Far red (active) 150",
+   497→      "CBSE AIPMT , 2002",
+   498→      null,
+   499→      null
+   500→    ]
+   501→  },
+   502→  {
+   503→    "sheet": "Class11",
+   504→    "row": 2315,
+   505→    "data": [
+   506→      "Biology",
+   507→      null,
+   508→      "Plant Growth and Development",
+   509→      "English",
+   510→      "What will be the effect on phytochrome in a plant subjected to continuous red light?",
+   511→      "Level of phytochrome decreases",
+   512→      "Phytochrome is destroyed",
+   513→      "Phytochrome synthesis increases",
+   514→      "Destruction and synthesis of phytochrome remain in equilibrium",
+   515→      2.0,
+   516→      "Continuous exposure to red light causes (a) conversion ofPr-Pfr which is rapidly destroyed, (b) inhibition of synthesis ofPr. Thus, total amount of phytochrome is decreased.",
+   517→      "CBSE AIPMT",
+   518→      null,
+   519→      null
+   520→    ]
+   521→  },
+   522→  {
+   523→    "sheet": "Class11",
+   524→    "row": 2316,
+   525→    "data": [
+   526→      "Biology",
+   527→      null,
+   528→      "Plant Growth and Development",
+   529→      "English",
+   530→      "If a tree, flowers thrice in a year (Oct., Jan. and July) in Northern India, it is said to be",
+   531→      "photosensitive but thermoinsensitive",
+   532→      "thermosensitive but photoinsensitive",
+   533→      "hoto and thermosensitive",
+   534→      "photo and thermoinsensitive",
+   535→      4.0,
+   536→      "Since, flowering can take place during any part of the year, therefore, the plant is not sensitive to photoperiod and temperature.",
+   537→      "CBSE AIPMT",
+   538→      null,
+   539→      null
+   540→    ]
+   541→  },
+   542→  {
+   543→    "sheet": "Class11",
+   544→    "row": 2317,
+   545→    "data": [
+   546→      "Biology",
+   547→      null,
+   548→      "Plant Growth and Development",
+   549→      "English",
+   550→      "In short-day plants, flowering is induced by",
+   551→      "photoperiod less than 12 hrs",
+   552→      "photoperiod below a critical length and uninterrupted long night",
+   553→      "long night",
+   554→      "short photoperiod and interrupted long night",
+   555→      2.0,
+   556→      "In short-day plants, flowering is induced when the day length do not exceed a certain critical value, the day length required is less than a certain critical length. Short-day plants may be more correctly called long night plants as a certain minimum of uninterrupted dark period in 24 hrs is necessary for their flowering. Short-day plants will not flower if the dark period is less than a critical length.",
+   557→      "CBSE AIPMT",
+   558→      null,
+   559→      null
+   560→    ]
+   561→  },
+   562→  {
+   563→    "sheet": "Class11",
+   564→    "row": 2318,
+   565→    "data": [
+   566→      "Biology",
+   567→      null,
+   568→      "Plant Growth and Development",
+   569→      "English",
+   570→      "Flowering dependent on cold treatment is",
+   571→      "cryotherapy",
+   572→      "cryogenics",
+   573→      "cryoscopy",
+   574→      "vernalisation",
+   575→      4.0,
+   576→      "Vernalisation is a process of shortening of juvenile or vegetative phase and hastening flowering by a previous cold treatment.",
+   577→      "CBSE AIPMT",
+   578→      null,
+   579→      null
+   580→    ]
+   581→  },
+   582→  {
+   583→    "sheet": "Class11",
+   584→    "row": 2319,
+   585→    "data": [
+   586→      "Biology",
+   587→      null,
+   588→      "Plant Growth and Development",
+   589→      "English",
+   590→      "Which one increases in the absence of light?",
+   591→      "Uptake of minerals",
+   592→      "Uptake of water",
+   593→      "Elongation of internodes",
+   594→      "Ascent of sap",
+   595→      3.0,
+   596→      "In general intense light retards growth in plants. High light intensities induce dwarfening of the plant. Absence of light reduces the overall growth, photosynthesis, uptake of minerals and ascent of sap. However, the elongation of internodes is seen to occur in the absence of light.",
+   597→      "CBSE AIPMT",
+   598→      null,
+   599→      null
+   600→    ]
+   601→  },
+   602→  {
+   603→    "sheet": "Class11",
+   604→    "row": 2320,
+   605→    "data": [
+   606→      "Biology",
+   607→      null,
+   608→      "Plant Growth and Development",
+   609→      "English",
+   610→      "Phytochrome is involved in",
+   611→      "phototropism",
+   612→      "photorespiration",
+   613→      "photoperiodism",
+   614→      "geotropism",
+   615→      3.0,
+   616→      "Phytochrome is a chromoprotein (photosensitive pigment) that exists in two states,Pr (red) orP660 andPfr (far red) orP730 . Phytochrome is involved in photomorphogenetic responses, seed germination, bud dormancy, synthesis of gibberellin and ethylene and photoperiodism. 16 Digestion and Absorption TOPIC 1 Components of Food and Digestive System",
+   617→      "CBSE AIPMT",
+   618→      null,
+   619→      null
+   620→    ]
+   621→  },
+   622→  {
+   623→    "sheet": "Class11",
+   624→    "row": 2321,
+   625→    "data": [
+   626→      "Biology",
+   627→      null,
+   628→      "Digestion and Absorption",
+   629→      "English",
+   630→      "Sphincter of Oddi is present at",
+   631→      "ileo-caecal junction",
+   632→      "junction of hepato-pancreatic duct and duodenum",
+   633→      "gastro-oesophageal junction",
+   634→      "junction of jejunum and duodenum",
+   635→      2.0,
+   636→      "Sphincter of Oddi is the smooth muscle or a muscular valve that surrounds the end portion of the common bile duct and pancreatic duct (hepato-pancreatic duct). It controls the flow of digestive juices into the intestine.",
+   637→      "NEET",
+   638→      null,
+   639→      null
+   640→    ]
+   641→  },
+   642→  {
+   643→    "sheet": "Class11",
+   644→    "row": 2322,
+   645→    "data": [
+   646→      "Biology",
+   647→      null,
+   648→      "Digestion and Absorption",
+   649→      "English",
+   650→      "Identify the correct statement with reference to human digestive system.",
+   651→      "Serosa is the innermost layer of the alimentary canal",
+   652→      "Ileum is a highly coiled part",
+   653→      "Vermiform appendix arises from duodenum",
+   654→      "Ileum opens into small intestine",
+   655→      2.0,
+   656→      "The option (b) is correct as ileum is a highly coiled tube with reference to human digestive system. Other option can be corrected as Serosa is the outermost layer of the alimentary canal. A narrow finger-like tubular projection, the vermiform appendix arises from caecum part of large intestine. Ileum opens into the large intestine.",
+   657→      "NEET (Sep.)",
+   658→      null,
+   659→      null
+   660→    ]
+   661→  },
+   662→  {
+   663→    "sheet": "Class11",
+   664→    "row": 2323,
+   665→    "data": [
+   666→      "Biology",
+   667→      null,
+   668→      "Digestion and Absorption",
+   669→      "English",
+   670→      "Which one of the following terms describe human dentition?",
+   671→      "Pleurodont, Monophyodont, Homodont",
+   672→      "Thecodont, Diphyodont, Heterodont",
+   673→      "Thecodont, Diphyodont, Homodont",
+   674→      "Pleurodont, Diphyodont, Heterodont",
+   675→      2.0,
+   676→      "The terms, thecodont, diphyodont and heterodont describe human dentition. In men, two types of teeth are found, milk or deciduous teeth and permanent teeth. Thus, they have diphyodont teeth. The teeth are thecodont, i.e. they remain embedded in the sockets of the jaw bones. Men have four types of teeth; incisors, canine, premolars and molars, i.e., heterodont teeth.",
+   677→      "NEET",
+   678→      null,
+   679→      null
+   680→    ]
+   681→  },
+   682→  {
+   683→    "sheet": "Class11",
+   684→    "row": 2324,
+   685→    "data": [
+   686→      "Biology",
+   687→      null,
+   688→      "Microbes in Human Welfare",
+   689→      "English",
+   690→      "Conversion of milk to curd improves its nutritional value by increasing the amount of",
+   691→      "vitamin-B12",
+   692→      "vitamin-A",
+   693→      "vitamin-D",
+   694→      "vitamin-E",
+   695→      1.0,
+   696→      "Conversion of milk to curd improves its nutritional value by increasing the amount of vitamin-B12 . Vitamin-A is found in milk, carrot, tomato, etc. Skin can synthesise vitamin-D in the presence of sunlight. Vitamin-E is found in wheat, green leafy vegetables, etc.",
+   697→      "NEET",
+   698→      null,
+   699→      null
+   700→    ]
+   701→  },
+   702→  {
+   703→    "sheet": "Class11",
+   704→    "row": 2325,
+   705→    "data": [
+   706→      "Biology",
+   707→      null,
+   708→      "Digestion and Absorption",
+   709→      "English",
+   710→      "A baby boy aged two years is admitted to play school and passes through a dental check-up. The dentist observed that the boy had twenty teeth. Which teeth were absent?",
+   711→      "Incisors",
+   712→      "Canines",
+   713→      "Premolars",
+   714→      "Molars 152",
+   715→      3.0,
+   716→      "In human beings, after birth the first set of teeth that develops are deciduous teeth or temporary teeth. These are 20 in number. The dental formula of child is 2102/2102. Thus, they have 2 incisors, 1 canine, 0 premolars and 2 molars. Therefore, the baby boy would not have premolars.",
+   717→      "NEET",
+   718→      null,
+   719→      null
+   720→    ]
+   721→  },
+   722→  {
+   723→    "sheet": "Class11",
+   724→    "row": 2326,
+   725→    "data": [
+   726→      "Biology",
+   727→      null,
+   728→      "Digestion and Absorption",
+   729→      "English",
+   730→      "Which cells of ‘Crypts of Lieberkuhn’ secrete antibacterial lysozyme ?",
+   731→      "Argentaffin cells",
+   732→      "Paneth cells",
+   733→      "Zymogen cells",
+   734→      "Kupffer cells",
+   735→      2.0,
+   736→      "The mucosa present in between the bases of villi of small intestine (Crypts of Lieberkuhn) contain paneth, which secrete antibacterial lysozyme. Villi Lacteal Capillaries Artery Crypts of Lieberkuhn Vein A section of small intestinal mucosa showing villi and the Crypts of Concept Enhancer Kupffer cells are phagocytic cells of liver. Zymogen cells produce enzyme. Argentaffin cells produce hormones.",
+   737→      "NEET",
+   738→      null,
+   739→      null
+   740→    ]
+   741→  },
+   742→  {
+   743→    "sheet": "Class11",
+   744→    "row": 2327,
+   745→    "data": [
+   746→      "Biology",
+   747→      null,
+   748→      "Body Fluids and Circulation",
+   749→      "English",
+   750→      "The hepatic portal vein drains blood to liver from",
+   751→      "heart",
+   752→      "stomach",
+   753→      "kidneys",
+   754→      "intestine",
+   755→      4.0,
+   756→      "In the hepatic portal system, the hepatic veins takes blood from intestine to the liver. This way, it takes all the nutrients absorbed from intestine to the liver first, where screening and storing of nutrition takes place. Concept Enhancer The portal system is a system of veins in which vein takes blood to some organ/tissue of the body other than heart. In this, the vein has capillary network at it’s both ends. There is one more portal system in human body named hypophyseal portal system present in the hypothalamus, which brings neuro secretions of hypothalamus to pituitary gland. The renal portal system is found in fishes and amphibians. It supplies blood from posterior region of the body to the kidneys by renal portal veins to remove waste products before sending it to heart via renal veins and post canal veins.",
+   757→      "NEET",
+   758→      null,
+   759→      null
+   760→    ]
+   761→  },
+   762→  {
+   763→    "sheet": "Class11",
+   764→    "row": 2328,
+   765→    "data": [
+   766→      "Biology",
+   767→      null,
+   768→      "Digestion and Absorption",
+   769→      "English",
+   770→      "Which of the following guards the opening of hepatopancreatic duct into the duodenum?",
+   771→      "Ileocaecal valve",
+   772→      "Pyloric sphincter",
+   773→      "Sphincter of Oddi",
+   774→      "Semilunar valve",
+   775→      3.0,
+   776→      "Sphincter of Oddi guards the opening of hepatopancreatic duct into the duodenum. Hepatopancreatic duct brings secretion of liver as well as pancreas to the duodenum.",
+   777→      "NEET , Phase I",
+   778→      null,
+   779→      null
+   780→    ]
+   781→  },
+   782→  {
+   783→    "sheet": "Class11",
+   784→    "row": 2329,
+   785→    "data": [
+   786→      "Biology",
+   787→      null,
+   788→      "Digestion and Absorption",
+   789→      "English",
+   790→      "The primary dentition in human differs from permanent dentition in not having one of the following type of teeth",
+   791→      "Canine",
+   792→      "Premolars",
+   793→      "Molars",
+   794→      "Incisors",
+   795→      2.0,
+   796→      "There are four classes of teeth, i.e. incisors, canines, premolars and molars. There are no premolars in primary dentition (deciduous or boby teeth). These are found only in permanent dentition (adult teeth).",
+   797→      "CBSE AIPMT",
+   798→      null,
+   799→      null
+   800→    ]
+   801→  },
+   802→  {
+   803→    "sheet": "Class11",
+   804→    "row": 2330,
+   805→    "data": [
+   806→      "Biology",
+   807→      null,
+   808→      "Digestion and Absorption",
+   809→      "English",
+   810→      "Two friends are eating together on a dining table. One of them suddenly starts coughing while swallowing some food. This coughing would have been due to improper movement of",
+   811→      "diaphragm",
+   812→      "neck",
+   813→      "tongue",
+   814→      "epiglottis",
+   815→      4.0,
+   816→      "The epiglottis is a flap that is made of elastic cartilage tissue covered with a mucous membrane, attached to the entrance of the larynx. It prevents the entry of food into the larynx and directs it to the oesophagus. Due to the improper movement of epiglottis, one may suddenly start coughing while swallowing some food.",
+   817→      "CBSE AIPMT",
+   818→      null,
+   819→      null
+   820→    ]
+   821→  },
+   822→  {
+   823→    "sheet": "Class11",
+   824→    "row": 2331,
+   825→    "data": [
+   826→      "Biology",
+   827→      null,
+   828→      "Digestion and Absorption",
+   829→      "English",
+   830→      "Epithelial cells of the intestine involved in food absorption have on their surface",
+   831→      "pinocytic vesicles",
+   832→      "phagocytic vesicles",
+   833→      "zymogen granules",
+   834→      "microvilli",
+   835→      4.0,
+   836→      "The mucosa and sub-mucosa of small intestine are thrown into folds. Surfaces of these folds are covered by fine, finger-like projections of the epithelium. These projections are called villi. In addition, the epithelial cells of the villi are covered on their exposed surface by cytoplasmic projections called microvilli.",
+   837→      "CBSE AIPMT",
+   838→      null,
+   839→      null
+   840→    ]
+   841→  },
+   842→  {
+   843→    "sheet": "Class11",
+   844→    "row": 2332,
+   845→    "data": [
+   846→      "Biology",
+   847→      null,
+   848→      "Biomolecules",
+   849→      "English",
+   850→      "The richest sources of vitamin–B12 are",
+   851→      "goat’s liver and Spirulina",
+   852→      "chocolate and green gram",
+   853→      "rice and hen’s egg",
+   854→      "carrot and chicken’s breast",
+   855→      1.0,
+   856→      "Vitamin-B12 (cyanocobalamin) is the only vitamin which is not found in vegetables. It is present in animal protein such as meat, liver, fish and Spirulina (single cell protein). It promotes DNA synthesis, maturation of RBCs and myelin formation.",
+   857→      "CBSE AIPMT",
+   858→      null,
+   859→      null
+   860→    ]
+   861→  },
+   862→  {
+   863→    "sheet": "Class11",
+   864→    "row": 2333,
+   865→    "data": [
+   866→      "Biology",
+   867→      null,
+   868→      "Biomolecules",
+   869→      "English",
+   870→      "Which one is correctly matched ?",
+   871→      "Vit-E–Tocopherol",
+   872→      "Vit-D–Riboflavin",
+   873→      "Vit-B–Calciferol",
+   874→      "Vit-A–Thiamine",
+   875→      1.0,
+   876→      "Option (a) is correctly matched. Thiamine, riboflavin, calciferol, tocopherol are also known as vitamin-B1, vitamin-B2 , vitamin-D2 and vitamin-E respectively.",
+   877→      "CBSE AIPMT",
+   878→      null,
+   879→      null
+   880→    ]
+   881→  },
+   882→  {
+   883→    "sheet": "Class11",
+   884→    "row": 2334,
+   885→    "data": [
+   886→      "Biology",
+   887→      null,
+   888→      "Digestion and Absorption",
+   889→      "English",
+   890→      "The layer of cells that secrete enamel of tooth is",
+   891→      "dentoblast",
+   892→      "amiloblast",
+   893→      "osteoblast",
+   894→      "odontoblast",
+   895→      4.0,
+   896→      "The pulp cavity contains a mass of dense but soft connective tissue which is called pulp. A single layer of odontoblast cells is lined by the pulp cavity. Digestion and Absorption 153 These cells secrete enamel which is a bluish white, shiny translucent and the hardest substance of the body.",
+   897→      "CBSE AIPMT",
+   898→      null,
+   899→      null
+   900→    ]
+   901→  },
+   902→  {
+   903→    "sheet": "Class11",
+   904→    "row": 2335,
+   905→    "data": [
+   906→      "Biology",
+   907→      null,
+   908→      "Human Health and Disease",
+   909→      "English",
+   910→      "A dental disease characterised by moltting of teeth is due to the presence of a certain chemical element in drinking water. Which of the following is that element?",
+   911→      "Mercury",
+   912→      "Chlorine",
+   913→      "Fluorine",
+   914→      "Boron",
+   915→      3.0,
+   916→      "Increased amount of fluorine in drinking water causes fluorosis, responsible for moltting of teeth.",
+   917→      "CBSE AIPMT",
+   918→      null,
+   919→      null
+   920→    ]
+   921→  },
+   922→  {
+   923→    "sheet": "Class11",
+   924→    "row": 2336,
+   925→    "data": [
+   926→      "Biology",
+   927→      null,
+   928→      "Digestion and Absorption",
+   929→      "English",
+   930→      "Brunner’s glands occur in",
+   931→      "sub-mucosa of duodenum",
+   932→      "sub-mucosa of stomach",
+   933→      "mucosa of oesophagus",
+   934→      "mucosa of ileum",
+   935→      1.0,
+   936→      "Brunner’s glands are convoluted and branched glands found only in duodenum and located in sub-mucosa.",
+   937→      "CBSE AIPMT",
+   938→      null,
+   939→      null
+   940→    ]
+   941→  },
+   942→  {
+   943→    "sheet": "Class11",
+   944→    "row": 2337,
+   945→    "data": [
+   946→      "Biology",
+   947→      null,
+   948→      "Digestion and Absorption",
+   949→      "English",
+   950→      "In man the zymogen or chief cells are mainly found in",
+   951→      "cardiac part of stomach",
+   952→      "pyloric part of stomach",
+   953→      "duodenum",
+   954→      "fundic part of stomach",
+   955→      4.0,
+   956→      "Chief cells or zymogen are mainly found in fundic part of stomach which secretes two proenzymes, pepsinogen and prorennin and an enzyme gastric lipase.",
+   957→      "CBSE AIPMT",
+   958→      null,
+   959→      null
+   960→    ]
+   961→  },
+   962→  {
+   963→    "sheet": "Class11",
+   964→    "row": 2338,
+   965→    "data": [
+   966→      "Biology",
+   967→      null,
+   968→      "Digestion and Absorption",
+   969→      "English",
+   970→      "Whartson’s duct is associated with",
+   971→      "sub-lingual salivary duct",
+   972→      "parotid salivary gland",
+   973→      "sub-maxillary salivary gland",
+   974→      "Brunner’s glands",
+   975→      3.0,
+   976→      "Whartson’s duct is associated with sub-maxillary salivary gland. These lie beneath the jaw angles, their secretion is carried by Whartson’s duct which open below the tongue. These are compound acinar gland.",
+   977→      "CBSE AIPMT",
+   978→      null,
+   979→      null
+   980→    ]
+   981→  },
+   982→  {
+   983→    "sheet": "Class11",
+   984→    "row": 2339,
+   985→    "data": [
+   986→      "Biology",
+   987→      null,
+   988→      "Digestion and Absorption",
+   989→      "English",
+   990→      "Duct leading from parotid gland and opening into vestibule is",
+   991→      "Haversian duct",
+   992→      "Stenson’s duct",
+   993→      "Wolffian duct",
+   994→      "Infra-orbital duct",
+   995→      2.0,
+   996→      "Parotid glands are largest salivary glands, present just below the external ear. These are compound tubulo-acinar glands. Saliva is secreted by Stenson’s duct which open opposite to the second upper molar tooth.",
+   997→      "CBSE AIPMT",
+   998→      null,
+   999→      null
+  1000→    ]
+  1001→  }
+  1002→]

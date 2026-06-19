@@ -1,0 +1,2002 @@
+  1501→     B: incomplete dominance
+  1502→     C: partial dominance
+  1503→     D: complete dominance
+  1504→R 365 | BioCh27.0 | D | Which Mendelian idea is depicted by a cross in which the F1-generation resembles both the parents?
+  1505→     A: Incomplete dominance
+  1506→     B: Law of dominance
+  1507→     C: Inheritance of one gene
+  1508→     D: Codominance
+  1509→R 366 | BioCh27.0 | D | F2-generation in a Mendelian cross showed that both genotypic and phenotypic ratios are same as 1 : 2 : 1. It 
+  1510→     A: codominance
+  1511→     B: dihybrid cross
+  1512→     C: monohybrid cross with complete dominance
+  1513→     D: monohybrid cross with incomplete dominance
+  1514→R 367 | BioCh27.0 | C | Which one of the following cannot be explained on the basis of Mendel’s Law of Dominance?
+  1515→     A: The discrete unit controlling a particular character is called a factor
+  1516→     B: Out of one pair of factors one is dominant, and the other recessive
+  1517→     C: Alleles do not show any blending and both the characters recover as such in F2-g
+  1518→     D: Factors occur in pairs
+  1519→R 368 | BioCh27.0 | A | The genotype of a plant showing the dominant phenotype can be determined by
+  1520→     A: test cross
+  1521→     B: dihybrid cross
+  1522→     C: pedigree analysis
+  1523→     D: back cross
+  1524→R 369 | BioCh27.0 | A | In pea plants, yellow seeds are dominant to green. If a heterozygous yellow seeded plant is crossed with a gre
+  1525→     A: 50 : 50
+  1526→     B: 9 : 1
+  1527→     C: 1 : 3
+  1528→     D: 3 : 1
+  1529→R 370 | BioCh27.0 | C | The test cross involves
+  1530→     A: crossing the F1 hybrid with a homozygous dominant genotype
+  1531→     B: crossing the F1 hybrid with a homozygous recessive genotype
+  1532→     C: crossing the F1 hybrid with a double recessive genotype
+  1533→     D: crossing between two genotypes with dominant trait
+  1534→R 371 | BioCh27.0 | D | Phenotype of an organism is the result of
+  1535→     A: mutations and linkages
+  1536→     B: cytoplasmic effects and nutrition
+  1537→     C: environmental changes and sexual dimorphism
+  1538→     D: genotype and environmental interactions
+  1539→R 372 | BioCh27.0 | C | A cross between two individuals, one with AB blood group and other with A blood group will produce four genoty
+  1540→     A: 2.0
+  1541→     B: 3.0
+  1542→     C: 4.0
+  1543→     D: 1.0
+  1544→R 373 | BioCh27.0 | C | ABO blood groups in humans are controlled by the gene I. It has three alleles − I^A, I^B and i. Since there ar
+  1545→     A: Three
+  1546→     B: One
+  1547→     C: Four
+  1548→     D: Two
+  1549→R 374 | BioCh27.0 | A | If a heterozygous yellow seeded plant is crossed with a green seeded plant, what ratio of yellow and green see
+  1550→     A: 50 : 50
+  1551→     B: 9 : 1
+  1552→     C: 1 : 3
+  1553→     D: 3 : 1
+  1554→R 375 | BioCh27.0 | D | A common test to find the genotype of a hybrid is by
+  1555→     A: crossing of oneF2 progeny with male parent
+  1556→     B: crossing of oneF2 progeny with female parent
+  1557→     C: studying the sexual behaviour of F1-progenies
+  1558→     D: crossing of oneF1 progeny with male parent
+  1559→R 376 | BioCh27.0 | A | A human male produces sperms with the genotypes AB, Ab, aB and ab pertaining to two diallelic characters in eq
+  1560→     A: AaBb
+  1561→     B: AaBB
+  1562→     C: AABb
+  1563→     D: AABB
+  1564→R 377 | BioCh27.0 | D | How many different kinds of gametes will be produced by a plant having the genotype AABbCC ?
+  1565→     A: Three
+  1566→     B: Four
+  1567→     C: Nine
+  1568→     D: Two
+  1569→R 378 | BioCh27.0 | D | In Mendel’s experiments with garden pea, round seed shape (RR) was dominant over wrinkled seeds (rr), yellow c
+  1570→     A: Only round seeds with green cotyledons
+  1571→     B: Only wrinkled seeds with yellow cotyledons
+  1572→     C: Only wrinkled seeds with green cotyledons
+  1573→     D: Round seeds with yellow cotyledons and wrinkled seeds with yellow cotyledons
+  1574→R 379 | BioCh27.0 | C | Test cross involves
+  1575→     A: crossing between two genotypes with recessive trait
+  1576→     B: crossing between two F1-hybrids
+  1577→     C: crossing the F1 hybrid with a double recessive genotype
+  1578→     D: crossing between two genotypes with dominant trait
+  1579→R 380 | BioCh27.0 | D | In order to find out the different types of gametes produced by a pea plant having the genotype AaBb, it shoul
+  1580→     A: aaBB
+  1581→     B: AaBb
+  1582→     C: AABB
+  1583→     D: aabb
+  1584→R 381 | BioCh27.0 | B | In a plant, red fruit (R) is dominant over yellow fruit (r) and tallness (T) is dominant over shortness (t). I
+  1585→     A: 25% will be tall with red fruit
+  1586→     B: 50% will be tall with red fruit
+  1587→     C: 75% will be tall with red fruit
+  1588→     D: all of the offspring will tall with red fruit
+  1589→R 382 | BioCh27.0 | A | A male human is heterozygous for autosomal genes A and B and is also hemizygous for haemophilic gene h. What p
+  1590→     A: 2026-08-01 00:00:00
+  1591→     B: 1/32
+  1592→     C: 1/16
+  1593→     D: 2026-04-01 00:00:00
+  1594→R 383 | BioCh27.0 | D | Two crosses between the same pair of genotypes or phenotypes in which the sources of the gametes are reversed 
+  1595→     A: dihybrid cross
+  1596→     B: reverse cross
+  1597→     C: test cross
+  1598→     D: reciprocal cross
+  1599→R 384 | BioCh27.0 | B | The genes controlling the seven pea characters studied by Mendel are now known to be located on how many diffe
+  1600→     A: Five
+  1601→     B: Four
+  1602→     C: Seven
+  1603→     D: Six
+  1604→R 385 | BioCh27.0 | A | A plant of F1-generation has genotype ‘AABbCC’. On selfing of this plant, the phenotypic ratio in F2-generatio
+  1605→     A: 3 : 1
+  1606→     B: 1 : 1
+  1607→     C: 9 : 3 : 3 : 1
+  1608→     D: 27 : 9 : 9 : 9 : 3 : 3 : 3 : 1
+  1609→R 386 | BioCh27.0 | D | Which one of the following traits of garden pea studied by Mendel was a recessive feature?
+  1610→     A: Green pod colour
+  1611→     B: Round seed shape
+  1612→     C: Axial flower position
+  1613→     D: Green seed colour
+  1614→R 387 | BioCh27.0 | C | Which one of the following characters studied by Mendel in garden pea was found to be dominant?
+  1615→     A: Green seed colour
+  1616→     B: Terminal flower position
+  1617→     C: Green pod colour
+  1618→     D: Wrinkled seed
+  1619→R 388 | BioCh27.0 | A | Hybridisation between Tt × tt gives rise to the progeny of ratio
+  1620→     A: 1 : 1
+  1621→     B: 1 : 2 : 1
+  1622→     C: 1 : 2
+  1623→     D: 4 : 1
+  1624→R 389 | BioCh27.0 | B | How many types of genetically different gametes will be produced by a heterozygous plant having genotype AABbC
+  1625→     A: Two
+  1626→     B: Four
+  1627→     C: Six
+  1628→     D: Nine
+  1629→R 390 | BioCh27.0 | C | If Mendel had studied the seven traits using a plant with 12 chromosomes instead of 14, in what way would his 
+  1630→     A: He would have mapped the chromosome
+  1631→     B: He would have discovered blending or incomplete dominance
+  1632→     C: He would not have discovered the law of independent assortment
+  1633→     D: He would have discovered sex-linkage
+  1634→R 391 | BioCh27.0 | A | When a single gene influences more than one traits it is called
+  1635→     A: pleiotropy
+  1636→     B: epistasis
+  1637→     C: pseudodominance
+  1638→     D: None of these
+  1639→R 392 | BioCh27.0 | A | Alleles that produce independent effects in their heterozygous condition are called
+  1640→     A: codominant alleles
+  1641→     B: epistatic alleles
+  1642→     C: complementary alleles
+  1643→     D: supplementary alleles
+  1644→R 393 | BioCh27.0 | D | In a dihybrid cross AABB × aabb, F2 progeny of AABB, AABb, AaBB and AaBb occurs in the ratio of
+  1645→     A: 1 : 1 : 1 : 1
+  1646→     B: 9 : 3 : 3 : 1
+  1647→     C: 1 : 2 : 2 : 1
+  1648→     D: 1 : 2 : 2 : 4
+  1649→R 394 | BioCh27.0 | C | A cross between pure tall pea plant with green pods and dwarf pea plant with yellow pods will produce dwarf F2
+  1650→     A: 9.0
+  1651→     B: 3.0
+  1652→     C: 4.0
+  1653→     D: 1.0
+  1654→R 395 | BioCh27.0 | A | A child of blood group O cannot have parents of blood groups
+  1655→     A: AB and AB/O
+  1656→     B: A and B
+  1657→     C: B and B
+  1658→     D: O and O
+  1659→R 396 | BioCh27.0 | B | Which of the following is suitable for experiment on linkage?
+  1660→     A: aaBB × aaBB
+  1661→     B: AABB × aabb
+  1662→     C: AaBb × AaBb
+  1663→     D: AAbb × AaBB
+  1664→R 397 | BioCh27.0 | B | Mendel studied inheritance of seven pairs of traits in pea which can have 21 possible combinations. If you are
+  1665→     A: independent assortment principle may be wrong
+  1666→     B: Mendel might not have studied all the combinations
+  1667→     C: it is impossible
+  1668→     D: later studies may be wrong
+  1669→R 398 | BioCh27.0 | A | A polygenic inheritance in human beings is
+  1670→     A: skin colour
+  1671→     B: phenylketonuria
+  1672→     C: colour blindness
+  1673→     D: sickle-cell anaemia
+  1674→R 399 | BioCh27.0 | D | An organism with two identical alleles is
+  1675→     A: dominant
+  1676→     B: hybrid
+  1677→     C: heterozygous
+  1678→     D: homozygous
+  1679→R 400 | BioCh27.0 | A | Segregation of Mendelian factors (no linkage, no crossing over) occurs during
+  1680→     A: anaphase-I
+  1681→     B: anaphase-II
+  1682→     C: diplotene
+  1683→     D: metaphase-I
+  1684→R 401 | BioCh27.0 | A | An allele is dominant if it is expressed in
+  1685→     A: both homozygous and heterozygous states
+  1686→     B: second generation
+  1687→     C: heterozygous combination
+  1688→     D: homozygous combination
+  1689→R 402 | BioCh27.0 | A | A gene pair hides the effect of another. The phenomenon is
+  1690→     A: epistasis
+  1691→     B: dominance
+  1692→     C: mutation
+  1693→     D: None of these
+  1694→R 403 | BioCh27.0 | B | RR (red) Antirrhinum is crossed with WW (white) one. Offspring RW are pink. This is an example of
+  1695→     A: dominant-recessive
+  1696→     B: incomplete dominance
+  1697→     C: hybrid
+  1698→     D: supplementary genes
+  1699→R 404 | BioCh27.0 | D | The allele which is unable to express its effect in the presence of another is called
+  1700→     A: codominant
+  1701→     B: supplementary
+  1702→     C: complementary
+  1703→     D: recessive
+  1704→R 405 | BioCh27.0 | B | The contrasting pairs of factors in Mendelian crosses are called
+  1705→     A: multiple alleles
+  1706→     B: allelomorphs
+  1707→     C: alloloci
+  1708→     D: paramorphs
+  1709→R 406 | BioCh27.0 | B | First geneticist/father of genetics was
+  1710→     A: De Vries
+  1711→     B: Mendel
+  1712→     C: Darwin
+  1713→     D: Morgan
+  1714→R 407 | BioCh27.0 | C | Mendel’s last law is
+  1715→     A: segregation
+  1716→     B: dominance
+  1717→     C: independent assortment
+  1718→     D: polygenic inheritance
+  1719→R 408 | BioCh27.0 | D | A dihybrid condition is
+  1720→     A: tt Rr
+  1721→     B: Tt rr
+  1722→     C: tt rr
+  1723→     D: Tt Rr
+  1724→R 409 | BioCh27.0 | A | Blue eye colour is recessive to brown eye colour. A brown eyed man whose mother was blue eyed marries a blue e
+  1725→     A: both blue eyed and brown eyed 1:1
+  1726→     B: all brown eyed
+  1727→     C: all blue eyed
+  1728→     D: blue eyed and brown eyed 3:1
+  1729→R 410 | BioCh27.0 | D | Mendel’s success in his experiments was due to
+  1730→     A: Careful selection of pea plants
+  1731→     B: Careful observation and statistical analysis
+  1732→     C: His knowledge of Biology
+  1733→     D: Consideration of one character at one time
+  1734→R 411 | BioCh27.0 | A | Chromosomal theory of inheritance was proposed by
+  1735→     A: Sutton and Boveri
+  1736→     B: Bateson and Punnett
+  1737→     C: TH Morgan
+  1738→     D: Watson and Crick
+  1739→R 412 | BioCh27.0 | B | Crossing over takes place between
+  1740→     A: Sister chromatids of homologous chromosomes
+  1741→     B: Non-sister chromatids of homologous chromosomes
+  1742→     C: Sister chromatids of non-homologous chromosomes
+  1743→     D: Non-sister chromatids of non-homologous chromosomes at pachytene stage of propha
+  1744→R 413 | BioCh27.0 | A | What map unit (Centimorgan) is adopted in the construction of genetic maps?
+  1745→     A: A unit of distance between two
+  1746→     B: A unit of distance between two
+  1747→     C: A unit of distance between two
+  1748→     D: A unit of distance between two
+  1749→R 414 | BioCh27.0 | D | Multiple alleles control inheritance of
+  1750→     A: phenylketonuria
+  1751→     B: colour blindness
+  1752→     C: sickle-cell anaemia
+  1753→     D: blood groups
+  1754→R 415 | BioCh27.0 | C | Experimental verification of the chromosomal theory of inheritance was done by
+  1755→     A: Sutton
+  1756→     B: Boveri
+  1757→     C: Morgan
+  1758→     D: Mendel
+  1759→R 416 | BioCh27.0 | B | Crossing over takes place between which chromatids and in which stage of the cell cycle?
+  1760→     A: Non-sister chromatids of non-homologous chromosomes at zygotene stage of prophas
+  1761→     B: Non-sister chromatids of homologous chromosomes at pachytene stage of prophase I
+  1762→     C: Non-sister chromatids of homologous chromosomes at zygotene stage of prophase I
+  1763→     D: Non-sister chromatids of non-homologous chromosomes at pachytene stage of propha
+  1764→R 417 | BioCh27.0 | B | The frequency of recombination between gene pairs on the same chromosome as a measure of the distance between 
+  1765→     A: Gregor J Mendel
+  1766→     B: Alfred Sturtevant
+  1767→     C: Sutton-Boveri
+  1768→     D: TH Morgan
+  1769→R 418 | BioCh27.0 | B | In a test cross involving F1 dihybrid flies, more parental-type offspring were produced than the recombinant t
+  1770→     A: chromosomes failed to separate during meiosis
+  1771→     B: the two genes are linked and present on the same chromosome
+  1772→     C: both of the characters are controlled by more than one gene
+  1773→     D: the two genes are located on two different chromosomes
+  1774→R 419 | BioCh27.0 | C | The mechanism that causes a gene to move from one linkage group to another is called
+  1775→     A: inversion
+  1776→     B: duplication
+  1777→     C: translocation
+  1778→     D: crossing over
+  1779→R 420 | BioCh27.0 | A | The term “linkage” was coined by
+  1780→     A: TH Morgan
+  1781→     B: T Boveri
+  1782→     C: G Mendel
+  1783→     D: W Sutton
+  1784→R 421 | BioCh27.0 | B | Which of the following statements is not true of two genes that show 50% recombination frequency?
+  1785→     A: The genes may be on different chromosomes
+  1786→     B: The genes are tightly linked
+  1787→     C: The genes show independent assortment
+  1788→     D: If the genes are present on the same chromosome, they undergo more than one cros
+  1789→R 422 | BioCh27.0 | D | Select the correct statement from the ones given below with respect to dihybrid cross.
+  1790→     A: Tightly linked genes on the same chromosome show higher recombinations
+  1791→     B: Genes far apart on the same chromosome show very few recombinations
+  1792→     C: Genes loosely linked on the same chromosome show similar recombinations as the t
+  1793→     D: Tightly linked genes on the same chromosome show very few recombinations
+  1794→R 423 | BioCh27.0 | D | Two genes R and Y are located very close on the chromosomal linkage map of maize plant. When RRYY and rryy gen
+  1795→     A: higher number of the recombinant types
+  1796→     B: segregation in the expected 9:3:3:1 ratio
+  1797→     C: segregation in 3:1 ratio
+  1798→     D: higher number of the parental types
+  1799→R 424 | BioCh27.0 | C | The recessive genes located on X-chromosome in humans are always
+  1800→     A: lethal
+  1801→     B: sublethal
+  1802→     C: expressed in males
+  1803→     D: expressed in females
+  1804→R 425 | BioCh27.0 | C | Lack of independent assortment of two genes A and B in fruit fly Drosophila is due to
+  1805→     A: repulsion
+  1806→     B: recombination
+  1807→     C: linkage
+  1808→     D: crossing over
+  1809→R 426 | BioCh27.0 | D | Pattern baldness, moustaches and beard in human males are examples of
+  1810→     A: sex differentiating traits
+  1811→     B: sex determining traits
+  1812→     C: sex linked traits
+  1813→     D: sex limited traits
+  1814→R 427 | BioCh27.0 | B | The linkage map of X-chromosome of fruit fly has 66 units, with yellow body gene (y) at one end and bobbed hai
+  1815→     A: ≤50%
+  1816→     B: 1.0
+  1817→     C: 0.66
+  1818→     D: >50%
+  1819→R 428 | BioCh27.0 | A | When a cluster of genes show linkage behaviour they
+  1820→     A: do not show independent assortment
+  1821→     B: induce cell division
+  1822→     C: do not show a chromosome map
+  1823→     D: show recombination during meiosis
+  1824→R 429 | BioCh27.0 | D | In recent years, DNA sequences (nucleotide sequence) of mtDNA and Y-chromosomes were considered for the study 
+  1825→     A: their structure is known in greater detail
+  1826→     B: they can be studied from the samples of fossil remains
+  1827→     C: they are small and therefore, easy to study
+  1828→     D: they are uniparental in origin and do not take part in recombination
+  1829→R 430 | BioCh27.0 | C | Genetic map is one that
+  1830→     A: shows the stages during the cell division
+  1831→     B: shows the distribution of various species in a region
+  1832→     C: establishes sites of the genes on a chromosome
+  1833→     D: establishes the various stages in gene evolution
+  1834→R 431 | BioCh27.0 | D | Genes for cytoplasmic male sterility in plants are generally located in
+  1835→     A: nuclear genome
+  1836→     B: cytosol
+  1837→     C: chloroplast genome
+  1838→     D: mitochondrial genome
+  1839→R 432 | BioCh27.0 | A | There are three genes a, b, c, percentage of crossing over between a and b is 20%, b and c is 28% and a and c 
+  1840→     A: b, a, c
+  1841→     B: a, b, c
+  1842→     C: a, c, b
+  1843→     D: None of these
+  1844→R 433 | BioCh27.0 | B | A and B genes are linked. What shall be the genotype of progeny in a cross between AB/ab and ab/ab?
+  1845→     A: AAbb and aabb
+  1846→     B: AaBb and aabb
+  1847→     C: AABB and aabb
+  1848→     D: None of these
+  1849→R 434 | BioCh27.0 | A | Extranuclear inheritance occurs in
+  1850→     A: Killer Paramecium
+  1851→     B: Killer Amoeba
+  1852→     C: Euglena
+  1853→     D: Hydra
+  1854→R 435 | BioCh27.0 | D | Crossing over in diploid organism is responsible for
+  1855→     A: dominance of genes
+  1856→     B: linkage between genes
+  1857→     C: segregation of alleles
+  1858→     D: recombination of linked alleles
+  1859→R 436 | BioCh27.0 | B | The polytene chromosomes were discovered for the first time in
+  1860→     A: Drosophila
+  1861→     B: Chironomus
+  1862→     C: Musca nebulo
+  1863→     D: Musca domestica
+  1864→R 437 | BioCh27.0 | D | Two dominant non-allelic genes are 50 map units apart. The linkage is
+  1865→     A: cis type
+  1866→     B: trans type
+  1867→     C: complete
+  1868→     D: absent/incomplete
+  1869→R 438 | BioCh27.0 | C | Two linked genes a and b show 20% recombination. The individuals of a dihybrid cross between ++/++ × ab/ab sha
+  1870→     A: ++80 : ab : 20
+  1871→     B: ++50 : ab : 50
+  1872→     C: ++ 40 : ab 40 : + a 10 : + b : 10
+  1873→     D: ++ 30 : ab 30 : + a 20 : + b : 20
+  1874→R 439 | BioCh27.0 | D | Crossing over in diploid organism is responsible for
+  1875→     A: dominance of genes
+  1876→     B: linkage between genes
+  1877→     C: segregation of alleles
+  1878→     D: recombination of linked alleles
+  1879→R 440 | BioCh27.0 | A | A fruit fly heterozygous for sex-linked genes, is mated with normal female fruit fly. Male specific chromosome
+  1880→     A: 1 : 1
+  1881→     B: 2 : 1
+  1882→     C: 3 : 1
+  1883→     D: 7 : 1
+  1884→R 441 | BioCh27.0 | C | After crossing two plants, the progenies are found to be male sterile. This phenomenon is found to be maternal
+  1885→     A: nucleus
+  1886→     B: chloroplast
+  1887→     C: mitochondria
+  1888→     D: cytoplasm
+  1889→R 442 | BioCh27.0 | A | When two genetic loci produce identical phenotypes in cis and trans position, they are considered to be
+  1890→     A: pseudoalleles
+  1891→     B: different genes
+  1892→     C: multiplealleles
+  1893→     D: parts of same gene
+  1894→R 443 | BioCh27.0 | D | Genes located on Y-chromosome are
+  1895→     A: mutant genes
+  1896→     B: sex-linked genes
+  1897→     C: autosomal genes
+  1898→     D: holandric genes
+  1899→R 444 | BioCh27.0 | C | Mr. Kapoor has Bb autosomal gene pair and d allele sex-linked. What shall be proportion of Bd in sperms?
+  1900→     A: 
+  1901→     B: 2026-02-01 00:00:00
+  1902→     C: 2026-04-01 00:00:00
+  1903→     D: 2026-08-01 00:00:00
+  1904→R 445 | BioCh27.0 | B | When a certain character is inherited only through female parent, it probably represents
+  1905→     A: multiple plastid inheritance
+  1906→     B: cytoplasmic inheritance
+  1907→     C: incomplete dominance
+  1908→     D: Mendelian nuclear inheritance
+  1909→R 446 | BioCh27.0 | C | Out of 8 ascospores formed in Neurospora the arrangement is 2a : 4a : 2a showing
+  1910→     A: no crossing over
+  1911→     B: some meiosis
+  1912→     C: second generation division
+  1913→     D: first generation division
+  1914→R 447 | BioCh27.0 | C | Match the items of Column I with Column II.
+  1915→     A: 1-(ii), 2-(iv), 3-(i), 4-(iii)
+  1916→     B: 1-(i), 2-(iv), 3-(ii), 4-(iii)
+  1917→     C: 1-(iii), 2-(iv), 3-(i), 4-(ii)
+  1918→     D: 1-(iv), 2-(ii), 3-(i), 4-(iii)
+  1919→R 448 | BioCh27.0 | B | Select the incorrect statement.
+  1920→     A: In male grasshoppers, 50% of sperms have no sex-chromosome
+  1921→     B: In domesticated fowls, sex of progeny depends on the type of sperm rather than e
+  1922→     C: Human males have one of their sex chromosomes much shorter than the other
+  1923→     D: Male fruitfly is heterogametic
+  1924→R 449 | BioCh27.0 | C | Which one of the following pairs is wrongly matched?
+  1925→     A: XX-XO method of sex-determination – Grasshopper
+  1926→     B: ABO blood grouping – Codominance
+  1927→     C: Starch synthesis in pea – Multiple alleles
+  1928→     D: TH Morgan – Linkage
+  1929→R 450 | BioCh27.0 | A | Which one of the following conditions correctly describes the manner of determining the sex in the given examp
+  1930→     A: XO type of sex chromosomes determine male sex in grasshopper
+  1931→     B: XO condition in humans as found in Turner syndrome, determines female sex
+  1932→     C: Homozygous sex chromosomes (XX) produce male in Drosophila
+  1933→     D: Homozygous sex chromosomes (ZZ) determine female sex in birds
+  1934→R 451 | BioCh27.0 | C | In Drosophila, the sex is determined by
+  1935→     A: the ratio of pairs of X-chromosomes to the pairs of autosomes
+  1936→     B: whether the egg is fertilised or develops parthenogenetically
+  1937→     C: the ratio of number of X-chromosomes to the set of autosomes
+  1938→     D: X and Y-chromosomes
+  1939→R 452 | BioCh27.0 | C | Drosophila flies with XXY genotype are females, but human beings with such genotype are abnormal males. It sho
+  1940→     A: Y-chromosome is essential for sex determination in Drosophila
+  1941→     B: Y-chromosome is female determining in Drosophila
+  1942→     C: Y-chromosome is male determining in human beings
+  1943→     D: Y-chromosome has no role in sex determination either in Drosophila or in human b
+  1944→R 453 | BioCh27.0 | A | Foetal sex can be determined by examining cells from the amniotic fluid by looking for
+  1945→     A: Barr bodies
+  1946→     B: autosomes
+  1947→     C: chiasmata
+  1948→     D: kinetochore
+  1949→R 454 | BioCh27.0 | C | Genetic identity of a human male is determined by
+  1950→     A: autosome
+  1951→     B: nucleolus
+  1952→     C: sex chromosome
+  1953→     D: cell organelles
+  1954→R 455 | BioCh27.0 | C | An individual exhibiting both male and female sexual characteristics in the body is known as
+  1955→     A: hermaphrodite
+  1956→     B: intersex
+  1957→     C: gynandromorph
+  1958→     D: bisexual
+  1959→R 456 | BioCh27.0 | B | Sex is determined in human beings
+  1960→     A: by ovum
+  1961→     B: at the time of fertilisation
+  1962→     C: 40 days after fertilisation
+  1963→     D: seventh to eight week when genitals differentiate in foetus
+  1964→R 457 | BioCh27.0 | A | Diploid chromosome number in humans is
+  1965→     A: 46.0
+  1966→     B: 44.0
+  1967→     C: 48.0
+  1968→     D: 42.0
+  1969→R 458 | BioCh27.0 | C | A family of five daughters only is expecting sixth issue. The chance of its beings a son is
+  1970→     A: Zero
+  1971→     B: 0.25
+  1972→     C: 0.5
+  1973→     D: 1.0
+  1974→R 459 | BioCh27.0 | C | Chances of a baby to be either boy or girl is always 50%. because in human beings there are 22 pairs of autoso
+  1975→     A: Zero
+  1976→     B: 0.25
+  1977→     C: 0.5
+  1978→     D: 1.0
+  1979→R 460 | BioCh27.0 | D | Select the incorrect statement from the following
+  1980→     A: linkage is an exception to the principle of independent assortment in heredity
+  1981→     B: galactosemia is an inborn error of metabolism
+  1982→     C: small population size results in random genetic drift in a population
+  1983→     D: baldness is a sex limited trait
+  1984→R 461 | BioCh27.0 | B | One of the parents of a cross has mutation in its mitochondria. In that cross, that parent is taken as a male.
+  1985→     A: one-third of the progenies
+  1986→     B: none of the progenies
+  1987→     C: all of the progenies
+  1988→     D: fifty per cent of the progenies
+  1989→R 462 | BioCh27.0 | C | Which of the following discoveries resulted in a Nobel Prize?
+  1990→     A: Recombination of linked genes
+  1991→     B: Genetic engineering
+  1992→     C: X-rays induce sex-linked recessive lethal mutations
+  1993→     D: Cytoplasmic inheritance
+  1994→R 463 | BioCh27.0 | D | Male XX and female XY sometime occur due to
+  1995→     A: deletion
+  1996→     B: transfer of segments in X and Y-chromosomes
+  1997→     C: aneuploidy
+  1998→     D: hormonal imbalance
+  1999→R 464 | BioCh27.0 | D | During organ differentiation in Drosophila, an organ is modified to another organ (such as wings may be replac
+  2000→     A: double dominant genes
+  2001→     B: plastid genes
+  2002→     C: complementary genes
+  2003→     D: homeotic genes
+  2004→R 465 | BioCh27.0 | A | Mutation generally produces
+  2005→     A: recessive genes
+  2006→     B: lethal genes
+  2007→     C: polygenes
+  2008→     D: dominant genes
+  2009→R 466 | BioCh27.0 | B | Which of the following is the main category of mutation?
+  2010→     A: Somatic mutation
+  2011→     B: Genetic mutation
+  2012→     C: Zygotic mutation
+  2013→     D: All of these
+  2014→R 467 | BioCh27.0 | B | Albinism is known to be due to an autosomal recessive mutation. The first child of a couple with normal skin p
+  2015→     A: 1.0
+  2016→     B: 0.25
+  2017→     C: 0.5
+  2018→     D: 0.75
+  2019→R 468 | BioCh27.0 | C | Loss of an X-chromosome in a particular cell, during its development, results into
+  2020→     A: diploid individual
+  2021→     B: triploid individual
+  2022→     C: gynandromorphs
+  2023→     D: Both (a) and (b)
+  2024→R 469 | BioCh27.0 | D | The formation of multivalents at meiosis in diploid organism is due to
+  2025→     A: monosomy
+  2026→     B: inversion
+  2027→     C: deletion
+  2028→     D: reciprocal translocation
+  2029→R 470 | BioCh27.0 | B | A mutation at one base of the first codon of a gene produces a non-functional protein. Such a mutation is refe
+  2030→     A: frameshift mutation
+  2031→     B: mis-sense mutation
+  2032→     C: non-sense mutation
+  2033→     D: reverse mutation
+  2034→R 471 | BioCh27.0 | D | Different mutations referrable to the same locus of chromosome give rise to
+  2035→     A: pseudoalleles
+  2036→     B: polygenes
+  2037→     C: oncogenes
+  2038→     D: multiple alleles
+  2039→R 472 | BioCh27.0 | B | HJ Muller was awarded Nobel Prize for his
+  2040→     A: discovery that chemicals can induce gene mutations
+  2041→     B: discovery that ionizing radiations can induce gene mutations
+  2042→     C: work on gene mapping in Drosophila
+  2043→     D: efforts to prevent the use of nuclear weapons
+  2044→R 473 | BioCh27.0 | D | The most striking example of point mutation is found in a disease called
+  2045→     A: thalassemia
+  2046→     B: night blindness
+  2047→     C: Down’s syndrome
+  2048→     D: sickle-cell anaemia
+  2049→R 474 | BioCh27.0 | B | Out of A==T, G≡≡C pairing, bases of DNA may exist in alternate valency state owing to arrangement called
+  2050→     A: analogue substitution
+  2051→     B: tautomerisational mutation
+  2052→     C: frameshift mutation
+  2053→     D: point mutation
+  2054→R 475 | BioCh27.0 | C | Haploids are able to express both recessive and dominant alleles/mutations because there are
+  2055→     A: many alleles for each gene
+  2056→     B: two alleles for each gene
+  2057→     C: only one allele for each gene in the individual
+  2058→     D: only one allele in a gene
+  2059→R 476 | BioCh27.0 | C | In a cross between a male and female, both heterozygous for sickle-cell anaemia gene, what percentage of the p
+  2060→     A: 0.5
+  2061→     B: 0.75
+  2062→     C: 0.25
+  2063→     D: 1.0
+  2064→R 477 | BioCh27.0 | B | The best example for pleiotropy is
+  2065→     A: skin colour
+  2066→     B: phenylketonuria
+  2067→     C: colour blindness
+  2068→     D: ABO blood group
+  2069→R 478 | BioCh27.0 | B | Select the correct match.
+  2070→     A: Phenylketonuria – Autosomal dominant trait
+  2071→     B: Sickle-cell anaemia – Autosomal recessive trait, chromosome-11
+  2072→     C: Thalassemia – X-linked
+  2073→     D: Haemophilia – Y-linked
+  2074→R 479 | BioCh27.0 | B | In which genetic condition, each cell in the affected person, has three sex chromosomes XXY?
+  2075→     A: Thalassemia
+  2076→     B: Klinefelter’s syndrome
+  2077→     C: Phenylketonuria
+  2078→     D: Turner’s syndrome
+  2079→R 480 | BioCh27.0 | A | What is the genetic disorder in which an individual has an overall masculine development, gynaecomastia and is
+  2080→     A: Klinefelter’s syndrome
+  2081→     B: Edward syndrome
+  2082→     C: Down’s syndrome
+  2083→     D: Turner’s syndrome
+  2084→R 481 | BioCh27.0 | C | Thalassemia and sickle-cell anaemia are caused due to a problem in globin molecule synthesis. Select the corre
+  2085→     A: Both are due to a qualitative defect in global chain synthesis
+  2086→     B: Both are due to a quantitative defect in globin chain synthesis
+  2087→     C: Thalassemia is due to less synthesis of globin molecules
+  2088→     D: Sickle-cells anaemia is due to a quantitative problem of globin molecules
+  2089→R 482 | BioCh27.0 | A | A disease caused by an autosomal primary non-disjunction is
+  2090→     A: down’s syndrome
+  2091→     B: klinefelter’s syndrome
+  2092→     C: turner’s syndrome
+  2093→     D: sickle-cell anemia
+  2094→R 483 | BioCh27.0 | A | Which of the following most appropriately describes haemophilia?
+  2095→     A: X-linked recessive gene disorder
+  2096→     B: Chromosomal disorder
+  2097→     C: Dominant gene disorder
+  2098→     D: Recessive gene disorder
+  2099→R 484 | BioCh27.0 | C | I. Haemophilia is a sex-linked recessive disease.
+  2100→II. Down's syndrome is due to aneuploidy.
+  2101→III. Phenylketonur
+  2102→     A: II and IV are correct
+  2103→     B: I, III and IV are correct
+  2104→     C: I, II and III are correct
+  2105→     D: I and IV are correct
+  2106→R 485 | BioCh27.0 | A | If a colourblind man marries a woman who is homozygous for normal colour vision, the probability of their son 
+  2107→     A: 
+  2108→     B: 0.5
+  2109→     C: 0.75
+  2110→     D: 1.0
+  2111→R 486 | BioCh27.0 | C | In the following human pedigree, the filled symbols represent the affected individuals. Identify the type of g
+  2112→     A: Autosomal dominant
+  2113→     B: X-linked recessive
+  2114→     C: Autosomal recessive
+  2115→     D: X-linked dominant
+  2116→R 487 | BioCh27.0 | D | A colourblind man marries a woman with normal sight who has no history of colour blindness in her family. What
+  2117→     A: 0.5
+  2118→     B: 1.0
+  2119→     C: Nil
+  2120→     D: 0.25
+  2121→R 488 | BioCh27.0 | A | A man whose father was colour blind marries a woman, who had a colour blind mother and normal father. What per
+  2122→     A: 0.25
+  2123→     B: 
+  2124→     C: 0.5
+  2125→     D: 0.75
+  2126→R 489 | BioCh27.0 | A | A human female with Turner’s syndrome
+  2127→     A: has 45 chromosomes with XO
+  2128→     B: has one additional X-chromosome
+  2129→     C: exhibits male characters
+  2130→     D: is able to produce children with normal husband
+  2131→R 490 | BioCh27.0 | C | If both parents are carriers for thalassaemia, which is an autosomal recessive disorder, what are the chances 
+  2132→     A: No chance
+  2133→     B: 0.5
+  2134→     C: 0.25
+  2135→     D: 1.0
+  2136→R 491 | BioCh27.0 | C | The incorrect statement with regard to haemophilia is
+  2137→     A: it is a sex-linked disease
+  2138→     B: it is a recessive disease
+  2139→     C: it is a dominant disease
+  2140→     D: a single protein involved in the clotting of blood is affected
+  2141→R 492 | BioCh27.0 | B | A normal-visioned man whose father was colour blind, marries a woman whose father was also colour blind. They 
+  2142→     A: 1.0
+  2143→     B: 
+  2144→     C: 0.25
+  2145→     D: 0.5
+  2146→R 493 | BioCh27.0 | A | Which one of the following condition in humans is correctly matched with its chromosomal abnormality/linkage?
+  2147→     A: Klinefelter’s syndrome— 44 autosomes + XXY
+  2148→     B: Colour blindness — Y-linked
+  2149→     C: Erythroblastosis foetalis— X-linked
+  2150→     D: Down’s syndrome— 45 + XO
+  2151→R 494 | BioCh27.0 | D | Which one of the following symbols and its representat...
+  2152→     A: Inheritance of a sex-linked inborn error of metabolism like phenylketonuria
+  2153→     B: Inheritance of a condition like phenylketonuria as an autosomal recessive trait
+  2154→     C: The pedigree chart is wrong as this is not possible
+  2155→     D: Inheritance of a recessive sex-linked disease like haemophilia
+  2156→R 495 | BioCh27.0 | D | A man and a woman, who do not show any apparent signs of a certain inherited disease, have seven children (2 d
+  2157→     A: Autosomal dominant
+  2158→     B: Sex-linked dominant
+  2159→     C: Sex-limited recessive
+  2160→     D: Sex-linked recessive
+  2161→R 496 | BioCh27.0 | A | Klinefelter’s syndrome— 44 autosomes + XXY
+  2162→     A: Klinefelter’s syndrome— 44 autosomes + XXY
+  2163→     B: Colour blindness — Y-linked
+  2164→     C: Erythroblastosis foetalis— X-linked
+  2165→     D: Down syndrome— 44 autosomes + XO
+  2166→R 497 | BioCh27.0 | C | Haemophilia is more commonly seen in human males than in human females because
+  2167→     A: this disease is due to an X-linked dominant mutation
+  2168→     B: a greater proportion of girls die in infancy
+  2169→     C: this disease is due to an X-linked recessive mutation
+  2170→     D: this disease is due to a Y-linked recessive mutation
+  2171→R 498 | BioCh27.0 | C | A woman with normal vision, but whose father was colour blind, marries a colour blind man. Suppose that the fo
+  2172→     A: must have normal colour vision
+  2173→     B: will be partially colour blind since he is heterozygous for the colour blind mut
+  2174→     C: must be colour blind
+  2175→     D: may be colour blind or may be of normal vision
+  2176→R 499 | BioCh27.0 | A | Down’s syndrome is caused by an extra copy of chromosome number 21. What percentage of offspring produced by a
+  2177→     A: 0.5
+  2178→     B: 0.25
+  2179→     C: 1.0
+  2180→     D: 0.75
+  2181→R 500 | BioCh27.0 | B | Which of the following is the example of sex-linked disease?
+  2182→     A: AIDS
+  2183→     B: Colour blindness
+  2184→     C: Syphilis
+  2185→     D: Gonorrhoea
+  2186→R 501 | BioCh27.0 | C | Pleiotropic gene is
+  2187→     A: haemophilia
+  2188→     B: thalassemia
+  2189→     C: sickle-cell anaemia
+  2190→     D: colour blindness
+  2191→R 502 | BioCh27.0 | B | If a diploid cell is treated with colchicine then it becomes
+  2192→     A: triploid
+  2193→     B: tetraploid
+  2194→     C: diploid
+  2195→     D: monoploid
+  2196→R 503 | BioCh27.0 | C | Number of Barr bodies in XXXX female
+  2197→     A: 1.0
+  2198→     B: 2.0
+  2199→     C: 3.0
+  2200→     D: 4.0
+  2201→R 504 | BioCh27.0 | B | Haemophilic man marries a normal woman. Their offspring will be
+  2202→     A: all boys haemophilic
+  2203→     B: all normal
+  2204→     C: all girls haemophilic
+  2205→     D: all haemophilic
+  2206→R 505 | BioCh27.0 | B | Mental retardation in man, associated with sex chromosomal abnormality is usually due to
+  2207→     A: reduction in X-complement
+  2208→     B: increase in X-complement
+  2209→     C: moderate increase in Y-complement
+  2210→     D: large increase in Y-complement
+  2211→R 506 | BioCh27.0 | B | A man with a certain disease marries a normal woman. They have eight children (3 daughters and 5 sons). All th
+  2212→     A: Sex-linked recessive
+  2213→     B: Sex-linked dominant
+  2214→     C: Autosomal recessive
+  2215→     D: Autosomal dominant
+  2216→R 507 | BioCh27.0 | D | A woman with albinic father marries an albinic man. The proportion of her progeny is
+  2217→     A: 2 normal : 1 albinic
+  2218→     B: all normal
+  2219→     C: all albinic
+  2220→     D: 1 normal : 1 albinic
+  2221→R 508 | BioCh27.0 | B | A normal woman whose father was colour blind is married to a normal man. The sons would be
+  2222→     A: 75% colour blind
+  2223→     B: 50% colour blind
+  2224→     C: all normal
+  2225→     D: all colour blind
+  2226→R 509 | BioCh27.0 | D | Which one of the following conditions though harmful in itself, is also a potential saviour from a mosquito bo
+  2227→     A: Pernicious anaemia
+  2228→     B: Leukaemia
+  2229→     C: Thalassemia
+  2230→     D: Sickle-cell anaemia
+  2231→R 510 | BioCh27.0 | A | A woman with two genes (one on each X-chromosome) for haemophilia and one gene for colour blindness on the X-c
+  2232→     A: All sons and daughters haemophilic and colour blind
+  2233→     B: Haemophilic and colour blind daughters
+  2234→     C: 50% haemophilic colour blind sons and 50% haemophilic sons
+  2235→     D: 50% haemophilic daughters and 50% colour blind daughters
+  2236→R 511 | BioCh27.0 | D | A colourblind woman marries a normal man.
+  2237→     A: All sons and daughters are colourblind.
+  2238→     B: All daughters are colourblind and sons are normal.
+  2239→     C: All sons are colourblind and daughters are carriers.
+  2240→     D: All sons are normal and daughters are colourblind.
+  2241→R 512 | BioCh27.0 | C | Sickle-cell anaemia has not been eliminated from the African population because:
+  2242→     A: it is controlled by recessive genes
+  2243→     B: it is not a fatal disease
+  2244→     C: it provides immunity against malaria
+  2245→     D: it is controlled by dominant genes
+  2246→R 513 | BioCh27.0 | B | Both sickle-cell anaemia and Huntington’s chorea are:
+  2247→     A: bacteria-related diseases
+  2248→     B: congenital disorders
+  2249→     C: pollutant-induced disorders
+  2250→     D: virus-related diseases
+  2251→R 514 | BioCh28.0 | C | Which of the following is the correct base pairing in DNA?
+  2252→     A: Adenine with Guanine
+  2253→     B: Adenine with Cytosine
+  2254→     C: Adenine with Thymine
+  2255→     D: Guanine with Cytosine
+  2256→R 515 | BioCh28.0 | C | The process of RNA-directed protein synthesis is called:
+  2257→     A: Replication
+  2258→     B: Transcription
+  2259→     C: Translation
+  2260→     D: Transduction
+  2261→R 516 | BioCh28.0 | B | Which of the following is not a component of the lac operon?
+  2262→     A: Structural genes
+  2263→     B: Repressor gene
+  2264→     C: Operator gene
+  2265→     D: Promoter gene
+  2266→R 517 | BioCh28.0 | B | The enzyme responsible for synthesizing RNA from a DNA template is:
+  2267→     A: DNA polymerase
+  2268→     B: RNA polymerase
+  2269→     C: Reverse transcriptase
+  2270→     D: Ligase
+  2271→R 518 | BioCh28.0 | D | In the DNA molecule
+  2272→     A: the total amount of purine nucleotides and pyrimidine nucleotides is not always 
+  2273→     B: there are two strands which run parallel in the 5′→3′ direction
+  2274→     C: the proportion of adenine in relation to thymine varies with the organism
+  2275→     D: there are two strands which run antiparallel one in 5′→3′ direction and other in
+  2276→R 519 | BioCh28.0 | C | The two polynucleotide chains in DNA are
+  2277→     A: parallel
+  2278→     B: discontinuous
+  2279→     C: antiparallel
+  2280→     D: semiconservative
+  2281→R 520 | BioCh28.0 | A | Nucleotides are building blocks of nucleic acids. Each nucleotide is a composite molecule formed by
+  2282→     A: base-sugar-phosphate
+  2283→     B: base-sugar-OH
+  2284→     C: (base-sugar-phosphate)n
+  2285→     D: sugar-phosphate
+  2286→R 521 | BioCh28.0 | B | Radioactive thymidine when added to the medium surrounding living mammalian cells gets incorporated into the n
+  2287→     A: Heterochromatin
+  2288→     B: Euchromatin
+  2289→     C: Both (a) and (b)
+  2290→     D: Neither (a) nor (b) but only the nucleolus
+  2291→R 522 | BioCh28.0 | C | DNA synthesis can be specifically measured by estimating the incorporation of radio labelled
+  2292→     A: uracil
+  2293→     B: adenine
+  2294→     C: thymidine
+  2295→     D: deoxyribose sugar
+  2296→R 523 | BioCh28.0 | C | The nitrogenous organic base purine occurring in RNA is
+  2297→     A: cytosine
+  2298→     B: thymine
+  2299→     C: guanine
+  2300→     D: uracil
+  2301→R 524 | BioCh28.0 | D | Two free ribonucleotide units are interlinked with
+  2302→     A: peptide bond
+  2303→     B: covalent bond
+  2304→     C: hydrogen bond
+  2305→     D: phosphodiester bond
+  2306→R 525 | BioCh28.0 | B | In which mode of inheritance do you expect more maternal influence among the offspring?
+  2307→     A: Autosomal
+  2308→     B: Cytoplasmic
+  2309→     C: Y-linked
+  2310→     D: X-linked
+  2311→R 526 | BioCh28.0 | A | Extranuclear inheritance is a consequence of presence of genes in
+  2312→     A: mitochondria and chloroplasts
+  2313→     B: endoplasmic reticulum and mitochondria
+  2314→     C: ribosomes and chloroplast
+  2315→     D: lysosomes and ribosomes
+  2316→R 527 | BioCh28.0 | C | Under which of the following conditions will there be no change in the reading frame of following mRNA?
+  2317→5′AACA
+  2318→     A: Deletion of G from 5th position
+  2319→     B: Insertion of A and G at 4th and 5th positions, respectively
+  2320→     C: Deletion of GGU from 7th, 8th and 9th positions
+  2321→     D: Insertion of G at 5th position
+  2322→R 528 | BioCh28.0 | B | Point mutation involves
+  2323→     A: insertion
+  2324→     B: change in single base pair
+  2325→     C: duplication
+  2326→     D: deletion
+  2327→R 529 | BioCh28.0 | C | In a mutational event, when adenine is replaced by guanine, it is the case of
+  2328→     A: frameshift mutation
+  2329→     B: transcription
+  2330→     C: transition
+  2331→     D: transversion
+  2332→R 530 | BioCh28.0 | B | Change in the sequence of nucleotide in DNA is called as
+  2333→     A: mutagen
+  2334→     B: mutation
+  2335→     C: recombination
+  2336→     D: translation
+  2337→R 531 | BioCh28.0 | D | Which base is responsible for hotspots for spontaneous point mutations?
+  2338→     A: Guanine
+  2339→     B: Adenine
+  2340→     C: 5-bromouracil
+  2341→     D: 5-methylcytosine
+  2342→R 532 | BioCh28.0 | C | A normal green male maize is crossed with albino female. The progeny is albino because
+  2343→     A: trait for albinism is dominant
+  2344→     B: the albinos have biochemical to destroy plastids derived from green male
+  2345→     C: plastids are inherited from female parent
+  2346→     D: green plastids of male must have mutated
+  2347→R 533 | BioCh28.0 | B | Which one of the following statements about histones is wrong?
+  2348→     A: Histones are organised to form a unit of 8 molecules.
+  2349→     B: The pH of histones is slightly acidic
+  2350→     C: Histones are rich in amino acids lysine and arginine
+  2351→     D: Histones carry positive charge in the side chain
+  2352→R 534 | BioCh28.0 | B | Which is the ‘‘only enzyme’’ that has “capability” to catalyse initiation, elongation and termination in the p
+  2353→     A: DNA-dependent DNA polymerase
+  2354→     B: DNA-dependent RNA polymerase
+  2355→     C: DNA ligase
+  2356→     D: DNase
+  2357→R 535 | BioCh28.0 | D | Which of the following RNAs is not required for the synthesis of protein ?
+  2358→     A: mRNA
+  2359→     B: tRNA
+  2360→     C: rRNA
+  2361→     D: siRNA
+  2362→R 536 | BioCh28.0 | C | If adenine makes 30% of the DNA molecule, what will be the percentage of thymine, guanine and cytosine in it?
+  2363→     A: T : 20, G : 30, C : 20
+  2364→     B: T : 20, G : 20, C : 30
+  2365→     C: T : 30, G : 20, C : 20
+  2366→     D: T : 20, G : 25, C : 25
+  2367→R 537 | BioCh28.0 | C | Complete the flow chart on central dogma
+  2368→     A: (a)-Replication: (b)-Transcription; (c)-Transduction: (d)-Protein
+  2369→     B: (a)-Translation: (b)-Replication; (c)-Transcription: (d)-Transduction
+  2370→     C: (a)-Replication: (b)-Transcription; (c)-Translation (d)-Protein
+  2371→     D: (a)-Transduction; (b)-Translation (c)-Replication; (d)-Protein
+  2372→R 538 | BioCh28.0 | C | E. coli has only4 6 106 . ⋅ base pairs and completes the process of replication within 18 minutes, then the av
+  2373→     A: 2000 bp/s
+  2374→     B: 3000 bp/s
+  2375→     C: 4000 bp/s
+  2376→     D: 1000 bp/s
+  2377→R 539 | BioCh28.0 | C | Name the enzyme that facilitates opening of DNA helix during transcription.
+  2378→     A: DNA helicase
+  2379→     B: DNA polymerase
+  2380→     C: RNA polymerase
+  2381→     D: DNA ligase
+  2382→R 540 | BioCh28.0 | A | Who coined the term ‘Kinetin’?
+  2383→     A: Skoog and Miller
+  2384→     B: Darwin
+  2385→     C: Went
+  2386→     D: Kurosawa
+  2387→R 541 | BioCh28.0 | D | In the polynucleotide chain of DNA, a nitrogenous base is linked to the –OH of
+  2388→     A: 2′ C pentose sugar
+  2389→     B: 3′ C pentose sugar
+  2390→     C: 5′ C pentose sugar
+  2391→     D: 1′ C pentose sugar
+  2392→R 542 | BioCh28.0 | B | The term ‘Nuclein’ for the genetic material was used by
+  2393→     A: Franklin
+  2394→     B: Meischer
+  2395→     C: Chargaff
+  2396→     D: Mendel
+  2397→R 543 | BioCh28.0 | D | Which of the following statements is correct?
+  2398→     A: Adenine pairs with thymine through one H-bond
+  2399→     B: Adenine pairs with thymine through three H-bonds
+  2400→     C: Adenine does not pair with thymine
+  2401→     D: Adenine pairs with thymine through two H-bonds
+  2402→R 544 | BioCh28.0 | A | If the distance between two consecutive base pairs is 0.34 nm and the total number of base pairs of a DNA doub
+  2403→     A: 2.5 meters
+  2404→     B: 2.2 meters
+  2405→     C: 2.7 meters
+  2406→     D: 2.0 meters
+  2407→R 545 | BioCh28.0 | A | In RNAi, the genes are silenced using
+  2408→     A: dsRNA
+  2409→     B: ssDNA
+  2410→     C: ssRNA
+  2411→     D: dsDNA
+  2412→R 546 | BioCh28.0 | A | What initiation and termination factors are involved in transcription in eukaryotes?
+  2413→     A: σ andρ, respectively
+  2414→     B: α andβ, respectively
+  2415→     C: β and γ, respectively
+  2416→     D: α and σ, respectively
+  2417→R 547 | BioCh28.0 | C | Which scientist experimentally proved that DNA is the sole genetic material in bacteriophage?
+  2418→     A: Beadle and Tatum
+  2419→     B: Meselson and Stahl
+  2420→     C: Hershey and Chase
+  2421→     D: Jacob and Monod
+  2422→R 548 | BioCh28.0 | B | What will be the sequence of mRNA produced by the following stretch of DNA?
+  2423→3'ATGCATGCATGCATG5'
+  2424→TEMPLATE STRAN
+  2425→     A: 3' -AUGCAUGCAUGCAUG 5'
+  2426→     B: 5' -UACGUACGUACGUAC 3'
+  2427→     C: 3' -UACGUACGUACGUAC 5'
+  2428→     D: 5' -AUGCAUGCAUGCAUG 3'
+  2429→R 549 | BioCh28.0 | A | Purines found both in DNA and RNA are
+  2430→     A: adenine and guanine
+  2431→     B: guanine and cytosine
+  2432→     C: cytosine and thymine
+  2433→     D: adenine and thymine
+  2434→R 550 | BioCh28.0 | B | The experimental proof for semiconservative replication of DNA was first shown in a
+  2435→     A: plant
+  2436→     B: bacterium
+  2437→     C: fungus
+  2438→     D: virus
+  2439→R 551 | BioCh28.0 | B | The final proof for DNA as the genetic material came from the experiments of
+  2440→     A: Griffith
+  2441→     B: Hershey and Chase
+  2442→     C: Avery, MacLeod and McCarty
+  2443→     D: Hargobind Khorana
+  2444→R 552 | BioCh28.0 | C | The association of histone H1 with a nucleosome indicates
+  2445→     A: transcription is occurring
+  2446→     B: DNA replication is occurring
+  2447→     C: the DNA is condensed into chromatin fibre
+  2448→     D: the DNA double helix is exposed
+  2449→R 553 | BioCh28.0 | A | Which of the following RNAs should be most abundant in animal cells?
+  2450→     A: rRNA
+  2451→     B: tRNA
+  2452→     C: mRNA
+  2453→     D: miRNA
+  2454→R 554 | BioCh28.0 | C | DNA replication in bacteria occurs
+  2455→     A: during S-phase
+  2456→     B: within nucleolus
+  2457→     C: prior to fission
+  2458→     D: just before transcription
+  2459→R 555 | BioCh28.0 | D | A complex of ribosomes attached to a single strand of RNA is known as
+  2460→     A: polymer
+  2461→     B: polypeptide
+  2462→     C: okazaki fragment
+  2463→     D: polysome
+  2464→R 556 | BioCh28.0 | A | DNA-dependent RNA polymerase catalyses transcription on one strand of the DNA which is called the
+  2465→     A: template strand
+  2466→     B: coding strand
+  2467→     C: alpha strand
+  2468→     D: anti strand
+  2469→R 557 | BioCh28.0 | C | A molecule that can act as a genetic material must fulfill the traits given below, except
+  2470→     A: it should be able to express itself in the form of ‘Mendelian characters’
+  2471→     B: it should be able to generate its replica
+  2472→     C: it should be unstable structurally and chemically
+  2473→     D: it should provide the scope for slow changes that are required for evolution
+  2474→R 558 | BioCh28.0 | C | Which of the following rRNAs act as structural RNA as well as ribozyme in bacteria?
+  2475→     A: 5 srRNA
+  2476→     B: 18 srRNA
+  2477→     C: 23 srRNA
+  2478→     D: 5⋅8 srRNA
+  2479→R 559 | BioCh28.0 | B | Taylor conducted the experiments to prove semiconservative mode of chromosome replication on
+  2480→     A: Vinca rosea
+  2481→     B: Vicia faba
+  2482→     C: Drosophila melanogaster
+  2483→     D: E. coli
+  2484→R 560 | BioCh28.0 | B | The equivalent of a structural gene is
+  2485→     A: muton
+  2486→     B: cistron
+  2487→     C: operon
+  2488→     D: recon
+  2489→R 561 | BioCh28.0 | D | Which one of the following is not applicable to RNA?
+  2490→     A: Complementary base pairing
+  2491→     B: 5′ phosphoryl and 3′ hydroxyl ends
+  2492→     C: Heterocyclic nitrogenous bases
+  2493→     D: Chargaff’s rule
+  2494→R 562 | BioCh28.0 | C | Identify the correct order of organisation of genetic material from largest to smallest.
+  2495→     A: Chromosome, gene, genome, nucleotide
+  2496→     B: Genome, chromosome, nucleotide, gene
+  2497→     C: Genome, chromosome, gene, nucleotide
+  2498→     D: Chromosome, genome, nucleotide, gene
+  2499→R 563 | BioCh28.0 | C | Transformation was discovered by
+  2500→     A: Meselson and Stahl
+  2501→     B: Hershey and Chase
+  2502→     C: Griffith
+  2503→     D: Watson and Crick
+  2504→R 564 | BioCh28.0 | A | Removal of RNA polymerase-III from nucleoplasm will affect the synthesis of
+  2505→     A: tRNA
+  2506→     B: hnRNA
+  2507→     C: mRNA
+  2508→     D: rRNA
+  2509→R 565 | BioCh28.0 | A | Which one of the following is not a part of a transcription unit in DNA?
+  2510→     A: The inducer
+  2511→     B: A terminator
+  2512→     C: A promoter
+  2513→     D: The structural gene
+  2514→R 566 | BioCh28.0 | B | Ribosomal RNA is actively synthesised in
+  2515→     A: lysosomes
+  2516→     B: nucleolus
+  2517→     C: nucleoplasm
+  2518→     D: ribosomes
+  2519→R 567 | BioCh28.0 | D | Removal of introns and joining of exons in a defined order during transcription is called
+  2520→     A: looping
+  2521→     B: inducing
+  2522→     C: slicing
+  2523→     D: splicing
+  2524→R 568 | BioCh28.0 | C | What are the structures called that give an appearance as ‘beads on string’ in the chromosomes when viewed und
+  2525→     A: Genes
+  2526→     B: Nucleotides
+  2527→     C: Nucleosomes
+  2528→     D: Base pairs
+  2529→R 569 | BioCh28.0 | A | Whose experiments cracked the DNA and discovered unequivocally that a genetic code is a triplet?
+  2530→     A: Nirenberg and Matthaei
+  2531→     B: Hershey and Chase
+  2532→     C: Morgan and Sturtevant
+  2533→     D: Beadle and Tatum
+  2534→R 570 | BioCh28.0 | A | Polysome is formed by
+  2535→     A: several ribosomes attached to a single mRNA
+  2536→     B: many ribosomes attached to a strand of endoplasmic reticulum
+  2537→     C: a ribosome with several subunits
+  2538→     D: ribosomes attached to each other in a linear arrangement
+  2539→R 571 | BioCh28.0 | D | The Okazaki fragments in DNA chain growth
+  2540→     A: result in transcription
+  2541→     B: polymerise in the 3′to 5′direction and forms replication fork
+  2542→     C: prove semi-conservative nature of DNA replication
+  2543→     D: polymerise in the 5′to 3′direction and explain 3′to 5′DNA replication
+  2544→R 572 | BioCh28.0 | B | The length of DNA molecule greatly exceeds the dimensions of the nucleus in eukaryotic cells. How is this DNA 
+  2545→     A: Deletion of non-essential genes
+  2546→     B: Super-coiling in nucleosomes
+  2547→     C: DNAse digestion
+  2548→     D: Through elimination of repetitive DNA
+  2549→R 573 | BioCh28.0 | C | Molecular basis of organ differentiation depends on the modulation in transcription by
+  2550→     A: RNA polymerase
+  2551→     B: ribosome
+  2552→     C: transcription factor
+  2553→     D: anticodon
+  2554→R 574 | BioCh28.0 | D | Telomere repetitive DNA sequences control the function of eukaryotic chromosomes because they
+  2555→     A: act as replicons
+  2556→     B: are RNA transcription initiator
+  2557→     C: help chromosome pairing
+  2558→     D: prevent chromosome loss
+  2559→R 575 | BioCh28.0 | A | Which one of the following makes use of RNA as a template to synthesise DNA?
+  2560→     A: Reverse transcriptase
+  2561→     B: DNA dependant RNA polymerase
+  2562→     C: DNA polymerase
+  2563→     D: RNA polymerase
+  2564→R 576 | BioCh28.0 | C | Which one of the following hydrolyses internal phosphodiester bonds in a polynucleotide chain?
+  2565→     A: Lipase
+  2566→     B: Exonuclease
+  2567→     C: Endonuclease
+  2568→     D: Protease
+  2569→R 577 | BioCh28.0 | D | During transcription, the holoenzyme RNA polymerase binds to a DNA sequence and the DNA assumes a saddle like 
+  2570→     A: CAAT box
+  2571→     B: GGTT box
+  2572→     C: AAAT box
+  2573→     D: TATA box
+  2574→R 578 | BioCh28.0 | D | Telomerase is an enzyme which is a
+  2575→     A: repetitive DNA
+  2576→     B: RNA
+  2577→     C: simple protein
+  2578→     D: ribonucleoprotein
+  2579→R 579 | BioCh28.0 | A | During replication of a bacterial chromosome DNA synthesis starts from a replication origin site and
+  2580→     A: RNA primers are involved
+  2581→     B: is facilitated by telomerase
+  2582→     C: moves in one direction of the site
+  2583→     D: moves in bi-directional way
+  2584→R 580 | BioCh28.0 | D | The telomeres of eukaryotic chromosomes consist of short sequences of
+  2585→     A: thymine rich repeats
+  2586→     B: cytosine rich repeats
+  2587→     C: adenine rich repeats
+  2588→     D: guanine rich repeats
+  2589→R 581 | BioCh28.0 | C | During transcription, the nucleotide sequence of the DNA strand that is being coded is ATACG, then the nucleot
+  2590→     A: TATGC
+  2591→     B: TCTGG
+  2592→     C: UAUGC
+  2593→     D: UATGG
+  2594→R 582 | BioCh28.0 | D | Which form of RNA has a structure resembling clover leaf?
+  2595→     A: rRNA
+  2596→     B: hnRNA
+  2597→     C: mRNA
+  2598→     D: tRNA
+  2599→R 583 | BioCh28.0 | C | During transcription, the DNA site at which RNA polymerase binds is called
+  2600→     A: receptor
+  2601→     B: enhancer
+  2602→     C: promoter
+  2603→     D: regulator
+  2604→R 584 | BioCh28.0 | C | Chromosomes in a bacterial cell can be 1-3 in number and
+  2605→     A: can be either circular or linear, but never both within the same cell
+  2606→     B: can be circular as well as linear within the same cell
+  2607→     C: are always circular
+  2608→     D: are always linear
+  2609→R 585 | BioCh28.0 | A | Exon part of mRNAs have code for
+  2610→     A: protein
+  2611→     B: lipid
+  2612→     C: carbohydrate
+  2613→     D: phospholipid
+  2614→R 586 | BioCh28.0 | C | Promoter is the nucleotide sequence to which RNA polymerase binds and initiates transcription. Formation of a 
+  2615→     A: receptor
+  2616→     B: enhancer
+  2617→     C: promoter
+  2618→     D: regulator
+  2619→R 587 | BioCh28.0 | C | Which of the following reunites the exon segments after RNA splicing?
+  2620→     A: RNA polymerase
+  2621→     B: RNA primase
+  2622→     C: RNA ligase
+  2623→     D: RNA protease
+  2624→R 588 | BioCh28.0 | A | Which statements is correct for bacterial transduction?
+  2625→     A: Transfer of some genes from one bacteria to another bacteria through virus
+  2626→     B: Transfer of genes from one bacteria to another bacteria by conjugation
+  2627→     C: Bacteria obtained its DNA directly
+  2628→     D: Bacteria obtained DNA from other external source
+  2629→R 589 | BioCh28.0 | C | In a DNA percentage of thymine is 20. What is the percentage of guanine?
+  2630→     A: 0.2
+  2631→     B: 0.4
+  2632→     C: 0.3
+  2633→     D: 0.6
+  2634→R 590 | BioCh28.0 | B | Sequence of which of the following is used to know the phylogeny?
+  2635→     A: mRNA
+  2636→     B: rRNA
+  2637→     C: tRNA
+  2638→     D: DNA
+  2639→R 591 | BioCh28.0 | A | In which direction mRNA is synthesised on DNA template?
+  2640→     A: 5’→3′
+  2641→     B: 3’→5′
+  2642→     C: Both (a) and (b)
+  2643→     D: Any of above
+  2644→R 592 | BioCh28.0 | C | Gene and cistron words are sometimes used synonymously because
+  2645→     A: one cistron contains many genes
+  2646→     B: one gene contains many cistrons
+  2647→     C: one gene contains one cistron
+  2648→     D: one gene contains no cistron
+  2649→R 593 | BioCh28.0 | B | E. coli about to replicate was placed in a medium containing radioactive thymidine for five minutes. Then it w
+  2650→     A: Both the strands of DNA will be radioactive
+  2651→     B: One strand radioactive
+  2652→     C: Each strand half radioactive
+  2653→     D: None is radioactive
+  2654→R 594 | BioCh28.0 | C | Due to discovery of which of the following in 1980’s the evolution was termed as RNA world?
+  2655→     A: mRNA, tRNA, rRNA synthesise proteins
+  2656→     B: In some viruses, RNA is genetic material
+  2657→     C: Some RNAs have enzymatic property
+  2658→     D: RNA is not found in all cells
+  2659→R 595 | BioCh28.0 | B | During replication of DNA, its two strands separate. Each of these serves as a template for the formation of n
+  2660→     A: non-conservative
+  2661→     B: semi-conservative
+  2662→     C: flexible
+  2663→     D: conservative
+  2664→R 596 | BioCh28.0 | A | One of the similarities between DNA and RNA is that both
+  2665→     A: are polymers of nucleotides
+  2666→     B: are capable of replicating
+  2667→     C: have similar sugars
+  2668→     D: have similar pyrimidine bases
+  2669→R 597 | BioCh28.0 | A | The Pneumococcus experiment proves that
+  2670→     A: DNA is the genetic material
+  2671→     B: RNA sometime controls the production of DNA and proteins
+  2672→     C: bacteria undergo binary fission
+  2673→     D: bacteria do not reproduce sexually
+  2674→R 598 | BioCh28.0 | D | DNA elements, which can switch their position, are called
+  2675→     A: exons
+  2676→     B: introns
+  2677→     C: cistrons
+  2678→     D: transposons
+  2679→R 599 | BioCh28.0 | B | Genes are packaged into a bacterial chromosome by
+  2680→     A: histones
+  2681→     B: basic protein
+  2682→     C: acidic protein
+  2683→     D: actin
+  2684→R 600 | BioCh28.0 | D | The hereditary material present in the bacterium E. coli is
+  2685→     A: single stranded RNA
+  2686→     B: double stranded RNA
+  2687→     C: single stranded DNA
+  2688→     D: double stranded DNA
+  2689→R 601 | BioCh28.0 | D | An enzyme that joins the ends of two strands of nucleic acid is a
+  2690→     A: polymerase
+  2691→     B: synthetase
+  2692→     C: helicase
+  2693→     D: ligase
+  2694→R 602 | BioCh28.0 | C | Okazaki fragments are seen during
+  2695→     A: transcription
+  2696→     B: translation
+  2697→     C: replication
+  2698→     D: transduction
+  2699→R 603 | BioCh28.0 | C | In split genes, the coding sequence are called
+  2700→     A: introns
+  2701→     B: operons
+  2702→     C: exons
+  2703→     D: cistrons
+  2704→R 604 | BioCh28.0 | A | Protein helping in opening of DNA double helix in front of replications fork is
+  2705→     A: DNA gyrase
+  2706→     B: DNA polymerase-I
+  2707→     C: DNA ligase
+  2708→     D: topoisomerase
+  2709→R 605 | BioCh28.0 | D | Reverse transcriptase is
+  2710→     A: RNA dependent RNA polymerase
+  2711→     B: DNA dependent RNA polymerase
+  2712→     C: DNA dependent DNA polymerase
+  2713→     D: RNA dependent DNA polymerase
+  2714→R 606 | BioCh28.0 | D | Nucleosome core is made of
+  2715→     A: H1, H2A, H2B and H3
+  2716→     B: H1, H2A, H2B and H4
+  2717→     C: H1, H2A, H2B, H3 and H4
+  2718→     D: H2A, H2B, H3 and H4
+  2719→R 607 | BioCh28.0 | A | A DNA with unequal nitrogen bases would most probably be
+  2720→     A: single stranded
+  2721→     B: double stranded
+  2722→     C: triple stranded
+  2723→     D: four stranded
+  2724→R 608 | BioCh28.0 | C | During DNA replication, the strands separate by
+  2725→     A: DNA polymerase
+  2726→     B: topoisomerase
+  2727→     C: unwindase/helicase
+  2728→     D: gyrase
+  2729→R 609 | BioCh28.0 | D | Who proved that DNA is basic genetic material?
+  2730→     A: Griffith
+  2731→     B: Watson
+  2732→     C: Boveri and Sutton
+  2733→     D: Hershey and Chase
+  2734→R 610 | BioCh28.0 | A | Nucleotide arrangement in DNA can be seen by
+  2735→     A: X-ray crystallography
+  2736→     B: electron microscope
+  2737→     C: ultracentrifuge
+  2738→     D: light microscope
+  2739→R 611 | BioCh28.0 | B | The transforming principle of Pneumococcus as found out by Avery, Mac Leod and McCarty was
+  2740→     A: mRNA
+  2741→     B: DNA
+  2742→     C: protein
+  2743→     D: polysaccharide
+  2744→R 612 | BioCh28.0 | A | Experimental material in the study of DNA replication has been
+  2745→     A: Escherichia coli
+  2746→     B: Neurospora crassa
+  2747→     C: Pneumococcus
+  2748→     D: Drosophila melanogaster
+  2749→R 613 | BioCh28.0 | B | Escherichia coli fully labelled with N15 is allowed to grow inN14 medium. The two strands of DNA molecule of t
+  2750→     A: different density and do not resemble parent DNA
+  2751→     B: different density but resemble parent DNA
+  2752→     C: same density and resemble parent DNA
+  2753→     D: same density but do not resemble parent DNA
+  2754→R 614 | BioCh28.0 | D | In RNA, thymine is replaced by
+  2755→     A: adenine
+  2756→     B: guanine
+  2757→     C: cytosine
+  2758→     D: Uracil
+  2759→R 615 | BioCh28.0 | C | A nucleotide is formed of
+  2760→     A: purine, pyrimidine and phosphate
+  2761→     B: purine, sugar and phosphate
+  2762→     C: nitrogen base, sugar and phosphate
+  2763→     D: pyrimidine, sugar and phosphate
+  2764→R 616 | BioCh28.0 | B | The process of transfer of genetic information from DNA to RNA/formation of RNA from DNA is
+  2765→     A: transversion
+  2766→     B: transcription
+  2767→     C: translation
+  2768→     D: translocation
+  2769→R 617 | BioCh28.0 | C | Which is not consistent with double helical structure of DNA?
+  2770→     A: A==T, C≡≡G
+  2771→     B: Density of DNA decreases on heating
+  2772→     C: A + T/C + G is not constant
+  2773→     D: Both (a) and (b)
+  2774→R 618 | BioCh28.0 | B | DNA replication is
+  2775→     A: conservative and discontinuous
+  2776→     B: semi-conservative and semidiscontinuous
+  2777→     C: semi-conservative and discontinuous
+  2778→     D: conservative
+  2779→R 619 | BioCh28.0 | A | Which one contains four pyrimidine bases?
+  2780→     A: GATCAATGC
+  2781→     B: GCUAGACAA
+  2782→     C: UAGCGGUAA
+  2783→     D: TGCCTAACG
+  2784→R 620 | BioCh28.0 | D | A segment of DNA has 120 adenine and 120 cytosine bases. The total number of nucleotides present in the segmen
+  2785→     A: 120.0
+  2786→     B: 240.0
+  2787→     C: 60.0
+  2788→     D: 480.0
+  2789→R 621 | BioCh28.0 | D | Statement I The condon ‘AUG’ codes for methionine and phenylalanine.
+  2790→Statement II ‘AAA’ and ‘AAG’ both codons 
+  2791→     A: Both statement I and statement II are true
+  2792→     B: Both statement I and statement ll are false
+  2793→     C: Statement I is true, but statement Il is false
+  2794→     D: Statement I is false, but statement II is true
+  2795→R 622 | BioCh28.0 | B | Identify the correct statement.
+  2796→     A: In capping, methyl guanosine triphosphate is added to the 3 end of hnRNA
+  2797→     B: RNA polymerase binds with Rho factor to terminate the process of transcription i
+  2798→     C: The coding strand in a transcription unit is copied to an mRNA
+  2799→     D: Split gene arrangement is characteristic of prokaryotes
+  2800→R 623 | BioCh28.0 | B | What is the role of RNA polymerase-III in the process of transcription in eukaryotes?
+  2801→     A: Transcribes rRNAs (28S, 18S and 5.8S)
+  2802→     B: Transcribes tRNA (5s rRNA and snRNA)
+  2803→     C: Transcribes precursor of mRNA
+  2804→     D: Transcribes only snRNAs
+  2805→R 624 | BioCh28.0 | B | Identify the statement which is incorrect.
+  2806→     A: Sulphur is an integral part of cysteine
+  2807→     B: Glycine is an example of lipids
+  2808→     C: Lecithin contains phosphorus atom in its structure
+  2809→     D: Tyrosine possesses aromatic ring in its structure
+  2810→R 625 | BioCh28.0 | B | The first phase of translation is
+  2811→     A: recognition of DNA molecule
+  2812→     B: aminoacylation of tRNA
+  2813→     C: recognition of an anti-codon
+  2814→     D: binding of mRNA to ribosome
+  2815→R 626 | BioCh28.0 | D | The specific palindromic sequence which is recognised by EcoRI is
+  2816→     A: 5'- GGAACC- 3'
+  2817→3' - CCTTGG - 5'
+  2818→     B: 5' - CTTAAG - 3'
+  2819→3' - GAATTC - 5'
+  2820→     C: 5' - GGATCC - 3'
+  2821→3' - CCTAGG - 5'
+  2822→     D: 5' - GAATTC - 3'
+  2823→3'- CCTAGG - 5'
+  2824→R 627 | BioCh28.0 | A | The sequence that controls the copy number of the linked DNA in the vector, is termed
+  2825→     A: Ori site
+  2826→     B: palindromic sequence
+  2827→     C: recognition site
+  2828→     D: selectable marker
+  2829→R 628 | BioCh28.0 | D | Correct combination of salient features of Genetic code.
+  2830→     A: Universal, Non-ambiguous, Overlapping
+  2831→     B: Degenerate, Overlapping, Commaless
+  2832→     C: Universal, Ambiguous, Degenerate
+  2833→     D: Degenerate, Non-overlapping, Non-ambiguous
+  2834→R 629 | BioCh28.0 | B | Which of the following features of genetic code does allow bacteria to produce human insulin by recombinant DN
+  2835→     A: Genetic code is redundant
+  2836→     B: Genetic code is nearly universal
+  2837→     C: Genetic code is specific
+  2838→     D: Genetic code is not ambiguous
+  2839→R 630 | BioCh28.0 | C | Match the following RNA polymerases with their transcribed products
+  2840→1. RNA polymerase I      i. tRNA
+  2841→2. RNA polyme
+  2842→     A: 1(i) 2(iii) 3(ii)
+  2843→     B: 1(i) 2(ii) 3(iii)
+  2844→     C: 1(ii) 2(iii) 3(i)
+  2845→     D: 1(iii) 2(ii) 3(i)
+  2846→R 631 | BioCh28.0 | D | Expressed Sequence Tags (ESTs) refers to
+  2847→     A: polypeptide expression
+  2848→     B: DNA polymorphism
+  2849→     C: novel DNA sequences
+  2850→     D: genes expressed as RNA
+  2851→R 632 | BioCh28.0 | C | AGGTATCGCAT is a sequence from the coding strand of a gene. What will be the corresponding sequence of the tra
+  2852→     A: ACCUAUGCGAU
+  2853→     B: AGGTUTCGCAT
+  2854→     C: AGGUAUCGCAU
+  2855→     D: UCCAUAGCGUA
+  2856→R 633 | BioCh28.0 | C | If there are 999 bases in an RNA that codes for a protein with 333 amino acids and the base at position 901 is
+  2857→     A: 1.0
+  2858→     B: 11.0
+  2859→     C: 33.0
+  2860→     D: 333.0
+  2861→R 634 | BioCh28.0 | D | Which one of the following is the starter codon?
+  2862→     A: UGA
+  2863→     B: UAA
+  2864→     C: UAG
+  2865→     D: AUG
+  2866→R 635 | BioCh28.0 | C [FIG] | The diagram shows an important concept in the genetic implication of DNA. Fill in the blanks A to C.
+  2867→DNA --> R
+  2868→     A: A–transcription, B–replication, C–James Watson
+  2869→     B: A–translation, B–transcription, C–Erwin Chargaff
+  2870→     C: A–transcription, B–translation, C–Francis Crick
+  2871→     D: A–translation, B–extension, C–Rosalind Franklin
+  2872→R 636 | BioCh28.0 | B | If one strand of DNA has the nitrogenous base sequence as ATCTG, what would be the complementary RNA strand se
+  2873→     A: TTAGU
+  2874→     B: UAGAC
+  2875→     C: AACTG
+  2876→     D: ATCGU
+  2877→R 637 | BioCh28.0 | A | What is not true for genetic code?
+  2878→     A: A codon in mRNA is read in a non-contiguous fashion
+  2879→     B: It is nearly universal
+  2880→     C: It is degenerate
+  2881→     D: It is unambiguous
+  2882→R 638 | BioCh28.0 | B | Which one of the following pairs of codons is correctly matched with their function or the signal for the part
+  2883→     A: GUU, GCU — Alanine
+  2884→     B: UAG, UGA — Stop
+  2885→     C: AUG, ACG — Start/methionine
+  2886→     D: UUA, UCA — Leucine
+  2887→R 639 | BioCh28.0 | A | One gene-one enzyme relationship was established for the first time in
+  2888→     A: Neurospora crassa
+  2889→     B: Salmonella typhimurium
+  2890→     C: Escherichia coli
+  2891→     D: Diplococcus pneumoniae
+  2892→R 640 | BioCh28.0 | C | A sequential expression of a set of human genes occurs when a steroid molecule binds to the
+  2893→     A: transfer RNA
+  2894→     B: messenger RNA
+  2895→     C: DNA sequence
+  2896→     D: ribosome
+  2897→R 641 | BioCh28.0 | D | One gene-one enzyme hypothesis was postulated by
+  2898→     A: R Franklin
+  2899→     B: Hershey and Chase
+  2900→     C: A Garrod
+  2901→     D: Beadle and Tatum
+  2902→R 642 | BioCh28.0 | B | Amino acid sequence, in protein synthesis is decided by the sequence of
+  2903→     A: tRNA
+  2904→     B: mRNA
+  2905→     C: cDNA
+  2906→     D: rRNA
+  2907→R 643 | BioCh28.0 | A | After a mutation at genetic locus the character of an organism changes due to the change in
+  2908→     A: protein structure
+  2909→     B: DNA replication
+  2910→     C: protein synthesis pattern
+  2911→     D: RNA transcription pattern
+  2912→R 644 | BioCh28.0 | C | The following ratio is generally constant for a given species
+  2913→     A: A + G/C + T
+  2914→     B: T + C/G + A
+  2915→     C: G + C/A + T
+  2916→     D: A + C/T + G
+  2917→R 645 | BioCh28.0 | A | In the genetic code dictionary, how many codons are used to code for all the 20 essential amino acids?
+  2918→     A: 61.0
+  2919→     B: 60.0
+  2920→     C: 20.0
+  2921→     D: 64.0
+  2922→R 646 | BioCh28.0 | C | What would happen if in a gene encoding a polypeptide of 50 amino acids, 25th codon (UAU) is mutated to UAA?
+  2923→     A: A polypeptide of 49 amino acids will be formed
+  2924→     B: A polypeptide of 25 amino acids will be formed
+  2925→     C: A polypeptide of 24 amino acids will be formed
+  2926→     D: Two polypeptides of 24 and 25 amino acids will be formed
+  2927→R 647 | BioCh28.0 | B | Degeneration of a genetic code is attributed to the
+  2928→     A: entire codon
+  2929→     B: third member of a codon
+  2930→     C: first member of a codon
+  2931→     D: second member of a codon
+  2932→R 648 | BioCh28.0 | A | During translation initiation in prokaryotes, a GTP molecule is needed in
+  2933→     A: association of 30S, mRNA with formyl mettRNA
+  2934→     B: association of 50S subunit of ribosome with initiation complex
+  2935→     C: formation of formyl mettRNA
+  2936→     D: binding of 30S subunit of ribosome with mRNA
+  2937→R 649 | BioCh28.0 | B | Which one of the following triplet codes, is correctly matched with its specificity for an amino acid in prote
+  2938→     A: UGU—Leucine
+  2939→     B: UAC—Tyrosine
+  2940→     C: UCG—Start
+  2941→     D: UUU—Stop
+  2942→R 650 | BioCh28.0 | B | ‘Signal hypothesis’ for the biosynthesis of secretory type of proteins was proposed by
+  2943→     A: Camillo Golgi
+  2944→     B: Blobel and Sabatini
+  2945→     C: Baltimore
+  2946→     D: Sheeler and Bianchi
+  2947→R 651 | BioCh28.0 | A | The transfer RNA molecule in 3D appears
+  2948→     A: L-shaped
+  2949→     B: E-shaped
+  2950→     C: Y-shaped
+  2951→     D: S-shaped
+  2952→R 652 | BioCh28.0 | A | Which is not involved in protein synthesis?
+  2953→     A: Transcription
+  2954→     B: Initiation
+  2955→     C: Elongation
+  2956→     D: Termination
+  2957→R 653 | BioCh28.0 | C | In DNA when AGCT occurs, their association is as per which of the following pair?
+  2958→     A: ACGT
+  2959→     B: AGCT
+  2960→     C: ATGC
+  2961→     D: All of these
+  2962→R 654 | BioCh28.0 | C | Protein synthesis in an animal cell takes place
+  2963→     A: only in the cytoplasm
+  2964→     B: in the nucleolus as well as in the cytoplasm
+  2965→     C: in the cytoplasm as well as in mitochondria
+  2966→     D: only on ribosomes attached to a nucleus
+  2967→R 655 | BioCh28.0 | B | The RNA that picks up specific amino acid from amino acid pool in the cytoplasm to ribosome during protein syn
+  2968→     A: mRNA
+  2969→     B: tRNA
+  2970→     C: rRNA
+  2971→     D: RNA
+  2972→R 656 | BioCh28.0 | D | The codons causing chain termination are
+  2973→     A: TAG, TAA, TGA
+  2974→     B: GAT, AAT, AGT
+  2975→     C: AGT, TAG, UGA
+  2976→     D: UAA, UAG, UGA
+  2977→R 657 | BioCh28.0 | B | The translation termination triplet is
+  2978→     A: UAU
+  2979→     B: UAA
+  2980→     C: UAC
+  2981→     D: UGC
+  2982→R 658 | BioCh28.0 | B | If the sequence of bases in DNA is ATTCGATG, then the sequence of bases in its transcript will be
+  2983→     A: CAUCGAAU
+  2984→     B: UAAGCUAC
+  2985→     C: GUAGCUUA
+  2986→     D: AUUCGAUG
+  2987→R 659 | BioCh28.0 | C | Anticodon is an unpaired triplet of bases in an exposed position of
+  2988→     A: mRNA
+  2989→     B: rRNA
+  2990→     C: tRNA
+  2991→     D: sRNA
+  2992→R 660 | BioCh28.0 | B | DNA template sequence of CTGATAGC is transcribed over mRNA as
+  2993→     A: GUCTUTCG
+  2994→     B: GACUAUCG
+  2995→     C: GAUTATUG
+  2996→     D: UACTATCU
+  2997→R 661 | BioCh28.0 | D | The number of base substitution possible in amino acid codons is
+  2998→     A: 261.0
+  2999→     B: 264.0
+  3000→     C: 535.0
+  3001→     D: 549.0
+  3002→R 662 | BioCh28.0 | D | Initiation codon of protein synthesis (in eukaryotes) is
+  3003→     A: GUA
+  3004→     B: GCA
+  3005→     C: CCA
+  3006→     D: AUG
+  3007→R 663 | BioCh28.0 | B | The process of translation is
+  3008→     A: ribosome synthesis
+  3009→     B: protein synthesis
+  3010→     C: DNA synthesis
+  3011→     D: RNA synthesis
+  3012→R 664 | BioCh28.0 | C | Because most of the amino acids are represented by more than one codon, the genetic code is
+  3013→     A: overlapping
+  3014→     B: wobbling
+  3015→     C: degenerate
+  3016→     D: generate
+  3017→R 665 | BioCh28.0 | B | Khorana first deciphered the triplet codons of
+  3018→     A: serine and isoleucine
+  3019→     B: threonine and histidine
+  3020→     C: tyrosine and tryptophan
+  3021→     D: phenylalanine and methionine
+  3022→R 666 | BioCh28.0 | D | In the genetic dictionary, there are 64 codons as
+  3023→     A: 64 amino acids are to be coded
+  3024→     B: 64 types of tRNAs are present
+  3025→     C: there are 44 non-sense codons and 20 sense codons
+  3026→     D: genetic code is triplet
+  3027→R 667 | BioCh28.0 | D | Genetic code consists of
+  3028→     A: adenine and guanine
+  3029→     B: cytosine and uracil
+  3030→     C: cytosine and guanine
+  3031→     D: All of the above
+  3032→R 668 | BioCh28.0 | B | Which of the following is required as inducer(s) for the expression of lac operon?
+  3033→     A: galactose
+  3034→     B: lactose
+  3035→     C: lactose and galactose
+  3036→     D: glucose
+  3037→R 669 | BioCh28.0 | A | Which one of the following is wrongly matched?
+  3038→     A: Transcription–Writing information from DNA to tRNA
+  3039→     B: Translation–Using information in mRNA to make protein
+  3040→     C: Repressor protein –Binds to operator to stop enzyme synthesis
+  3041→     D: Operon – Structural genes, operator and promoter
+  3042→R 670 | BioCh28.0 | C | In the process of transcription in eukaryotes, the RNA polymerase I transcribes
+  3043→     A: mRNA with additional processing, capping and tailing
+  3044→     B: tRNA, 5 srRNA and snRNAs
+  3045→     C: rRNAs-28 S, 18 S and 5.8 S
+  3046→     D: precursor of mRNA, hnRNA
+  3047→R 671 | BioCh28.0 | B | Match the following genes of the Lac operon with their respective products A. i gene (i) β-galactosidase B. z 
+  3048→     A: A-(iii) B-(i) C-(ii) D-(iv)
+  3049→     B: A-(iii) B-(i) C-(iv) D-(ii)
+  3050→     C: A-(iii) B-(iv) C-(i) D-(ii)
+  3051→     D: A-(i) B-(iii) C-(ii) D-(iv)
+  3052→R 672 | BioCh28.0 | A | All of the following are parts of an operon except
+  3053→     A: an enhancer
+  3054→     B: structural genes
+  3055→     C: an operator
+  3056→     D: a promoter
+  3057→R 673 | BioCh28.0 | D | Which of the following is wrongly matched?
+  3058→     A: Matthew Meselson and F. Stahl – Pisum sativum
+  3059→     B: Alfred Hershey and Martha Chase – TMV
+  3060→     C: Alec Jeffreys – Streptococcus pneumoniae
+  3061→     D: Francois Jacob and Jacques Monod – Lac operon
+  3062→R 674 | BioCh28.0 | A | Which enzyme/s will be produced in a cell in which there is a non-sense mutation in the lac Y-gene?
+  3063→     A: β-galactosidase
+  3064→     B: Lactose permease
+  3065→     C: Transacetylase
+  3066→     D: Lactose permease and transacetylase
+  3067→R 675 | BioCh28.0 | C | Select the two statements out of the four (I-IV) given below about lac operon. I. Glucose or galactose may bin
+  3068→     A: I and III
+  3069→     B: I and III
+  3070→     C: II and IV
+  3071→     D: I and II
+  3072→R 676 | BioCh28.0 | B | Differentiation of organs and tissues in a developing organism is associated with
+  3073→     A: developmental mutations
+  3074→     B: differential expression of genes
+  3075→     C: lethal mutations
+  3076→     D: deletion of genes
+  3077→R 677 | BioCh28.0 | C | What does ‘lac’ refer to in what we call the lac operon?
+  3078→     A: Lac insect
+  3079→     B: The number, 1,00,000
+  3080→     C: Lactose
+  3081→     D: Lactase
+  3082→R 678 | BioCh28.0 | B | In E. coli, during lactose metabolism repressor binds to
+  3083→     A: regulator gene
+  3084→     B: operator gene
+  3085→     C: structural gene
+  3086→     D: promoter gene
+  3087→R 679 | BioCh28.0 | B | Jacob and Monod studied lactose metabolism in E. coli and proposed Operon concept. Operon concept applicable f
+  3088→     A: all prokaryotes
+  3089→     B: all prokaryotes and some eukaryotes
+  3090→     C: all prokaryotes and all eukaryotes
+  3091→     D: all prokaryotes and some protozoans
+  3092→R 680 | BioCh28.0 | A | In negative operon
+  3093→     A: co-repressor binds with repressor
+  3094→     B: co-repressor does not bind with repressor
+  3095→     C: co-repressor binds with inducer
+  3096→     D: cAMP has negative effect on lac operon
+  3097→R 681 | BioCh28.0 | D | Genes that are involved in turning on or off the transcription of a set of structural genes are called
+  3098→     A: polymorphic genes
+  3099→     B: operator genes
+  3100→     C: reductant genes
+  3101→     D: regulatory genes
+  3102→R 682 | BioCh28.0 | C | The wild type E. coli cells are growing in normal medium with glucose. They are transferred to a medium contai
+  3103→     A: The lac operon is repressed
+  3104→     B: All operons are induced
+  3105→     C: The lac operon is induced
+  3106→     D: E. coli cells stop dividing
+  3107→R 683 | BioCh28.0 | A | In Escherichia coli lac Operon is induced by
+  3108→     A: lactose
+  3109→     B: promoter gene
+  3110→     C: β-galactosidase
+  3111→     D: I-gene
+  3112→R 684 | BioCh28.0 | D | Binding of specific protein on regulatory DNA sequence can be studied by means of
+  3113→     A: ultra centrifugation
+  3114→     B: electron microscope
+  3115→     C: light microscope
+  3116→     D: X-rays crystallography
+  3117→R 685 | BioCh28.0 | B | DNA fingerprinting involves identifying differences in some specific regions in DNA sequence, called as
+  3118→     A: satellite DNA
+  3119→     B: repetitive DNA
+  3120→     C: single nucleotides
+  3121→     D: polymorphic DNA
+  3122→R 686 | BioCh28.0 | B | DNA strands on a gel stained with ethidium bromide when viewed under UV radiation, appear as
+  3123→     A: yellow bands
+  3124→     B: bright orange bands
+  3125→     C: dark red bands
+  3126→     D: bright blue bands
+  3127→R 687 | BioCh28.0 | A | Which is the basis of genetic mapping of human genome as well as DNA fingerprinting?
+  3128→     A: Polymorphism in DNA sequence
+  3129→     B: Single nucleotide polymorphism
+  3130→     C: Polymorphism in hnRNA sequence
+  3131→     D: Polymorphism in RNA sequence
+  3132→R 688 | BioCh28.0 | A | Which of the following is not required for any of the techniques of DNA fingerprinting available at present?
+  3133→     A: Zinc finger analysis
+  3134→     B: Restriction enzymes
+  3135→     C: DNA-DNA hybridisation
+  3136→     D: Polymerase chain reaction
+  3137→R 689 | BioCh28.0 | B | Satellite DNA is important because it
+  3138→     A: codes for proteins needed in cell cycle
+  3139→     B: shows high degree of polymorphism in population and also the same degree of poly
+  3140→     C: does not code for proteins and is same in all members of the population
+  3141→     D: codes for enzymes needed for DNA replication
+  3142→R 690 | BioCh28.0 | A | DNA fingerprinting refers to
+  3143→     A: molecular analysis or profiles of DNA samples
+  3144→     B: analysis of DNA samples using imprinting device
+  3145→     C: techniques used for molecular analysis of different specimens of DNA
+  3146→     D: techniques used for identification of finger-prints of individuals
+  3147→R 691 | BioCh28.0 | B | Nucleus of a donor embryonal cell/somatic cell is transferred to an enucleated egg cell. Then after the format
+  3148→     A: Organism will have extra-nuclear genes of the donor cell
+  3149→     B: Organism will have extra-nuclear genes of recipient cell
+  3150→     C: Organism will have extra-nuclear genes of both donor and recipient cell
+  3151→     D: Organism will have nuclear genes of recipient cell
+  3152→R 692 | BioCh28.0 | A | The basis for DNA fingerprinting is
+  3153→     A: occurrence of Restriction Fragment Length Polymorphism (RFLP)
+  3154→     B: phenotypic differences between individuals
+  3155→     C: availability of cloned DNA
+  3156→     D: knowledge of human karyotype
+  3157→R 693 | BioCh29.0 | A | The process of evolution of different species in a given geographical area starting from an ancestral point an
+  3158→     A: Adaptive radiation
+  3159→     B: Natural selection
+  3160→     C: Convergent evolution
+  3161→     D: Artificial selection
+  3162→R 694 | BioCh29.0 | C | Which of the following is a vestigial organ in humans?
+  3163→     A: Heart
+  3164→     B: Brain
+  3165→     C: Vermiform appendix
+  3166→     D: Lungs
+  3167→R 695 | BioCh29.0 | D | The Hardy-Weinberg principle states that allele frequencies in a population will remain constant from generati
+  3168→     A: Genetic drift
+  3169→     B: Gene flow
+  3170→     C: Mutation
+  3171→     D: All of the above
+  3172→R 696 | BioCh29.0 | B | Which of the following is an example of analogous organs?
+  3173→     A: Forelimbs of humans and bats
+  3174→     B: Wings of birds and insects
+  3175→     C: Flippers of seals and whales
+  3176→     D: Bones of forelimbs of vertebrates
+  3177→R 697 | BioCh29.0 | C | After about how many years of formation of earth, life appeared on this planet?
+  3178→     A: 500 billion years
+  3179→     B: 50 million years
+  3180→     C: 500 million years
+  3181→     D: 50 billion years
+  3182→R 698 | BioCh29.0 | D | From his experiments, SL Miller produced amino acids by mixing the following in a closed flask.
+  3183→     A: CH4, H2, NH3 and water vapour at 800°C
+  3184→     B: CH4, H2, NH4 and water vapour at 600°C
+  3185→     C: CH4, H2, NH3 and water vapour at 600°C
+  3186→     D: CH4, H2, NH3 and water vapour at 800°C
+  3187→R 699 | BioCh29.0 | A | Variations caused by mutation, as proposed by Hugo de Vries are
+  3188→     A: random and directionless
+  3189→     B: small and directional
+  3190→     C: small and directionless
+  3191→     D: random and directional
+  3192→R 700 | BioCh29.0 | B | According to Hugo de Vries, the mechanism of evolution is
+  3193→     A: phenotypic variations
+  3194→     B: saltation
+  3195→     C: multiple step mutations
+  3196→     D: minor mutations
+  3197→R 701 | BioCh29.0 | B | Following are the two statements regarding the origin of life
+  3198→I. The earliest organisms that appeared on the e
+  3199→     A: II is correct but I is false
+  3200→     B: Both I and II are correct
+  3201→     C: Both I and II are false
+  3202→     D: I is correct but II is false
+  3203→R 702 | BioCh29.0 | C | Which of the following is the correct sequence of events in the origin of life?
+  3204→     A: I, II, III, IV
+  3205→     B: I, III, II, IV
+  3206→     C: II, III, I, IV
+  3207→     D: II, III, IV, I
+  3208→R 703 | BioCh29.0 | A | Which one of the following is incorrect about the characteristics of protobionts (coacervates and microspheres
+  3209→     A: They were able to reproduce
+  3210→     B: They could separate combinations of molecules fro
+  3211→     C: 
+  3212→     D: 
+  3213→R 704 | BioCh29.0 | A | Embryological support for evolution was proposed by
+  3214→     A: Ernst Heckel
+  3215→     B: Karl Ernst von Baer
+  3216→     C: Charles Darwin
+  3217→     D: Alfred Wallace
+  3218→R 705 | BioCh29.0 | D | The phenomenon of evolution of different species in a given geographical area starting from a point and spread
+  3219→     A: saltation
+  3220→     B: co-evolution
+  3221→     C: natural selection
+  3222→     D: adaptive radiation
+  3223→R 706 | BioCh29.0 | B | Which of the following refer to correct example(s) of organisms which have evolved due to changes in environme
+  3224→     A: I and III
+  3225→     B: II, III and IV
+  3226→     C: Only IV
+  3227→     D: Only I
+  3228→R 707 | BioCh29.0 | A | Flippers of penguins and dolphins are examples of
+  3229→     A: convergent evolution
+  3230→     B: industrial melanism
+  3231→     C: natural selection
+  3232→     D: adaptive radiation
+  3233→R 708 | BioCh29.0 | D | In Australia, marsupials and placental mammals have evolved to share many similar characteristics. This type o
+  3234→     A: adaptive radiation
+  3235→     B: divergent evolution
+  3236→     C: cyclical evolution
+  3237→     D: convergent evolution
+  3238→R 709 | BioCh29.0 | A | In a species, the weight of newborn ranges from 2 to 5 kg. 97% of the newborn with an average weight between 3
+  3239→     A: Stabilising selection
+  3240→     B: Disruptive selection
+  3241→     C: Cyclical selection
+  3242→     D: Directional selection
+  3243→R 710 | BioCh29.0 | D | Among the following sets of examples for divergent evolution, select the incorrect option. :
+  3244→     A: Brain of bat, man and cheetah
+  3245→     B: Heart of bat, man and cheetah
+  3246→     C: Forelimbs of man, bat and cheetah
+  3247→     D: Eye of Octopus, bat and man
+  3248→R 711 | BioCh29.0 | C | The similarity of bone structure in the forelimbs of many vertebrates is an example of
+  3249→     A: convergent evolution
+  3250→     B: analogy
+  3251→     C: homology
+  3252→     D: adaptive radiation
+  3253→R 712 | BioCh29.0 | A | Analogous structures are a result of
+  3254→     A: convergent evolution
+  3255→     B: shared ancestry
+  3256→     C: stabilising selection
+  3257→     D: divergent evolution
+  3258→R 713 | BioCh29.0 | C | Which of the following structures is homologous to the wing of a bird?
+  3259→     A: Wing of a moth
+  3260→     B: Hind limb of rabbit
+  3261→     C: Flipper of whale
+  3262→     D: Dorsal fin of a shark
+  3263→R 714 | BioCh29.0 | B | The wings of a bird and the wings of an insect are
+  3264→     A: homologous structures and represent divergent evolution
+  3265→     B: analogous structures and represent convergent evolution
+  3266→     C: phylogenetic structures and represent divergent evolution
+  3267→     D: homologous structures and represent convergent evolution
+  3268→R 715 | BioCh29.0 | C | Forelimbs of cat, lizard used in walking forelimbs of whale used in swimming and forelimbs of bats used in fly
+  3269→     A: analogous organs
+  3270→     B: adaptive radiation
+  3271→     C: homologous organs
+  3272→     D: heterologous organs
+  3273→R 716 | BioCh29.0 | C | The eyes of Octopus and eyes of cat show different patterns of structure, yet they perform similar function. T
+  3274→     A: homologous organs that have evolved due to convergent evolution
+  3275→     B: homologous organs that have evolved due to divergent evolution
+  3276→     C: analogous organs that have evolved due to convergent evolution
+  3277→     D: analogous organs that have evolved due to divergent evolution
+  3278→R 717 | BioCh29.0 | A | Evolution of different species in a given area starting from a point and spreading to other geographical areas
+  3279→     A: adaptive radiation
+  3280→     B: natural selection
+  3281→     C: migration
+  3282→     D: divergent evolution
+  3283→R 718 | BioCh29.0 | C | Which one of the following options gives one correct example each of convergent evolution and divergent evolut
+  3284→     A: Eyes of Octopus and mammals | Bones of forelimbs of vertebrates
+  3285→     B: Thorns of Bougainvillea and tendrils of Cucurbita | Wings of butterflies and bir
+  3286→     C: Wings of butterflies and birds | Bones of forelimbs of vertebrates
+  3287→     D: Eyes of Octopus and mammals | Wings of butterflies and birds
+  3288→R 719 | BioCh29.0 | B | The process by which organisms with different evolutionary history evolve similar phenotypic adaptations in re
+  3289→     A: natural selection
+  3290→     B: convergent evolution
+  3291→     C: non-random evolution
+  3292→     D: adaptive radiation
+  3293→R 720 | BioCh29.0 | A | Which one of the following are analogous structures?
+  3294→     A: Wings of bat and wings of pigeon
+  3295→     B: Gills of prawn and lungs of man
+  3296→     C: Thorns of Bougainvillea and tendrils of Cucurbita
+  3297→     D: Flippers of dolphin and legs of horse
+  3298→R 721 | BioCh29.0 | C | Peripatus is a connecting link between
+  3299→     A: Ctenophora and Platyhelminthes
+  3300→     B: Mollusca and Echinodermata
+  3301→     C: Annelida and Arthropoda
+  3302→     D: Coelenterata and Porifera
+  3303→R 722 | BioCh29.0 | A | Darwin’s finches are an excellent example of
+  3304→     A: adaptive radiation
+  3305→     B: seasonal migration
+  3306→     C: brood parasitism
+  3307→     D: connecting links
+  3308→R 723 | BioCh29.0 | B | Thorn of Bougainvillea and tendril of Cucurbita are examples of
+  3309→     A: analogous organs
+  3310→     B: homologous organs
+  3311→     C: vestigial organs
+  3312→     D: retrogressive evolution
+  3313→R 724 | BioCh29.0 | D | Which one of the following statements is correct?
+  3314→     A: Stem cells are specialised cells
+  3315→     B: There is no evidence of the existence of gills during embryogenesis of mammals
+  3316→     C: All plant and animal cells are totipotent
+  3317→     D: Ontogeny repeats phylogeny
+  3318→R 725 | BioCh29.0 | C | What is common to whale, seal and shark?
+  3319→     A: Seasonal migration
+  3320→     B: Thick subcutaneous fat
+  3321→     C: Convergent evolution
+  3322→     D: Homeothermy
+  3323→R 726 | BioCh29.0 | D | When two species of different geneology come to resemble each other as a result of adaptation, the phenomenon 
+  3324→     A: divergent evolution
+  3325→     B: micro-evolution
+  3326→     C: co-evolution
+  3327→     D: convergent evolution
+  3328→R 727 | BioCh29.0 | D | The finches of Galapagos islands provide an evidence in favour of
+  3329→     A: special creation
+  3330→     B: evolution due to mutation
+  3331→     C: retrogressive evolution
+  3332→     D: biogeographical evolution
+  3333→R 728 | BioCh29.0 | D | An important evidence in favour of organic evolution is the occurrence of
+  3334→     A: analogous and vestigial organs
+  3335→     B: homologous organs only
+  3336→     C: homologous and analogous organs
+  3337→     D: homologous and vestigial organs
+  3338→R 729 | BioCh29.0 | C | Using imprints from a plate with complete medium and carrying bacterial colonies, you can select streptomycin 
+  3339→     A: on plates with and without streptomycin
+  3340→     B: on plates with minimal medium
+  3341→     C: only on plates with streptomycin
+  3342→     D: only on plates without streptomycin
+  3343→R 730 | BioCh29.0 | C | Electron spin resonance method is the most accurate method for dating of fossils. It measures number of charge
+  3344→     A: Radio-carbon method
+  3345→     B: Potassium-argon method
+  3346→     C: Electron-spin resonance method
+  3347→     D: Uranium-lead method
+  3348→R 731 | BioCh29.0 | D | Presence of gills in the tadpole of frog indicates that
+  3349→     A: fishes were amphibian in the past
+  3350→     B: fishes evolved from frog-like ancestors
+  3351→     C: frogs will have gills in future
+  3352→     D: frogs evolved from gilled ancestors
+  3353→R 732 | BioCh29.0 | D | What kind of evidence suggested that man is more closely related with chimpanzee than with other hominoid apes
+  3354→     A: Evidence from DNA from sex chromosomes only
+  3355→     B: Comparison of chromosomes morphology only
+  3356→     C: Evidence from fossil remains and the fossil mitochondrial DNA alone
+  3357→     D: Evidence from DNA extracted from sex chromosomes, autosomes and mitochondria
+  3358→R 733 | BioCh29.0 | C | Age of fossils in the past was generally determined by radio-carbon method and other methods involving radioac
+  3359→     A: study of carbohydrates/proteins in fossils
+  3360→     B: study of the conditions of fossilisation
+  3361→     C: Electron Spin Resonance (ESR) and fossil DNA
+  3362→     D: study of carbohydrates/proteins in rocks
+  3363→R 734 | BioCh29.0 | A | Convergent evolution is illustrated by
+  3364→     A: dogfish and whale
+  3365→     B: rat and dog
+  3366→     C: bacterium and protozoan
+  3367→     D: starfish and cuttle fish
+  3368→R 735 | BioCh29.0 | B | Which one of the following describes correctly the homologous structures?
+  3369→     A: Organs appearing only in embryonic stage and disappearing later in the adult
+  3370→     B: Organs with anatomical similarities, but performing different functions
+  3371→     C: Organs with anatomical dissimilarity, but performing same functions
+  3372→     D: Organs that have no function now, but had an important function in ancestors
+  3373→R 736 | BioCh29.0 | B | Which of the following pair is homologous organ?
+  3374→     A: Wings of birds and locust
+  3375→     B: Wings of birds (sparrow) and pectoral fins of fish
+  3376→     C: Wings of bat and butterfly
+  3377→     D: Legs of frog and cockroach
+  3378→R 737 | BioCh29.0 | C | According to fossils discovered up to present time origin and evolution of man was started from
+  3379→     A: France
+  3380→     B: Java
+  3381→     C: Africa
+  3382→     D: China
+  3383→R 738 | BioCh29.0 | B | Sequence of which of the following is used to know the phylogeny?
+  3384→     A: mRNA
+  3385→     B: rRNA
+  3386→     C: tRNA
+  3387→     D: DNA
+  3388→R 739 | BioCh29.0 | C | Reason of diversity in living being is
+  3389→     A: mutation
+  3390→     B: gradual change
+  3391→     C: long term evolutionary change
+  3392→     D: short term evolutionary change
+  3393→R 740 | BioCh29.0 | C | Similarities in organisms with different genotype indicates
+  3394→     A: micro-evolution
+  3395→     B: macro-evolution
+  3396→     C: convergent evolution
+  3397→     D: divergent evolution
+  3398→R 741 | BioCh29.0 | B | Half-life period of C14 is about
+  3399→     A: 500 yr
+  3400→     B: 5730 yr
+  3401→     C: 50 yr
+  3402→     D: 5 × 104 yr
+  3403→R 742 | BioCh29.0 | A | Darwin’s finches provide an excellent evidence in favour of evolution. This evidence comes from the field of
+  3404→     A: Biogeography
+  3405→     B: Anatomy
+  3406→     C: Embryology
+  3407→     D: Palaeontology
+  3408→R 743 | BioCh29.0 | A | Which one of the following pair has homologous organs?
+  3409→     A: Pectoral fins of a fish and forelimbs of a horse
+  3410→     B: Wings of a bat and wings of cockroach
+  3411→     C: Air sac of fish and lungs of frog
+  3412→     D: Wings of a bird and wings of a butterfly
+  3413→R 744 | BioCh29.0 | B | The age of the fossil of Dryopithecus on the geological time scale is
+  3414→     A: 5 × 106 yr back
+  3415→     B: 25 × 106 yr back
+  3416→     C: 50 × 106 yr back
+  3417→     D: 75 × 106 yr back
+  3418→R 745 | BioCh29.0 | D | Which one of the following is a living fossil?
+  3419→     A: Pinus longifolia
+  3420→     B: Dalbergia sissoo
+  3421→     C: Mirabilis jalapa
+  3422→     D: Ginkgo biloba
+  3423→R 746 | BioCh29.0 | B | The homologous organs are those that show similarity in
+  3424→     A: size
+  3425→     B: origin
+  3426→     C: function
+  3427→     D: appearance
+  3428→R 747 | BioCh29.0 | C | Homologous organs are
+  3429→     A: wings of insects and bat
+  3430→     B: gills of fish and lungs of rabbit
+  3431→     C: pectoral fins of fish and fore limbs of horse
+  3432→     D: wings of grasshopper and crow
+  3433→R 748 | BioCh29.0 | A | Evolutionary convergence is development of
+  3434→     A: common set of characters in group of different ancestry
+  3435→     B: dissimilar characters in closely related groups
+  3436→     C: common set of characters in closely related groups
+  3437→     D: random mating
+  3438→R 749 | BioCh29.0 | B | Homologous organs are those that have:
+  3439→     A: Similar function, different origin
+  3440→     B: Different function, similar origin
+  3441→     C: Different function, different origin
+  3442→     D: Similar function, similar origin
+  3443→R 750 | BioCh29.0 | A | Evolutionary convergence is the development of:
+  3444→     A: Common set of characters in groups of different ancestry
+  3445→     B: Dissimilar characters in closely related groups
+  3446→     C: Common set of characters in closely related groups
+  3447→     D: Random mating
+  3448→R 751 | BioCh29.0 | A | The study of fossils is called:
+  3449→     A: Palaeontology
+  3450→     B: Herpetology
+  3451→     C: Saurology
+  3452→     D: Organic evolution
+  3453→R 752 | BioCh29.0 | C | Humming birds and hawk illustrate:
+  3454→     A: Convergent evolution
+  3455→     B: Homology
+  3456→     C: Adaptive radiation
+  3457→     D: Parallel evolution
+  3458→R 753 | BioCh29.0 | A | Genetic drift operates in:
+  3459→     A: Small isolated population
+  3460→     B: Large isolated population
+  3461→     C: Non-reproductive population
+  3462→     D: Slow reproductive population
+  3463→R 754 | BioCh29.0 | B | Industrial melanism is an example of:
+  3464→     A: Neo Darwinism
+  3465→     B: Natural selection
+  3466→     C: Mutation
+  3467→     D: Neo Lamarckism
+  3468→R 755 | BioCh29.0 | B | Variation in gene frequencies within populations can occur by chance rather than by natural selection. This is
+  3469→     A: Genetic flow
+  3470→     B: Genetic drift
+  3471→     C: Random mating
+  3472→     D: Genetic load
+  3473→R 756 | BioCh29.0 | A | In the case of peppered moth (Biston betularia), the black-coloured form became dominant over the light-colour
+  3474→     A: Natural selection whereby the darker forms were selected
+  3475→     B: Appearance of the darker coloured individuals due to very poor sunlight
+  3476→     C: Protective mimicry
+  3477→     D: Inheritance of darker colour character acquired due to the darker environment
+  3478→R 757 | BioCh29.0 | A | Which one of the following scientists' name is correctly matched with the theory put forth by him?
+  3479→     A: Weismann–Theory of continuity of germplasm
+  3480→     B: Pasteur–Inheritance of acquired characters
+  3481→     C: De vries–Natural selection
+  3482→     D: Mendel–Theory of pangenesis
+  3483→R 758 | BioCh29.0 | B | Select the correct statement from the following given options.
+  3484→     A: Darwinian variations are small and directionless
+  3485→     B: Fitness is the end result of the ability to adapt and gets selected by nature
+  3486→     C: All mammals except whales and camels have seven cervical vertebrae
+  3487→     D: Mutations are random and directional
+  3488→R 759 | BioCh29.0 | C | De Vries gave his mutation theory on organic evolution while working on:
+  3489→     A: Pisum sativum
+  3490→     B: Drosophila melanogaster
+  3491→     C: Oenothera lamarckiana
+  3492→     D: Althea rosea
+  3493→R 760 | BioCh29.0 | C | Which one of the following phenomena supports Darwin’s concept of natural selection in organic evolution?
+  3494→     A: Development of transgenic animals
+  3495→     B: Production of ‘Dolly’, the sheep by cloning
+  3496→     C: Prevalence of pesticide resistant insects
+  3497→     D: Development of organs from ‘stem cells’ for organ transplantation
+  3498→R 761 | BioCh29.0 | A | Darwin in his ‘Natural Selection Theory’ did not believe in any role of which one of the following in organic 
+  3499→     A: Discontinuous variations
+  3500→     B: Parasites and predators as natural enemies
+
+[showing lines 1501-3500 of 6214; use offset=3501 with limit to continue reading]
