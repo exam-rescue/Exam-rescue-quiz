@@ -24,7 +24,7 @@ export default function PracticeMode() {
     setNewAchievements, setShowAchievementPopup,
   } = useGameStore();
 
-  const categories = ['Physics', 'Chemistry', 'Biology', 'Maths', 'Mixed'];
+  const categories = ['Physics', 'Chemistry', 'Biology', 'General', 'Mixed'];
 
   async function startPractice(category: string) {
     useGameStore.getState().resetPractice();
@@ -92,9 +92,10 @@ export default function PracticeMode() {
         if (!playerId) useGameStore.getState().setPlayerId(data.playerId);
         setPlayerXP(data.newXp);
         setPlayerLevel(Math.floor(data.newXp / 500) + 1);
-        setPlayerTotalQuestions((q: number) => q + practiceQuestions.length);
-        setPlayerCorrectAnswers((a: number) => a + practiceCorrectCount);
-        setPlayerGamesPlayed((g: number) => g + 1);
+        const pStore = useGameStore.getState();
+        setPlayerTotalQuestions(pStore.playerTotalQuestions + practiceQuestions.length);
+        setPlayerCorrectAnswers(pStore.playerCorrectAnswers + practiceCorrectCount);
+        setPlayerGamesPlayed(pStore.playerGamesPlayed + 1);
 
         if (data.newAchievements && data.newAchievements.length > 0) {
           setNewAchievements(data.newAchievements);
@@ -130,7 +131,7 @@ export default function PracticeMode() {
               className="study-card p-4 sm:p-6 text-center hover:scale-105 transition-transform cursor-pointer group"
             >
               <span className="text-2xl sm:text-3xl mb-2 block">
-                {cat === 'Physics' ? '⚛️' : cat === 'Chemistry' ? '🧪' : cat === 'Biology' ? '🧬' : cat === 'Maths' ? '📐' : '🎲'}
+                {cat === 'Physics' ? '⚛️' : cat === 'Chemistry' ? '🧪' : cat === 'Biology' ? '🧬' : cat === 'General' ? '🧠' : '🎲'
               </span>
               <span className="text-sm sm:text-base font-semibold text-white/90 group-hover:text-indigo-400 transition-colors">{cat}</span>
               <span className="block text-xs text-white/40 mt-1">10 Questions</span>

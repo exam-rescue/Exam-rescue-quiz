@@ -129,6 +129,12 @@
   background: rgba(129, 140, 248, 0.5);
 }
 
+/* ============ MAIN GRADIENT ============ */
+.bg-main-gradient {
+  background: linear-gradient(180deg, #0c0d14 0%, #0f1020 50%, #0c0d14 100%);
+  min-height: 100vh;
+}
+
 /* ============ STUDY CARD ============ */
 .study-card {
   background: #151823;

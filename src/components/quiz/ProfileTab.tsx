@@ -255,7 +255,7 @@ export default function ProfileTab() {
               className={`flex flex-col items-center p-2 sm:p-3 rounded-xl transition-all ${
                 achievement.unlocked
                   ? 'bg-indigo-500/10 border border-indigo-500/20'
-                  : 'bg-white/3 border border-white/5 opacity-40'
+                  : 'bg-white/[0.03] border border-white/5 opacity-40'
               }`}
             >
               <span className="text-xl sm:text-2xl mb-1">{achievement.unlocked ? achievement.icon : <Lock size={18} className="text-white/30" />}</span>

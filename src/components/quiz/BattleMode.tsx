@@ -37,7 +37,7 @@ export default function BattleMode() {
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
 
-  const categories = ['Physics', 'Chemistry', 'Biology', 'Maths', 'Mixed'];
+  const categories = ['Physics', 'Chemistry', 'Biology', 'General', 'Mixed'];
 
   async function startBattle(category: string) {
     resetBattle();
@@ -142,11 +142,12 @@ export default function BattleMode() {
         if (!playerId) useGameStore.getState().setPlayerId(data.playerId);
         setPlayerXP(data.newXp);
         setPlayerLevel(Math.floor(data.newXp / 500) + 1);
-        setPlayerStreak((s: number) => s + 1);
-        setPlayerTotalQuestions((q: number) => q + battleQuestions.length);
-        setPlayerCorrectAnswers((a: number) => a + battleCorrectCount);
-        setPlayerBestCombo((c: number) => Math.max(c, battleMaxCombo));
-        setPlayerGamesPlayed((g: number) => g + 1);
+        const store = useGameStore.getState();
+        setPlayerStreak(store.playerStreak + 1);
+        setPlayerTotalQuestions(store.playerTotalQuestions + battleQuestions.length);
+        setPlayerCorrectAnswers(store.playerCorrectAnswers + battleCorrectCount);
+        setPlayerBestCombo(Math.max(store.playerBestCombo, battleMaxCombo));
+        setPlayerGamesPlayed(store.playerGamesPlayed + 1);
         setPlayerAccuracy(Math.round((battleCorrectCount / battleQuestions.length) * 100));
         setPlayerFastestCorrect(timeTaken / battleQuestions.length);
 
@@ -170,14 +171,13 @@ export default function BattleMode() {
     if (battleQuestions.length > 0 && !battleIsComplete && !battleAnswered) {
       setBattleTimer(TIMER_DURATION);
       timerRef.current = setInterval(() => {
-        setBattleTimer((prev: number) => {
-          if (prev <= 1) {
-            if (timerRef.current) clearInterval(timerRef.current);
-            handleTimeUp();
-            return 0;
-          }
-          return prev - 1;
-        });
+        const current = useGameStore.getState().battleTimer;
+        if (current <= 1) {
+          if (timerRef.current) clearInterval(timerRef.current);
+          handleTimeUp();
+          return;
+        }
+        setBattleTimer(current - 1);
       }, 1000);
     }
 
@@ -211,7 +211,7 @@ export default function BattleMode() {
               className="study-card p-4 sm:p-6 text-center hover:scale-105 transition-transform cursor-pointer group"
             >
               <span className="text-2xl sm:text-3xl mb-2 block">
-                {cat === 'Physics' ? '⚛️' : cat === 'Chemistry' ? '🧪' : cat === 'Biology' ? '🧬' : cat === 'Maths' ? '📐' : '🎲'}
+                {cat === 'Physics' ? '⚛️' : cat === 'Chemistry' ? '🧪' : cat === 'Biology' ? '🧬' : cat === 'General' ? '🧠' : '🎲'}
               </span>
               <span className="text-sm sm:text-base font-semibold text-white/90 group-hover:text-indigo-400 transition-colors">{cat}</span>
               <span className="block text-xs text-white/40 mt-1">10 Questions</span>
@@ -289,7 +289,7 @@ export default function BattleMode() {
           </div>
         </div>
 
-        <div className={`w-14 h-14 sm:w-16 sm:h-16 rounded-full flex items-center justify-center border-2 ${isTimerDanger ? 'timer-danger border-rose-400' : 'border-indigo-400/50'}`}>
+        <div className={`relative w-14 h-14 sm:w-16 sm:h-16 rounded-full flex items-center justify-center border-2 ${isTimerDanger ? 'timer-danger border-rose-400' : 'border-indigo-400/50'}`}>
           <svg className="absolute w-full h-full -rotate-90" viewBox="0 0 60 60">
             <circle cx="30" cy="30" r="26" fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="3" />
             <circle cx="30" cy="30" r="26" fill="none" stroke={timerColor} strokeWidth="3" strokeLinecap="round" strokeDasharray={163.36} strokeDashoffset={163.36 * (1 - timerPercentage / 100)} style={{ transition: 'stroke-dashoffset 1s linear' }} />
