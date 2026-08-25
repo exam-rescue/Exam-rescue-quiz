@@ -127,12 +127,12 @@ export default function PracticeMode() {
               animate={{ opacity: 1, scale: 1 }}
               transition={{ delay: i * 0.1 }}
               onClick={() => startPractice(cat)}
-              className="glass-card p-4 sm:p-6 text-center hover:scale-105 transition-transform cursor-pointer group"
+              className="study-card p-4 sm:p-6 text-center hover:scale-105 transition-transform cursor-pointer group"
             >
               <span className="text-2xl sm:text-3xl mb-2 block">
                 {cat === 'Physics' ? '⚛️' : cat === 'Chemistry' ? '🧪' : cat === 'Biology' ? '🧬' : cat === 'Maths' ? '📐' : '🎲'}
               </span>
-              <span className="text-sm sm:text-base font-semibold text-white/90 group-hover:text-neon-orange transition-colors">{cat}</span>
+              <span className="text-sm sm:text-base font-semibold text-white/90 group-hover:text-indigo-400 transition-colors">{cat}</span>
               <span className="block text-xs text-white/40 mt-1">10 Questions</span>
             </motion.button>
           ))}
@@ -149,14 +149,14 @@ export default function PracticeMode() {
           <h2 className="text-2xl sm:text-3xl font-bold gradient-text mb-2">📚 Practice Complete!</h2>
         </motion.div>
 
-        <div className="glass-card p-6 w-full max-w-md">
+        <div className="study-card p-6 w-full max-w-md">
           <div className="grid grid-cols-2 gap-4">
             <div className="text-center">
-              <p className="text-3xl font-bold text-neon-green">{accuracy}%</p>
+              <p className="text-3xl font-bold text-emerald-400">{accuracy}%</p>
               <p className="text-xs text-white/50">Accuracy</p>
             </div>
             <div className="text-center">
-              <p className="text-3xl font-bold text-neon-orange">{practiceCorrectCount * 5}</p>
+              <p className="text-3xl font-bold text-indigo-400">{practiceCorrectCount * 5}</p>
               <p className="text-xs text-white/50">XP Earned</p>
             </div>
             <div className="text-center">
@@ -164,13 +164,13 @@ export default function PracticeMode() {
               <p className="text-xs text-white/50">Correct</p>
             </div>
             <div className="text-center">
-              <p className="text-3xl font-bold text-neon-amber">📖</p>
+              <p className="text-3xl font-bold text-amber-400">📖</p>
               <p className="text-xs text-white/50">Keep Learning!</p>
             </div>
           </div>
         </div>
 
-        <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }} onClick={() => { useGameStore.getState().resetPractice(); }} className="neon-btn w-full max-w-md bg-neon-orange text-white font-semibold py-3 px-6 rounded-xl cursor-pointer">
+        <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }} onClick={() => { useGameStore.getState().resetPractice(); }} className="btn-primary w-full max-w-md py-3 px-6 cursor-pointer">
           🔄 Practice Again
         </motion.button>
       </div>
@@ -186,10 +186,10 @@ export default function PracticeMode() {
         <div className="flex-1">
           <div className="flex items-center justify-between mb-1">
             <span className="text-xs sm:text-sm text-white/60">{practiceCurrentIndex + 1} of {practiceQuestions.length}</span>
-            <span className="text-xs sm:text-sm font-bold text-neon-green">{practiceCorrectCount} correct</span>
+            <span className="text-xs sm:text-sm font-bold text-emerald-400">{practiceCorrectCount} correct</span>
           </div>
           <div className="h-2 bg-white/10 rounded-full overflow-hidden">
-            <motion.div className="h-full bg-gradient-to-r from-neon-green to-emerald-400 rounded-full" initial={{ width: 0 }} animate={{ width: `${((practiceCurrentIndex + (practiceAnswered ? 1 : 0)) / practiceQuestions.length) * 100}%` }} transition={{ duration: 0.3 }} />
+            <motion.div className="h-full bg-gradient-to-r from-emerald-400 to-emerald-500 rounded-full" initial={{ width: 0 }} animate={{ width: `${((practiceCurrentIndex + (practiceAnswered ? 1 : 0)) / practiceQuestions.length) * 100}%` }} transition={{ duration: 0.3 }} />
           </div>
         </div>
       </div>
@@ -200,7 +200,7 @@ export default function PracticeMode() {
 
       {practiceAnswered && (
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="mt-6">
-          <button onClick={nextQuestion} className="neon-btn-green w-full bg-neon-green text-white font-semibold py-3 px-6 rounded-xl cursor-pointer">
+          <button onClick={nextQuestion} className="btn-primary w-full py-3 px-6 cursor-pointer" style={{ background: '#10b981' }}>
             {practiceCurrentIndex + 1 < practiceQuestions.length ? 'Next Question →' : 'See Results'}
           </button>
         </motion.div>
