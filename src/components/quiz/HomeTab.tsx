@@ -78,9 +78,22 @@ function FadeInSection({ children, className, delay = 0 }: { children: React.Rea
 export default function HomeTab() {
   const { setActiveTab, setBattleCategory } = useGameStore();
 
-  function handleSubjectClick(subjectName: string) {
-    setBattleCategory(subjectName);
-    setActiveTab('battle');
+  async function handleSubjectClick(subjectName: string) {
+    const store = useGameStore.getState();
+    store.resetBattle();
+    store.setBattleCategory(subjectName);
+    store.setActiveTab('battle');
+    if (subjectName !== 'Mixed') store.addSubjectPlayed(subjectName);
+    try {
+      const res = await fetch(`/api/questions?category=${subjectName}&count=10`);
+      const data = await res.json();
+      if (data.questions) {
+        store.setBattleQuestions(data.questions);
+        store.setBattleStartTime(Date.now());
+      }
+    } catch (err) {
+      console.error('Failed to fetch questions:', err);
+    }
   }
 
   return (

@@ -38,31 +38,38 @@ export async function GET(request: Request) {
 
     let questions;
     if (category === 'Mixed') {
-      const result = await db.prepare('SELECT * FROM Question ORDER BY id ASC').all();
+      const result = await db.prepare('SELECT * FROM Question ORDER BY RANDOM() LIMIT ?').bind(count).all();
       questions = result.results;
     } else {
-      const result = await db.prepare('SELECT * FROM Question WHERE subject = ? ORDER BY id ASC').bind(category).all();
+      const result = await db.prepare('SELECT * FROM Question WHERE subject = ? ORDER BY RANDOM() LIMIT ?').bind(category, count).all();
       questions = result.results;
     }
 
-    // Shuffle
-    questions = questions.sort(() => Math.random() - 0.5);
-    const selected = questions.slice(0, Math.min(count, questions.length));
-
     return Response.json({
-      questions: selected.map((q: Record<string, unknown>) => ({
-        id: q.id,
-        text: q.text,
-        optionA: q.optionA,
-        optionB: q.optionB,
-        optionC: q.optionC,
-        optionD: q.optionD,
-        correct: q.correct,
-        explanation: q.explanation,
-        subject: q.subject,
-        difficulty: q.difficulty,
-      })),
-      total: selected.length,
+      questions: (questions as Array<Record<string, unknown>>).map((q) => {
+        // Normalize correct answer to 1-4 number
+        let correctNum = 1;
+        const raw = q.correct;
+        if (typeof raw === 'number') {
+          correctNum = raw;
+        } else if (typeof raw === 'string') {
+          const map: Record<string, number> = { '1': 1, '2': 2, '3': 3, '4': 4, 'A': 1, 'B': 2, 'C': 3, 'D': 4, 'a': 1, 'b': 2, 'c': 3, 'd': 4 };
+          correctNum = map[raw] || 1;
+        }
+        return {
+          id: q.id !== null && q.id !== undefined ? String(q.id) : `q-${Date.now()}-${Math.random().toString(36).slice(2, 6)}`,
+          text: q.text,
+          optionA: q.optionA,
+          optionB: q.optionB,
+          optionC: q.optionC,
+          optionD: q.optionD,
+          correct: correctNum,
+          explanation: q.explanation || '',
+          subject: q.subject,
+          difficulty: q.difficulty || 'easy',
+        };
+      }),
+      total: questions.length,
     });
   } catch (error) {
     console.error('Questions fetch error:', error);

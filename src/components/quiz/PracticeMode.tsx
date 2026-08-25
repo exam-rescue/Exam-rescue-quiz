@@ -171,7 +171,7 @@ export default function PracticeMode() {
           </div>
         </div>
 
-        <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }} onClick={() => { useGameStore.getState().resetPractice(); }} className="btn-primary w-full max-w-md py-3 px-6 cursor-pointer">
+        <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }} onClick={() => { useGameStore.getState().resetPractice(); setPracticeCategory(null); }} className="btn-primary w-full max-w-md py-3 px-6 cursor-pointer">
           🔄 Practice Again
         </motion.button>
       </div>

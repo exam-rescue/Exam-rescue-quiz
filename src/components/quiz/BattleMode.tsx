@@ -36,6 +36,12 @@ export default function BattleMode() {
 
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
+  const battleIndexRef = useRef(battleCurrentIndex);
+  const battleAnsweredRef = useRef(battleAnswered);
+
+  // Keep refs in sync
+  useEffect(() => { battleIndexRef.current = battleCurrentIndex; }, [battleCurrentIndex]);
+  useEffect(() => { battleAnsweredRef.current = battleAnswered; }, [battleAnswered]);
 
   const categories = ['Physics', 'Chemistry', 'Biology', 'General', 'Mixed'];
 
@@ -60,9 +66,11 @@ export default function BattleMode() {
     setBattleAnswered(true);
     setBattleCombo(0);
     setShowShake(true);
+    const idx = battleIndexRef.current;
+    const qs = useGameStore.getState().battleQuestions;
     setTimeout(() => {
-      if (battleCurrentIndex + 1 < battleQuestions.length) {
-        setBattleCurrentIndex(battleCurrentIndex + 1);
+      if (idx + 1 < qs.length) {
+        setBattleCurrentIndex(idx + 1);
         setBattleAnswered(false);
         setBattleSelectedAnswer(null);
       } else {
@@ -105,8 +113,10 @@ export default function BattleMode() {
     }
 
     setTimeout(() => {
-      if (battleCurrentIndex + 1 < battleQuestions.length) {
-        setBattleCurrentIndex(battleCurrentIndex + 1);
+      const idx = battleIndexRef.current;
+      const qs = useGameStore.getState().battleQuestions;
+      if (idx + 1 < qs.length) {
+        setBattleCurrentIndex(idx + 1);
         setBattleAnswered(false);
         setBattleSelectedAnswer(null);
       } else {

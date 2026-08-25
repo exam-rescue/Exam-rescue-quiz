@@ -262,6 +262,36 @@ export const useGameStore = create<GameState>()(
     }),
     {
       name: 'exam-rescue-store',
+      version: 2,
+      migrate: (persisted: Record<string, unknown>, version: number) => {
+        // Version 2: clear any stale battle/practice state from old versions
+        if (version < 2) {
+          return {
+            ...persisted,
+            battleQuestions: [],
+            battleCurrentIndex: 0,
+            battleTimer: 30,
+            battleScore: 0,
+            battleCombo: 0,
+            battleMaxCombo: 0,
+            battleCorrectCount: 0,
+            battleStartTime: null,
+            battleCategory: null,
+            battleAnswered: false,
+            battleSelectedAnswer: null,
+            battleIsComplete: false,
+            practiceQuestions: [],
+            practiceCurrentIndex: 0,
+            practiceCorrectCount: 0,
+            practiceCategory: null,
+            practiceAnswered: false,
+            practiceSelectedAnswer: null,
+            practiceIsComplete: false,
+            activeTab: 'home',
+          };
+        }
+        return persisted as GameState;
+      },
       partialize: (state) => ({
         playerId: state.playerId,
         playerName: state.playerName,

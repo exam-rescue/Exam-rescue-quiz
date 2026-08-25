@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     "Physics",
     "Chemistry",
     "Biology",
-    "Maths",
+    "General Knowledge",
   ],
   authors: [{ name: "Exam Rescue Team" }],
   openGraph: {
