@@ -69,11 +69,11 @@ export default function ProfileTab() {
   };
 
   const stats = [
-    { icon: <Zap size={18} />, label: 'Total XP', value: playerXP.toLocaleString(), color: 'text-neon-orange' },
-    { icon: <Target size={18} />, label: 'Questions', value: playerTotalQuestions.toLocaleString(), color: 'text-neon-green' },
-    { icon: <TrendingUp size={18} />, label: 'Accuracy', value: `${playerAccuracy}%`, color: 'text-neon-amber' },
-    { icon: <Flame size={18} />, label: 'Best Streak', value: playerBestStreak.toString(), color: 'text-red-400' },
-    { icon: <Award size={18} />, label: 'Best Combo', value: `x${playerBestCombo}`, color: 'text-purple-400' },
+    { icon: <Zap size={18} />, label: 'Total XP', value: playerXP.toLocaleString(), color: 'text-indigo-400' },
+    { icon: <Target size={18} />, label: 'Questions', value: playerTotalQuestions.toLocaleString(), color: 'text-emerald-400' },
+    { icon: <TrendingUp size={18} />, label: 'Accuracy', value: `${playerAccuracy}%`, color: 'text-amber-400' },
+    { icon: <Flame size={18} />, label: 'Best Streak', value: playerBestStreak.toString(), color: 'text-rose-400' },
+    { icon: <Award size={18} />, label: 'Best Combo', value: `x${playerBestCombo}`, color: 'text-violet-400' },
     { icon: <Gamepad2 size={18} />, label: 'Games Played', value: playerGamesPlayed.toString(), color: 'text-cyan-400' },
   ];
 
@@ -104,14 +104,14 @@ export default function ProfileTab() {
 
   const heatmapColors = [
     'bg-white/5',
-    'bg-neon-orange/20',
-    'bg-neon-orange/40',
-    'bg-neon-orange/60',
-    'bg-neon-orange/80',
+    'bg-indigo-500/20',
+    'bg-indigo-500/40',
+    'bg-indigo-500/60',
+    'bg-indigo-500/80',
   ];
 
   return (
-    <div className="flex flex-col items-center gap-6 py-6 sm:py-8 px-4 max-w-md mx-auto w-full">
+    <div className="flex flex-col items-center gap-6 py-6 sm:py-8 px-4 pb-20 sm:pb-8 max-w-md mx-auto w-full">
       {/* Achievement Popup */}
       <AnimatePresence>
         {showAchievementPopup && newAchievements.length > 0 && (
@@ -119,9 +119,9 @@ export default function ProfileTab() {
             initial={{ x: '100%', opacity: 0 }}
             animate={{ x: 0, opacity: 1 }}
             exit={{ x: '100%', opacity: 0 }}
-            className="fixed top-20 right-4 z-[100] achievement-popup glass-card p-4 max-w-xs border border-neon-amber/30"
+            className="fixed top-20 right-4 z-[100] achievement-popup study-card p-4 max-w-xs border border-amber-500/30"
           >
-            <p className="text-xs font-bold text-neon-amber mb-1">🎉 Achievement Unlocked!</p>
+            <p className="text-xs font-bold text-amber-400 mb-1">🎉 Achievement Unlocked!</p>
             {newAchievements.map((a) => (
               <div key={a.type} className="flex items-center gap-2">
                 <span className="text-2xl">{a.icon}</span>
@@ -139,10 +139,10 @@ export default function ProfileTab() {
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
-        className="w-full glass-card p-5 sm:p-6 text-center"
+        className="w-full study-card p-5 sm:p-6 text-center"
       >
         {/* Avatar */}
-        <div className="w-16 h-16 sm:w-20 sm:h-20 rounded-full bg-gradient-to-br from-neon-orange to-neon-amber flex items-center justify-center mx-auto mb-3 shadow-lg shadow-neon-orange/20">
+        <div className="w-16 h-16 sm:w-20 sm:h-20 rounded-full bg-gradient-to-br from-indigo-500 to-violet-500 flex items-center justify-center mx-auto mb-3 shadow-lg shadow-indigo-500/20">
           <span className="text-2xl sm:text-3xl font-black text-white">
             {(playerName || 'P')[0].toUpperCase()}
           </span>
@@ -156,11 +156,11 @@ export default function ProfileTab() {
               value={nameInput}
               onChange={(e) => setNameInput(e.target.value)}
               onKeyDown={(e) => e.key === 'Enter' && saveName()}
-              className="bg-white/10 border border-neon-orange/30 rounded-lg px-3 py-1.5 text-sm text-white focus:outline-none focus:border-neon-orange w-40 text-center"
+              className="bg-white/10 border border-indigo-500/30 rounded-lg px-3 py-1.5 text-sm text-white focus:outline-none focus:border-indigo-400 w-40 text-center"
               maxLength={20}
               autoFocus
             />
-            <button onClick={saveName} className="text-neon-green text-sm font-bold cursor-pointer">Save</button>
+            <button onClick={saveName} className="text-emerald-400 text-sm font-bold cursor-pointer">Save</button>
           </div>
         ) : (
           <div className="flex items-center gap-2 justify-center mb-2">
@@ -170,7 +170,7 @@ export default function ProfileTab() {
                 setIsEditingName(true);
                 setNameInput(playerName || '');
               }}
-              className="text-white/40 hover:text-neon-orange transition-colors cursor-pointer"
+              className="text-white/40 hover:text-indigo-400 transition-colors cursor-pointer"
             >
               <Edit3 size={14} />
             </button>
@@ -178,8 +178,8 @@ export default function ProfileTab() {
         )}
 
         {/* Level Badge */}
-        <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-neon-orange/10 border border-neon-orange/20 mb-4">
-          <span className="text-sm font-bold text-neon-orange">Lv.{levelInfo.level}</span>
+        <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-500/10 border border-indigo-500/20 mb-4">
+          <span className="text-sm font-bold text-indigo-400">Lv.{levelInfo.level}</span>
           <span className="text-xs text-white/50">{levelInfo.title}</span>
         </div>
 
@@ -187,13 +187,13 @@ export default function ProfileTab() {
         <div className="w-full">
           <div className="flex items-center justify-between mb-1">
             <span className="text-xs text-white/40">XP Progress</span>
-            <span className="text-xs text-neon-orange font-medium">
+            <span className="text-xs text-indigo-400 font-medium">
               {playerXP.toLocaleString()} / {levelInfo.nextLevelXP.toLocaleString()}
             </span>
           </div>
           <div className="h-3 bg-white/10 rounded-full overflow-hidden">
             <motion.div
-              className="h-full bg-gradient-to-r from-neon-orange via-neon-amber to-neon-orange rounded-full xp-bar-shimmer"
+              className="h-full bg-gradient-to-r from-indigo-400 via-violet-400 to-indigo-400 rounded-full xp-bar-shimmer"
               initial={{ width: 0 }}
               animate={{ width: `${levelInfo.progress}%` }}
               transition={{ duration: 1.5, ease: 'easeOut' }}
@@ -210,7 +210,7 @@ export default function ProfileTab() {
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ delay: i * 0.08 }}
-            className="glass-card p-3 text-center"
+            className="study-card p-3 text-center"
           >
             <div className={`${stat.color} mb-1 flex justify-center`}>{stat.icon}</div>
             <p className={`text-lg sm:text-xl font-bold ${stat.color}`}>{stat.value}</p>
@@ -224,7 +224,7 @@ export default function ProfileTab() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.4 }}
-        className="w-full glass-card p-4 sm:p-5"
+        className="w-full study-card p-4 sm:p-5"
       >
         <h3 className="text-sm font-bold text-white mb-3">📊 This Week</h3>
         <div className="flex justify-between gap-1 sm:gap-2">
@@ -245,7 +245,7 @@ export default function ProfileTab() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.5 }}
-        className="w-full glass-card p-4 sm:p-5"
+        className="w-full study-card p-4 sm:p-5"
       >
         <h3 className="text-sm font-bold text-white mb-3">🏅 Achievements</h3>
         <div className="grid grid-cols-3 sm:grid-cols-4 gap-2 sm:gap-3">
@@ -254,7 +254,7 @@ export default function ProfileTab() {
               key={achievement.type}
               className={`flex flex-col items-center p-2 sm:p-3 rounded-xl transition-all ${
                 achievement.unlocked
-                  ? 'bg-neon-orange/10 border border-neon-orange/20'
+                  ? 'bg-indigo-500/10 border border-indigo-500/20'
                   : 'bg-white/3 border border-white/5 opacity-40'
               }`}
             >
