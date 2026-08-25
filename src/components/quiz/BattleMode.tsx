@@ -188,7 +188,7 @@ export default function BattleMode() {
 
   const accuracy = battleQuestions.length > 0 ? Math.round((battleCorrectCount / battleQuestions.length) * 100) : 0;
   const timerPercentage = (battleTimer / TIMER_DURATION) * 100;
-  const timerColor = battleTimer > 10 ? '#f97316' : '#ef4444';
+  const timerColor = battleTimer > 10 ? '#818cf8' : '#f43f5e';
   const isTimerDanger = battleTimer <= 10 && battleTimer > 0 && !battleAnswered;
 
   // Category Selection Screen
@@ -208,18 +208,18 @@ export default function BattleMode() {
               animate={{ opacity: 1, scale: 1 }}
               transition={{ delay: i * 0.1 }}
               onClick={() => startBattle(cat)}
-              className="glass-card p-4 sm:p-6 text-center hover:scale-105 transition-transform cursor-pointer group"
+              className="study-card p-4 sm:p-6 text-center hover:scale-105 transition-transform cursor-pointer group"
             >
               <span className="text-2xl sm:text-3xl mb-2 block">
                 {cat === 'Physics' ? '⚛️' : cat === 'Chemistry' ? '🧪' : cat === 'Biology' ? '🧬' : cat === 'Maths' ? '📐' : '🎲'}
               </span>
-              <span className="text-sm sm:text-base font-semibold text-white/90 group-hover:text-neon-orange transition-colors">{cat}</span>
+              <span className="text-sm sm:text-base font-semibold text-white/90 group-hover:text-indigo-400 transition-colors">{cat}</span>
               <span className="block text-xs text-white/40 mt-1">10 Questions</span>
             </motion.button>
           ))}
         </div>
 
-        <div className="glass-card p-4 w-full max-w-lg">
+        <div className="study-card p-4 w-full max-w-lg">
           <div className="flex items-center gap-3 text-xs sm:text-sm text-white/50">
             <span>⏱️ 30s per question</span><span>•</span><span>🔥 Build combos</span><span>•</span><span>⚡ Earn XP</span>
           </div>
@@ -237,18 +237,18 @@ export default function BattleMode() {
           <p className="text-white/60">Here&apos;s how you performed</p>
         </motion.div>
 
-        <div className="glass-card p-6 w-full max-w-md">
+        <div className="study-card p-6 w-full max-w-md">
           <div className="grid grid-cols-2 gap-4">
             <div className="text-center">
-              <motion.p initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: 'spring', delay: 0.1 }} className="text-3xl font-bold text-neon-orange">{battleScore}</motion.p>
+              <motion.p initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: 'spring', delay: 0.1 }} className="text-3xl font-bold text-indigo-400">{battleScore}</motion.p>
               <p className="text-xs text-white/50">XP Earned</p>
             </div>
             <div className="text-center">
-              <motion.p initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: 'spring', delay: 0.2 }} className="text-3xl font-bold text-neon-green">{accuracy}%</motion.p>
+              <motion.p initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: 'spring', delay: 0.2 }} className="text-3xl font-bold text-emerald-400">{accuracy}%</motion.p>
               <p className="text-xs text-white/50">Accuracy</p>
             </div>
             <div className="text-center">
-              <motion.p initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: 'spring', delay: 0.3 }} className="text-3xl font-bold text-neon-amber">x{battleMaxCombo}</motion.p>
+              <motion.p initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: 'spring', delay: 0.3 }} className="text-3xl font-bold text-amber-400">x{battleMaxCombo}</motion.p>
               <p className="text-xs text-white/50">Max Combo</p>
             </div>
             <div className="text-center">
@@ -259,8 +259,8 @@ export default function BattleMode() {
         </div>
 
         <div className="flex flex-col sm:flex-row gap-3 w-full max-w-md">
-          <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }} onClick={shareScore} className="neon-btn flex-1 bg-neon-green text-white font-semibold py-3 px-6 rounded-xl cursor-pointer">📤 Share Score</motion.button>
-          <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.6 }} onClick={() => { resetBattle(); setBattleCategory(null); }} className="neon-btn flex-1 bg-neon-orange text-white font-semibold py-3 px-6 rounded-xl cursor-pointer">🔄 Play Again</motion.button>
+          <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }} onClick={shareScore} className="btn-primary flex-1 py-3 px-6 cursor-pointer" style={{ background: '#10b981' }}>📤 Share Score</motion.button>
+          <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.6 }} onClick={() => { resetBattle(); setBattleCategory(null); }} className="btn-primary flex-1 py-3 px-6 cursor-pointer">🔄 Play Again</motion.button>
         </div>
       </div>
     );
@@ -274,7 +274,7 @@ export default function BattleMode() {
       {showConfetti && <Confetti />}
 
       {scorePopups.map((popup) => (
-        <div key={popup.id} className="score-popup text-neon-green" style={{ left: popup.x, top: popup.y }}>{popup.text}</div>
+        <div key={popup.id} className="score-popup text-emerald-400" style={{ left: popup.x, top: popup.y }}>{popup.text}</div>
       ))}
 
       {/* Header: Progress + Timer + Combo */}
@@ -282,26 +282,26 @@ export default function BattleMode() {
         <div className="flex-1">
           <div className="flex items-center justify-between mb-1">
             <span className="text-xs sm:text-sm text-white/60">Q{battleCurrentIndex + 1} of {battleQuestions.length}</span>
-            <span className="text-xs sm:text-sm font-bold text-neon-orange">{battleScore} XP</span>
+            <span className="text-xs sm:text-sm font-bold text-indigo-400">{battleScore} XP</span>
           </div>
           <div className="h-2 bg-white/10 rounded-full overflow-hidden">
-            <motion.div className="h-full bg-gradient-to-r from-neon-orange to-neon-amber rounded-full xp-bar-shimmer" initial={{ width: 0 }} animate={{ width: `${((battleCurrentIndex + (battleAnswered ? 1 : 0)) / battleQuestions.length) * 100}%` }} transition={{ duration: 0.3 }} />
+            <motion.div className="h-full bg-gradient-to-r from-indigo-400 to-violet-400 rounded-full xp-bar-shimmer" initial={{ width: 0 }} animate={{ width: `${((battleCurrentIndex + (battleAnswered ? 1 : 0)) / battleQuestions.length) * 100}%` }} transition={{ duration: 0.3 }} />
           </div>
         </div>
 
-        <div className={`w-14 h-14 sm:w-16 sm:h-16 rounded-full flex items-center justify-center border-2 ${isTimerDanger ? 'timer-danger border-neon-red' : 'border-neon-orange/50'}`}>
+        <div className={`w-14 h-14 sm:w-16 sm:h-16 rounded-full flex items-center justify-center border-2 ${isTimerDanger ? 'timer-danger border-rose-400' : 'border-indigo-400/50'}`}>
           <svg className="absolute w-full h-full -rotate-90" viewBox="0 0 60 60">
             <circle cx="30" cy="30" r="26" fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth="3" />
             <circle cx="30" cy="30" r="26" fill="none" stroke={timerColor} strokeWidth="3" strokeLinecap="round" strokeDasharray={163.36} strokeDashoffset={163.36 * (1 - timerPercentage / 100)} style={{ transition: 'stroke-dashoffset 1s linear' }} />
           </svg>
-          <span className={`text-lg sm:text-xl font-bold ${isTimerDanger ? 'text-neon-red' : 'text-white'}`}>{battleTimer}</span>
+          <span className={`text-lg sm:text-xl font-bold ${isTimerDanger ? 'text-rose-400' : 'text-white'}`}>{battleTimer}</span>
         </div>
       </div>
 
       {battleCombo > 0 && (
         <motion.div key={battleCombo} initial={{ scale: 0.5, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} className="combo-bounce text-center mb-4">
           <span className="text-2xl sm:text-3xl font-black gradient-text">🔥 x{battleCombo} COMBO!</span>
-          {battleCombo >= 5 && <span className="block text-sm text-neon-amber font-bold">UNSTOPPABLE!</span>}
+          {battleCombo >= 5 && <span className="block text-sm text-amber-400 font-bold">UNSTOPPABLE!</span>}
         </motion.div>
       )}
 
@@ -313,7 +313,7 @@ export default function BattleMode() {
 }
 
 function Confetti() {
-  const colors = ['#f97316', '#f59e0b', '#10b981', '#ef4444', '#8b5cf6', '#ffffff'];
+  const colors = ['#818cf8', '#8b5cf6', '#10b981', '#f59e0b', '#f43f5e', '#ffffff'];
   const pieces = Array.from({ length: 40 }, (_, i) => ({
     id: i,
     color: colors[i % colors.length],
