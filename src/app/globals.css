@@ -41,71 +41,67 @@
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
-  --color-neon-orange: #f97316;
-  --color-neon-amber: #f59e0b;
-  --color-neon-green: #10b981;
-  --color-neon-red: #ef4444;
 }
 
 :root {
   --radius: 0.625rem;
-  --background: #0a0a0f;
+  --background: #0c0d14;
   --foreground: #f5f5f5;
-  --card: rgba(255, 255, 255, 0.05);
+  --card: #151823;
   --card-foreground: #f5f5f5;
-  --popover: #12121a;
+  --popover: #151823;
   --popover-foreground: #f5f5f5;
-  --primary: #f97316;
+  --primary: #818cf8;
   --primary-foreground: #ffffff;
-  --secondary: rgba(255, 255, 255, 0.08);
+  --secondary: rgba(255, 255, 255, 0.06);
   --secondary-foreground: #f5f5f5;
   --muted: rgba(255, 255, 255, 0.06);
-  --muted-foreground: #a0a0a0;
-  --accent: rgba(249, 115, 22, 0.15);
-  --accent-foreground: #f97316;
-  --destructive: #ef4444;
-  --border: rgba(255, 255, 255, 0.08);
+  --muted-foreground: #94a3b8;
+  --accent: rgba(99, 102, 241, 0.15);
+  --accent-foreground: #818cf8;
+  --destructive: #f43f5e;
+  --border: rgba(255, 255, 255, 0.06);
   --input: rgba(255, 255, 255, 0.1);
-  --ring: #f97316;
-  --chart-1: #f97316;
-  --chart-2: #f59e0b;
+  --ring: #818cf8;
+  --chart-1: #818cf8;
+  --chart-2: #8b5cf6;
   --chart-3: #10b981;
-  --chart-4: #ef4444;
-  --chart-5: #8b5cf6;
-  --sidebar: #12121a;
+  --chart-4: #f59e0b;
+  --chart-5: #f43f5e;
+  --sidebar: #151823;
   --sidebar-foreground: #f5f5f5;
-  --sidebar-primary: #f97316;
+  --sidebar-primary: #818cf8;
   --sidebar-primary-foreground: #ffffff;
-  --sidebar-accent: rgba(249, 115, 22, 0.15);
-  --sidebar-accent-foreground: #f97316;
-  --sidebar-border: rgba(255, 255, 255, 0.08);
-  --sidebar-ring: #f97316;
+  --sidebar-accent: rgba(99, 102, 241, 0.15);
+  --sidebar-accent-foreground: #818cf8;
+  --sidebar-border: rgba(255, 255, 255, 0.06);
+  --sidebar-ring: #818cf8;
 }
 
 .dark {
-  --background: #0a0a0f;
+  --background: #0c0d14;
   --foreground: #f5f5f5;
-  --card: rgba(255, 255, 255, 0.05);
+  --card: #151823;
   --card-foreground: #f5f5f5;
-  --popover: #12121a;
+  --popover: #151823;
   --popover-foreground: #f5f5f5;
-  --primary: #f97316;
+  --primary: #818cf8;
   --primary-foreground: #ffffff;
-  --secondary: rgba(255, 255, 255, 0.08);
+  --secondary: rgba(255, 255, 255, 0.06);
   --secondary-foreground: #f5f5f5;
   --muted: rgba(255, 255, 255, 0.06);
-  --muted-foreground: #a0a0a0;
-  --accent: rgba(249, 115, 22, 0.15);
-  --accent-foreground: #f97316;
-  --destructive: #ef4444;
-  --border: rgba(255, 255, 255, 0.08);
+  --muted-foreground: #94a3b8;
+  --accent: rgba(99, 102, 241, 0.15);
+  --accent-foreground: #818cf8;
+  --destructive: #f43f5e;
+  --border: rgba(255, 255, 255, 0.06);
   --input: rgba(255, 255, 255, 0.1);
-  --ring: #f97316;
-  --chart-1: #f97316;
-  --chart-2: #f59e0b;
+  --ring: #818cf8;
+  --chart-1: #818cf8;
+  --chart-2: #8b5cf6;
   --chart-3: #10b981;
-  --chart-4: #ef4444;
-  --chart-5: #8b5cf6;
+  --chart-4: #f59e0b;
+  --chart-5: #f43f5e;
 }
 
 @layer base {
@@ -126,63 +122,88 @@
   background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background: rgba(249, 115, 22, 0.3);
+  background: rgba(129, 140, 248, 0.3);
   border-radius: 3px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(249, 115, 22, 0.5);
+  background: rgba(129, 140, 248, 0.5);
 }
 
-/* ============ GLASSMORPHISM CARD ============ */
-.glass-card {
-  background: rgba(255, 255, 255, 0.04);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  border-radius: 16px;
-  transition: all 0.3s ease;
+/* ============ STUDY CARD ============ */
+.study-card {
+  background: #151823;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  transition: all 0.2s ease;
 }
-.glass-card:hover {
-  background: rgba(255, 255, 255, 0.07);
-  border-color: rgba(249, 115, 22, 0.2);
-  box-shadow: 0 0 30px rgba(249, 115, 22, 0.08);
-}
-
-/* ============ NEON GLOW BUTTON ============ */
-.neon-btn {
-  position: relative;
-  box-shadow: 0 0 15px rgba(249, 115, 22, 0.3), inset 0 0 15px rgba(249, 115, 22, 0.1);
-  transition: all 0.3s ease;
-}
-.neon-btn:hover {
-  box-shadow: 0 0 30px rgba(249, 115, 22, 0.5), inset 0 0 30px rgba(249, 115, 22, 0.15);
-  transform: translateY(-2px);
-}
-.neon-btn:active {
-  transform: translateY(0);
+.study-card:hover {
+  background: #1c1f2e;
+  border-color: rgba(129, 140, 248, 0.2);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.2);
 }
 
-.neon-btn-green {
-  position: relative;
-  box-shadow: 0 0 15px rgba(16, 185, 129, 0.3), inset 0 0 15px rgba(16, 185, 129, 0.1);
-  transition: all 0.3s ease;
+/* ============ PRIMARY BUTTON ============ */
+.btn-primary {
+  background: #6366f1;
+  color: #ffffff;
+  border-radius: 0.75rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  cursor: pointer;
 }
-.neon-btn-green:hover {
-  box-shadow: 0 0 30px rgba(16, 185, 129, 0.5), inset 0 0 30px rgba(16, 185, 129, 0.15);
-  transform: translateY(-2px);
+.btn-primary:hover {
+  background: #818cf8;
+  transform: translateY(-1px);
 }
 
-/* ============ NEON GLOW TEXT ============ */
-.neon-text {
-  text-shadow: 0 0 10px rgba(249, 115, 22, 0.5), 0 0 20px rgba(249, 115, 22, 0.3);
+/* ============ SECONDARY BUTTON ============ */
+.btn-secondary {
+  background: rgba(255, 255, 255, 0.05);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 0.75rem;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+.btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.1);
 }
 
 /* ============ GRADIENT TEXT ============ */
 .gradient-text {
-  background: linear-gradient(135deg, #f97316, #f59e0b, #ef4444);
+  background: linear-gradient(135deg, #818cf8, #a78bfa, #c084fc);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+}
+
+/* ============ SUBJECT CARD ============ */
+.subject-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  background: #151823;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+.subject-card:hover {
+  border-color: rgba(129, 140, 248, 0.3);
+  background: #1c1f2e;
+}
+
+/* ============ SUBJECT ICON ============ */
+.subject-icon {
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 /* ============ XP BAR SHIMMER ============ */
@@ -270,8 +291,8 @@
 
 /* ============ TIMER PULSE ============ */
 @keyframes timer-pulse {
-  0%, 100% { transform: scale(1); box-shadow: 0 0 10px rgba(239, 68, 68, 0.3); }
-  50% { transform: scale(1.05); box-shadow: 0 0 25px rgba(239, 68, 68, 0.6); }
+  0%, 100% { transform: scale(1); box-shadow: 0 0 10px rgba(244, 63, 94, 0.3); }
+  50% { transform: scale(1.05); box-shadow: 0 0 25px rgba(244, 63, 94, 0.6); }
 }
 
 .timer-danger {
@@ -298,8 +319,8 @@
 }
 
 @keyframes wrong-flash {
-  0% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.6); }
-  100% { box-shadow: 0 0 30px 10px rgba(239, 68, 68, 0); }
+  0% { box-shadow: 0 0 0 0 rgba(244, 63, 94, 0.6); }
+  100% { box-shadow: 0 0 30px 10px rgba(244, 63, 94, 0); }
 }
 
 .correct-glow {
@@ -309,56 +330,7 @@
 
 .wrong-shake {
   animation: wrong-flash 0.6s ease-out, shake 0.5s ease-in-out;
-  border-color: #ef4444 !important;
-}
-
-/* ============ PARTICLES (CSS-only) ============ */
-.particles {
-  position: relative;
-  overflow: hidden;
-}
-
-.particle {
-  position: absolute;
-  width: 4px;
-  height: 4px;
-  background: rgba(249, 115, 22, 0.6);
-  border-radius: 50%;
-  pointer-events: none;
-}
-
-.particle:nth-child(1) { left: 10%; animation: float-particle 8s linear infinite; animation-delay: 0s; }
-.particle:nth-child(2) { left: 20%; animation: float-particle 12s linear infinite; animation-delay: 1s; }
-.particle:nth-child(3) { left: 30%; animation: float-particle 10s linear infinite; animation-delay: 2s; }
-.particle:nth-child(4) { left: 40%; animation: float-particle 9s linear infinite; animation-delay: 3s; }
-.particle:nth-child(5) { left: 50%; animation: float-particle 11s linear infinite; animation-delay: 0.5s; }
-.particle:nth-child(6) { left: 60%; animation: float-particle 7s linear infinite; animation-delay: 1.5s; }
-.particle:nth-child(7) { left: 70%; animation: float-particle 13s linear infinite; animation-delay: 2.5s; }
-.particle:nth-child(8) { left: 80%; animation: float-particle 8s linear infinite; animation-delay: 3.5s; }
-.particle:nth-child(9) { left: 90%; animation: float-particle 10s linear infinite; animation-delay: 0.3s; }
-.particle:nth-child(10) { left: 5%; animation: float-particle 11s linear infinite; animation-delay: 1.8s; }
-.particle:nth-child(11) { left: 15%; animation: float-particle 9s linear infinite; animation-delay: 2.8s; }
-.particle:nth-child(12) { left: 35%; animation: float-particle 12s linear infinite; animation-delay: 3.8s; }
-.particle:nth-child(13) { left: 55%; animation: float-particle 7s linear infinite; animation-delay: 0.8s; }
-.particle:nth-child(14) { left: 75%; animation: float-particle 10s linear infinite; animation-delay: 1.3s; }
-.particle:nth-child(15) { left: 95%; animation: float-particle 8s linear infinite; animation-delay: 2.3s; }
-
-@keyframes float-particle {
-  0% {
-    transform: translateY(100vh) translateX(0) scale(0);
-    opacity: 0;
-  }
-  10% {
-    opacity: 1;
-    transform: translateY(90vh) translateX(20px) scale(1);
-  }
-  90% {
-    opacity: 0.5;
-  }
-  100% {
-    transform: translateY(-10vh) translateX(-20px) scale(0);
-    opacity: 0;
-  }
+  border-color: #f43f5e !important;
 }
 
 /* ============ SHIMMER ANIMATION ============ */
@@ -418,13 +390,7 @@
   animation: achievement-slide-in 0.5s ease-out;
 }
 
-/* ============ COUNTING NUMBER ============ */
-@keyframes countUp {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-/* ============ OPTION BUTTON NEON HOVER ============ */
+/* ============ OPTION BUTTON ============ */
 .option-btn {
   position: relative;
   background: rgba(255, 255, 255, 0.04);
@@ -433,9 +399,9 @@
   overflow: hidden;
 }
 .option-btn:hover:not(:disabled) {
-  background: rgba(249, 115, 22, 0.1);
-  border-color: rgba(249, 115, 22, 0.4);
-  box-shadow: 0 0 20px rgba(249, 115, 22, 0.15);
+  background: rgba(129, 140, 248, 0.1);
+  border-color: rgba(129, 140, 248, 0.4);
+  box-shadow: 0 4px 16px rgba(129, 140, 248, 0.1);
   transform: translateX(4px);
 }
 .option-btn:active:not(:disabled) {
@@ -448,24 +414,16 @@
 .option-btn.selected-correct {
   background: rgba(16, 185, 129, 0.2) !important;
   border-color: #10b981 !important;
-  box-shadow: 0 0 20px rgba(16, 185, 129, 0.3);
+  box-shadow: 0 4px 16px rgba(16, 185, 129, 0.2);
 }
 .option-btn.selected-wrong {
-  background: rgba(239, 68, 68, 0.2) !important;
-  border-color: #ef4444 !important;
-  box-shadow: 0 0 20px rgba(239, 68, 68, 0.3);
+  background: rgba(244, 63, 94, 0.2) !important;
+  border-color: #f43f5e !important;
+  box-shadow: 0 4px 16px rgba(244, 63, 94, 0.2);
 }
 .option-btn.reveal-correct {
   background: rgba(16, 185, 129, 0.1) !important;
   border-color: rgba(16, 185, 129, 0.5) !important;
-}
-
-/* ============ BACKGROUND GRADIENT ============ */
-.bg-main-gradient {
-  background: radial-gradient(ellipse at 20% 50%, rgba(249, 115, 22, 0.08) 0%, transparent 50%),
-              radial-gradient(ellipse at 80% 20%, rgba(245, 158, 11, 0.05) 0%, transparent 50%),
-              radial-gradient(ellipse at 50% 80%, rgba(239, 68, 68, 0.04) 0%, transparent 50%),
-              #0a0a0f;
 }
 
 /* ============ HEATMAP CELL ============ */
