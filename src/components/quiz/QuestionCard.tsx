@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useCallback } from 'react';
+import React from 'react';
 import { motion } from 'framer-motion';
 import { useGameStore, QuestionData } from '@/lib/store';
 
@@ -31,12 +31,12 @@ export default function QuestionCard({ question, selectedIndex, onAnswer, answer
       className="w-full"
     >
       {/* Question */}
-      <div className="glass-card p-4 sm:p-6 mb-4 sm:mb-6">
+      <div className="study-card p-4 sm:p-6 mb-4 sm:mb-6">
         <div className="flex items-center gap-2 mb-3">
-          <span className="text-xs font-medium px-2 py-0.5 rounded-full bg-neon-orange/20 text-neon-orange">
+          <span className="text-xs font-medium px-2 py-0.5 rounded-full bg-indigo-500/20 text-indigo-400">
             {question.subject}
           </span>
-          <span className="text-xs font-medium px-2 py-0.5 rounded-full bg-neon-amber/20 text-neon-amber">
+          <span className="text-xs font-medium px-2 py-0.5 rounded-full bg-amber-500/20 text-amber-400">
             {question.difficulty}
           </span>
         </div>
@@ -71,7 +71,7 @@ export default function QuestionCard({ question, selectedIndex, onAnswer, answer
               disabled={answered}
             >
               <div className="flex items-center gap-3">
-                <span className="flex-shrink-0 w-8 h-8 sm:w-10 sm:h-10 rounded-lg bg-neon-orange/10 border border-neon-orange/20 flex items-center justify-center font-bold text-sm sm:text-base text-neon-orange">
+                <span className="flex-shrink-0 w-8 h-8 sm:w-10 sm:h-10 rounded-lg bg-indigo-500/10 border border-indigo-500/20 flex items-center justify-center font-bold text-sm sm:text-base text-indigo-400">
                   {option.label}
                 </span>
                 <span className="text-sm sm:text-base text-white/90 font-medium">{option.text}</span>
@@ -79,7 +79,7 @@ export default function QuestionCard({ question, selectedIndex, onAnswer, answer
                   <motion.span
                     initial={{ scale: 0 }}
                     animate={{ scale: 1 }}
-                    className="ml-auto text-neon-green text-xl"
+                    className="ml-auto text-emerald-400 text-xl"
                   >
                     ✓
                   </motion.span>
@@ -88,7 +88,7 @@ export default function QuestionCard({ question, selectedIndex, onAnswer, answer
                   <motion.span
                     initial={{ scale: 0 }}
                     animate={{ scale: 1 }}
-                    className="ml-auto text-neon-red text-xl"
+                    className="ml-auto text-rose-400 text-xl"
                   >
                     ✗
                   </motion.span>
@@ -105,9 +105,9 @@ export default function QuestionCard({ question, selectedIndex, onAnswer, answer
           initial={{ opacity: 0, height: 0 }}
           animate={{ opacity: 1, height: 'auto' }}
           transition={{ duration: 0.4 }}
-          className="mt-4 glass-card p-4 border-l-4 border-neon-amber"
+          className="mt-4 study-card p-4 border-l-4 border-l-amber-400"
         >
-          <h4 className="text-sm font-bold text-neon-amber mb-1">💡 Explanation</h4>
+          <h4 className="text-sm font-bold text-amber-400 mb-1">💡 Explanation</h4>
           <p className="text-sm text-white/80">{question.explanation}</p>
         </motion.div>
       )}
