@@ -1,8 +1,8 @@
 'use client';
 
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Trophy, Medal, Crown, Flame, Zap } from 'lucide-react';
+import { Trophy, Medal, Crown } from 'lucide-react';
 import { useGameStore } from '@/lib/store';
 
 interface LeaderboardEntry {
@@ -63,7 +63,7 @@ export default function LeaderboardTab() {
   };
 
   return (
-    <div className="flex flex-col items-center gap-6 py-6 sm:py-8 px-4">
+    <div className="flex flex-col items-center gap-6 py-6 sm:py-8 px-4 pb-20 sm:pb-8">
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
@@ -81,7 +81,7 @@ export default function LeaderboardTab() {
             onClick={() => setActiveFilter(filter.value)}
             className={`px-3 sm:px-4 py-1.5 rounded-full text-xs sm:text-sm font-medium transition-all cursor-pointer ${
               activeFilter === filter.value
-                ? 'bg-neon-orange text-white neon-btn'
+                ? 'bg-indigo-500 text-white'
                 : 'bg-white/5 text-white/50 hover:bg-white/10'
             }`}
           >
@@ -106,16 +106,16 @@ export default function LeaderboardTab() {
                 transition={{ delay: rank * 0.15 }}
                 className="flex flex-col items-center"
               >
-                <div className={`glass-card p-3 sm:p-4 text-center ${podiumIndex === 0 ? 'ring-2 ring-yellow-400/50' : ''}`}>
-                  <div className="w-10 h-10 sm:w-12 sm:h-12 rounded-full bg-neon-orange/20 flex items-center justify-center mb-2 mx-auto">
+                <div className={`study-card p-3 sm:p-4 text-center ${podiumIndex === 0 ? 'ring-2 ring-yellow-400/50' : ''}`}>
+                  <div className="w-10 h-10 sm:w-12 sm:h-12 rounded-full bg-indigo-500/20 flex items-center justify-center mb-2 mx-auto">
                     <span className={`text-lg sm:text-xl font-black ${getRankClass(rank)}`}>
                       {rank === 1 ? '🥇' : rank === 2 ? '🥈' : '🥉'}
                     </span>
                   </div>
                   <p className="text-xs sm:text-sm font-bold text-white truncate max-w-[80px]">{entry.name}</p>
-                  <p className="text-xs sm:text-sm font-bold text-neon-orange">{entry.xp.toLocaleString()} XP</p>
+                  <p className="text-xs sm:text-sm font-bold text-indigo-400">{entry.xp.toLocaleString()} XP</p>
                 </div>
-                <div className={`w-full ${heights[podiumIndex]} bg-gradient-to-t from-neon-orange/20 to-transparent rounded-t-lg mt-1`} />
+                <div className={`w-full ${heights[podiumIndex]} bg-gradient-to-t from-indigo-500/20 to-transparent rounded-t-lg mt-1`} />
               </motion.div>
             );
           })}
@@ -131,8 +131,8 @@ export default function LeaderboardTab() {
               initial={{ opacity: 0, x: -20 }}
               animate={{ opacity: 1, x: 0 }}
               transition={{ delay: i * 0.05 }}
-              className={`glass-card p-3 sm:p-4 flex items-center gap-3 ${
-                entry.isCurrentPlayer ? 'ring-1 ring-neon-orange/50 bg-neon-orange/5' : ''
+              className={`study-card p-3 sm:p-4 flex items-center gap-3 ${
+                entry.isCurrentPlayer ? 'ring-1 ring-indigo-500/50 bg-indigo-500/5' : ''
               }`}
             >
               <div className="flex-shrink-0 w-8 flex items-center justify-center">
@@ -142,7 +142,7 @@ export default function LeaderboardTab() {
                 <div className="flex items-center gap-1">
                   <p className="text-sm font-semibold text-white truncate">{entry.name}</p>
                   {entry.isCurrentPlayer && (
-                    <span className="text-[10px] px-1.5 py-0.5 rounded-full bg-neon-orange/20 text-neon-orange font-bold">
+                    <span className="text-[10px] px-1.5 py-0.5 rounded-full bg-indigo-500/20 text-indigo-400 font-bold">
                       YOU
                     </span>
                   )}
@@ -156,7 +156,7 @@ export default function LeaderboardTab() {
                 </div>
               </div>
               <div className="text-right flex-shrink-0">
-                <p className="text-sm font-bold text-neon-orange">{entry.xp.toLocaleString()}</p>
+                <p className="text-sm font-bold text-indigo-400">{entry.xp.toLocaleString()}</p>
                 <p className="text-[10px] text-white/40">XP</p>
               </div>
             </motion.div>
@@ -165,7 +165,7 @@ export default function LeaderboardTab() {
 
         {loading && (
           <div className="flex justify-center py-8">
-            <div className="w-8 h-8 border-2 border-neon-orange/30 border-t-neon-orange rounded-full animate-spin" />
+            <div className="w-8 h-8 border-2 border-indigo-500/30 border-t-indigo-500 rounded-full animate-spin" />
           </div>
         )}
 
