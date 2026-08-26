@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useCallback } from 'react';
 import { motion } from 'framer-motion';
 import { useGameStore, QuestionData } from '@/lib/store';
 import QuestionCard from './QuestionCard';
@@ -36,14 +36,85 @@ export default function BattleMode() {
 
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
+  const timerCountRef = useRef(TIMER_DURATION);
   const battleIndexRef = useRef(battleCurrentIndex);
   const battleAnsweredRef = useRef(battleAnswered);
+  const isTimerRunningRef = useRef(false);
 
   // Keep refs in sync
   useEffect(() => { battleIndexRef.current = battleCurrentIndex; }, [battleCurrentIndex]);
   useEffect(() => { battleAnsweredRef.current = battleAnswered; }, [battleAnswered]);
 
   const categories = ['Physics', 'Chemistry', 'Biology', 'General', 'Mixed'];
+
+  // Stable handleTimeUp using refs
+  const handleTimeUpRef = useRef<() => void>(() => {});
+  handleTimeUpRef.current = () => {
+    setBattleAnswered(true);
+    setBattleCombo(0);
+    setShowShake(true);
+    const idx = battleIndexRef.current;
+    const qs = useGameStore.getState().battleQuestions;
+    setTimeout(() => {
+      if (idx + 1 < qs.length) {
+        setBattleCurrentIndex(idx + 1);
+        setBattleAnswered(false);
+        setBattleSelectedAnswer(null);
+      } else {
+        // Call finishGame via getState to avoid stale closure
+        const state = useGameStore.getState();
+        finishGameRef.current();
+      }
+    }, 2000);
+  };
+
+  const finishGameRef = useRef<() => void>(() => {});
+  finishGameRef.current = async () => {
+    const state = useGameStore.getState();
+    setBattleIsComplete(true);
+    const timeTaken = state.battleStartTime ? (Date.now() - state.battleStartTime) / 1000 : 0;
+
+    try {
+      const res = await fetch('/api/score', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          playerId: state.playerId || undefined,
+          playerName: state.playerName || 'Player',
+          category: state.battleCategory,
+          xpEarned: state.battleScore,
+          correctCount: state.battleCorrectCount,
+          totalCount: state.battleQuestions.length,
+          comboMax: state.battleMaxCombo,
+          timeTaken,
+          mode: 'battle',
+          subjectsPlayed: state.subjectsPlayed,
+        }),
+      });
+
+      const data = await res.json();
+      if (data.success) {
+        if (!state.playerId) useGameStore.getState().setPlayerId(data.playerId);
+        setPlayerXP(data.newXp);
+        setPlayerLevel(Math.floor(data.newXp / 500) + 1);
+        const s = useGameStore.getState();
+        setPlayerStreak(s.playerStreak + 1);
+        setPlayerTotalQuestions(s.playerTotalQuestions + s.battleQuestions.length);
+        setPlayerCorrectAnswers(s.playerCorrectAnswers + s.battleCorrectCount);
+        setPlayerBestCombo(Math.max(s.playerBestCombo, s.battleMaxCombo));
+        setPlayerGamesPlayed(s.playerGamesPlayed + 1);
+        setPlayerAccuracy(Math.round((s.battleCorrectCount / s.battleQuestions.length) * 100));
+        setPlayerFastestCorrect(timeTaken / s.battleQuestions.length);
+
+        if (data.newAchievements && data.newAchievements.length > 0) {
+          setNewAchievements(data.newAchievements);
+          setShowAchievementPopup(true);
+        }
+      }
+    } catch (err) {
+      console.error('Failed to save score:', err);
+    }
+  };
 
   async function startBattle(category: string) {
     resetBattle();
@@ -62,23 +133,6 @@ export default function BattleMode() {
     }
   }
 
-  function handleTimeUp() {
-    setBattleAnswered(true);
-    setBattleCombo(0);
-    setShowShake(true);
-    const idx = battleIndexRef.current;
-    const qs = useGameStore.getState().battleQuestions;
-    setTimeout(() => {
-      if (idx + 1 < qs.length) {
-        setBattleCurrentIndex(idx + 1);
-        setBattleAnswered(false);
-        setBattleSelectedAnswer(null);
-      } else {
-        finishGame();
-      }
-    }, 2000);
-  }
-
   function handleAnswer(index: number) {
     if (battleAnswered) return;
     const question = battleQuestions[battleCurrentIndex];
@@ -87,6 +141,7 @@ export default function BattleMode() {
     setBattleAnswered(true);
     setBattleSelectedAnswer(index);
     if (timerRef.current) clearInterval(timerRef.current);
+    isTimerRunningRef.current = false;
 
     const isCorrect = index === question.correct - 1;
 
@@ -120,81 +175,44 @@ export default function BattleMode() {
         setBattleAnswered(false);
         setBattleSelectedAnswer(null);
       } else {
-        finishGame();
+        finishGameRef.current();
       }
     }, 2000);
   }
 
-  async function finishGame() {
-    setBattleIsComplete(true);
-    const timeTaken = battleStartTime ? (Date.now() - battleStartTime) / 1000 : 0;
-
-    try {
-      const res = await fetch('/api/score', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          playerId: playerId || undefined,
-          playerName: playerName || 'Player',
-          category: battleCategory,
-          xpEarned: battleScore,
-          correctCount: battleCorrectCount,
-          totalCount: battleQuestions.length,
-          comboMax: battleMaxCombo,
-          timeTaken,
-          mode: 'battle',
-          subjectsPlayed: subjectsPlayed,
-        }),
-      });
-
-      const data = await res.json();
-      if (data.success) {
-        if (!playerId) useGameStore.getState().setPlayerId(data.playerId);
-        setPlayerXP(data.newXp);
-        setPlayerLevel(Math.floor(data.newXp / 500) + 1);
-        const store = useGameStore.getState();
-        setPlayerStreak(store.playerStreak + 1);
-        setPlayerTotalQuestions(store.playerTotalQuestions + battleQuestions.length);
-        setPlayerCorrectAnswers(store.playerCorrectAnswers + battleCorrectCount);
-        setPlayerBestCombo(Math.max(store.playerBestCombo, battleMaxCombo));
-        setPlayerGamesPlayed(store.playerGamesPlayed + 1);
-        setPlayerAccuracy(Math.round((battleCorrectCount / battleQuestions.length) * 100));
-        setPlayerFastestCorrect(timeTaken / battleQuestions.length);
-
-        if (data.newAchievements && data.newAchievements.length > 0) {
-          setNewAchievements(data.newAchievements);
-          setShowAchievementPopup(true);
-        }
-      }
-    } catch (err) {
-      console.error('Failed to save score:', err);
-    }
-  }
-
-  function shareScore() {
-    const text = `🎯 Exam Rescue Battle!\n📊 Score: ${battleScore} XP\n✅ ${battleCorrectCount}/${battleQuestions.length} correct\n🔥 Max Combo: x${battleMaxCombo}\n⏱️ Time: ${battleStartTime ? Math.round((Date.now() - battleStartTime) / 1000) : 0}s\n\nPlay now: examrescue.pages.dev`;
-    window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, '_blank');
-  }
-
-  // Timer
+  // Timer - completely ref-based, no store reads in interval
   useEffect(() => {
     if (battleQuestions.length > 0 && !battleIsComplete && !battleAnswered) {
+      // Reset countdown using ref
+      timerCountRef.current = TIMER_DURATION;
       setBattleTimer(TIMER_DURATION);
+      isTimerRunningRef.current = true;
+
       timerRef.current = setInterval(() => {
-        const current = useGameStore.getState().battleTimer;
-        if (current <= 1) {
+        timerCountRef.current -= 1;
+        if (timerCountRef.current <= 0) {
           if (timerRef.current) clearInterval(timerRef.current);
-          handleTimeUp();
+          isTimerRunningRef.current = false;
+          handleTimeUpRef.current();
           return;
         }
-        setBattleTimer(current - 1);
+        setBattleTimer(timerCountRef.current);
       }, 1000);
     }
 
     return () => {
-      if (timerRef.current) clearInterval(timerRef.current);
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+        timerRef.current = null;
+      }
+      isTimerRunningRef.current = false;
     };
   }, [battleCurrentIndex, battleIsComplete, battleAnswered, battleQuestions.length]);
+
+  function shareScore() {
+    const text = `Exam Rescue Battle!\nScore: ${battleScore} XP\n${battleCorrectCount}/${battleQuestions.length} correct\nMax Combo: x${battleMaxCombo}\nTime: ${battleStartTime ? Math.round((Date.now() - battleStartTime) / 1000) : 0}s\n\nPlay now: examrescue.pages.dev`;
+    window.open(`https://wa.me/?text=${encodeURIComponent(text)}`, '_blank');
+  }
 
   const accuracy = battleQuestions.length > 0 ? Math.round((battleCorrectCount / battleQuestions.length) * 100) : 0;
   const timerPercentage = (battleTimer / TIMER_DURATION) * 100;
@@ -206,7 +224,7 @@ export default function BattleMode() {
     return (
       <div className="flex flex-col items-center gap-6 py-8">
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} className="text-center">
-          <h2 className="text-2xl sm:text-3xl font-bold gradient-text mb-2">⚔️ Battle Mode</h2>
+          <h2 className="text-2xl sm:text-3xl font-bold gradient-text mb-2">Battle Mode</h2>
           <p className="text-white/60 text-sm sm:text-base">Choose your subject and prove your knowledge!</p>
         </motion.div>
 
@@ -221,7 +239,7 @@ export default function BattleMode() {
               className="study-card p-4 sm:p-6 text-center hover:scale-105 transition-transform cursor-pointer group"
             >
               <span className="text-2xl sm:text-3xl mb-2 block">
-                {cat === 'Physics' ? '⚛️' : cat === 'Chemistry' ? '🧪' : cat === 'Biology' ? '🧬' : cat === 'General' ? '🧠' : '🎲'}
+                {cat === 'Physics' ? 'atom' : cat === 'Chemistry' ? 'flask' : cat === 'Biology' ? 'dna' : cat === 'General' ? 'brain' : 'shuffle'}
               </span>
               <span className="text-sm sm:text-base font-semibold text-white/90 group-hover:text-indigo-400 transition-colors">{cat}</span>
               <span className="block text-xs text-white/40 mt-1">10 Questions</span>
@@ -231,7 +249,7 @@ export default function BattleMode() {
 
         <div className="study-card p-4 w-full max-w-lg">
           <div className="flex items-center gap-3 text-xs sm:text-sm text-white/50">
-            <span>⏱️ 30s per question</span><span>•</span><span>🔥 Build combos</span><span>•</span><span>⚡ Earn XP</span>
+            <span>30s per question</span><span>*</span><span>Build combos</span><span>*</span><span>Earn XP</span>
           </div>
         </div>
       </div>
@@ -243,7 +261,7 @@ export default function BattleMode() {
     return (
       <div className="flex flex-col items-center gap-6 py-8">
         <motion.div initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: 1, scale: 1 }} className="text-center">
-          <h2 className="text-2xl sm:text-3xl font-bold gradient-text mb-2">🏆 Battle Complete!</h2>
+          <h2 className="text-2xl sm:text-3xl font-bold gradient-text mb-2">Battle Complete!</h2>
           <p className="text-white/60">Here&apos;s how you performed</p>
         </motion.div>
 
@@ -269,8 +287,8 @@ export default function BattleMode() {
         </div>
 
         <div className="flex flex-col sm:flex-row gap-3 w-full max-w-md">
-          <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }} onClick={shareScore} className="btn-primary flex-1 py-3 px-6 cursor-pointer" style={{ background: '#10b981' }}>📤 Share Score</motion.button>
-          <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.6 }} onClick={() => { resetBattle(); setBattleCategory(null); }} className="btn-primary flex-1 py-3 px-6 cursor-pointer">🔄 Play Again</motion.button>
+          <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }} onClick={shareScore} className="btn-primary flex-1 py-3 px-6 cursor-pointer" style={{ background: '#10b981' }}>Share Score</motion.button>
+          <motion.button initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.6 }} onClick={() => { resetBattle(); setBattleCategory(null); }} className="btn-primary flex-1 py-3 px-6 cursor-pointer">Play Again</motion.button>
         </div>
       </div>
     );
@@ -310,7 +328,7 @@ export default function BattleMode() {
 
       {battleCombo > 0 && (
         <motion.div key={battleCombo} initial={{ scale: 0.5, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} className="combo-bounce text-center mb-4">
-          <span className="text-2xl sm:text-3xl font-black gradient-text">🔥 x{battleCombo} COMBO!</span>
+          <span className="text-2xl sm:text-3xl font-black gradient-text">x{battleCombo} COMBO!</span>
           {battleCombo >= 5 && <span className="block text-sm text-amber-400 font-bold">UNSTOPPABLE!</span>}
         </motion.div>
       )}
@@ -341,3 +359,4 @@ function Confetti() {
     </div>
   );
 }
+

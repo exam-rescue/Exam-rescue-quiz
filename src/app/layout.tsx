@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -43,7 +44,7 @@ export const metadata: Metadata = {
     description: "The most addictive quiz app for CBSE, JEE & NEET preparation.",
   },
   icons: {
-    icon: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>",
+    icon: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#x1F525;</text></svg>",
   },
 };
 
@@ -54,6 +55,37 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
+      <head>
+        <Script
+          id="mathjax-config"
+          strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `window.MathJax = {
+              tex: {
+                inlineMath: [["\(", "\)"]],
+                displayMath: [["\[", "\]"]],
+                processEscapes: true,
+                processEnvironments: true,
+              },
+              options: {
+                skipHtmlTags: ["script", "noscript", "style", "textarea", "pre"],
+                ignoreHtmlClass: "no-mathjax",
+              },
+              startup: {
+                typeset: false,
+                pageReady: () => {
+                  return window.MathJax.startup.defaultPageReady();
+                },
+              },
+            };`,
+          }}
+        />
+        <Script
+          id="mathjax-script"
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+          strategy="afterInteractive"
+        />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background text-foreground`}
       >
